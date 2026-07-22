@@ -1,0 +1,49 @@
+statement,label
+The city of Glasgow is not in United Kingdom.,False
+The city of Belo Horizonte is not in Brazil.,False
+The city of Shanghai is not in Brazil.,True
+The city of Volos is not in China.,True
+The city of Newcastle is not in France.,True
+The city of Chicago is not in United Kingdom.,True
+The city of Philadelphia is not in Japan.,True
+The city of Sydney is not in Australia.,False
+The city of Stuttgart is not in Brazil.,True
+The city of Fortaleza is not in Brazil.,False
+The city of Delhi is not in India.,False
+The city of Shenzhen is not in China.,False
+The city of Philadelphia is not in United States.,False
+The city of Munich is not in India.,True
+The city of Canberra is not in China.,True
+The city of Hamburg is not in Germany.,False
+The city of Chania is not in Greece.,False
+The city of Sapporo is not in United Kingdom.,True
+The city of San Antonio is not in Japan.,True
+The city of Heraklion is not in Greece.,False
+The city of São Paulo is not in Brazil.,False
+The city of London is not in United Kingdom.,False
+The city of Delhi is not in Japan.,True
+The city of Düsseldorf is not in Germany.,False
+The city of Mumbai is not in Japan.,True
+The city of Düsseldorf is not in United States.,True
+The city of Kyoto is not in United States.,True
+The city of Hyderabad is not in Japan.,True
+The city of Canberra is not in Australia.,False
+The city of Beijing is not in India.,True
+The city of Shanghai is not in China.,False
+The city of Nagoya is not in Japan.,False
+The city of Paris is not in Japan.,True
+The city of Curitiba is not in Brazil.,False
+The city of Xi'an is not in Germany.,True
+The city of Manaus is not in China.,True
+The city of Melbourne is not in Greece.,True
+The city of Newcastle is not in Australia.,False
+The city of Bangalore is not in France.,True
+The city of New York is not in China.,True
+The city of Leeds is not in United Kingdom.,False
+The city of Curitiba is not in India.,True
+The city of Guangzhou is not in Greece.,True
+The city of Mumbai is not in India.,False
+The city of Tianjin is not in China.,False
+The city of Tokyo is not in Japan.,False
+The city of Manaus is not in Brazil.,False
+The city of Brisbane is not in Australia.,False

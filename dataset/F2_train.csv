@@ -1,0 +1,57 @@
+statement,label
+It is the case both that the city of Edinburgh is in Brazil and that the city of Glasgow is in United Kingdom.,False
+It is the case both that the city of Phoenix is in United States and that the city of Belo Horizonte is in Brazil.,True
+It is the case both that the city of Beijing is in China and that the city of Larissa is in Greece.,True
+It is the case both that the city of Chicago is in United States and that the city of Dortmund is in Germany.,True
+It is the case both that the city of San Diego is in United States and that the city of Adelaide is in Australia.,True
+It is the case both that the city of Chicago is in Japan and that the city of Dortmund is in Germany.,False
+It is the case both that the city of Kobe is in Japan and that the city of São Paulo is in Brazil.,True
+It is the case both that the city of Gold Coast is in Japan and that the city of Stuttgart is in Germany.,False
+It is the case both that the city of Perth is in Australia and that the city of Heraklion is in Greece.,True
+It is the case both that the city of Canberra is in Germany and that the city of Chongqing is in China.,False
+It is the case both that the city of Munich is in Germany and that the city of Rio de Janeiro is in Brazil.,True
+It is the case both that the city of Nice is in United States and that the city of Marseille is in France.,False
+It is the case both that the city of Salvador is in Germany and that the city of Liverpool is in United Kingdom.,False
+It is the case both that the city of Sydney is in Brazil and that the city of Toulouse is in France.,False
+It is the case both that the city of Nagoya is in Japan and that the city of Delhi is in India.,True
+It is the case both that the city of Tokyo is in India and that the city of Düsseldorf is in Germany.,False
+It is the case both that the city of Pune is in Japan and that the city of Wuhan is in China.,False
+It is the case both that the city of Chania is in Germany and that the city of Paris is in France.,False
+It is the case both that the city of Thessaloniki is in Brazil and that the city of Mumbai is in India.,False
+It is the case both that the city of Beijing is in Germany and that the city of Larissa is in Greece.,False
+It is the case both that the city of Hyderabad is in India and that the city of Ahmedabad is in India.,True
+It is the case both that the city of Kyoto is in India and that the city of Guangzhou is in China.,False
+It is the case both that the city of Pune is in India and that the city of Wuhan is in China.,True
+It is the case both that the city of Chania is in Greece and that the city of Paris is in France.,True
+It is the case both that the city of Manchester is in United Kingdom and that the city of Kolkata is in India.,True
+It is the case both that the city of Sydney is in Australia and that the city of Toulouse is in France.,True
+It is the case both that the city of Osaka is in Japan and that the city of Tianjin is in China.,True
+It is the case both that the city of Canberra is in Australia and that the city of Chongqing is in China.,True
+It is the case both that the city of Nagoya is in Australia and that the city of Delhi is in India.,False
+It is the case both that the city of Perth is in Brazil and that the city of Heraklion is in Greece.,False
+It is the case both that the city of Houston is in United States and that the city of Frankfurt is in Germany.,True
+It is the case both that the city of Melbourne is in Australia and that the city of Kawasaki is in Japan.,True
+It is the case both that the city of Lyon is in Brazil and that the city of Los Angeles is in United States.,False
+It is the case both that the city of Munich is in Greece and that the city of Rio de Janeiro is in Brazil.,False
+It is the case both that the city of Birmingham is in United Kingdom and that the city of Hamburg is in Germany.,True
+It is the case both that the city of Fukuoka is in Brazil and that the city of Manaus is in Brazil.,False
+It is the case both that the city of Chennai is in Japan and that the city of Ioannina is in Greece.,False
+It is the case both that the city of Phoenix is in Japan and that the city of Belo Horizonte is in Brazil.,False
+It is the case both that the city of Nice is in France and that the city of Marseille is in France.,True
+It is the case both that the city of Manchester is in Australia and that the city of Kolkata is in India.,False
+It is the case both that the city of Chennai is in India and that the city of Ioannina is in Greece.,True
+It is the case both that the city of Osaka is in France and that the city of Tianjin is in China.,False
+It is the case both that the city of Thessaloniki is in Greece and that the city of Mumbai is in India.,True
+It is the case both that the city of Sapporo is in France and that the city of Athens is in Greece.,False
+It is the case both that the city of Leeds is in China and that the city of Shanghai is in China.,False
+It is the case both that the city of Birmingham is in Germany and that the city of Hamburg is in Germany.,False
+It is the case both that the city of Berlin is in Germany and that the city of Volos is in Greece.,True
+It is the case both that the city of Leeds is in United Kingdom and that the city of Shanghai is in China.,True
+It is the case both that the city of London is in United Kingdom and that the city of Montpellier is in France.,True
+It is the case both that the city of Newcastle is in Australia and that the city of Brisbane is in Australia.,True
+It is the case both that the city of Hyderabad is in Brazil and that the city of Ahmedabad is in India.,False
+It is the case both that the city of Bristol is in United Kingdom and that the city of Fortaleza is in Brazil.,True
+It is the case both that the city of Patras is in United States and that the city of San Antonio is in United States.,False
+It is the case both that the city of Tokyo is in Japan and that the city of Düsseldorf is in Germany.,True
+It is the case both that the city of Patras is in Greece and that the city of San Antonio is in United States.,True
+It is the case both that the city of Shenzhen is in Brazil and that the city of Strasbourg is in France.,False

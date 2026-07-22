@@ -1,0 +1,601 @@
+statement,label
+"Exactly 5 of the following cities are in Japan and 2 in Australia: Perth, Gold Coast, Strasbourg, Sapporo, Tokyo, Salvador.",False
+"Exactly 4 of the following cities are in India and 2 in Australia: Volos, Brisbane, Hyderabad, Adelaide, Larissa, Chennai.",False
+"Exactly 2 of the following cities are in United States and 2 in India: Hyderabad, Phoenix, Bangalore, Philadelphia, Gold Coast, Manaus.",True
+"Exactly 1 of the following cities are in United Kingdom and 1 in Germany: Lyon, Nantes, Berlin, Bristol, Nagoya, Gold Coast.",True
+"Exactly 2 of the following cities are in Australia and 1 in Greece: Rio de Janeiro, Bangalore, Ioannina, Toulouse, Sydney, Perth.",True
+"Exactly 2 of the following cities are in Brazil and 1 in Germany: Frankfurt, São Paulo, Fortaleza, Beijing, Strasbourg, Chennai.",True
+"Exactly 4 of the following cities are in Greece and 2 in Germany: Cologne, Ioannina, Thessaloniki, Montpellier, Stuttgart, Curitiba.",False
+"Exactly 3 of the following cities are in China and 1 in United Kingdom: Xi'an, Edinburgh, Munich, Mumbai, Philadelphia, Patras.",False
+"Exactly 2 of the following cities are in Brazil and 1 in China: São Paulo, Pune, Shanghai, Salvador, Melbourne, Los Angeles.",True
+"Exactly 2 of the following cities are in France and 1 in Germany: Strasbourg, Phoenix, Dortmund, Toulouse, Ioannina, Canberra.",True
+"Exactly 4 of the following cities are in India and 2 in Australia: Hyderabad, Cologne, Canberra, Delhi, Rio de Janeiro, Newcastle.",False
+"Exactly 3 of the following cities are in Brazil and 1 in France: Salvador, Brasília, Leeds, Houston, Nantes, Fukuoka.",False
+"Exactly 1 of the following cities are in Germany and 1 in France: São Paulo, Düsseldorf, Paris, Kobe, Heraklion, Guangzhou.",True
+"Exactly 3 of the following cities are in United Kingdom and 2 in France: Leeds, Montpellier, Paris, Liverpool, Volos, Chicago.",False
+"Exactly 2 of the following cities are in India and 1 in Greece: Nice, Pune, Beijing, Hyderabad, Berlin, Heraklion.",True
+"Exactly 1 of the following cities are in United States and 2 in Japan: Dortmund, Kobe, New York, Hamburg, Newcastle, Kawasaki.",True
+"Exactly 4 of the following cities are in China and 2 in Germany: Manaus, Beijing, Frankfurt, Chongqing, Kolkata, Berlin.",False
+"Exactly 4 of the following cities are in France and 1 in India: Glasgow, Mumbai, Marseille, Munich, Salvador, Curitiba.",False
+"Exactly 1 of the following cities are in Japan and 2 in India: Bangalore, Ahmedabad, Thessaloniki, Nagoya, Houston, Birmingham.",True
+"Exactly 3 of the following cities are in India and 2 in Germany: Berlin, Kolkata, Bangalore, Hamburg, Lyon, Nagoya.",False
+"Exactly 3 of the following cities are in Japan and 1 in China: Kawasaki, Kobe, Wuhan, Athens, Nice, Munich.",False
+"Exactly 2 of the following cities are in China and 1 in Japan: San Diego, Brasília, Osaka, Chongqing, Marseille, Ioannina.",False
+"Exactly 2 of the following cities are in Japan and 2 in Germany: São Paulo, Kolkata, Dortmund, Nagoya, Munich, Sapporo.",True
+"Exactly 1 of the following cities are in United Kingdom and 1 in Greece: Athens, Marseille, Curitiba, Mumbai, Glasgow, Kawasaki.",True
+"Exactly 5 of the following cities are in Greece and 1 in India: Larissa, Frankfurt, Shanghai, Pune, Thessaloniki, Hamburg.",False
+"Exactly 2 of the following cities are in India and 2 in United Kingdom: Glasgow, Volos, Dortmund, Delhi, Birmingham, Hyderabad.",True
+"Exactly 1 of the following cities are in United Kingdom and 1 in France: Sapporo, London, Patras, Fukuoka, Marseille, Perth.",True
+"Exactly 2 of the following cities are in Greece and 2 in Germany: Heraklion, Paris, Volos, Hamburg, Cologne, Glasgow.",True
+"Exactly 5 of the following cities are in Japan and 1 in Australia: Gold Coast, Tokyo, Pune, Kobe, Chania, Chennai.",False
+"Exactly 4 of the following cities are in Greece and 1 in United Kingdom: Bristol, Houston, Volos, Guangzhou, Osaka, Patras.",False
+"Exactly 2 of the following cities are in France and 1 in India: Houston, Delhi, Marseille, Montpellier, Melbourne, Patras.",True
+"Exactly 4 of the following cities are in India and 1 in Japan: Fukuoka, Manaus, Mumbai, Xi'an, Bangalore, São Paulo.",False
+"Exactly 2 of the following cities are in France and 2 in Australia: Sydney, Brisbane, Lyon, Volos, Marseille, Heraklion.",True
+"Exactly 1 of the following cities are in United Kingdom and 2 in France: Lyon, Wuhan, Bristol, Stuttgart, Paris, Tianjin.",True
+"Exactly 1 of the following cities are in United Kingdom and 1 in Japan: Kolkata, Kyoto, Lyon, Phoenix, Liverpool, Tianjin.",True
+"Exactly 4 of the following cities are in United States and 2 in Australia: San Diego, Melbourne, Kolkata, Chicago, Gold Coast, Berlin.",False
+"Exactly 1 of the following cities are in Greece and 1 in France: Mumbai, Hamburg, Marseille, Ioannina, Brisbane, Birmingham.",True
+"Exactly 5 of the following cities are in Greece and 2 in India: Heraklion, Chania, Kolkata, Tianjin, Delhi, Marseille.",False
+"Exactly 3 of the following cities are in China and 1 in Greece: Beijing, Patras, Chennai, Bristol, Los Angeles, Berlin.",False
+"Exactly 5 of the following cities are in United Kingdom and 2 in Germany: Cologne, Melbourne, Liverpool, Sydney, Düsseldorf, Birmingham.",False
+"Exactly 1 of the following cities are in India and 2 in Japan: Los Angeles, Perth, Sapporo, Mumbai, Kyoto, Chongqing.",True
+"Exactly 3 of the following cities are in United States and 2 in France: Curitiba, San Diego, Toulouse, Kawasaki, Nice, Kyoto.",False
+"Exactly 5 of the following cities are in United States and 1 in Germany: Shenzhen, New York, Chicago, Kobe, Hamburg, Belo Horizonte.",False
+"Exactly 1 of the following cities are in India and 1 in United States: Guangzhou, Kyoto, Chicago, Kawasaki, Sapporo, Bangalore.",True
+"Exactly 2 of the following cities are in United Kingdom and 1 in Japan: Birmingham, London, Houston, Gold Coast, Delhi, Nagoya.",True
+"Exactly 5 of the following cities are in Australia and 2 in Germany: Berlin, Munich, Adelaide, Gold Coast, Bangalore, Leeds.",False
+"Exactly 2 of the following cities are in Brazil and 1 in France: Belo Horizonte, São Paulo, Sapporo, Nagoya, Leeds, Strasbourg.",True
+"Exactly 3 of the following cities are in Japan and 1 in Australia: Beijing, Nice, Kawasaki, Toulouse, Stuttgart, Adelaide.",False
+"Exactly 1 of the following cities are in India and 1 in Australia: Rio de Janeiro, Brasília, Wuhan, Kolkata, Manchester, Canberra.",True
+"Exactly 4 of the following cities are in United Kingdom and 2 in Japan: Liverpool, San Diego, Belo Horizonte, Leeds, Sapporo, Tokyo.",False
+"Exactly 2 of the following cities are in United States and 1 in India: Los Angeles, Kobe, Larissa, Adelaide, Chennai, San Diego.",True
+"Exactly 4 of the following cities are in Greece and 2 in United Kingdom: San Diego, Salvador, Manchester, Chania, Xi'an, Edinburgh.",False
+"Exactly 1 of the following cities are in France and 1 in India: Leeds, Delhi, Frankfurt, Nice, Thessaloniki, Düsseldorf.",True
+"Exactly 3 of the following cities are in Greece and 1 in Germany: Larissa, Chennai, Fortaleza, Chania, Cologne, Los Angeles.",False
+"Exactly 2 of the following cities are in Germany and 2 in United Kingdom: Kobe, Berlin, Stuttgart, Glasgow, Liverpool, Los Angeles.",True
+"Exactly 2 of the following cities are in United Kingdom and 2 in Japan: Kobe, San Diego, Paris, Glasgow, Edinburgh, Osaka.",True
+"Exactly 3 of the following cities are in Australia and 1 in United Kingdom: Hamburg, Leeds, Fukuoka, Brisbane, Newcastle, Patras.",False
+"Exactly 1 of the following cities are in Japan and 2 in Germany: Edinburgh, Berlin, Brisbane, Rio de Janeiro, Kobe, Frankfurt.",True
+"Exactly 4 of the following cities are in Australia and 1 in Brazil: Edinburgh, Pune, Salvador, Newcastle, Mumbai, Kawasaki.",False
+"Exactly 1 of the following cities are in China and 1 in United Kingdom: Perth, Beijing, Edinburgh, New York, Ahmedabad, Kobe.",True
+"Exactly 2 of the following cities are in Brazil and 1 in India: Chennai, Glasgow, São Paulo, Brisbane, Larissa, Curitiba.",True
+"Exactly 3 of the following cities are in Japan and 1 in France: Stuttgart, Osaka, Curitiba, Tokyo, Canberra, Toulouse.",False
+"Exactly 4 of the following cities are in Japan and 2 in Germany: Nagoya, Larissa, Fukuoka, Leeds, Dortmund, Frankfurt.",False
+"Exactly 2 of the following cities are in Japan and 1 in Germany: Hamburg, Ahmedabad, Nagoya, Kobe, Fortaleza, Rio de Janeiro.",True
+"Exactly 3 of the following cities are in France and 1 in Australia: Nantes, Paris, Canberra, Kobe, Volos, Fortaleza.",False
+"Exactly 3 of the following cities are in France and 1 in Greece: Phoenix, Kyoto, Heraklion, Chongqing, Lyon, Montpellier.",False
+"Exactly 1 of the following cities are in Japan and 1 in China: Pune, Frankfurt, Los Angeles, Canberra, Fukuoka, Guangzhou.",True
+"Exactly 2 of the following cities are in United States and 1 in United Kingdom: Xi'an, London, Phoenix, Sydney, São Paulo, Thessaloniki.",False
+"Exactly 2 of the following cities are in Japan and 1 in Germany: Chongqing, Nagoya, Tianjin, Beijing, Frankfurt, Sapporo.",True
+"Exactly 2 of the following cities are in United States and 1 in Australia: Shanghai, Melbourne, Düsseldorf, Shenzhen, Paris, Phoenix.",False
+"Exactly 1 of the following cities are in India and 2 in Australia: Tianjin, Perth, Bangalore, Chongqing, Beijing, Adelaide.",True
+"Exactly 1 of the following cities are in Brazil and 1 in United Kingdom: São Paulo, Cologne, Leeds, Delhi, Tianjin, Thessaloniki.",True
+"Exactly 1 of the following cities are in United States and 1 in Germany: Chicago, Dortmund, Brisbane, Manaus, Beijing, Adelaide.",True
+"Exactly 1 of the following cities are in United States and 2 in Greece: Larissa, Chania, San Diego, Guangzhou, Chennai, Paris.",True
+"Exactly 3 of the following cities are in France and 1 in United States: Paris, Nice, Fortaleza, Delhi, Phoenix, Leeds.",False
+"Exactly 3 of the following cities are in Japan and 2 in United Kingdom: Liverpool, Leeds, Fukuoka, Wuhan, San Antonio, Montpellier.",False
+"Exactly 3 of the following cities are in United Kingdom and 1 in India: Kolkata, Bristol, Athens, Phoenix, Brasília, Fortaleza.",False
+"Exactly 1 of the following cities are in Greece and 2 in India: Chicago, Bangalore, Chania, Nice, Chongqing, Mumbai.",True
+"Exactly 3 of the following cities are in Australia and 1 in Germany: Ahmedabad, Berlin, Newcastle, Adelaide, Ioannina, Heraklion.",False
+"Exactly 1 of the following cities are in Australia and 1 in Germany: Perth, Manaus, Düsseldorf, Leeds, Marseille, Mumbai.",True
+"Exactly 3 of the following cities are in Australia and 1 in Germany: São Paulo, San Antonio, Gold Coast, Newcastle, Munich, Kolkata.",False
+"Exactly 1 of the following cities are in Brazil and 2 in Australia: Delhi, Brisbane, Melbourne, Birmingham, Curitiba, Volos.",True
+"Exactly 2 of the following cities are in France and 2 in Brazil: Manaus, Fortaleza, Lyon, Chongqing, Strasbourg, Gold Coast.",True
+"Exactly 3 of the following cities are in India and 1 in Australia: Shenzhen, Kolkata, Athens, Chennai, São Paulo, Sydney.",False
+"Exactly 3 of the following cities are in United States and 2 in France: Houston, Marseille, Manaus, Paris, Beijing, Melbourne.",False
+"Exactly 2 of the following cities are in Japan and 1 in United Kingdom: Kobe, Hyderabad, Sapporo, Birmingham, Ahmedabad, Brisbane.",True
+"Exactly 1 of the following cities are in India and 1 in Japan: Toulouse, Glasgow, Cologne, Kyoto, Philadelphia, Delhi.",True
+"Exactly 3 of the following cities are in United States and 1 in Greece: Nantes, Kolkata, Marseille, Philadelphia, Larissa, Sydney.",False
+"Exactly 3 of the following cities are in China and 2 in Japan: Munich, Bristol, Beijing, Canberra, Osaka, Kyoto.",False
+"Exactly 3 of the following cities are in Greece and 2 in United Kingdom: Liverpool, Larissa, Chania, Leeds, Nagoya, Nantes.",False
+"Exactly 1 of the following cities are in United States and 2 in India: Volos, Philadelphia, Ahmedabad, Kobe, Newcastle, Bangalore.",True
+"Exactly 2 of the following cities are in United States and 2 in Brazil: Heraklion, Bangalore, Chicago, São Paulo, Rio de Janeiro, Los Angeles.",True
+"Exactly 4 of the following cities are in Germany and 1 in India: Ahmedabad, Cologne, Canberra, Montpellier, Shenzhen, Tianjin.",False
+"Exactly 2 of the following cities are in Greece and 2 in Brazil: São Paulo, Ahmedabad, Rio de Janeiro, Volos, Chongqing, Athens.",True
+"Exactly 3 of the following cities are in Brazil and 2 in United States: Leeds, Chennai, Philadelphia, Belo Horizonte, London, San Diego.",False
+"Exactly 2 of the following cities are in China and 1 in Greece: Dortmund, Newcastle, Xi'an, Phoenix, Patras, Belo Horizonte.",False
+"Exactly 1 of the following cities are in United Kingdom and 1 in United States: Glasgow, Patras, Melbourne, Lyon, Philadelphia, Nantes.",True
+"Exactly 4 of the following cities are in Japan and 1 in Brazil: Toulouse, Sydney, Sapporo, Brasília, Marseille, Stuttgart.",False
+"Exactly 3 of the following cities are in China and 1 in United States: Philadelphia, Lyon, Canberra, Cologne, Guangzhou, Melbourne.",False
+"Exactly 1 of the following cities are in Germany and 2 in Australia: Paris, Brisbane, Gold Coast, Stuttgart, Volos, Xi'an.",True
+"Exactly 2 of the following cities are in India and 2 in Australia: Stuttgart, Liverpool, Canberra, Melbourne, Bangalore, Kolkata.",True
+"Exactly 1 of the following cities are in Australia and 2 in France: Marseille, Brisbane, Kolkata, San Antonio, Montpellier, Berlin.",True
+"Exactly 1 of the following cities are in Greece and 2 in United Kingdom: San Diego, Salvador, Manchester, Chania, Xi'an, Edinburgh.",True
+"Exactly 5 of the following cities are in Brazil and 1 in India: Edinburgh, Hamburg, Chennai, Rio de Janeiro, São Paulo, Shanghai.",False
+"Exactly 5 of the following cities are in Germany and 2 in United States: London, Munich, Manchester, Los Angeles, San Diego, Frankfurt.",False
+"Exactly 1 of the following cities are in Germany and 1 in Greece: Philadelphia, Marseille, Berlin, Ioannina, Newcastle, Curitiba.",True
+"Exactly 1 of the following cities are in India and 1 in Germany: Xi'an, Pune, Philadelphia, Belo Horizonte, Düsseldorf, Leeds.",True
+"Exactly 1 of the following cities are in Germany and 1 in China: Curitiba, Cologne, Perth, Athens, Tianjin, Newcastle.",True
+"Exactly 1 of the following cities are in Germany and 1 in India: Ahmedabad, Cologne, Canberra, Montpellier, Shenzhen, Tianjin.",True
+"Exactly 2 of the following cities are in India and 2 in Japan: Manchester, Fukuoka, Fortaleza, Bangalore, Patras, Kawasaki.",False
+"Exactly 2 of the following cities are in Brazil and 1 in France: Brasília, Leeds, Lyon, San Antonio, Salvador, Thessaloniki.",True
+"Exactly 2 of the following cities are in Brazil and 2 in China: Manaus, Liverpool, Chongqing, Salvador, Shanghai, Kawasaki.",True
+"Exactly 1 of the following cities are in Australia and 2 in China: Wuhan, Kyoto, Manchester, Beijing, Sydney, Nantes.",True
+"Exactly 1 of the following cities are in Japan and 2 in France: Sapporo, Xi'an, Belo Horizonte, Paris, Nice, Heraklion.",True
+"Exactly 1 of the following cities are in United States and 2 in Germany: Dortmund, Sapporo, Thessaloniki, Chicago, Bangalore, Cologne.",True
+"Exactly 4 of the following cities are in France and 1 in China: Beijing, Toulouse, Edinburgh, Nantes, Heraklion, Houston.",False
+"Exactly 2 of the following cities are in Greece and 1 in United Kingdom: Marseille, Nice, Larissa, Chania, Mumbai, Bristol.",True
+"Exactly 4 of the following cities are in United Kingdom and 1 in Greece: Liverpool, Heraklion, London, Dortmund, Shanghai, Canberra.",False
+"Exactly 1 of the following cities are in China and 1 in Japan: Edinburgh, Mumbai, Chongqing, Philadelphia, Kyoto, Glasgow.",True
+"Exactly 2 of the following cities are in Japan and 2 in Australia: Brisbane, Kobe, Pune, Newcastle, Kyoto, London.",True
+"Exactly 3 of the following cities are in India and 1 in Japan: Osaka, Wuhan, Pune, Edinburgh, New York, Lyon.",False
+"Exactly 1 of the following cities are in France and 1 in China: Nice, Sapporo, Fukuoka, Bristol, Guangzhou, Hamburg.",True
+"Exactly 2 of the following cities are in Brazil and 1 in Australia: Brasília, Shenzhen, Adelaide, Pune, Marseille, Liverpool.",False
+"Exactly 4 of the following cities are in Germany and 1 in Japan: Kobe, Athens, Cologne, Munich, Brasília, Belo Horizonte.",False
+"Exactly 4 of the following cities are in Australia and 2 in Brazil: Xi'an, Sydney, Brasília, Marseille, Curitiba, Sapporo.",False
+"Exactly 4 of the following cities are in United Kingdom and 1 in Germany: Ioannina, Philadelphia, San Diego, Edinburgh, Cologne, Newcastle.",False
+"Exactly 2 of the following cities are in Australia and 2 in Japan: Volos, Sapporo, Ahmedabad, Newcastle, Osaka, Gold Coast.",True
+"Exactly 2 of the following cities are in France and 1 in United States: Nagoya, Düsseldorf, Montpellier, Paris, Kyoto, Los Angeles.",True
+"Exactly 5 of the following cities are in Japan and 2 in France: Marseille, Fukuoka, Ahmedabad, Tokyo, Nice, London.",False
+"Exactly 1 of the following cities are in United Kingdom and 1 in Greece: Patras, Nice, Berlin, Perth, Salvador, Liverpool.",True
+"Exactly 5 of the following cities are in Japan and 2 in Greece: Chania, Tokyo, Volos, Newcastle, Kawasaki, Marseille.",False
+"Exactly 2 of the following cities are in Japan and 2 in United Kingdom: Bristol, Philadelphia, Tokyo, Edinburgh, Delhi, Ahmedabad.",False
+"Exactly 1 of the following cities are in United States and 2 in Greece: Phoenix, Bristol, Sydney, Patras, Volos, Curitiba.",True
+"Exactly 5 of the following cities are in Germany and 2 in Brazil: Thessaloniki, Brasília, Munich, Newcastle, Stuttgart, Belo Horizonte.",False
+"Exactly 1 of the following cities are in United States and 2 in Germany: Tianjin, Chennai, Stuttgart, Tokyo, Hamburg, New York.",True
+"Exactly 5 of the following cities are in Brazil and 1 in India: Wuhan, Los Angeles, Delhi, Patras, Fortaleza, Salvador.",False
+"Exactly 5 of the following cities are in Australia and 1 in Japan: Newcastle, Brasília, Tokyo, Brisbane, Beijing, Chicago.",False
+"Exactly 1 of the following cities are in United States and 1 in Japan: São Paulo, Montpellier, Wuhan, Kyoto, New York, Düsseldorf.",True
+"Exactly 1 of the following cities are in China and 2 in Brazil: Fortaleza, Kawasaki, Shanghai, Ioannina, Melbourne, Rio de Janeiro.",True
+"Exactly 2 of the following cities are in United States and 1 in China: Sapporo, Guangzhou, Houston, Manaus, London, San Antonio.",True
+"Exactly 2 of the following cities are in Australia and 2 in China: Wuhan, Melbourne, Athens, Sydney, Birmingham, Xi'an.",True
+"Exactly 2 of the following cities are in United States and 1 in Greece: New York, Belo Horizonte, Strasbourg, Heraklion, Adelaide, Los Angeles.",True
+"Exactly 1 of the following cities are in United States and 2 in China: Bristol, Phoenix, Birmingham, Gold Coast, Shenzhen, Wuhan.",True
+"Exactly 2 of the following cities are in United Kingdom and 1 in United States: Liverpool, Curitiba, San Diego, Kawasaki, Edinburgh, Osaka.",True
+"Exactly 4 of the following cities are in India and 1 in Australia: Salvador, Heraklion, Marseille, Manchester, Pune, Brisbane.",False
+"Exactly 1 of the following cities are in United Kingdom and 2 in China: Perth, Hamburg, Leeds, Guangzhou, Tianjin, Melbourne.",True
+"Exactly 2 of the following cities are in Germany and 2 in China: Munich, Beijing, Tianjin, Melbourne, Dortmund, Chania.",True
+"Exactly 2 of the following cities are in India and 2 in France: Marseille, Heraklion, Bangalore, Chennai, Bristol, Montpellier.",True
+"Exactly 1 of the following cities are in China and 1 in United Kingdom: Xi'an, Edinburgh, Munich, Mumbai, Philadelphia, Patras.",True
+"Exactly 1 of the following cities are in Japan and 1 in Greece: Paris, Delhi, Leeds, Shenzhen, Sapporo, Volos.",True
+"Exactly 2 of the following cities are in India and 1 in United Kingdom: Ahmedabad, Kolkata, Sapporo, Fukuoka, Glasgow, Toulouse.",True
+"Exactly 1 of the following cities are in Australia and 2 in India: Perth, Kolkata, Toulouse, São Paulo, Patras, Ahmedabad.",True
+"Exactly 5 of the following cities are in India and 2 in Greece: Larissa, Bangalore, Volos, Kawasaki, Nantes, Delhi.",False
+"Exactly 2 of the following cities are in Greece and 2 in Australia: Gold Coast, Los Angeles, Belo Horizonte, Patras, Brisbane, Ioannina.",True
+"Exactly 2 of the following cities are in United States and 2 in Australia: San Diego, Melbourne, Kolkata, Chicago, Gold Coast, Berlin.",True
+"Exactly 1 of the following cities are in Japan and 2 in China: Guangzhou, Toulouse, Edinburgh, Fukuoka, Tianjin, Los Angeles.",True
+"Exactly 1 of the following cities are in China and 2 in Germany: Fukuoka, Guangzhou, Dortmund, Leeds, Cologne, Strasbourg.",True
+"Exactly 2 of the following cities are in United States and 2 in China: Shenzhen, Birmingham, Phoenix, Chongqing, Kobe, Kyoto.",False
+"Exactly 4 of the following cities are in Australia and 2 in China: Xi'an, Sydney, Pune, Fortaleza, Wuhan, Adelaide.",False
+"Exactly 3 of the following cities are in India and 1 in Greece: Nice, Pune, Beijing, Hyderabad, Berlin, Heraklion.",False
+"Exactly 3 of the following cities are in United Kingdom and 2 in India: Liverpool, Bangalore, Chennai, Thessaloniki, Newcastle, San Diego.",False
+"Exactly 2 of the following cities are in Australia and 2 in Brazil: Sydney, Ioannina, Dortmund, Canberra, Belo Horizonte, Curitiba.",True
+"Exactly 3 of the following cities are in Greece and 1 in China: Ioannina, Patras, Birmingham, São Paulo, Toulouse, Xi'an.",False
+"Exactly 2 of the following cities are in France and 2 in United States: Thessaloniki, Mumbai, Phoenix, San Diego, Marseille, Toulouse.",True
+"Exactly 3 of the following cities are in Brazil and 2 in France: Nice, Tianjin, Toulouse, Manaus, Patras, Canberra.",False
+"Exactly 4 of the following cities are in United Kingdom and 1 in India: Ahmedabad, Shanghai, Leeds, Edinburgh, Munich, Osaka.",False
+"Exactly 1 of the following cities are in United States and 1 in Japan: Kawasaki, Glasgow, Bristol, Philadelphia, Patras, Stuttgart.",True
+"Exactly 1 of the following cities are in United Kingdom and 2 in Brazil: Gold Coast, São Paulo, Volos, Heraklion, Manchester, Manaus.",True
+"Exactly 2 of the following cities are in Brazil and 1 in India: Chicago, Rio de Janeiro, Shenzhen, Wuhan, Mumbai, Curitiba.",True
+"Exactly 2 of the following cities are in France and 1 in China: Strasbourg, Kolkata, Brisbane, Shanghai, Berlin, Paris.",True
+"Exactly 5 of the following cities are in Brazil and 1 in Greece: San Diego, Salvador, Tianjin, São Paulo, Patras, Perth.",False
+"Exactly 2 of the following cities are in Japan and 1 in Australia: Gold Coast, Tokyo, Pune, Kobe, Chania, Chennai.",True
+"Exactly 1 of the following cities are in China and 2 in Germany: Stuttgart, Belo Horizonte, Shenzhen, Manaus, Thessaloniki, Frankfurt.",True
+"Exactly 2 of the following cities are in United Kingdom and 2 in Australia: Adelaide, Birmingham, Gold Coast, Curitiba, Edinburgh, Ioannina.",True
+"Exactly 1 of the following cities are in France and 1 in Japan: Curitiba, Wuhan, Berlin, Liverpool, Lyon, Tokyo.",True
+"Exactly 2 of the following cities are in Australia and 1 in United States: Houston, Brisbane, Birmingham, Sydney, Munich, Düsseldorf.",True
+"Exactly 2 of the following cities are in Germany and 1 in Greece: San Diego, Patras, Hyderabad, Hamburg, Dortmund, Gold Coast.",True
+"Exactly 2 of the following cities are in Germany and 1 in Brazil: Salvador, Hamburg, Mumbai, Houston, Edinburgh, Manchester.",False
+"Exactly 2 of the following cities are in United States and 2 in Greece: Thessaloniki, Glasgow, Liverpool, Los Angeles, Chongqing, Patras.",False
+"Exactly 5 of the following cities are in Australia and 1 in United Kingdom: Düsseldorf, Leeds, Philadelphia, New York, Brisbane, Sydney.",False
+"Exactly 1 of the following cities are in Japan and 1 in Germany: Brisbane, Wuhan, Fukuoka, Athens, Delhi, Stuttgart.",True
+"Exactly 4 of the following cities are in India and 2 in Germany: Chennai, Berlin, Brasília, Nice, Frankfurt, Patras.",False
+"Exactly 4 of the following cities are in China and 1 in India: Bristol, Wuhan, Pune, Tianjin, Frankfurt, Salvador.",False
+"Exactly 4 of the following cities are in France and 2 in Australia: Toulouse, Newcastle, Kolkata, Perth, Lyon, Salvador.",False
+"Exactly 3 of the following cities are in France and 2 in United States: Sydney, Los Angeles, Chicago, London, Hamburg, Paris.",False
+"Exactly 2 of the following cities are in Germany and 2 in United States: London, Munich, Manchester, Los Angeles, San Diego, Frankfurt.",True
+"Exactly 2 of the following cities are in Japan and 2 in India: Bangalore, Ahmedabad, Thessaloniki, Nagoya, Houston, Birmingham.",False
+"Exactly 2 of the following cities are in Japan and 1 in United Kingdom: Munich, London, Hyderabad, Kawasaki, Sapporo, Phoenix.",True
+"Exactly 4 of the following cities are in Germany and 1 in Greece: Leeds, Shenzhen, Cologne, Hyderabad, Kobe, Athens.",False
+"Exactly 3 of the following cities are in Brazil and 2 in Japan: Canberra, Kyoto, Glasgow, Fukuoka, São Paulo, Rio de Janeiro.",False
+"Exactly 5 of the following cities are in France and 2 in Japan: Tokyo, Nice, Chennai, Paris, Kobe, Belo Horizonte.",False
+"Exactly 1 of the following cities are in Japan and 2 in France: Canberra, Manchester, Montpellier, Marseille, Kobe, Guangzhou.",True
+"Exactly 2 of the following cities are in Brazil and 1 in Germany: Stuttgart, Montpellier, Sapporo, Brasília, Chongqing, Leeds.",False
+"Exactly 2 of the following cities are in Germany and 2 in United States: Athens, Stuttgart, Phoenix, Los Angeles, Cologne, Nagoya.",True
+"Exactly 1 of the following cities are in United States and 2 in Brazil: Birmingham, Salvador, Liverpool, Shanghai, Manaus, Los Angeles.",True
+"Exactly 2 of the following cities are in United States and 1 in Brazil: Dortmund, Tianjin, Chicago, Marseille, Curitiba, San Diego.",True
+"Exactly 3 of the following cities are in India and 2 in United Kingdom: Volos, Birmingham, Bangalore, Fukuoka, Glasgow, Salvador.",False
+"Exactly 2 of the following cities are in Brazil and 2 in Greece: Athens, Curitiba, Ioannina, Manaus, Cologne, Phoenix.",True
+"Exactly 1 of the following cities are in Germany and 1 in Australia: Perth, Hamburg, Montpellier, Rio de Janeiro, Kawasaki, Fortaleza.",True
+"Exactly 1 of the following cities are in France and 1 in Brazil: Birmingham, Larissa, Edinburgh, Manchester, Montpellier, Rio de Janeiro.",True
+"Exactly 3 of the following cities are in United Kingdom and 2 in Greece: Birmingham, Xi'an, Chania, Pune, Shanghai, Athens.",False
+"Exactly 1 of the following cities are in Germany and 1 in United States: New York, Glasgow, Pune, Cologne, Perth, London.",True
+"Exactly 1 of the following cities are in France and 1 in Brazil: Nice, Brisbane, Xi'an, Belo Horizonte, Chicago, Los Angeles.",True
+"Exactly 3 of the following cities are in United Kingdom and 2 in Germany: Bangalore, Frankfurt, Manchester, Fortaleza, Stuttgart, Guangzhou.",False
+"Exactly 2 of the following cities are in Australia and 1 in China: Sydney, Nantes, Xi'an, Munich, Patras, Dortmund.",False
+"Exactly 4 of the following cities are in Germany and 1 in Greece: Curitiba, Chania, Fukuoka, Düsseldorf, Belo Horizonte, Marseille.",False
+"Exactly 1 of the following cities are in China and 1 in France: Cologne, Shanghai, Kawasaki, Marseille, Los Angeles, Kobe.",True
+"Exactly 2 of the following cities are in China and 1 in Brazil: Xi'an, Berlin, Houston, Pune, Brasília, Shanghai.",True
+"Exactly 2 of the following cities are in China and 2 in Japan: Volos, Nagoya, Wuhan, Ioannina, Chongqing, Osaka.",True
+"Exactly 4 of the following cities are in Japan and 2 in Brazil: Sapporo, Dortmund, Kyoto, São Paulo, Liverpool, Rio de Janeiro.",False
+"Exactly 1 of the following cities are in Germany and 1 in India: Canberra, Frankfurt, Strasbourg, Fortaleza, Curitiba, Chennai.",True
+"Exactly 5 of the following cities are in Australia and 2 in Brazil: Curitiba, Adelaide, Hyderabad, Melbourne, Kawasaki, Salvador.",False
+"Exactly 2 of the following cities are in United States and 1 in China: San Antonio, Shanghai, Delhi, Toulouse, New York, Heraklion.",True
+"Exactly 3 of the following cities are in United Kingdom and 1 in Japan: Curitiba, Patras, Osaka, Marseille, Delhi, Birmingham.",False
+"Exactly 1 of the following cities are in Japan and 1 in India: Chicago, Perth, Kobe, Canberra, Xi'an, Kolkata.",True
+"Exactly 1 of the following cities are in Germany and 1 in Australia: Berlin, Gold Coast, Patras, Osaka, Salvador, Hyderabad.",True
+"Exactly 2 of the following cities are in India and 1 in China: Perth, Canberra, Chongqing, Ioannina, Kobe, Ahmedabad.",False
+"Exactly 1 of the following cities are in Greece and 1 in India: Belo Horizonte, Hyderabad, Canberra, Chania, Leeds, Brisbane.",True
+"Exactly 4 of the following cities are in Australia and 2 in Brazil: Edinburgh, Ioannina, Adelaide, Salvador, Phoenix, Rio de Janeiro.",False
+"Exactly 5 of the following cities are in Brazil and 1 in Australia: Curitiba, Liverpool, Marseille, Canberra, Nice, Manaus.",False
+"Exactly 1 of the following cities are in United Kingdom and 1 in Germany: Edinburgh, Lyon, Chongqing, Heraklion, Frankfurt, Ahmedabad.",True
+"Exactly 4 of the following cities are in China and 1 in Greece: Manaus, Delhi, Chania, Melbourne, Guangzhou, Chongqing.",False
+"Exactly 1 of the following cities are in United States and 2 in Brazil: Stuttgart, Manaus, Houston, Brasília, Nantes, Larissa.",True
+"Exactly 3 of the following cities are in Greece and 2 in Brazil: São Paulo, Ahmedabad, Rio de Janeiro, Volos, Chongqing, Athens.",False
+"Exactly 1 of the following cities are in Japan and 1 in Australia: Beijing, Nice, Kawasaki, Toulouse, Stuttgart, Adelaide.",True
+"Exactly 5 of the following cities are in Germany and 2 in India: Bangalore, Newcastle, Shanghai, Pune, Cologne, Stuttgart.",False
+"Exactly 2 of the following cities are in Germany and 1 in Greece: Nice, Chania, Cologne, Philadelphia, Dortmund, Guangzhou.",True
+"Exactly 4 of the following cities are in China and 1 in Japan: Patras, São Paulo, Beijing, Bristol, Sapporo, Wuhan.",False
+"Exactly 1 of the following cities are in France and 1 in Germany: Newcastle, Chania, Glasgow, Montpellier, Munich, Mumbai.",True
+"Exactly 5 of the following cities are in India and 2 in Brazil: Hamburg, Osaka, Pune, Brasília, Mumbai, Belo Horizonte.",False
+"Exactly 2 of the following cities are in China and 1 in Germany: Fortaleza, Birmingham, Chongqing, Xi'an, Leeds, Düsseldorf.",True
+"Exactly 1 of the following cities are in Greece and 1 in United States: Bangalore, Patras, San Antonio, Marseille, Dortmund, Kawasaki.",True
+"Exactly 1 of the following cities are in Greece and 2 in India: Ioannina, Pune, New York, Glasgow, Ahmedabad, Birmingham.",True
+"Exactly 2 of the following cities are in Greece and 1 in Germany: Larissa, Chennai, Fortaleza, Chania, Cologne, Los Angeles.",True
+"Exactly 1 of the following cities are in France and 1 in United States: Volos, Nantes, Leeds, Los Angeles, Beijing, Liverpool.",True
+"Exactly 2 of the following cities are in Japan and 2 in Brazil: Fukuoka, San Diego, Nagoya, Brasília, Rio de Janeiro, Wuhan.",True
+"Exactly 4 of the following cities are in Greece and 1 in Brazil: São Paulo, Melbourne, Larissa, San Diego, Athens, Munich.",False
+"Exactly 2 of the following cities are in France and 2 in India: Ahmedabad, Philadelphia, Toulouse, Thessaloniki, Belo Horizonte, Hyderabad.",False
+"Exactly 2 of the following cities are in Germany and 1 in France: Larissa, Beijing, Dortmund, Lyon, Mumbai, Ioannina.",False
+"Exactly 3 of the following cities are in India and 2 in Japan: Cologne, Perth, Fukuoka, Pune, Beijing, Kyoto.",False
+"Exactly 3 of the following cities are in United Kingdom and 2 in France: Leeds, Osaka, Ahmedabad, Strasbourg, Cologne, Lyon.",False
+"Exactly 4 of the following cities are in Germany and 2 in United States: San Antonio, Nantes, Stuttgart, San Diego, Manaus, Hamburg.",False
+"Exactly 1 of the following cities are in Germany and 2 in Brazil: Kolkata, Beijing, Frankfurt, Curitiba, Heraklion, Rio de Janeiro.",True
+"Exactly 3 of the following cities are in United States and 2 in Japan: Belo Horizonte, Fukuoka, San Antonio, Houston, Kyoto, Manaus.",False
+"Exactly 1 of the following cities are in France and 1 in United States: Curitiba, Dortmund, Glasgow, San Diego, Strasbourg, Kyoto.",True
+"Exactly 1 of the following cities are in Germany and 1 in India: Melbourne, Leeds, Bangalore, Lyon, Sydney, Dortmund.",True
+"Exactly 2 of the following cities are in Germany and 2 in United States: Adelaide, Stuttgart, San Diego, Kyoto, Belo Horizonte, Houston.",False
+"Exactly 4 of the following cities are in China and 2 in Australia: Melbourne, Bristol, Guangzhou, Sapporo, Canberra, Rio de Janeiro.",False
+"Exactly 3 of the following cities are in United Kingdom and 1 in Japan: Bristol, Berlin, Manaus, Hamburg, Kobe, Birmingham.",False
+"Exactly 5 of the following cities are in India and 2 in Australia: Newcastle, Canberra, Belo Horizonte, Bangalore, Hyderabad, Volos.",False
+"Exactly 5 of the following cities are in United States and 2 in Brazil: Chennai, Houston, Xi'an, Manaus, San Antonio, Fortaleza.",False
+"Exactly 1 of the following cities are in Australia and 1 in Japan: Kobe, Nantes, Phoenix, Melbourne, Brasília, San Antonio.",True
+"Exactly 2 of the following cities are in Brazil and 1 in Greece: Toulouse, Fortaleza, Houston, Manaus, Larissa, Phoenix.",True
+"Exactly 3 of the following cities are in Japan and 1 in Brazil: Tokyo, Liverpool, Belo Horizonte, Los Angeles, Kawasaki, Kolkata.",False
+"Exactly 2 of the following cities are in Japan and 2 in Brazil: Rio de Janeiro, Belo Horizonte, Pune, Larissa, Kyoto, Sapporo.",True
+"Exactly 5 of the following cities are in United Kingdom and 2 in Germany: Phoenix, Düsseldorf, Glasgow, Berlin, Wuhan, Birmingham.",False
+"Exactly 2 of the following cities are in France and 2 in Australia: Munich, Tianjin, Heraklion, Paris, Sydney, Adelaide.",False
+"Exactly 2 of the following cities are in India and 1 in Germany: San Diego, Glasgow, Chicago, Lyon, Frankfurt, Pune.",False
+"Exactly 4 of the following cities are in Greece and 2 in United Kingdom: Chania, Nantes, Toulouse, London, Edinburgh, Nagoya.",False
+"Exactly 2 of the following cities are in Japan and 2 in India: Tokyo, Kolkata, Lyon, Nagoya, Manchester, Pune.",True
+"Exactly 3 of the following cities are in United Kingdom and 1 in France: Patras, Edinburgh, Rio de Janeiro, Marseille, Gold Coast, Birmingham.",False
+"Exactly 1 of the following cities are in Greece and 2 in United Kingdom: Chongqing, Chania, Manchester, Düsseldorf, Liverpool, Canberra.",True
+"Exactly 1 of the following cities are in Greece and 1 in United Kingdom: Manaus, Paris, Glasgow, Frankfurt, Osaka, Larissa.",True
+"Exactly 2 of the following cities are in Germany and 1 in India: Ahmedabad, Brisbane, Hamburg, Edinburgh, Frankfurt, Strasbourg.",True
+"Exactly 1 of the following cities are in United Kingdom and 1 in Greece: Nantes, Patras, Fukuoka, Birmingham, Melbourne, Stuttgart.",True
+"Exactly 3 of the following cities are in Germany and 2 in United States: Athens, Stuttgart, Phoenix, Los Angeles, Cologne, Nagoya.",False
+"Exactly 3 of the following cities are in Australia and 1 in Greece: Rio de Janeiro, Bangalore, Ioannina, Toulouse, Sydney, Perth.",False
+"Exactly 3 of the following cities are in France and 1 in United States: Los Angeles, Marseille, Salvador, Leeds, Munich, Tokyo.",False
+"Exactly 2 of the following cities are in Germany and 2 in Japan: Dortmund, Cologne, Sapporo, Ahmedabad, Strasbourg, Kobe.",True
+"Exactly 2 of the following cities are in India and 2 in Germany: Berlin, Kolkata, Bangalore, Hamburg, Lyon, Nagoya.",True
+"Exactly 3 of the following cities are in United States and 1 in Australia: Perth, Guangzhou, Lyon, Los Angeles, Fortaleza, Birmingham.",False
+"Exactly 5 of the following cities are in United States and 1 in United Kingdom: Manchester, Philadelphia, Fortaleza, San Diego, Kobe, Cologne.",False
+"Exactly 2 of the following cities are in Australia and 1 in Japan: Heraklion, Kawasaki, Sydney, Kolkata, Perth, Manchester.",True
+"Exactly 2 of the following cities are in Australia and 1 in Greece: Frankfurt, Fortaleza, Thessaloniki, Sydney, Fukuoka, Brisbane.",True
+"Exactly 2 of the following cities are in United Kingdom and 1 in Australia: Patras, Los Angeles, Sydney, Marseille, Birmingham, Nice.",False
+"Exactly 2 of the following cities are in Japan and 2 in Australia: Perth, Gold Coast, Strasbourg, Sapporo, Tokyo, Salvador.",True
+"Exactly 3 of the following cities are in Greece and 1 in Japan: Montpellier, Hamburg, Newcastle, Sapporo, Paris, Volos.",False
+"Exactly 2 of the following cities are in Greece and 1 in United Kingdom: Bristol, Houston, Volos, Guangzhou, Osaka, Patras.",True
+"Exactly 1 of the following cities are in United States and 2 in Australia: Kyoto, New York, Sydney, Brisbane, Hamburg, Nantes.",True
+"Exactly 2 of the following cities are in India and 2 in Australia: Hyderabad, Cologne, Canberra, Delhi, Rio de Janeiro, Newcastle.",True
+"Exactly 2 of the following cities are in Greece and 2 in United Kingdom: Liverpool, Larissa, Chania, Leeds, Nagoya, Nantes.",True
+"Exactly 5 of the following cities are in United States and 2 in China: Brisbane, Shanghai, Chongqing, Ioannina, Houston, New York.",False
+"Exactly 3 of the following cities are in India and 1 in Germany: Edinburgh, Wuhan, Hamburg, Newcastle, Ahmedabad, Bangalore.",False
+"Exactly 2 of the following cities are in United Kingdom and 1 in Japan: Manchester, Sydney, Mumbai, Edinburgh, Kobe, Salvador.",True
+"Exactly 2 of the following cities are in Greece and 1 in Brazil: Athens, Paris, Manaus, Patras, Shanghai, Los Angeles.",True
+"Exactly 3 of the following cities are in Germany and 2 in India: Hamburg, Ahmedabad, Montpellier, Beijing, Delhi, Berlin.",False
+"Exactly 2 of the following cities are in Japan and 2 in Germany: Kawasaki, Hamburg, Perth, Tokyo, Cologne, Lyon.",True
+"Exactly 3 of the following cities are in India and 1 in Japan: Kolkata, Perth, Pune, Ioannina, Cologne, Kyoto.",False
+"Exactly 4 of the following cities are in Brazil and 1 in India: Chennai, Glasgow, São Paulo, Brisbane, Larissa, Curitiba.",False
+"Exactly 1 of the following cities are in France and 1 in India: Newcastle, São Paulo, Frankfurt, Lyon, Shanghai, Delhi.",True
+"Exactly 3 of the following cities are in Australia and 2 in United States: Perth, Larissa, Chicago, San Antonio, Fortaleza, Ioannina.",False
+"Exactly 2 of the following cities are in China and 1 in Brazil: Nantes, Osaka, Stuttgart, São Paulo, Shenzhen, Thessaloniki.",False
+"Exactly 1 of the following cities are in United Kingdom and 1 in Germany: Chongqing, Edinburgh, Chicago, Cologne, Beijing, Bangalore.",True
+"Exactly 1 of the following cities are in Greece and 1 in France: Fortaleza, Gold Coast, Chania, Lyon, Birmingham, Nagoya.",True
+"Exactly 2 of the following cities are in China and 1 in United States: Curitiba, Phoenix, Rio de Janeiro, Birmingham, Bangalore, Beijing.",False
+"Exactly 1 of the following cities are in France and 1 in India: Athens, Wuhan, Delhi, Salvador, Newcastle, Toulouse.",True
+"Exactly 4 of the following cities are in United States and 2 in Brazil: Munich, Philadelphia, Salvador, Ahmedabad, Brasília, Berlin.",False
+"Exactly 3 of the following cities are in United States and 1 in Germany: Berlin, Melbourne, Sydney, San Antonio, Houston, Chongqing.",False
+"Exactly 1 of the following cities are in Japan and 2 in United Kingdom: Birmingham, Stuttgart, Toulouse, Shenzhen, Kobe, Edinburgh.",True
+"Exactly 2 of the following cities are in China and 1 in Australia: New York, Perth, Belo Horizonte, Stuttgart, Tianjin, Chongqing.",True
+"Exactly 2 of the following cities are in Japan and 2 in Brazil: Brasília, Nantes, Belo Horizonte, Wuhan, Houston, Kawasaki.",False
+"Exactly 3 of the following cities are in Australia and 2 in Brazil: Kolkata, Rio de Janeiro, Sydney, Salvador, Frankfurt, Los Angeles.",False
+"Exactly 2 of the following cities are in Greece and 2 in France: Lyon, Athens, Leeds, Chania, Nantes, Curitiba.",True
+"Exactly 1 of the following cities are in Brazil and 2 in Greece: Manchester, Guangzhou, Patras, Salvador, Heraklion, New York.",True
+"Exactly 1 of the following cities are in India and 2 in United Kingdom: Pune, Edinburgh, Philadelphia, Perth, Manchester, Sydney.",True
+"Exactly 3 of the following cities are in Greece and 1 in Germany: Larissa, Stuttgart, Ahmedabad, Adelaide, Ioannina, Liverpool.",False
+"Exactly 2 of the following cities are in Australia and 2 in China: Belo Horizonte, Perth, Manaus, Chongqing, Brisbane, Wuhan.",True
+"Exactly 2 of the following cities are in France and 2 in India: Marseille, Kolkata, San Diego, Bangalore, São Paulo, Nice.",True
+"Exactly 3 of the following cities are in Japan and 2 in United States: Chongqing, Los Angeles, Curitiba, Kobe, Berlin, Houston.",False
+"Exactly 4 of the following cities are in United States and 2 in Greece: Phoenix, Bristol, Sydney, Patras, Volos, Curitiba.",False
+"Exactly 4 of the following cities are in Australia and 2 in India: Perth, Kolkata, Toulouse, São Paulo, Patras, Ahmedabad.",False
+"Exactly 2 of the following cities are in Brazil and 2 in United States: San Antonio, Stuttgart, Belo Horizonte, Rio de Janeiro, Philadelphia, Volos.",True
+"Exactly 2 of the following cities are in United Kingdom and 2 in China: Kolkata, Glasgow, Leeds, Kyoto, Chongqing, Beijing.",True
+"Exactly 1 of the following cities are in Brazil and 2 in France: Osaka, São Paulo, Strasbourg, Paris, Delhi, Chania.",True
+"Exactly 2 of the following cities are in China and 2 in Greece: Chania, Perth, Tokyo, Thessaloniki, Xi'an, Shenzhen.",True
+"Exactly 2 of the following cities are in Greece and 2 in Germany: São Paulo, Chennai, Cologne, Berlin, Delhi, Larissa.",False
+"Exactly 3 of the following cities are in India and 1 in Germany: Hamburg, Bangalore, Pune, Fortaleza, Chicago, Osaka.",False
+"Exactly 4 of the following cities are in Brazil and 1 in Japan: San Diego, Shanghai, Sydney, Manaus, Kawasaki, Tianjin.",False
+"Exactly 3 of the following cities are in United States and 2 in France: Marseille, Mumbai, New York, Manaus, Toulouse, Kolkata.",False
+"Exactly 3 of the following cities are in Australia and 1 in Greece: Chania, Adelaide, Berlin, Kobe, São Paulo, Kyoto.",False
+"Exactly 3 of the following cities are in China and 2 in United Kingdom: Glasgow, Tokyo, Bristol, Kyoto, Tianjin, Chicago.",False
+"Exactly 1 of the following cities are in France and 1 in India: Adelaide, Patras, Chennai, Marseille, Shenzhen, Glasgow.",True
+"Exactly 2 of the following cities are in Australia and 1 in Germany: Beijing, Perth, Xi'an, Frankfurt, Thessaloniki, Melbourne.",True
+"Exactly 1 of the following cities are in United Kingdom and 2 in Brazil: Shanghai, Rio de Janeiro, Houston, Frankfurt, Leeds, Manaus.",True
+"Exactly 2 of the following cities are in United Kingdom and 2 in United States: Fukuoka, Stuttgart, Houston, Birmingham, Leeds, San Antonio.",True
+"Exactly 2 of the following cities are in Brazil and 2 in Germany: Kyoto, Manaus, Wuhan, Philadelphia, Munich, Cologne.",False
+"Exactly 3 of the following cities are in France and 1 in Japan: Paris, Xi'an, Nice, Tokyo, Manchester, Bangalore.",False
+"Exactly 1 of the following cities are in Brazil and 2 in Germany: Munich, Fortaleza, Berlin, Chongqing, Chania, Lyon.",True
+"Exactly 1 of the following cities are in United Kingdom and 1 in Brazil: Delhi, Heraklion, Liverpool, Rio de Janeiro, Stuttgart, Patras.",True
+"Exactly 2 of the following cities are in United Kingdom and 1 in United States: Glasgow, Frankfurt, Xi'an, Bristol, Los Angeles, Pune.",True
+"Exactly 4 of the following cities are in Japan and 1 in China: Tokyo, Heraklion, Munich, Athens, Xi'an, Paris.",False
+"Exactly 2 of the following cities are in United States and 1 in China: Chennai, Xi'an, Houston, Brisbane, Bangalore, Philadelphia.",True
+"Exactly 2 of the following cities are in Germany and 2 in Australia: Osaka, Hyderabad, Hamburg, Newcastle, Edinburgh, Perth.",False
+"Exactly 4 of the following cities are in Brazil and 2 in Australia: Pune, Manaus, Sydney, Perth, Kolkata, Nagoya.",False
+"Exactly 4 of the following cities are in China and 1 in Brazil: Thessaloniki, Tianjin, Manaus, Sydney, Lyon, Philadelphia.",False
+"Exactly 2 of the following cities are in China and 2 in France: Nantes, Strasbourg, Wuhan, Tianjin, New York, San Diego.",True
+"Exactly 3 of the following cities are in Brazil and 1 in Australia: Kobe, San Antonio, Salvador, Tokyo, Fortaleza, Melbourne.",False
+"Exactly 2 of the following cities are in Germany and 1 in Australia: Belo Horizonte, Dortmund, Heraklion, Stuttgart, Brisbane, Edinburgh.",True
+"Exactly 5 of the following cities are in Greece and 1 in United States: Fortaleza, Houston, Fukuoka, Chania, Heraklion, Tianjin.",False
+"Exactly 2 of the following cities are in India and 2 in China: Shenzhen, Bangalore, Beijing, Kyoto, Bristol, Chennai.",True
+"Exactly 1 of the following cities are in France and 1 in Australia: Düsseldorf, New York, Chennai, Adelaide, Mumbai, Paris.",True
+"Exactly 3 of the following cities are in India and 2 in United States: San Antonio, Ahmedabad, Philadelphia, Delhi, Wuhan, Berlin.",False
+"Exactly 4 of the following cities are in China and 2 in Greece: Kolkata, Ioannina, Curitiba, Guangzhou, Volos, Manaus.",False
+"Exactly 5 of the following cities are in Australia and 1 in India: Leeds, Cologne, Mumbai, Birmingham, Brisbane, Canberra.",False
+"Exactly 1 of the following cities are in Australia and 2 in Greece: Kawasaki, Houston, Patras, Nantes, Athens, Canberra.",True
+"Exactly 4 of the following cities are in Japan and 2 in India: Tokyo, Kolkata, Lyon, Nagoya, Manchester, Pune.",False
+"Exactly 4 of the following cities are in India and 2 in United Kingdom: Pune, Edinburgh, Philadelphia, Perth, Manchester, Sydney.",False
+"Exactly 2 of the following cities are in China and 2 in India: Gold Coast, Shanghai, San Diego, Pune, Leeds, Bangalore.",False
+"Exactly 1 of the following cities are in Greece and 2 in United States: New York, Kyoto, San Diego, Newcastle, Thessaloniki, Lyon.",True
+"Exactly 5 of the following cities are in Brazil and 1 in France: Brasília, Leeds, Lyon, San Antonio, Salvador, Thessaloniki.",False
+"Exactly 5 of the following cities are in India and 2 in United States: Hyderabad, New York, Ahmedabad, Chania, Shanghai, Los Angeles.",False
+"Exactly 1 of the following cities are in Australia and 2 in Greece: Thessaloniki, Canberra, Larissa, Fortaleza, San Diego, Cologne.",True
+"Exactly 4 of the following cities are in Germany and 1 in India: Chania, Leeds, Frankfurt, Stuttgart, Patras, Mumbai.",False
+"Exactly 3 of the following cities are in Brazil and 2 in Australia: Delhi, Brisbane, Melbourne, Birmingham, Curitiba, Volos.",False
+"Exactly 2 of the following cities are in United Kingdom and 2 in United States: Rio de Janeiro, Los Angeles, Liverpool, Beijing, Glasgow, Chicago.",True
+"Exactly 5 of the following cities are in India and 1 in Germany: Salvador, Kolkata, Sydney, Hyderabad, Ioannina, Munich.",False
+"Exactly 1 of the following cities are in Australia and 1 in Greece: Chania, Adelaide, Berlin, Kobe, São Paulo, Kyoto.",True
+"Exactly 4 of the following cities are in Brazil and 2 in United Kingdom: Canberra, Edinburgh, Salvador, Manaus, Glasgow, Volos.",False
+"Exactly 3 of the following cities are in Brazil and 1 in Australia: Kawasaki, Birmingham, Brisbane, Curitiba, Düsseldorf, Patras.",False
+"Exactly 1 of the following cities are in Brazil and 1 in Germany: Stuttgart, Montpellier, Sapporo, Brasília, Chongqing, Leeds.",True
+"Exactly 2 of the following cities are in France and 2 in Greece: Nantes, Ioannina, Lyon, Shenzhen, Kolkata, Heraklion.",True
+"Exactly 2 of the following cities are in Brazil and 2 in Australia: Montpellier, Brisbane, Curitiba, Chicago, Manaus, Adelaide.",True
+"Exactly 3 of the following cities are in Australia and 2 in Greece: Thessaloniki, Canberra, Larissa, Fortaleza, San Diego, Cologne.",False
+"Exactly 2 of the following cities are in Greece and 2 in China: Toulouse, Tianjin, Patras, Beijing, Thessaloniki, Sapporo.",True
+"Exactly 2 of the following cities are in United States and 2 in Greece: London, Patras, San Antonio, Manchester, Pune, Thessaloniki.",False
+"Exactly 4 of the following cities are in United States and 1 in Australia: Birmingham, Thessaloniki, Mumbai, Curitiba, Houston, Melbourne.",False
+"Exactly 1 of the following cities are in Brazil and 1 in United Kingdom: Sapporo, Larissa, Liverpool, Philadelphia, Fukuoka, Brasília.",True
+"Exactly 4 of the following cities are in Greece and 1 in India: Belo Horizonte, Hyderabad, Canberra, Chania, Leeds, Brisbane.",False
+"Exactly 2 of the following cities are in India and 1 in Germany: Hamburg, Bangalore, Pune, Fortaleza, Chicago, Osaka.",True
+"Exactly 1 of the following cities are in United Kingdom and 1 in India: Glasgow, Canberra, Ahmedabad, Strasbourg, Paris, Salvador.",True
+"Exactly 1 of the following cities are in Brazil and 1 in Japan: Toulouse, Bristol, Brasília, Canberra, Ioannina, Nagoya.",True
+"Exactly 3 of the following cities are in Australia and 2 in United States: Canberra, San Diego, Melbourne, San Antonio, Kyoto, Lyon.",False
+"Exactly 5 of the following cities are in Australia and 2 in United Kingdom: Salvador, London, Canberra, Heraklion, Edinburgh, Newcastle.",False
+"Exactly 2 of the following cities are in India and 1 in Germany: Bangalore, Toulouse, Tianjin, Mumbai, Munich, Phoenix.",True
+"Exactly 1 of the following cities are in Japan and 1 in India: Lyon, Sapporo, Edinburgh, Delhi, Adelaide, Chongqing.",True
+"Exactly 2 of the following cities are in India and 2 in Greece: Chania, Nice, Chennai, Heraklion, Belo Horizonte, Hyderabad.",True
+"Exactly 5 of the following cities are in France and 1 in Greece: Bangalore, Montpellier, Kyoto, Volos, Gold Coast, Nantes.",False
+"Exactly 1 of the following cities are in Japan and 2 in United Kingdom: Brasília, Liverpool, Düsseldorf, Ioannina, Bristol, Kobe.",True
+"Exactly 2 of the following cities are in Australia and 2 in India: Brisbane, Salvador, Chennai, Nantes, Heraklion, Pune.",False
+"Exactly 5 of the following cities are in Australia and 2 in Germany: Berlin, Munich, Nantes, Adelaide, Sydney, Salvador.",False
+"Exactly 3 of the following cities are in Japan and 2 in United Kingdom: Brasília, Liverpool, Düsseldorf, Ioannina, Bristol, Kobe.",False
+"Exactly 1 of the following cities are in United States and 1 in United Kingdom: Xi'an, London, Phoenix, Sydney, São Paulo, Thessaloniki.",True
+"Exactly 1 of the following cities are in China and 1 in United Kingdom: Chongqing, Manchester, Bangalore, Phoenix, Fortaleza, Munich.",True
+"Exactly 3 of the following cities are in India and 2 in Japan: Perth, Ahmedabad, Adelaide, Tokyo, Shanghai, Kyoto.",False
+"Exactly 3 of the following cities are in France and 2 in Australia: Fukuoka, Canberra, Melbourne, Bangalore, Toulouse, Houston.",False
+"Exactly 3 of the following cities are in India and 2 in Brazil: Rio de Janeiro, Lyon, Fortaleza, Mumbai, Hamburg, Beijing.",False
+"Exactly 3 of the following cities are in Greece and 2 in United Kingdom: Chongqing, Chania, Manchester, Düsseldorf, Liverpool, Canberra.",False
+"Exactly 2 of the following cities are in Japan and 2 in Greece: Chania, Tokyo, Volos, Newcastle, Kawasaki, Marseille.",True
+"Exactly 2 of the following cities are in Japan and 2 in Australia: Brisbane, Phoenix, Chennai, Canberra, Kawasaki, Leeds.",False
+"Exactly 2 of the following cities are in Japan and 2 in Germany: Glasgow, Sapporo, Hamburg, Nice, Berlin, Rio de Janeiro.",False
+"Exactly 3 of the following cities are in United States and 2 in Brazil: Düsseldorf, Shanghai, Fukuoka, Houston, Fortaleza, Salvador.",False
+"Exactly 3 of the following cities are in Greece and 2 in China: Xi'an, Fukuoka, Wuhan, Patras, Thessaloniki, Curitiba.",False
+"Exactly 5 of the following cities are in Japan and 2 in Brazil: Larissa, Fukuoka, Brasília, Kyoto, Fortaleza, Adelaide.",False
+"Exactly 5 of the following cities are in India and 1 in China: Shanghai, Adelaide, Mumbai, Los Angeles, Frankfurt, Delhi.",False
+"Exactly 2 of the following cities are in Greece and 1 in India: Larissa, Frankfurt, Shanghai, Pune, Thessaloniki, Hamburg.",True
+"Exactly 4 of the following cities are in United States and 2 in United Kingdom: Birmingham, Rio de Janeiro, Chicago, Hyderabad, Edinburgh, Los Angeles.",False
+"Exactly 3 of the following cities are in Greece and 2 in China: Toulouse, Tianjin, Patras, Beijing, Thessaloniki, Sapporo.",False
+"Exactly 2 of the following cities are in Australia and 2 in Brazil: Belo Horizonte, Birmingham, Curitiba, Paris, Brisbane, Osaka.",False
+"Exactly 1 of the following cities are in France and 1 in United States: Bristol, Marseille, Houston, Larissa, São Paulo, Shanghai.",True
+"Exactly 2 of the following cities are in Brazil and 2 in United Kingdom: Bangalore, Edinburgh, Fortaleza, Curitiba, Glasgow, Sydney.",True
+"Exactly 1 of the following cities are in United Kingdom and 2 in United States: Leeds, Kawasaki, New York, Ahmedabad, Phoenix, Tokyo.",True
+"Exactly 1 of the following cities are in China and 1 in Greece: Chania, Philadelphia, Guangzhou, Curitiba, Salvador, Berlin.",True
+"Exactly 4 of the following cities are in Australia and 1 in Japan: Heraklion, Kawasaki, Sydney, Kolkata, Perth, Manchester.",False
+"Exactly 3 of the following cities are in France and 2 in Greece: Nantes, Ioannina, Lyon, Shenzhen, Kolkata, Heraklion.",False
+"Exactly 1 of the following cities are in India and 1 in China: Perth, Canberra, Chongqing, Ioannina, Kobe, Ahmedabad.",True
+"Exactly 4 of the following cities are in Germany and 1 in Greece: San Diego, Patras, Hyderabad, Hamburg, Dortmund, Gold Coast.",False
+"Exactly 2 of the following cities are in United States and 2 in China: Brisbane, Shanghai, Chongqing, Ioannina, Houston, New York.",True
+"Exactly 1 of the following cities are in France and 2 in Greece: Paris, Mumbai, New York, Kobe, Heraklion, Chania.",True
+"Exactly 2 of the following cities are in India and 1 in China: Shanghai, Adelaide, Mumbai, Los Angeles, Frankfurt, Delhi.",True
+"Exactly 3 of the following cities are in Japan and 1 in Greece: Osaka, Delhi, Thessaloniki, Lyon, Leeds, Stuttgart.",False
+"Exactly 1 of the following cities are in China and 1 in Brazil: Los Angeles, Sapporo, Wuhan, Salvador, Volos, London.",True
+"Exactly 4 of the following cities are in United States and 2 in China: Beijing, Ioannina, Frankfurt, Phoenix, Wuhan, Munich.",False
+"Exactly 3 of the following cities are in India and 2 in France: Delhi, Osaka, Toulouse, Berlin, Strasbourg, Shenzhen.",False
+"Exactly 3 of the following cities are in Japan and 2 in France: São Paulo, Kawasaki, Tianjin, Lyon, Marseille, Brasília.",False
+"Exactly 3 of the following cities are in United Kingdom and 1 in Australia: Canberra, Wuhan, Bristol, Nagoya, Bangalore, Liverpool.",False
+"Exactly 4 of the following cities are in Germany and 2 in France: Stuttgart, Chicago, Fukuoka, Lyon, Munich, Montpellier.",False
+"Exactly 1 of the following cities are in Australia and 1 in Brazil: Edinburgh, Pune, Salvador, Newcastle, Mumbai, Kawasaki.",True
+"Exactly 1 of the following cities are in Japan and 2 in United Kingdom: Bristol, Philadelphia, Tokyo, Edinburgh, Delhi, Ahmedabad.",True
+"Exactly 2 of the following cities are in Australia and 1 in India: Belo Horizonte, Sydney, Delhi, Perth, Manchester, Chicago.",True
+"Exactly 5 of the following cities are in China and 1 in France: Shanghai, Hamburg, Nice, Newcastle, Xi'an, Volos.",False
+"Exactly 2 of the following cities are in Japan and 1 in China: Adelaide, Osaka, Glasgow, Chongqing, Fukuoka, Athens.",True
+"Exactly 2 of the following cities are in United States and 1 in Australia: Ahmedabad, Gold Coast, New York, Los Angeles, Nagoya, Kawasaki.",True
+"Exactly 4 of the following cities are in France and 1 in United States: Bristol, Marseille, Houston, Larissa, São Paulo, Shanghai.",False
+"Exactly 2 of the following cities are in France and 1 in United States: Hamburg, Thessaloniki, Lyon, Philadelphia, Marseille, Xi'an.",True
+"Exactly 2 of the following cities are in France and 2 in Germany: Cologne, Philadelphia, Fukuoka, Paris, Berlin, Marseille.",True
+"Exactly 1 of the following cities are in Australia and 2 in France: Nantes, Tianjin, Gold Coast, Toulouse, Delhi, Heraklion.",True
+"Exactly 2 of the following cities are in Japan and 2 in France: Marseille, Fukuoka, Ahmedabad, Tokyo, Nice, London.",True
+"Exactly 3 of the following cities are in United Kingdom and 2 in China: Shanghai, Hyderabad, Manchester, Los Angeles, Canberra, Guangzhou.",False
+"Exactly 3 of the following cities are in United States and 2 in Brazil: São Paulo, Phoenix, Düsseldorf, Kyoto, Brasília, Houston.",False
+"Exactly 2 of the following cities are in China and 1 in Australia: Melbourne, Wuhan, Liverpool, Nice, Tianjin, Chennai.",True
+"Exactly 2 of the following cities are in Greece and 1 in France: Dortmund, Heraklion, Brasília, Strasbourg, Delhi, Volos.",True
+"Exactly 3 of the following cities are in China and 1 in Greece: Chania, Philadelphia, Guangzhou, Curitiba, Salvador, Berlin.",False
+"Exactly 3 of the following cities are in India and 2 in Greece: Thessaloniki, Canberra, Larissa, Chennai, Delhi, Kawasaki.",False
+"Exactly 4 of the following cities are in Japan and 1 in United States: Nagoya, Nice, Mumbai, San Antonio, Fukuoka, Shanghai.",False
+"Exactly 1 of the following cities are in Japan and 1 in France: Nantes, Nagoya, Bangalore, Heraklion, Manaus, Fortaleza.",True
+"Exactly 4 of the following cities are in France and 1 in Brazil: Chicago, Adelaide, Nice, Belo Horizonte, Lyon, Patras.",False
+"Exactly 1 of the following cities are in Japan and 1 in China: Tokyo, Heraklion, Munich, Athens, Xi'an, Paris.",True
+"Exactly 2 of the following cities are in Greece and 1 in France: Strasbourg, Munich, Hyderabad, Melbourne, Gold Coast, Heraklion.",False
+"Exactly 5 of the following cities are in Australia and 2 in Brazil: Newcastle, Lyon, Fortaleza, Gold Coast, Leeds, Curitiba.",False
+"Exactly 2 of the following cities are in India and 2 in Japan: Delhi, Los Angeles, Pune, Tokyo, Houston, Fukuoka.",True
+"Exactly 2 of the following cities are in United Kingdom and 1 in United States: Liverpool, Brisbane, Manchester, Beijing, Houston, Cologne.",True
+"Exactly 2 of the following cities are in Japan and 1 in India: Osaka, Sapporo, Kolkata, Perth, Volos, Heraklion.",True
+"Exactly 4 of the following cities are in Australia and 1 in Greece: Frankfurt, Fortaleza, Thessaloniki, Sydney, Fukuoka, Brisbane.",False
+"Exactly 3 of the following cities are in United Kingdom and 2 in France: Hamburg, Perth, Paris, Heraklion, Toulouse, Leeds.",False
+"Exactly 1 of the following cities are in China and 1 in Greece: Beijing, Patras, Chennai, Bristol, Los Angeles, Berlin.",True
+"Exactly 3 of the following cities are in India and 2 in United States: London, Houston, Berlin, Bangalore, Los Angeles, Dortmund.",False
+"Exactly 1 of the following cities are in Australia and 1 in Japan: Hyderabad, Rio de Janeiro, Chongqing, Adelaide, Patras, Nagoya.",True
+"Exactly 1 of the following cities are in Japan and 2 in Brazil: Glasgow, Rio de Janeiro, Fukuoka, Fortaleza, Toulouse, Chennai.",True
+"Exactly 1 of the following cities are in United States and 2 in Brazil: Düsseldorf, Shanghai, Fukuoka, Houston, Fortaleza, Salvador.",True
+"Exactly 3 of the following cities are in Australia and 1 in United Kingdom: Leeds, Kolkata, Sydney, Rio de Janeiro, Beijing, Cologne.",False
+"Exactly 4 of the following cities are in Germany and 2 in China: Berlin, Marseille, Shanghai, Hamburg, Wuhan, São Paulo.",False
+"Exactly 4 of the following cities are in Greece and 1 in United States: London, Volos, Guangzhou, Bangalore, Patras, Philadelphia.",False
+"Exactly 2 of the following cities are in Japan and 2 in United States: Mumbai, Sapporo, Sydney, New York, Fukuoka, Phoenix.",True
+"Exactly 5 of the following cities are in France and 1 in United States: Los Angeles, Chongqing, Lyon, Larissa, Strasbourg, Tokyo.",False
+"Exactly 4 of the following cities are in United States and 2 in Germany: Tianjin, Chennai, Stuttgart, Tokyo, Hamburg, New York.",False
+"Exactly 4 of the following cities are in Japan and 1 in Australia: Melbourne, Ahmedabad, Kolkata, Tokyo, Phoenix, Nice.",False
+"Exactly 2 of the following cities are in United States and 2 in Japan: Belo Horizonte, Fukuoka, San Antonio, Houston, Kyoto, Manaus.",True
+"Exactly 1 of the following cities are in United Kingdom and 1 in Greece: London, São Paulo, Perth, Düsseldorf, Thessaloniki, Bangalore.",True
+"Exactly 2 of the following cities are in China and 2 in United States: Ioannina, San Antonio, Hamburg, Chicago, Fukuoka, Tianjin.",False
+"Exactly 1 of the following cities are in United States and 1 in Greece: Nantes, Kolkata, Marseille, Philadelphia, Larissa, Sydney.",True
+"Exactly 2 of the following cities are in Australia and 2 in Greece: Brisbane, Shanghai, Thessaloniki, Nantes, Xi'an, Chania.",False
+"Exactly 4 of the following cities are in Australia and 1 in India: Fortaleza, Fukuoka, Pune, Liverpool, Brisbane, Xi'an.",False
+"Exactly 2 of the following cities are in India and 2 in Greece: Larissa, Bangalore, Volos, Kawasaki, Nantes, Delhi.",True
+"Exactly 4 of the following cities are in United States and 2 in France: Chennai, Philadelphia, Delhi, Montpellier, San Antonio, Nice.",False
+"Exactly 1 of the following cities are in United Kingdom and 1 in Japan: Curitiba, Patras, Osaka, Marseille, Delhi, Birmingham.",True
+"Exactly 2 of the following cities are in France and 1 in United States: Manchester, Paris, Belo Horizonte, Thessaloniki, San Diego, Strasbourg.",True
+"Exactly 1 of the following cities are in France and 2 in China: Nice, Shenzhen, Berlin, Perth, Tianjin, Glasgow.",True
+"Exactly 1 of the following cities are in United States and 1 in Australia: Shanghai, Melbourne, Düsseldorf, Shenzhen, Paris, Phoenix.",True
+"Exactly 2 of the following cities are in India and 1 in Germany: Edinburgh, Wuhan, Hamburg, Newcastle, Ahmedabad, Bangalore.",True
+"Exactly 3 of the following cities are in Brazil and 1 in France: Montpellier, Philadelphia, Bangalore, Perth, Brasília, Volos.",False
+"Exactly 2 of the following cities are in Germany and 2 in China: Wuhan, Brasília, Frankfurt, Cologne, Strasbourg, Shanghai.",True
+"Exactly 4 of the following cities are in India and 2 in France: Marseille, Kolkata, Montpellier, Pune, Dortmund, Tianjin.",False
+"Exactly 2 of the following cities are in Australia and 1 in China: Shanghai, Gold Coast, Nagoya, Canberra, Birmingham, Larissa.",True
+"Exactly 1 of the following cities are in Greece and 1 in United States: Patras, Houston, Rio de Janeiro, Canberra, Munich, Leeds.",True
+"Exactly 2 of the following cities are in United Kingdom and 1 in China: Chongqing, Glasgow, Delhi, Larissa, Leeds, Marseille.",True
+"Exactly 5 of the following cities are in United Kingdom and 1 in China: Adelaide, Sapporo, Edinburgh, Wuhan, New York, Leeds.",False
+"Exactly 1 of the following cities are in France and 2 in United States: Philadelphia, Hamburg, Sapporo, Shanghai, Toulouse, Phoenix.",True
+"Exactly 1 of the following cities are in United States and 2 in France: Houston, Marseille, Manaus, Paris, Beijing, Melbourne.",True
+"Exactly 3 of the following cities are in Australia and 2 in France: Perth, Toulouse, Kawasaki, Montpellier, Thessaloniki, Newcastle.",False
+"Exactly 3 of the following cities are in United States and 1 in Japan: São Paulo, Montpellier, Wuhan, Kyoto, New York, Düsseldorf.",False
+"Exactly 5 of the following cities are in United States and 1 in India: Los Angeles, Kobe, Larissa, Adelaide, Chennai, San Diego.",False
+"Exactly 1 of the following cities are in India and 2 in United Kingdom: Delhi, Osaka, Patras, Glasgow, Edinburgh, Frankfurt.",True
+"Exactly 4 of the following cities are in Japan and 1 in Brazil: Kawasaki, Frankfurt, Perth, Liverpool, Kyoto, Salvador.",False
+"Exactly 3 of the following cities are in United Kingdom and 1 in Australia: Los Angeles, Canberra, Paris, San Antonio, Bristol, Guangzhou.",False
+"Exactly 4 of the following cities are in Brazil and 2 in United States: Phoenix, Guangzhou, Philadelphia, Chennai, Fortaleza, Manchester.",False
+"Exactly 1 of the following cities are in Greece and 1 in China: Wuhan, Perth, Chicago, Volos, Berlin, São Paulo.",True
+"Exactly 1 of the following cities are in Brazil and 1 in Japan: Salvador, Ioannina, Berlin, San Antonio, Kawasaki, Adelaide.",True
+"Exactly 4 of the following cities are in Germany and 1 in United States: Melbourne, Fukuoka, Los Angeles, Rio de Janeiro, Salvador, Cologne.",False
+"Exactly 4 of the following cities are in Germany and 1 in Greece: Munich, Osaka, Lyon, Frankfurt, Ahmedabad, Thessaloniki.",False
+"Exactly 1 of the following cities are in France and 2 in India: Shenzhen, Chicago, Glasgow, Montpellier, Mumbai, Hyderabad.",True
+"Exactly 3 of the following cities are in Brazil and 1 in Japan: Patras, Leeds, Ahmedabad, Houston, São Paulo, Sapporo.",False
+"Exactly 2 of the following cities are in India and 1 in Greece: Ahmedabad, Fortaleza, Pune, Berlin, Thessaloniki, Chicago.",True
+"Exactly 2 of the following cities are in Greece and 2 in China: Chennai, Volos, New York, Tianjin, Xi'an, Fortaleza.",False
+"Exactly 3 of the following cities are in Australia and 1 in Brazil: Fortaleza, Larissa, Kobe, Melbourne, Los Angeles, Bristol.",False
+"Exactly 2 of the following cities are in Germany and 1 in United States: New York, Glasgow, Pune, Cologne, Perth, London.",False
+"Exactly 4 of the following cities are in Brazil and 1 in Germany: Gold Coast, Tokyo, Cologne, Rio de Janeiro, Perth, Salvador.",False
+"Exactly 1 of the following cities are in Australia and 1 in China: Nantes, Fukuoka, Guangzhou, São Paulo, Bristol, Melbourne.",True
+"Exactly 5 of the following cities are in Japan and 2 in Australia: Brisbane, Kobe, Pune, Newcastle, Kyoto, London.",False
+"Exactly 4 of the following cities are in India and 2 in Australia: Tianjin, Perth, Bangalore, Chongqing, Beijing, Adelaide.",False
+"Exactly 3 of the following cities are in France and 1 in United States: Curitiba, Dortmund, Glasgow, San Diego, Strasbourg, Kyoto.",False
+"Exactly 5 of the following cities are in United Kingdom and 1 in United States: Liverpool, Brisbane, Manchester, Beijing, Houston, Cologne.",False
+"Exactly 2 of the following cities are in India and 2 in France: Marseille, Kolkata, Montpellier, Pune, Dortmund, Tianjin.",True
+"Exactly 4 of the following cities are in India and 1 in China: Ioannina, Guangzhou, Perth, Kyoto, Mumbai, Strasbourg.",False
+"Exactly 3 of the following cities are in Greece and 2 in China: Fukuoka, Beijing, Chongqing, Chania, Lyon, Mumbai.",False
+"Exactly 5 of the following cities are in United Kingdom and 2 in Greece: Manchester, Athens, San Antonio, Bristol, Patras, Adelaide.",False
+"Exactly 3 of the following cities are in China and 1 in Germany: Shenzhen, Melbourne, Chicago, Paris, Stuttgart, Tianjin.",False
+"Exactly 2 of the following cities are in United Kingdom and 1 in Japan: Bristol, Osaka, Salvador, Leeds, Berlin, Brasília.",True
+"Exactly 2 of the following cities are in France and 1 in Germany: Pune, Chania, Houston, Frankfurt, Kawasaki, Toulouse.",False
+"Exactly 4 of the following cities are in Australia and 2 in China: São Paulo, Chongqing, Canberra, Xi'an, Lyon, Kawasaki.",False
+"Exactly 1 of the following cities are in Germany and 1 in United Kingdom: Melbourne, Strasbourg, Pune, Dortmund, Bristol, Philadelphia.",True
+"Exactly 2 of the following cities are in Greece and 1 in Germany: Larissa, Stuttgart, Ahmedabad, Adelaide, Ioannina, Liverpool.",True
+"Exactly 2 of the following cities are in India and 1 in Japan: Fukuoka, Manaus, Mumbai, Xi'an, Bangalore, São Paulo.",True
+"Exactly 4 of the following cities are in India and 2 in Greece: Mumbai, Nantes, Glasgow, Patras, Athens, Ahmedabad.",False
+"Exactly 5 of the following cities are in India and 1 in France: Shenzhen, Melbourne, Pune, Mumbai, Ioannina, Marseille.",False
+"Exactly 3 of the following cities are in Germany and 2 in Brazil: Dortmund, Los Angeles, Brasília, Philadelphia, Heraklion, São Paulo.",False
+"Exactly 3 of the following cities are in India and 1 in Greece: Ahmedabad, Mumbai, Hamburg, Stuttgart, Volos, Nice.",False
+"Exactly 2 of the following cities are in Australia and 1 in Japan: Tokyo, Thessaloniki, Shanghai, Adelaide, Volos, Canberra.",True
+"Exactly 2 of the following cities are in Germany and 2 in Brazil: Thessaloniki, Brasília, Munich, Newcastle, Stuttgart, Belo Horizonte.",True
+"Exactly 3 of the following cities are in Japan and 1 in China: Tokyo, Munich, Perth, Curitiba, Tianjin, Bangalore.",False
+"Exactly 1 of the following cities are in Greece and 1 in Japan: Canberra, Kawasaki, Toulouse, Heraklion, Montpellier, Cologne.",True
+"Exactly 4 of the following cities are in United States and 2 in China: Bristol, Phoenix, Birmingham, Gold Coast, Shenzhen, Wuhan.",False
+"Exactly 2 of the following cities are in United Kingdom and 1 in Brazil: Liverpool, New York, Heraklion, Volos, Salvador, Birmingham.",True
+"Exactly 1 of the following cities are in United Kingdom and 1 in Brazil: Salvador, Montpellier, Edinburgh, Kobe, Melbourne, Xi'an.",True
+"Exactly 2 of the following cities are in France and 2 in Brazil: Strasbourg, Nagoya, Fortaleza, Nantes, Manaus, Hamburg.",True
+"Exactly 2 of the following cities are in Greece and 1 in Japan: Canberra, Kawasaki, Toulouse, Heraklion, Montpellier, Cologne.",False
+"Exactly 2 of the following cities are in Germany and 1 in Japan: Gold Coast, Kyoto, Volos, Frankfurt, Bristol, Düsseldorf.",True
+"Exactly 2 of the following cities are in India and 2 in United Kingdom: Tokyo, Birmingham, Toulouse, Ioannina, Bristol, Ahmedabad.",False
+"Exactly 1 of the following cities are in United Kingdom and 2 in France: Leeds, Osaka, Ahmedabad, Strasbourg, Cologne, Lyon.",True
+"Exactly 2 of the following cities are in Japan and 1 in France: Bangalore, Chania, Sapporo, Hamburg, Nagoya, Marseille.",True
+"Exactly 1 of the following cities are in Greece and 1 in United States: Nagoya, Brasília, Ioannina, Curitiba, Tokyo, San Antonio.",True
+"Exactly 4 of the following cities are in China and 1 in India: Shanghai, Sapporo, São Paulo, Beijing, Pune, Manaus.",False
+"Exactly 4 of the following cities are in Japan and 1 in Australia: Kawasaki, Kobe, Perth, Kolkata, Houston, Rio de Janeiro.",False
+"Exactly 3 of the following cities are in United Kingdom and 2 in China: Xi'an, Dortmund, Toulouse, Guangzhou, Manchester, Perth.",False
+"Exactly 1 of the following cities are in Greece and 2 in Japan: Patras, Kobe, Brisbane, Cologne, Leeds, Nagoya.",True
+"Exactly 3 of the following cities are in Germany and 2 in United States: New York, San Diego, Wuhan, Shenzhen, Tokyo, Berlin.",False
+"Exactly 1 of the following cities are in China and 1 in Japan: Tokyo, Pune, Sydney, Chania, Stuttgart, Beijing.",True
+"Exactly 2 of the following cities are in India and 1 in Greece: Dortmund, Sapporo, Hyderabad, Philadelphia, Heraklion, Ahmedabad.",True
+"Exactly 1 of the following cities are in India and 1 in Australia: Shanghai, London, Sydney, Mumbai, Leeds, Cologne.",True
+"Exactly 4 of the following cities are in United Kingdom and 2 in India: London, Patras, Brasília, Kyoto, Mumbai, Delhi.",False
+"Exactly 4 of the following cities are in Germany and 1 in Japan: Berlin, Bristol, Fukuoka, Nantes, Chennai, Düsseldorf.",False
+"Exactly 3 of the following cities are in United Kingdom and 2 in Japan: Kobe, San Diego, Paris, Glasgow, Edinburgh, Osaka.",False
+"Exactly 4 of the following cities are in United Kingdom and 2 in India: Liverpool, São Paulo, Philadelphia, Curitiba, Ahmedabad, Kolkata.",False
+"Exactly 3 of the following cities are in United Kingdom and 2 in Australia: Brisbane, Paris, Glasgow, Liverpool, Canberra, Hyderabad.",False
+"Exactly 2 of the following cities are in Brazil and 1 in United States: Shenzhen, Mumbai, Leeds, Volos, Manaus, New York.",False
+"Exactly 2 of the following cities are in China and 1 in United Kingdom: Guangzhou, Chongqing, Hyderabad, Curitiba, Osaka, Leeds.",True
+"Exactly 1 of the following cities are in Brazil and 2 in United States: Houston, Stuttgart, Pune, Bristol, Phoenix, Brasília.",True
+"Exactly 4 of the following cities are in France and 2 in India: Bangalore, Chennai, Montpellier, Liverpool, Manaus, Houston.",False
+"Exactly 2 of the following cities are in United States and 1 in United Kingdom: Strasbourg, Glasgow, Chennai, Philadelphia, Chicago, Kyoto.",True
+"Exactly 1 of the following cities are in France and 1 in Germany: Sapporo, Los Angeles, Dortmund, Guangzhou, Manaus, Toulouse.",True
+"Exactly 1 of the following cities are in United States and 1 in Australia: Birmingham, Thessaloniki, Mumbai, Curitiba, Houston, Melbourne.",True
+"Exactly 3 of the following cities are in Greece and 2 in Brazil: Bristol, Chania, Volos, Berlin, São Paulo, Rio de Janeiro.",False
+"Exactly 2 of the following cities are in Greece and 2 in China: London, Xi'an, Thessaloniki, Wuhan, Chania, Hyderabad.",True
+"Exactly 1 of the following cities are in France and 2 in China: Edinburgh, Beijing, Kobe, Shanghai, Strasbourg, Hyderabad.",True
+"Exactly 3 of the following cities are in Greece and 1 in India: Canberra, San Diego, Bangalore, Larissa, Kobe, Paris.",False
+"Exactly 1 of the following cities are in Japan and 1 in China: Tokyo, Munich, Perth, Curitiba, Tianjin, Bangalore.",True
+"Exactly 2 of the following cities are in United States and 2 in France: Chongqing, Düsseldorf, Nagoya, Paris, Nice, Houston.",False
+"Exactly 5 of the following cities are in France and 2 in United States: Strasbourg, Liverpool, Phoenix, Stuttgart, Los Angeles, Marseille.",False
+"Exactly 4 of the following cities are in United States and 1 in Germany: Chicago, Dortmund, Brisbane, Manaus, Beijing, Adelaide.",False
+"Exactly 2 of the following cities are in United States and 1 in China: Hamburg, New York, Pune, Los Angeles, Chongqing, Nantes.",True
+"Exactly 2 of the following cities are in Brazil and 2 in United States: Manaus, Berlin, Philadelphia, Ioannina, Nagoya, San Diego.",False
+"Exactly 2 of the following cities are in Brazil and 1 in Greece: Los Angeles, São Paulo, Manaus, Heraklion, Nantes, Adelaide.",True
+"Exactly 3 of the following cities are in Greece and 2 in Germany: Heraklion, Paris, Volos, Hamburg, Cologne, Glasgow.",False
+"Exactly 2 of the following cities are in Greece and 1 in China: Heraklion, Phoenix, Thessaloniki, Shenzhen, London, Canberra.",True
+"Exactly 1 of the following cities are in United States and 1 in Greece: Wuhan, Toulouse, Dortmund, Kawasaki, Heraklion, San Antonio.",True
+"Exactly 4 of the following cities are in France and 1 in India: Sydney, Delhi, Brasília, Montpellier, Shanghai, Lyon.",False
+"Exactly 2 of the following cities are in India and 1 in China: Houston, Hyderabad, Liverpool, Nice, Chennai, Tianjin.",True
+"Exactly 3 of the following cities are in Australia and 1 in Germany: Larissa, Adelaide, Delhi, Wuhan, New York, Frankfurt.",False
+"Exactly 1 of the following cities are in Australia and 1 in Greece: Berlin, Curitiba, Liverpool, Larissa, Melbourne, Strasbourg.",True
+"Exactly 5 of the following cities are in France and 1 in United States: Nagoya, Düsseldorf, Montpellier, Paris, Kyoto, Los Angeles.",False
+"Exactly 5 of the following cities are in France and 2 in Germany: Mumbai, Nice, Berlin, Paris, Munich, Adelaide.",False
+"Exactly 3 of the following cities are in Greece and 2 in India: Larissa, Mumbai, Delhi, Thessaloniki, Phoenix, Rio de Janeiro.",False
+"Exactly 3 of the following cities are in Japan and 2 in Brazil: Kolkata, Curitiba, Rio de Janeiro, Osaka, Tianjin, Shenzhen.",False
+"Exactly 4 of the following cities are in Brazil and 2 in Australia: Gold Coast, Mumbai, Fortaleza, Brisbane, Glasgow, Osaka.",False
+"Exactly 4 of the following cities are in France and 2 in Australia: Sydney, Strasbourg, Liverpool, Fukuoka, Adelaide, Curitiba.",False
+"Exactly 2 of the following cities are in Brazil and 2 in India: Brasília, São Paulo, Hamburg, Osaka, Hyderabad, Bangalore.",True
+"Exactly 4 of the following cities are in India and 2 in China: Tianjin, Gold Coast, Chennai, São Paulo, Guangzhou, Kobe.",False
+"Exactly 4 of the following cities are in United Kingdom and 2 in China: Philadelphia, Birmingham, Heraklion, Beijing, Wuhan, Glasgow.",False
+"Exactly 1 of the following cities are in France and 1 in India: Chennai, Thessaloniki, Ioannina, Lyon, Kawasaki, Chongqing.",True
+"Exactly 3 of the following cities are in France and 2 in Greece: Brasília, Thessaloniki, Chicago, Patras, Beijing, Toulouse.",False
+"Exactly 2 of the following cities are in China and 2 in United States: Chongqing, Philadelphia, Tokyo, Beijing, Paris, New York.",True
+"Exactly 2 of the following cities are in United Kingdom and 1 in Greece: Liverpool, Heraklion, London, Dortmund, Shanghai, Canberra.",True
+"Exactly 1 of the following cities are in Brazil and 1 in China: Shenzhen, Salvador, Hamburg, Volos, Pune, Dortmund.",True
+"Exactly 2 of the following cities are in India and 1 in United States: San Antonio, Sapporo, Kolkata, Toulouse, Curitiba, Ahmedabad.",True
+"Exactly 3 of the following cities are in United States and 1 in Brazil: Perth, Brasília, Adelaide, Toulouse, Volos, Phoenix.",False
+"Exactly 2 of the following cities are in Germany and 2 in Australia: Dortmund, Glasgow, Adelaide, Canberra, Thessaloniki, Phoenix.",False
+"Exactly 3 of the following cities are in Germany and 1 in India: Mumbai, Brasília, Berlin, Xi'an, Nice, Shanghai.",False
+"Exactly 5 of the following cities are in Japan and 1 in China: Shenzhen, Sapporo, Nagoya, Paris, Stuttgart, Liverpool.",False
+"Exactly 1 of the following cities are in China and 2 in India: Leeds, Chennai, Bangalore, Kawasaki, Beijing, Volos.",True
+"Exactly 1 of the following cities are in Australia and 2 in India: Hyderabad, Brisbane, Kolkata, Nice, Patras, Fukuoka.",True
+"Exactly 1 of the following cities are in United States and 1 in India: San Diego, Glasgow, Curitiba, Lyon, Delhi, Frankfurt.",True
+"Exactly 2 of the following cities are in Japan and 1 in China: Shenzhen, Sapporo, Nagoya, Paris, Stuttgart, Liverpool.",True
+"Exactly 4 of the following cities are in Brazil and 1 in China: São Paulo, Pune, Shanghai, Salvador, Melbourne, Los Angeles.",False
+"Exactly 2 of the following cities are in Japan and 2 in India: Kawasaki, Delhi, Chennai, Strasbourg, Larissa, Fukuoka.",True
+"Exactly 1 of the following cities are in India and 2 in Brazil: Rio de Janeiro, Lyon, Fortaleza, Mumbai, Hamburg, Beijing.",True
+"Exactly 4 of the following cities are in Germany and 2 in Brazil: Melbourne, Newcastle, Manchester, Dortmund, Fortaleza, Curitiba.",False
+"Exactly 2 of the following cities are in Japan and 1 in United States: Nagoya, Nice, Mumbai, San Antonio, Fukuoka, Shanghai.",True
+"Exactly 2 of the following cities are in Australia and 2 in India: Xi'an, Nice, Chennai, Kobe, Adelaide, Pune.",False
+"Exactly 5 of the following cities are in Australia and 2 in China: Bristol, Shanghai, Düsseldorf, Melbourne, Canberra, Guangzhou.",False
+"Exactly 4 of the following cities are in Germany and 1 in United Kingdom: Glasgow, New York, Chongqing, Stuttgart, Ioannina, Delhi.",False
+"Exactly 5 of the following cities are in Germany and 2 in Japan: Dortmund, Cologne, Sapporo, Ahmedabad, Strasbourg, Kobe.",False

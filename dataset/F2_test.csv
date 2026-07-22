@@ -1,0 +1,25 @@
+statement,label
+It is the case both that the city of San Diego is in Japan and that the city of Adelaide is in Australia.,False
+It is the case both that the city of Xi'an is in China and that the city of Philadelphia is in United States.,True
+It is the case both that the city of London is in Japan and that the city of Montpellier is in France.,False
+It is the case both that the city of Cologne is in Brazil and that the city of Nantes is in France.,False
+It is the case both that the city of Curitiba is in Germany and that the city of Brasília is in Brazil.,False
+It is the case both that the city of Curitiba is in Brazil and that the city of Brasília is in Brazil.,True
+It is the case both that the city of New York is in Japan and that the city of Bangalore is in India.,False
+It is the case both that the city of Edinburgh is in United Kingdom and that the city of Glasgow is in United Kingdom.,True
+It is the case both that the city of Berlin is in United Kingdom and that the city of Volos is in Greece.,False
+It is the case both that the city of Bristol is in United States and that the city of Fortaleza is in Brazil.,False
+It is the case both that the city of Cologne is in Germany and that the city of Nantes is in France.,True
+It is the case both that the city of Salvador is in Brazil and that the city of Liverpool is in United Kingdom.,True
+It is the case both that the city of Gold Coast is in Australia and that the city of Stuttgart is in Germany.,True
+It is the case both that the city of Lyon is in France and that the city of Los Angeles is in United States.,True
+It is the case both that the city of Sapporo is in Japan and that the city of Athens is in Greece.,True
+It is the case both that the city of Houston is in Greece and that the city of Frankfurt is in Germany.,False
+It is the case both that the city of Kyoto is in Japan and that the city of Guangzhou is in China.,True
+It is the case both that the city of Melbourne is in United Kingdom and that the city of Kawasaki is in Japan.,False
+It is the case both that the city of Kobe is in Australia and that the city of São Paulo is in Brazil.,False
+It is the case both that the city of Newcastle is in United Kingdom and that the city of Brisbane is in Australia.,False
+It is the case both that the city of Fukuoka is in Japan and that the city of Manaus is in Brazil.,True
+It is the case both that the city of Shenzhen is in China and that the city of Strasbourg is in France.,True
+It is the case both that the city of Xi'an is in France and that the city of Philadelphia is in United States.,False
+It is the case both that the city of New York is in United States and that the city of Bangalore is in India.,True
