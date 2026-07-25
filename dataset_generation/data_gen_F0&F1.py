@@ -1,6 +1,6 @@
 # GENERATION CODE FOR F0 AND F1 (ADAPTED FROM MARK AND TEGMARK'S GITHUB PAGE)
-
-
+import random
+import numpy as np
 import pandas as pd
 import os
 from sklearn.model_selection import train_test_split
@@ -195,6 +195,10 @@ countries = {
     'Singapore' : 'Singapore',
 }
 
+random.seed(42)
+np.random.seed(42)
+
+
 def is_valid(row):
     name = row['ASCII Name']
     population = row['Population']
@@ -262,8 +266,8 @@ for _, row in df.iterrows():
 
 df_out, neg_df_out = pd.DataFrame(df_out), pd.DataFrame(neg_df_out)
 
-df_out_train, df_out_test = train_test_split(df_out, test_size=0.3, train_size=0.7, stratify=df_out["label"], shuffle=True)
-neg_df_train, neg_df_test = train_test_split(neg_df_out, test_size=0.3, train_size=0.7, stratify=neg_df_out["label"], shuffle=True)
+df_out_train, df_out_test = train_test_split(df_out, test_size=0.3, train_size=0.7, stratify=df_out["label"], shuffle=True, random_state=42)
+neg_df_train, neg_df_test = train_test_split(neg_df_out, test_size=0.3, train_size=0.7, stratify=neg_df_out["label"], shuffle=True, random_state=42)
 
 df_out_train.to_csv(os.path.join(ROOT, 'F0_train.csv'), index=False)
 df_out_test.to_csv(os.path.join(ROOT, 'F0_test.csv'), index=False)

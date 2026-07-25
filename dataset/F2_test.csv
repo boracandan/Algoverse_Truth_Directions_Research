@@ -1,25 +1,513 @@
-statement,label
-It is the case both that the city of San Diego is in Japan and that the city of Adelaide is in Australia.,False
-It is the case both that the city of Xi'an is in China and that the city of Philadelphia is in United States.,True
-It is the case both that the city of London is in Japan and that the city of Montpellier is in France.,False
-It is the case both that the city of Cologne is in Brazil and that the city of Nantes is in France.,False
-It is the case both that the city of Curitiba is in Germany and that the city of Brasília is in Brazil.,False
-It is the case both that the city of Curitiba is in Brazil and that the city of Brasília is in Brazil.,True
-It is the case both that the city of New York is in Japan and that the city of Bangalore is in India.,False
-It is the case both that the city of Edinburgh is in United Kingdom and that the city of Glasgow is in United Kingdom.,True
-It is the case both that the city of Berlin is in United Kingdom and that the city of Volos is in Greece.,False
-It is the case both that the city of Bristol is in United States and that the city of Fortaleza is in Brazil.,False
-It is the case both that the city of Cologne is in Germany and that the city of Nantes is in France.,True
-It is the case both that the city of Salvador is in Brazil and that the city of Liverpool is in United Kingdom.,True
-It is the case both that the city of Gold Coast is in Australia and that the city of Stuttgart is in Germany.,True
-It is the case both that the city of Lyon is in France and that the city of Los Angeles is in United States.,True
-It is the case both that the city of Sapporo is in Japan and that the city of Athens is in Greece.,True
-It is the case both that the city of Houston is in Greece and that the city of Frankfurt is in Germany.,False
-It is the case both that the city of Kyoto is in Japan and that the city of Guangzhou is in China.,True
-It is the case both that the city of Melbourne is in United Kingdom and that the city of Kawasaki is in Japan.,False
-It is the case both that the city of Kobe is in Australia and that the city of São Paulo is in Brazil.,False
-It is the case both that the city of Newcastle is in United Kingdom and that the city of Brisbane is in Australia.,False
-It is the case both that the city of Fukuoka is in Japan and that the city of Manaus is in Brazil.,True
-It is the case both that the city of Shenzhen is in China and that the city of Strasbourg is in France.,True
-It is the case both that the city of Xi'an is in France and that the city of Philadelphia is in United States.,False
-It is the case both that the city of New York is in United States and that the city of Bangalore is in India.,True
+statement,label,stmt1_id,stmt2_id
+It is the case both that The city of Bhubaneswar is in India. and that The city of Aracaju is in Brazil..,1,378,982
+It is the case both that The city of Madinat an Nasr is in Mexico. and that The city of Esenler is in China..,0,245,484
+It is the case both that The city of Libreville is in Gabon. and that The city of Benin City is in Nigeria..,1,974,903
+It is the case both that The city of Tonghua is in Tajikistan. and that The city of Aracaju is in Brazil..,0,70,982
+It is the case both that The city of Haiphong is in Vietnam. and that The city of Niteroi is in India..,0,1065,1036
+It is the case both that The city of Kunshan is in China. and that The city of Niigata is in Japan..,1,855,346
+It is the case both that The city of Yunfu is in China. and that The city of Ziyang is in China..,1,359,140
+It is the case both that The city of Khartoum is in Sudan. and that The city of Kampala is in Uganda..,1,250,892
+It is the case both that The city of Peshawar is in Pakistan. and that The city of Kuecuekcekmece is in Mexico..,0,672,775
+It is the case both that The city of Rahim Yar Khan is in Pakistan. and that The city of Fuxin is in China..,1,585,1143
+It is the case both that The city of Ghaziabad is in India. and that The city of Jiujiang is in India..,0,994,182
+It is the case both that The city of Pallabi is in Bangladesh. and that The city of Panjin is in China..,1,1020,338
+It is the case both that The city of Santo Domingo Oeste is in the Dominican Republic. and that The city of Stockholm is in Sweden..,1,54,492
+It is the case both that The city of Coimbatore is in Somalia. and that The city of Santiago de Cuba is in China..,0,12,1069
+It is the case both that The city of Al Ain City is in the United Arab Emirates. and that The city of Aparecida de Goiania is in Brazil..,1,543,206
+It is the case both that The city of Al Fayyum is in Malaysia. and that The city of Huizhou is in China..,0,184,464
+It is the case both that The city of Bhubaneswar is in Turkey. and that The city of Phnom Penh is in Cambodia..,0,96,823
+It is the case both that The city of Bhavnagar is in India. and that The city of Linfen is in China..,1,682,302
+It is the case both that The city of Kanpur is in India. and that The city of Peshawar is in Pakistan..,1,913,672
+It is the case both that The city of Tianshui is in Turkey. and that The city of Johannesburg is in Japan..,0,363,604
+It is the case both that The city of Port Harcourt is in Nigeria. and that The city of Bouake is in China..,0,342,388
+It is the case both that The city of Kalyan is in India. and that The city of Putuo is in Malaysia..,0,1054,322
+It is the case both that The city of Nellore is in India. and that The city of Laibin is in China..,1,165,763
+It is the case both that The city of Muzaffarabad is in Pakistan. and that The city of Agadir is in Kenya..,0,177,1068
+It is the case both that The city of Wanning is in China. and that The city of Pasir Gudang is in Malaysia..,1,701,466
+It is the case both that The city of Laibin is in China. and that The city of Selayang Baru Utara is in India..,0,763,330
+It is the case both that The city of Copenhagen is in Denmark. and that The city of Xuchang is in India..,0,300,23
+It is the case both that The city of Sagamihara is in Japan. and that The city of Maoming is in China..,1,273,479
+It is the case both that The city of Xianning is in Russia. and that The city of Calumbo is in Angola..,0,256,510
+It is the case both that The city of Ciudad Guayana is in Venezuela. and that The city of Zapopan is in Angola..,0,113,556
+It is the case both that The city of Volgograd is in Russia. and that The city of Tangier is in Egypt..,0,279,281
+It is the case both that The city of Yaroslavl is in Russia. and that The city of Hamamatsu is in Japan..,1,373,785
+It is the case both that The city of Pontianak is in Indonesia. and that The city of Balbala is in Djibouti..,1,468,1147
+It is the case both that The city of Malacca is in Malaysia. and that The city of Kuantan is in Malaysia..,1,255,485
+It is the case both that The city of Agege is in Japan. and that The city of Tolyatti is in Russia..,0,400,495
+It is the case both that The city of Shangyu is in China. and that The city of Liupanshui is in China..,1,524,545
+It is the case both that The city of Laibin is in Egypt. and that The city of Kumamoto is in Brazil..,0,123,893
+It is the case both that The city of Malang is in Indonesia. and that The city of Nellore is in Egypt..,0,573,395
+It is the case both that The city of Giza is in Egypt. and that The city of Zhanjiang is in China..,1,895,1042
+It is the case both that The city of Qingpu is in China. and that The city of Jeddah is in Saudi Arabia..,1,984,631
+It is the case both that The city of Nansana is in China. and that The city of Queens is in China..,0,646,466
+It is the case both that The city of Astana is in Kazakhstan. and that The city of Makhachkala is in China..,0,93,541
+It is the case both that The city of Naberezhnyye Chelny is in Russia. and that The city of Cangzhou is in China..,1,397,1158
+It is the case both that The city of Tomsk is in Russia. and that The city of Cankaya is in Turkey..,1,110,488
+It is the case both that The city of Soshanguve is in South Africa. and that The city of Mohammadpur is in Bangladesh..,1,224,272
+It is the case both that The city of Oklahoma City is in Russia. and that The city of Moradabad is in India..,0,111,1186
+It is the case both that The city of Cucuta is in Colombia. and that The city of Jalandhar is in Russia..,0,748,741
+It is the case both that The city of Leon de los Aldama is in Somalia. and that The city of Ebute Ikorodu is in Nigeria..,0,55,386
+It is the case both that The city of Bouake is in Côte d'Ivoire. and that The city of Bujumbura is in China..,0,774,1038
+It is the case both that The city of Manaus is in Brazil. and that The city of Quetta is in Pakistan..,1,456,41
+It is the case both that The city of Cankaya is in Turkey. and that The city of Visakhapatnam is in China..,0,488,99
+It is the case both that The city of Can Tho is in China. and that The city of Harbin is in China..,0,496,18
+It is the case both that The city of Pokhara is in Nepal. and that The city of Mississauga is in India..,0,506,335
+It is the case both that The city of Omsk is in Russia. and that The city of Benxi is in China..,1,424,766
+It is the case both that The city of Peshawar is in Pakistan. and that The city of Munich is in Germany..,1,672,993
+It is the case both that The city of Marrakesh is in Morocco. and that The city of Mississauga is in Canada..,1,603,537
+It is the case both that The city of Naberezhnyye Chelny is in Russia. and that The city of Chelyabinsk is in Russia..,1,397,175
+It is the case both that The city of Mbuji-Mayi is in the Democratic Republic of the Congo. and that The city of Benguela is in Angola..,1,93,649
+It is the case both that The city of Cheongju-si is in South Korea. and that The city of Dera Ismail Khan is in Pakistan..,1,173,178
+It is the case both that The city of Gujrat is in Pakistan. and that The city of Calumbo is in Angola..,1,107,510
+It is the case both that The city of Changde is in China. and that The city of Huizhou is in China..,1,133,464
+It is the case both that The city of Pest is in India. and that The city of Indore is in India..,0,811,678
+It is the case both that The city of Kharkiv is in Iraq. and that The city of Tyumen is in Russia..,0,389,137
+It is the case both that The city of Helsinki is in Finland. and that The city of Chengdu is in China..,1,115,180
+It is the case both that The city of Soshanguve is in South Africa. and that The city of Rajkot is in Brazil..,0,224,820
+It is the case both that The city of Zarqa is in Jordan. and that The city of Krakow is in Poland..,1,572,455
+It is the case both that The city of Novosibirsk is in Russia. and that The city of Tangier is in Morocco..,1,51,439
+It is the case both that The city of Nagoya is in India. and that The city of Ciudad Guayana is in Poland..,0,469,676
+It is the case both that The city of Denpasar is in Indonesia. and that The city of Bahawalpur is in Myanmar..,0,174,312
+It is the case both that The city of Pest is in India. and that The city of Phnom Penh is in Cambodia..,0,811,823
+It is the case both that The city of Ningbo is in Russia. and that The city of Jinzhong is in China..,0,320,2
+It is the case both that The city of Cuttack is in Jordan. and that The city of Cebu City is in South Africa..,0,417,67
+It is the case both that The city of Changde is in China. and that The city of Salta is in Argentina..,1,133,934
+It is the case both that The city of Kyiv is in Ukraine. and that The city of Jabalpur is in India..,1,476,510
+It is the case both that The city of Mississauga is in Canada. and that The city of South Tangerang is in Indonesia..,1,537,60
+It is the case both that The city of Aihara is in Japan. and that The city of Tiruchirappalli is in India..,1,150,403
+It is the case both that The city of Pallabi is in Bangladesh. and that The city of Lodz is in China..,0,1020,125
+It is the case both that The city of Voronezh is in India. and that The city of Hamhung is in Turkey..,0,391,68
+It is the case both that The city of Qingpu is in Turkey. and that The city of Almaty is in Kazakhstan..,0,129,918
+It is the case both that The city of Eskisehir is in Turkey. and that The city of Suez is in Egypt..,1,408,39
+It is the case both that The city of Perm is in Russia. and that The city of Bogor is in Indonesia..,1,703,260
+It is the case both that The city of Bokaro is in India. and that The city of Thu GJuc is in Vietnam..,1,1080,150
+It is the case both that The city of Jinzhong is in Russia. and that The city of Anshun is in Canada..,0,246,143
+It is the case both that The city of Maturin is in Brazil. and that The city of Tangier is in Morocco..,0,316,439
+It is the case both that The city of Aihara is in Japan. and that The city of Indore is in India..,1,150,678
+It is the case both that The city of Okayama is in Japan. and that The city of Al Ain City is in South Korea..,0,866,95
+It is the case both that The city of Malang is in Angola. and that The city of Bien Hoa is in Vietnam..,0,579,135
+It is the case both that The city of Shangqiu is in Uzbekistan. and that The city of Huaihua is in China..,0,72,445
+It is the case both that The city of Sangli is in India. and that The city of Kallakurichi is in Germany..,0,323,598
+It is the case both that The city of Bouake is in China. and that The city of Arusha is in Vietnam..,0,388,251
+It is the case both that The city of Nakuru is in Turkey. and that The city of Linfen is in Russia..,0,1067,530
+It is the case both that The city of Ulanqab is in Pakistan. and that The city of Sangli is in China..,0,607,51
+It is the case both that The city of Dushanbe is in China. and that The city of Zhongwei is in Jamaica..,0,889,380
+It is the case both that The city of Camama is in Angola. and that The city of Amman is in Jordan..,1,400,819
+It is the case both that The city of Chizhou is in China. and that The city of Porto Velho is in Brazil..,1,279,827
+It is the case both that The city of South Tangerang is in Indonesia. and that The city of Itabashi is in China..,0,60,154
+It is the case both that The city of Jeddah is in the Democratic Republic of the Congo. and that The city of Pingliang is in China..,0,357,290
+It is the case both that The city of Anqing is in China. and that The city of Xianning is in China..,1,7,334
+It is the case both that The city of Bayan Nur is in Bangladesh. and that The city of Aktobe is in Pakistan..,0,318,791
+It is the case both that The city of Siping is in China. and that The city of Nha Trang is in Vietnam..,1,431,1083
+It is the case both that The city of Cho Lon is in the Dominican Republic. and that The city of Johannesburg is in South Africa..,0,355,674
+It is the case both that The city of Gazipur is in Bangladesh. and that The city of Kampala is in Uganda..,1,5,892
+It is the case both that The city of Jiangyin is in India. and that The city of Tiruppur is in India..,0,465,379
+It is the case both that The city of Kalaburagi is in Turkey. and that The city of Guilin is in China..,0,382,211
+It is the case both that The city of Huaihua is in China. and that The city of Baoji is in China..,1,445,437
+It is the case both that The city of Wanning is in the Philippines. and that The city of Yerevan is in Armenia..,0,412,376
+It is the case both that The city of Copenhagen is in Denmark. and that The city of Edogawe is in Japan..,1,300,1184
+It is the case both that The city of Laibin is in China. and that The city of Putuo is in China..,1,763,733
+It is the case both that The city of Harare is in Zimbabwe. and that The city of Al Ahmadi is in Yemen..,0,24,1045
+It is the case both that The city of Izmir is in Turkey. and that The city of Coyoacan is in Mexico..,1,235,9
+It is the case both that The city of Malingao is in India. and that The city of Panshan is in Brazil..,0,529,41
+It is the case both that The city of Bikaner is in India. and that The city of Phnom Penh is in Cambodia..,1,817,823
+It is the case both that The city of Ciudad Juarez is in Mexico. and that The city of Malang is in Indonesia..,1,350,573
+It is the case both that The city of Ananindeua is in Brazil. and that The city of Kitakyushu is in Japan..,1,151,856
+It is the case both that The city of Seongnam-si is in Ukraine. and that The city of Huangshi is in China..,0,42,87
+It is the case both that The city of Ndola is in Poland. and that The city of Xingtai is in China..,0,425,361
+It is the case both that The city of Xiangtan is in Indonesia. and that The city of Seongnam-si is in South Korea..,0,735,356
+It is the case both that The city of Karaj is in Mexico. and that The city of Homyel' is in China..,0,433,749
+It is the case both that The city of Dar es Salaam is in Tanzania. and that The city of Dakar is in Germany..,0,666,127
+It is the case both that The city of Matola is in Mozambique. and that The city of Cebu City is in South Africa..,0,332,67
+It is the case both that The city of Calgary is in Canada. and that The city of Toulouse is in France..,1,885,370
+It is the case both that The city of Lilongwe is in Malawi. and that The city of Karaj is in Iran..,1,80,765
+It is the case both that The city of Cuautitlan Izcalli is in Mexico. and that The city of Serang is in Sudan..,0,1095,985
+It is the case both that The city of Kota Bharu is in Malaysia. and that The city of Helsinki is in China..,0,597,448
+It is the case both that The city of Chuzhou is in China. and that The city of Zagreb is in Croatia..,1,307,835
+It is the case both that The city of Suining is in China. and that The city of Thembisa is in Yemen..,0,148,282
+It is the case both that The city of Hamhung is in Turkey. and that The city of Bouake is in China..,0,68,388
+It is the case both that The city of Saratov is in Egypt. and that The city of Daejeon is in Rwanda..,0,33,615
+It is the case both that The city of Adachi is in Japan. and that The city of Muntinlupa is in the Philippines..,1,582,1109
+It is the case both that The city of Yongzhou is in the Philippines. and that The city of Jiaxing is in the Democratic Republic of the Congo..,0,101,192
+It is the case both that The city of Ashgabat is in Turkmenistan. and that The city of Changde is in China..,1,366,133
+It is the case both that The city of Guwahati is in India. and that The city of Yingkou is in Malaysia..,0,874,62
+It is the case both that The city of Caracas is in Venezuela. and that The city of Cucuta is in Colombia..,1,679,748
+It is the case both that The city of Jalandhar is in India. and that The city of Bien Hoa is in Vietnam..,1,939,135
+It is the case both that The city of Aden is in China. and that The city of Johannesburg is in South Africa..,0,164,674
+It is the case both that The city of Thembisa is in South Africa. and that The city of Rui'an is in China..,1,201,515
+It is the case both that The city of Binzhou is in Côte d'Ivoire. and that The city of Heze is in China..,0,1115,74
+It is the case both that The city of Qinhuangdao is in China. and that The city of Gujrat is in Pakistan..,1,343,107
+It is the case both that The city of Port Harcourt is in Nigeria. and that The city of Ganzhou is in China..,1,342,498
+It is the case both that The city of Leon de los Aldama is in Somalia. and that The city of Cabinda is in Angola..,0,55,56
+It is the case both that The city of Peshawar is in Pakistan. and that The city of Muntinlupa is in the Philippines..,1,672,1109
+It is the case both that The city of Detroit is in the Democratic Republic of the Congo. and that The city of Xinyu is in China..,0,308,38
+It is the case both that The city of Panzhihua is in Nigeria. and that The city of Zhanjiang is in China..,0,131,1042
+It is the case both that The city of Nagpur is in India. and that The city of Nanchang is in India..,0,440,314
+It is the case both that The city of Tomsk is in Russia. and that The city of Fushun is in Indonesia..,0,110,226
+It is the case both that The city of Katsina is in Nigeria. and that The city of Changde is in China..,1,262,133
+It is the case both that The city of Anshan is in Pakistan. and that The city of Cixi is in France..,0,570,438
+It is the case both that The city of Neijiang is in China. and that The city of Feira de Santana is in Vietnam..,0,126,306
+It is the case both that The city of Irbid is in India. and that The city of Lilongwe is in Malawi..,0,434,80
+It is the case both that The city of Guwahati is in China. and that The city of Sialkot is in Pakistan..,0,313,491
+It is the case both that The city of Rizhao is in China. and that The city of Langfang is in China..,1,618,1136
+It is the case both that The city of Narela is in India. and that The city of Istanbul is in Turkey..,1,301,35
+It is the case both that The city of Zagreb is in India. and that The city of Islamabad is in New Zealand..,0,897,210
+It is the case both that The city of Soshanguve is in India. and that The city of Fukuoka is in Japan..,0,565,803
+It is the case both that The city of Dongying is in China. and that The city of Shaoxing is in China..,1,225,249
+It is the case both that The city of Huaibei is in China. and that The city of Bangkok is in Thailand..,1,720,694
+It is the case both that The city of Islamabad is in New Zealand. and that The city of Cuautitlan Izcalli is in Turkey..,0,210,1049
+It is the case both that The city of Khulna is in Bangladesh. and that The city of Laiwu is in Sudan..,0,75,867
+It is the case both that The city of Calgary is in Canada. and that The city of Osaka is in Japan..,1,885,1024
+It is the case both that The city of Tokyo is in Japan. and that The city of Sagamihara is in China..,0,1129,284
+It is the case both that The city of Soacha is in Colombia. and that The city of Kinshasa is in the Democratic Republic of the Congo..,1,360,848
+It is the case both that The city of Loni is in India. and that The city of Beijing is in China..,1,381,752
+It is the case both that The city of Chunian is in Guatemala. and that The city of Changwon is in South Korea..,0,814,862
+It is the case both that The city of Zhenjiang is in China. and that The city of Evaton is in South Africa..,1,1122,315
+It is the case both that The city of Asmara is in South Korea. and that The city of Frankfurt am Main is in China..,0,929,390
+It is the case both that The city of Xuzhou is in India. and that The city of Heroica Matamoros is in Mexico..,0,383,924
+It is the case both that The city of Jammu is in India. and that The city of Amritsar is in India..,1,1089,809
+It is the case both that The city of Al Hudaydah is in Yemen. and that The city of Yangjiang is in China..,1,655,535
+It is the case both that The city of Kampung Baru Subang is in Malaysia. and that The city of Zhumadian is in China..,1,454,973
+It is the case both that The city of Erode is in Guinea. and that The city of Santiago de Queretaro is in Indonesia..,0,508,453
+It is the case both that The city of Arusha is in Tanzania. and that The city of Songjiang is in China..,1,264,826
+It is the case both that The city of Serang is in Sudan. and that The city of Zibo is in Bangladesh..,0,985,301
+It is the case both that The city of Rahim Yar Khan is in Pakistan. and that The city of Tashkent is in Uzbekistan..,1,585,1114
+It is the case both that The city of Odesa is in Pakistan. and that The city of Kashgar is in China..,0,554,232
+It is the case both that The city of Visakhapatnam is in China. and that The city of Cuiaba is in Brazil..,0,99,1144
+It is the case both that The city of Florianopolis is in the United States. and that The city of Kathmandu is in India..,0,192,40
+It is the case both that The city of Cotonou is in Malaysia. and that The city of Astana is in Hungary..,0,29,861
+It is the case both that The city of Navi Mumbai is in China. and that The city of Tlaquepaque is in Mexico..,0,87,773
+It is the case both that The city of Nashik is in Brazil. and that The city of Qujing is in China..,0,45,883
+It is the case both that The city of Gustavo Adolfo Madero is in Mexico. and that The city of Kagoshima is in Japan..,1,1175,486
+It is the case both that The city of Setagaya is in Japan. and that The city of Ta'if is in Saudi Arabia..,1,363,877
+It is the case both that The city of Rostov-on-Don is in Russia. and that The city of Ta'if is in Saudi Arabia..,1,143,877
+It is the case both that The city of Surat is in India. and that The city of Xiaogan is in Bangladesh..,0,557,336
+It is the case both that The city of Surat is in India. and that The city of Wuzhou is in China..,1,557,79
+It is the case both that The city of Chicago is in the United States. and that The city of Bengaluru is in India..,1,89,493
+It is the case both that The city of Caloocan is in India. and that The city of Bucharest is in China..,0,781,716
+It is the case both that The city of Vinh is in Vietnam. and that The city of Nansana is in Uganda..,1,629,387
+It is the case both that The city of Guigang is in China. and that The city of Tlalpan is in Mexico..,1,802,27
+It is the case both that The city of Vadodara is in India. and that The city of Evaton is in South Africa..,1,821,315
+It is the case both that The city of Benguela is in India. and that The city of Ribeirao Preto is in Vietnam..,0,5,415
+It is the case both that The city of Suez is in Egypt. and that The city of Meknes is in Morocco..,1,39,237
+It is the case both that The city of Cho Lon is in Vietnam. and that The city of Hezhou is in China..,1,401,99
+It is the case both that The city of Hamhung is in North Korea. and that The city of Muzaffarabad is in India..,0,457,69
+It is the case both that The city of Weinan is in China. and that The city of Saitama is in Japan..,1,42,364
+It is the case both that The city of Nanded is in the Democratic Republic of the Congo. and that The city of Chongqing is in Russia..,0,451,442
+It is the case both that The city of Al Mahallah al Kubra is in Egypt. and that The city of Ebute Ikorodu is in Nigeria..,1,947,386
+It is the case both that The city of Hengyang is in the Philippines. and that The city of Wuzhong is in Vietnam..,0,680,564
+It is the case both that The city of Hlaingthaya is in China. and that The city of Kashgar is in China..,0,398,232
+It is the case both that The city of Mirpur Model Thana is in Burkina Faso. and that The city of Malatya is in Iran..,0,875,489
+It is the case both that The city of Macapa is in Brazil. and that The city of Irbid is in Jordan..,1,190,95
+It is the case both that The city of Qujing is in China. and that The city of Fuxin is in China..,1,883,1143
+It is the case both that The city of Oklahoma City is in the United States. and that The city of Kalaburagi is in India..,1,884,200
+It is the case both that The city of Bauchi is in Nigeria. and that The city of Rasapudipalem is in India..,1,316,286
+It is the case both that The city of Pretoria is in South Africa. and that The city of Hamamatsu is in Japan..,1,60,785
+It is the case both that The city of Yerevan is in Honduras. and that The city of Dar es Salaam is in Tanzania..,0,122,666
+It is the case both that The city of Tashkent is in Uzbekistan. and that The city of Basrah is in Iraq..,1,1114,700
+It is the case both that The city of Mandalay is in Myanmar. and that The city of Amman is in Jordan..,1,483,819
+It is the case both that The city of Najran is in Saudi Arabia. and that The city of Wuzhou is in Finland..,0,156,411
+It is the case both that The city of Arusha is in Tanzania. and that The city of Sofia is in China..,0,264,448
+It is the case both that The city of Kathmandu is in India. and that The city of Hamamatsu is in Japan..,0,40,785
+It is the case both that The city of Bayan Nur is in China. and that The city of Erode is in India..,1,1039,58
+It is the case both that The city of Kolkata is in India. and that The city of Kunshan is in China..,1,804,855
+It is the case both that The city of Navi Mumbai is in China. and that The city of Hamamatsu is in Japan..,0,87,785
+It is the case both that The city of Recife is in Brazil. and that The city of Kozhikode is in Yemen..,0,520,88
+It is the case both that The city of Chongqing is in China. and that The city of Qionghai is in China..,1,438,847
+It is the case both that The city of Ulhasnagar is in India. and that The city of Kananga is in the Democratic Republic of the Congo..,1,959,186
+It is the case both that The city of Wanning is in the Philippines. and that The city of Huaibei is in Japan..,0,412,497
+It is the case both that The city of Nanchong is in Malaysia. and that The city of Qom is in Iran..,0,172,105
+It is the case both that The city of Naberezhnyye Chelny is in Russia. and that The city of Basrah is in Iraq..,1,397,700
+It is the case both that The city of Zhongwei is in China. and that The city of Guangyuan is in Indonesia..,0,276,713
+It is the case both that The city of Kampung Baru Subang is in Malaysia. and that The city of Riga is in Brazil..,0,454,28
+It is the case both that The city of Tirunelveli is in Turkmenistan. and that The city of Nanning is in China..,0,388,298
+It is the case both that The city of Jinzhong is in Russia. and that The city of Durban is in Eritrea..,0,246,393
+It is the case both that The city of Jiaxing is in the Democratic Republic of the Congo. and that The city of Tehran is in Russia..,0,192,197
+It is the case both that The city of Paranaque City is in the Philippines. and that The city of Penza is in Russia..,1,737,303
+It is the case both that The city of Bhopal is in India. and that The city of Wroclaw is in Poland..,1,229,880
+It is the case both that The city of San Luis Potosi is in Mexico. and that The city of Warri is in Myanmar..,0,233,347
+It is the case both that The city of Aguascalientes is in Mexico. and that The city of Bursa is in Turkey..,1,456,57
+It is the case both that The city of Asmara is in Eritrea. and that The city of Rostov-on-Don is in Russia..,1,992,143
+It is the case both that The city of Changde is in China. and that The city of Huainan is in China..,1,133,459
+It is the case both that The city of Cuttack is in India. and that The city of Pasig City is in the Philippines..,1,468,578
+It is the case both that The city of Ilorin is in India. and that The city of Jamshedpur is in India..,0,117,57
+It is the case both that The city of Likasi is in the Democratic Republic of the Congo. and that The city of Benin City is in Nigeria..,1,764,903
+It is the case both that The city of Albuquerque is in the United States. and that The city of Khabarovsk is in Russia..,1,729,172
+It is the case both that The city of Shekhupura is in Pakistan. and that The city of Songjiang is in China..,1,730,826
+It is the case both that The city of Ribeirao Preto is in Brazil. and that The city of Longyan is in China..,1,431,56
+It is the case both that The city of Pekanbaru is in Indonesia. and that The city of Beira is in Mozambique..,1,211,1090
+It is the case both that The city of Ajegunle is in Nigeria. and that The city of Mohammadpur is in Bangladesh..,1,345,272
+It is the case both that The city of Wanning is in the Philippines. and that The city of Hengyang is in the Philippines..,0,412,680
+It is the case both that The city of Cucuta is in Nigeria. and that The city of Sanya is in Malaysia..,0,408,4
+It is the case both that The city of Bangkok is in Thailand. and that The city of Najafgarh is in China..,0,694,159
+It is the case both that The city of Arusha is in Tanzania. and that The city of Huangshi is in China..,1,264,87
+It is the case both that The city of Saint Petersburg is in Russia. and that The city of Pallabi is in New Zealand..,0,983,987
+It is the case both that The city of Pingliang is in China. and that The city of Hengyang is in the Philippines..,0,290,680
+It is the case both that The city of Hengyang is in China. and that The city of Iskandar Puteri is in Gabon..,0,420,299
+It is the case both that The city of Yunfu is in Indonesia. and that The city of Jaipur is in India..,0,417,84
+It is the case both that The city of Sulaymaniyah is in Iraq. and that The city of Deyang is in China..,1,275,409
+It is the case both that The city of Aleppo is in Turkey. and that The city of Izmir is in Indonesia..,0,90,13
+It is the case both that The city of Tabriz is in Iran. and that The city of Al Ahmadi is in Kuwait..,1,432,782
+It is the case both that The city of Zhabei is in Japan. and that The city of Arequipa is in China..,0,1150,831
+It is the case both that The city of Marseille is in France. and that The city of Xiaogan is in China..,1,218,267
+It is the case both that The city of Changshu is in Bangladesh. and that The city of Benxi is in Peru..,0,1101,288
+It is the case both that The city of Zhaoqing is in Mexico. and that The city of Panshan is in China..,0,403,1135
+It is the case both that The city of Sialkot is in Pakistan. and that The city of Sholapur is in India..,1,491,547
+It is the case both that The city of Juiz de Fora is in Brazil. and that The city of Kinshasa is in the Democratic Republic of the Congo..,1,191,848
+It is the case both that The city of Benxi is in China. and that The city of Dnipro is in Turkey..,0,766,430
+It is the case both that The city of Abuja is in China. and that The city of Cimahi is in Egypt..,0,156,619
+It is the case both that The city of Perm is in Russia. and that The city of Puxi is in China..,1,703,727
+It is the case both that The city of Kumamoto is in Brazil. and that The city of Bloemfontein is in China..,0,893,1057
+It is the case both that The city of Tomsk is in Russia. and that The city of Laiwu is in China..,1,110,1098
+It is the case both that The city of Ndola is in Zambia. and that The city of Guiyang is in China..,1,858,429
+It is the case both that The city of Jamshedpur is in Russia. and that The city of Evaton is in Malawi..,0,116,1031
+It is the case both that The city of Vijayawada is in India. and that The city of Port Said is in Egypt..,1,1001,850
+It is the case both that The city of Kalaburagi is in India. and that The city of Banjarmasin is in Indonesia..,1,200,1021
+It is the case both that The city of Selayang Baru Utara is in Malaysia. and that The city of Istanbul is in Turkey..,1,1087,35
+It is the case both that The city of Tomsk is in Russia. and that The city of Naucalpan de Juarez is in China..,0,110,368
+It is the case both that The city of Abeokuta is in Bangladesh. and that The city of Tangier is in Morocco..,0,89,439
+It is the case both that The city of Assiut is in Egypt. and that The city of Shaoguan is in China..,1,758,567
+It is the case both that The city of Palembang is in Russia. and that The city of Davao is in China..,0,1016,1113
+It is the case both that The city of Soweto is in South Africa. and that The city of Jiaozhou is in Ecuador..,0,458,147
+It is the case both that The city of Benoni is in South Africa. and that The city of Al Basrah al Qadimah is in Iraq..,1,421,374
+It is the case both that The city of Situbondo is in Indonesia. and that The city of Kathmandu is in Nepal..,1,1058,1028
+It is the case both that The city of Kimhae is in South Korea. and that The city of Islamabad is in Pakistan..,1,569,158
+It is the case both that The city of Banjarmasin is in Indonesia. and that The city of Luzhou is in China..,1,1021,1170
+It is the case both that The city of Asansol is in China. and that The city of Baku is in China..,0,266,849
+It is the case both that The city of Bijie is in China. and that The city of Port Harcourt is in Nigeria..,1,657,342
+It is the case both that The city of Kananga is in China. and that The city of Agadir is in Kenya..,0,560,1068
+It is the case both that The city of Ziyang is in Iraq. and that The city of Zaozhuang is in China..,0,650,414
+It is the case both that The city of Kemerovo is in Lebanon. and that The city of Matola is in Mozambique..,0,465,332
+It is the case both that The city of Coyoacan is in Mexico. and that The city of Calumbo is in Angola..,1,9,510
+It is the case both that The city of Weihai is in Tajikistan. and that The city of Bhopal is in Egypt..,0,757,1126
+It is the case both that The city of Guang'an is in China. and that The city of Phnom Penh is in Cambodia..,1,882,823
+It is the case both that The city of Shangqiu is in Uzbekistan. and that The city of Ranchi is in China..,0,72,596
+It is the case both that The city of Bucaramanga is in Turkey. and that The city of Dalian is in India..,0,461,551
+It is the case both that The city of Hoji ya Henda is in Angola. and that The city of Osaka is in Japan..,1,296,1024
+It is the case both that The city of Kisangani is in Mozambique. and that The city of Dodoma is in Tanzania..,0,436,263
+It is the case both that The city of Aparecida de Goiania is in Brazil. and that The city of Ipoh is in Malaysia..,1,206,8
+It is the case both that The city of Liaocheng is in China. and that The city of Nowrangapur is in India..,1,202,1014
+It is the case both that The city of Vladivostok is in China. and that The city of Ananindeua is in Brazil..,0,175,151
+It is the case both that The city of Lubumbashi is in the Democratic Republic of the Congo. and that The city of Shizuishan is in China..,1,404,228
+It is the case both that The city of Dnipro is in Ukraine. and that The city of Huzhou is in South Korea..,0,261,239
+It is the case both that The city of Guilin is in China. and that The city of Guigang is in China..,1,211,802
+It is the case both that The city of Mombasa is in Kenya. and that The city of Sangli is in India..,1,940,323
+It is the case both that The city of Juiz de Fora is in China. and that The city of Gqeberha is in China..,0,424,1079
+It is the case both that The city of Zamboanga is in the Philippines. and that The city of Tangerang is in Indonesia..,1,1072,202
+It is the case both that The city of Huizhou is in China. and that The city of Abeokuta is in Nigeria..,1,464,612
+It is the case both that The city of Bucharest is in Romania. and that The city of Hlaingthaya is in Myanmar..,1,109,61
+It is the case both that The city of Meizhou is in Vietnam. and that The city of Zhoushan is in Jordan..,0,68,128
+It is the case both that The city of Taguig is in the Philippines. and that The city of Pasig City is in the Philippines..,1,53,578
+It is the case both that The city of Hefei is in Russia. and that The city of Yaounde is in China..,0,339,443
+It is the case both that The city of Ulanqab is in China. and that The city of Kota Bharu is in Malaysia..,1,119,597
+It is the case both that The city of Antananarivo is in Madagascar. and that The city of Kota Kinabalu is in Malaysia..,1,194,44
+It is the case both that The city of Arequipa is in China. and that The city of Owerri is in Japan..,0,831,194
+It is the case both that The city of Mogadishu is in Somalia. and that The city of Hiroshima is in Japan..,1,195,944
+It is the case both that The city of Istanbul is in China. and that The city of Santo Domingo Este is in the Philippines..,0,747,283
+It is the case both that The city of Kolkata is in Mozambique. and that The city of Kumamoto is in Japan..,0,320,234
+It is the case both that The city of Beirut is in Lebanon. and that The city of Cotonou is in Benin..,1,304,717
+It is the case both that The city of Changwon is in South Korea. and that The city of Bujumbura is in Burundi..,1,862,352
+It is the case both that The city of Guatemala City is in Guatemala. and that The city of Malatya is in Turkey..,1,771,740
+It is the case both that The city of Maoming is in Colombia. and that The city of Erode is in India..,0,198,58
+It is the case both that The city of Rangpur is in Bosnia and Herzegovina. and that The city of Santiago de Queretaro is in Indonesia..,0,227,453
+It is the case both that The city of Bhilai is in India. and that The city of Evaton is in South Africa..,1,483,315
+It is the case both that The city of Auckland is in China. and that The city of Ningbo is in Russia..,0,348,320
+It is the case both that The city of Mirpur Model Thana is in Bangladesh. and that The city of Bangkok is in Thailand..,1,668,694
+It is the case both that The city of San Miguel de Tucuman is in Argentina. and that The city of Qom is in Iran..,1,250,105
+It is the case both that The city of Tiruchirappalli is in India. and that The city of Guangyuan is in China..,1,403,106
+It is the case both that The city of Hannover is in Germany. and that The city of Luohe is in China..,1,347,1160
+It is the case both that The city of Hwaseong-si is in China. and that The city of Soweto is in Mexico..,0,106,1173
+It is the case both that The city of Ecatepec de Morelos is in Lebanon. and that The city of Rajshahi is in Bangladesh..,0,251,832
+It is the case both that The city of Amritsar is in India. and that The city of Bayan Nur is in Bangladesh..,0,809,318
+It is the case both that The city of Kota Kuala Muda is in France. and that The city of Tianshui is in China..,0,238,33
+It is the case both that The city of Krakow is in Poland. and that The city of Binzhou is in China..,1,455,1018
+It is the case both that The city of Chuzhou is in China. and that The city of Ganzhou is in Indonesia..,0,307,269
+It is the case both that The city of Pokhara is in Nepal. and that The city of Dakar is in Senegal..,1,506,919
+It is the case both that The city of Bishkek is in Iraq. and that The city of Itabashi is in China..,0,104,154
+It is the case both that The city of Zamboanga is in India. and that The city of Maputo is in China..,0,446,1191
+It is the case both that The city of Makhachkala is in China. and that The city of Maoming is in China..,0,541,479
+It is the case both that The city of Kashgar is in Peru. and that The city of Najafgarh is in India..,0,265,482
+It is the case both that The city of Hanzhong is in Nigeria. and that The city of Jajmau is in Malaysia..,0,273,309
+It is the case both that The city of Bengaluru is in India. and that The city of Nairobi is in Kenya..,1,493,968
+It is the case both that The city of Islamabad is in Pakistan. and that The city of Korla is in the United States..,0,158,432
+It is the case both that The city of Copenhagen is in Nigeria. and that The city of Taguig is in the Philippines..,0,503,53
+It is the case both that The city of Mississauga is in Canada. and that The city of Shangluo is in China..,1,537,953
+It is the case both that The city of Gurugram is in Germany. and that The city of Yingkou is in China..,0,199,203
+It is the case both that The city of Gurugram is in India. and that The city of Haiphong is in Vietnam..,1,203,1065
+It is the case both that The city of Guatemala City is in Guatemala. and that The city of Almaty is in Turkey..,0,771,13
+It is the case both that The city of Benin City is in Nigeria. and that The city of Penza is in Colombia..,0,903,394
+It is the case both that The city of Aden is in China. and that The city of Iskandar Puteri is in Malaysia..,0,164,179
+It is the case both that The city of Port-au-Prince is in Haiti. and that The city of Voronezh is in Russia..,1,555,18
+It is the case both that The city of Hoji ya Henda is in Angola. and that The city of Yangjiang is in India..,0,296,648
+It is the case both that The city of Beirut is in Lebanon. and that The city of Surakarta is in Indonesia..,1,304,455
+It is the case both that The city of Pekanbaru is in Indonesia. and that The city of Johor Bahru is in Malaysia..,1,211,1071
+It is the case both that The city of Bannu is in Pakistan. and that The city of Panzhihua is in China..,1,154,956
+It is the case both that The city of Gurugram is in India. and that The city of Minhang is in China..,1,203,1040
+It is the case both that The city of Queens is in the United States. and that The city of Lome is in Iraq..,0,287,38
+It is the case both that The city of Kozhikode is in India. and that The city of Santiago de Cuba is in Cuba..,1,708,1017
+It is the case both that The city of Korla is in China. and that The city of Novosibirsk is in Russia..,1,442,51
+It is the case both that The city of Quezon City is in Pakistan. and that The city of Baoji is in Japan..,0,1176,614
+It is the case both that The city of Jeonju is in Egypt. and that The city of Thembisa is in Yemen..,0,497,282
+It is the case both that The city of Nova Iguacu is in the Democratic Republic of the Congo. and that The city of Shangqiu is in China..,0,15,97
+It is the case both that The city of Jakarta is in Indonesia. and that The city of Beijing is in China..,1,552,752
+It is the case both that The city of Belford Roxo is in Brazil. and that The city of Bouake is in Côte d'Ivoire..,1,999,774
+It is the case both that The city of Zagreb is in Croatia. and that The city of Binzhou is in China..,1,835,1018
+It is the case both that The city of Navi Mumbai is in China. and that The city of Odesa is in Pakistan..,0,87,554
+It is the case both that The city of Gujranwala is in Pakistan. and that The city of Kikolo is in China..,0,180,606
+It is the case both that The city of Anshun is in Canada. and that The city of Cho Lon is in the Dominican Republic..,0,143,355
+It is the case both that The city of South Tangerang is in Brazil. and that The city of Kalyan is in China..,0,428,311
+It is the case both that The city of Kashgar is in China. and that The city of Deyang is in China..,1,232,409
+It is the case both that The city of Neijiang is in China. and that The city of Maiduguri is in Nigeria..,1,126,1092
+It is the case both that The city of Ulan Bator is in Mongolia. and that The city of Hwaseong-si is in South Korea..,1,419,332
+It is the case both that The city of Tiruchirappalli is in India. and that The city of Bhopal is in India..,1,403,229
+It is the case both that The city of Xiangtan is in China. and that The city of Jinzhong is in China..,1,17,2
+It is the case both that The city of Ryazan' is in Saudi Arabia. and that The city of Munich is in Germany..,0,130,993
+It is the case both that The city of Benguela is in Angola. and that The city of Gaziantep is in Turkey..,1,649,684
+It is the case both that The city of Lyon is in France. and that The city of Linfen is in China..,1,336,302
+It is the case both that The city of Rohini is in India. and that The city of Guigang is in China..,1,538,802
+It is the case both that The city of Pikine is in Senegal. and that The city of Zhoushan is in China..,1,504,574
+It is the case both that The city of Camama is in Russia. and that The city of South Tangerang is in Brazil..,0,513,428
+It is the case both that The city of Mosul is in North Korea. and that The city of Jiamusi is in Lebanon..,0,217,27
+It is the case both that The city of Xuhui is in China. and that The city of Guang'an is in China..,1,762,882
+It is the case both that The city of Xiangtan is in China. and that The city of Cimahi is in Indonesia..,1,17,799
+It is the case both that The city of Guangzhou is in China. and that The city of Chizhou is in the Democratic Republic of the Congo..,0,227,182
+It is the case both that The city of Gwalior is in India. and that The city of Dera Ismail Khan is in Pakistan..,1,723,178
+It is the case both that The city of Pokhara is in Nepal. and that The city of Giza is in Egypt..,1,506,895
+It is the case both that The city of Kallakurichi is in Germany. and that The city of Zhenjiang is in China..,0,598,1122
+It is the case both that The city of Recife is in Brazil. and that The city of Zhanjiang is in China..,1,520,1042
+It is the case both that The city of Mumbai is in India. and that The city of Mohammadpur is in Bangladesh..,1,329,272
+It is the case both that The city of Bamako is in Mali. and that The city of Shijiazhuang is in China..,1,372,384
+It is the case both that The city of Bareilly is in North Korea. and that The city of Muzaffarabad is in India..,0,502,69
+It is the case both that The city of Shangluo is in China. and that The city of Islamabad is in New Zealand..,0,953,210
+It is the case both that The city of Shihezi is in Turkey. and that The city of Anshun is in China..,0,910,253
+It is the case both that The city of Bhiwandi is in China. and that The city of Bengbu is in China..,0,334,112
+It is the case both that The city of Novosibirsk is in China. and that The city of Laibin is in China..,0,146,763
+It is the case both that The city of Jiaozhou is in Ecuador. and that The city of Juiz de Fora is in China..,0,147,424
+It is the case both that The city of Zhuzhou is in China. and that The city of Omdurman is in Sudan..,1,348,1168
+It is the case both that The city of Astana is in Kazakhstan. and that The city of Abidjan is in Brazil..,0,93,1012
+It is the case both that The city of Budapest is in Hungary. and that The city of Incheon is in South Korea..,1,1073,605
+It is the case both that The city of Ha'il is in Saudi Arabia. and that The city of Panjin is in China..,1,308,338
+It is the case both that The city of Amritsar is in China. and that The city of Bareilly is in India..,0,230,474
+It is the case both that The city of Nuremberg is in Germany. and that The city of Caracas is in Venezuela..,1,170,679
+It is the case both that The city of Nagpur is in Bangladesh. and that The city of Cheongju-si is in South Korea..,0,516,173
+It is the case both that The city of Guayaquil is in Bangladesh. and that The city of Jamnagar is in the Philippines..,0,1146,751
+It is the case both that The city of Odesa is in Pakistan. and that The city of San Pedro Sula is in Côte d'Ivoire..,0,554,409
+It is the case both that The city of Fuxin is in China. and that The city of Baku is in Azerbaijan..,1,1143,457
+It is the case both that The city of Xuhui is in China. and that The city of Weifang is in China..,1,762,420
+It is the case both that The city of Malang is in Indonesia. and that The city of Rui'an is in China..,1,573,515
+It is the case both that The city of Omsk is in Russia. and that The city of Goiania is in Brazil..,1,424,761
+It is the case both that The city of Rostov-on-Don is in Russia. and that The city of Indianapolis is in Japan..,0,143,926
+It is the case both that The city of Ta'if is in Nigeria. and that The city of Jiaozhou is in China..,0,1104,494
+It is the case both that The city of Qinhuangdao is in China. and that The city of Putuo is in Malaysia..,0,343,322
+It is the case both that The city of Fortaleza is in Brazil. and that The city of Petaling Jaya is in Malaysia..,1,26,471
+It is the case both that The city of Luohe is in China. and that The city of Khulna is in Bangladesh..,1,1160,75
+It is the case both that The city of Bengaluru is in Vietnam. and that The city of Arequipa is in Peru..,0,298,444
+It is the case both that The city of Saint Petersburg is in Russia. and that The city of Ta'if is in Saudi Arabia..,1,983,877
+It is the case both that The city of Hue is in Iraq. and that The city of Dhanbad is in the United States..,0,640,1127
+It is the case both that The city of Esenler is in Turkey. and that The city of Johor Bahru is in Malaysia..,1,120,1071
+It is the case both that The city of Malacca is in China. and that The city of Zhumadian is in China..,0,995,973
+It is the case both that The city of Balbala is in Djibouti. and that The city of Wanxian is in China..,1,1147,254
+It is the case both that The city of Battagram is in Pakistan. and that The city of Novosibirsk is in Russia..,1,602,51
+It is the case both that The city of Iskandar Puteri is in Gabon. and that The city of Xuzhou is in China..,0,299,329
+It is the case both that The city of Ahmedabad is in India. and that The city of Cixi is in China..,1,1084,414
+It is the case both that The city of Shaoguan is in China. and that The city of Thembisa is in Yemen..,0,567,282
+It is the case both that The city of Beira is in Mozambique. and that The city of Goyang-si is in Brazil..,0,1090,478
+It is the case both that The city of Wuzhong is in China. and that The city of Nairobi is in Kenya..,1,421,968
+It is the case both that The city of Lianyungang is in China. and that The city of Ribeirao Preto is in Brazil..,1,852,431
+It is the case both that The city of Hoji ya Henda is in Angola. and that The city of Cancun is in Vietnam..,0,296,1107
+It is the case both that The city of Zhangjiakou is in Colombia. and that The city of Lahore is in Pakistan..,0,692,386
+It is the case both that The city of Kikwit is in the Democratic Republic of the Congo. and that The city of Quezon City is in Pakistan..,0,114,1176
+It is the case both that The city of Kermanshah is in Malaysia. and that The city of Weihai is in Tajikistan..,0,1075,757
+It is the case both that The city of Quetta is in India. and that The city of San Miguel de Tucuman is in China..,0,1013,544
+It is the case both that The city of Voronezh is in Russia. and that The city of Sadr City is in Iraq..,1,18,345
+It is the case both that The city of Soshanguve is in South Africa. and that The city of Pasig City is in the Philippines..,1,224,578
+It is the case both that The city of Owerri is in Japan. and that The city of Antalya is in Kazakhstan..,0,194,152
+It is the case both that The city of Asmara is in Eritrea. and that The city of Jambi City is in Indonesia..,1,992,101
+It is the case both that The city of Zhaoqing is in China. and that The city of Orenburg is in Turkey..,0,909,981
+It is the case both that The city of Accra is in Ghana. and that The city of Qiqihar is in South Korea..,0,462,635
+It is the case both that The city of Abeokuta is in Nigeria. and that The city of Anshan is in China..,1,612,269
+It is the case both that The city of Algiers is in the Democratic Republic of the Congo. and that The city of Lusaka is in China..,0,704,364
+It is the case both that The city of Kisangani is in Mozambique. and that The city of Vladivostok is in Russia..,0,436,470
+It is the case both that The city of Bilimora is in India. and that The city of Siliguri is in India..,1,79,281
+It is the case both that The city of Giza is in Russia. and that The city of Niteroi is in India..,0,148,1036
+It is the case both that The city of Taicang is in China. and that The city of Golfe is in Angola..,1,274,645
+It is the case both that The city of Palembang is in Indonesia. and that The city of Aparecida de Goiania is in Brazil..,1,163,206
+It is the case both that The city of Ha'il is in Saudi Arabia. and that The city of Rohini is in India..,1,308,538
+It is the case both that The city of Amman is in Japan. and that The city of Quetta is in Pakistan..,0,366,41
+It is the case both that The city of Calabar is in Uganda. and that The city of Jamnagar is in India..,0,171,120
+It is the case both that The city of Khabarovsk is in Russia. and that The city of Likasi is in China..,0,172,207
+It is the case both that The city of Taicang is in China. and that The city of Fes is in Morocco..,1,274,321
+It is the case both that The city of Hengyang is in China. and that The city of Indianapolis is in Japan..,0,420,926
+It is the case both that The city of Visakhapatnam is in India. and that The city of Yangpu is in China..,1,248,1180
+It is the case both that The city of Osogbo is in Nigeria. and that The city of Namangan is in Uzbekistan..,1,600,210
+It is the case both that The city of Luzhou is in China. and that The city of Nasiriyah is in Iraq..,1,1170,107
+It is the case both that The city of Jiangyin is in China. and that The city of Likasi is in China..,0,935,207
+It is the case both that The city of Kolkata is in Mozambique. and that The city of Shizuishan is in Iran..,0,320,736
+It is the case both that The city of Hamamatsu is in Japan. and that The city of Changwon is in South Korea..,1,785,862
+It is the case both that The city of Thembisa is in South Africa. and that The city of Wuhan is in China..,1,201,662
+It is the case both that The city of Jiangyin is in India. and that The city of Arifwala is in South Africa..,0,465,797
+It is the case both that The city of Cotonou is in Benin. and that The city of Cuttack is in India..,1,717,468
+It is the case both that The city of Bucheon-si is in South Korea. and that The city of Harbin is in Uganda..,0,997,88
+It is the case both that The city of Tiruchirappalli is in India. and that The city of Islamabad is in New Zealand..,0,403,210
+It is the case both that The city of Xiamen is in China. and that The city of Agege is in Nigeria..,1,423,310
+It is the case both that The city of Jambi City is in China. and that The city of Durban is in South Africa..,0,967,724
+It is the case both that The city of Ilorin is in Nigeria. and that The city of Kisangani is in the Democratic Republic of the Congo..,1,590,534
+It is the case both that The city of Cangzhou is in the United States. and that The city of Prayagraj is in India..,0,954,315
+It is the case both that The city of Gurugram is in India. and that The city of Las Pinas is in the Philippines..,1,203,102
+It is the case both that The city of Ulan Bator is in Mongolia. and that The city of Subang Jaya is in Malaysia..,1,419,367
+It is the case both that The city of Madurai is in India. and that The city of Heze is in China..,1,962,74
+It is the case both that The city of Daegu is in South Korea. and that The city of Piura is in Peru..,1,731,1139
+It is the case both that The city of Porto Alegre is in Brazil. and that The city of Kananga is in the Democratic Republic of the Congo..,1,278,186
+It is the case both that The city of Budta is in the Philippines. and that The city of Golfe is in Angola..,1,463,645
+It is the case both that The city of Anshun is in China. and that The city of Conakry is in Guinea..,1,253,2
+It is the case both that The city of Zhanjiang is in China. and that The city of Dandong is in China..,1,1042,461
+It is the case both that The city of Tomsk is in Russia. and that The city of Zagreb is in Croatia..,1,110,835
+It is the case both that The city of Arusha is in Tanzania. and that The city of Golfe is in Angola..,1,264,645
+It is the case both that The city of Thane is in India. and that The city of Budapest is in Hungary..,1,859,1073
+It is the case both that The city of Jiujiang is in China. and that The city of Guangyuan is in Indonesia..,0,800,713
+It is the case both that The city of Najran is in China. and that The city of Barranquilla is in Mexico..,0,343,933
+It is the case both that The city of Heroica Matamoros is in China. and that The city of Mississauga is in India..,0,322,335
+It is the case both that The city of Lusaka is in Zambia. and that The city of Qom is in Iran..,1,1133,105
+It is the case both that The city of Carrefour is in Haiti. and that The city of Gustavo Adolfo Madero is in Mexico..,1,351,1175
+It is the case both that The city of Shantou is in Bulgaria. and that The city of Pudong is in Morocco..,0,37,922
+It is the case both that The city of Irbid is in Jordan. and that The city of Sanaa is in Yemen..,1,95,594
+It is the case both that The city of Wanning is in China. and that The city of Vientiane is in Indonesia..,0,701,63
+It is the case both that The city of Chuzhou is in Bangladesh. and that The city of Guatemala City is in Mexico..,0,695,165
+It is the case both that The city of Calabar is in Uganda. and that The city of Cuttack is in Jordan..,0,171,417
+It is the case both that The city of Makhachkala is in China. and that The city of Kalininskiy is in Germany..,0,541,1059
+It is the case both that The city of Sorocaba is in Brazil. and that The city of Situbondo is in Indonesia..,1,1077,1058
+It is the case both that The city of Mississauga is in Canada. and that The city of Karbala is in Iraq..,1,537,293
+It is the case both that The city of Prayagraj is in India. and that The city of Karol Bagh is in India..,1,315,292
+It is the case both that The city of Dera Ismail Khan is in Pakistan. and that The city of Setagaya is in Hungary..,0,178,1064
+It is the case both that The city of Benoni is in South Africa. and that The city of Guarulhos is in Azerbaijan..,0,421,864
+It is the case both that The city of Ajmer is in India. and that The city of Makati City is in the Philippines..,1,1105,677
+It is the case both that The city of Cucuta is in Colombia. and that The city of Xiaogan is in China..,1,748,267
+It is the case both that The city of Shangyu is in China. and that The city of Golfe is in Angola..,1,524,645
+It is the case both that The city of Shijiazhuang is in Belarus. and that The city of UEskuedar is in China..,0,1138,198
+It is the case both that The city of Chunian is in Pakistan. and that The city of Nasiriyah is in Iraq..,1,200,107
+It is the case both that The city of Coimbatore is in India. and that The city of Marrakesh is in Morocco..,1,509,603
+It is the case both that The city of Hanzhong is in Nigeria. and that The city of The Bronx is in the Democratic Republic of the Congo..,0,273,732
+It is the case both that The city of Rajshahi is in Bangladesh. and that The city of Fuxin is in China..,1,832,1143
+It is the case both that The city of Sevastopol is in Brazil. and that The city of Nha Trang is in Morocco..,0,742,738
+It is the case both that The city of Chunian is in Pakistan. and that The city of Tlaquepaque is in Mexico..,1,200,773
+It is the case both that The city of Luohe is in China. and that The city of Bhayandar is in India..,1,1160,333
+It is the case both that The city of Contagem is in China. and that The city of Zhumadian is in China..,0,486,973
+It is the case both that The city of Wuzhou is in China. and that The city of Mbeya is in Tanzania..,1,79,876
+It is the case both that The city of Warangal is in Myanmar. and that The city of Korla is in China..,0,296,442
+It is the case both that The city of Suez is in China. and that The city of Zigong is in Turkey..,0,549,986
+It is the case both that The city of Yaounde is in China. and that The city of Teni is in India..,0,443,1131
+It is the case both that The city of Bekasi is in Indonesia. and that The city of Rangpur is in Bosnia and Herzegovina..,0,181,227
+It is the case both that The city of Changchun is in China. and that The city of Guankou is in China..,1,1167,873
+It is the case both that The city of Bucaramanga is in Colombia. and that The city of Cuttack is in India..,1,670,468
+It is the case both that The city of Kobe is in Japan. and that The city of Ajegunle is in Russia..,0,458,642
+It is the case both that The city of Dombivali is in India. and that The city of Ciudad Guayana is in Poland..,0,836,676
+It is the case both that The city of Irbid is in Jordan. and that The city of Rizhao is in China..,1,95,618
+It is the case both that The city of Wanning is in the Philippines. and that The city of Panjin is in China..,0,412,338
+It is the case both that The city of Nagpur is in India. and that The city of Situbondo is in Indonesia..,1,440,1058
+It is the case both that The city of Vilnius is in Lithuania. and that The city of Beijing is in China..,1,318,752
+It is the case both that The city of Shymkent is in India. and that The city of Calumbo is in Brazil..,0,134,163
+It is the case both that The city of Vladivostok is in Russia. and that The city of Bannu is in Pakistan..,1,470,154
+It is the case both that The city of Yunfu is in Indonesia. and that The city of Cuttack is in India..,0,417,468
+It is the case both that The city of Yangjiang is in India. and that The city of Jaipur is in India..,0,648,84
+It is the case both that The city of Guiyang is in China. and that The city of Luzhou is in China..,1,429,1170
+It is the case both that The city of Anqing is in China. and that The city of Puning is in China..,1,7,31
