@@ -1,513 +1,601 @@
 statement,label,country,cities,stated_k,actual_k
-"Exactly 0 of the following cities are in Yemen: Pretoria, Zhangjiakou.",1,Yemen,"('Pretoria', 'Zhangjiakou')",0,0
-"Exactly 2 of the following cities are in Tonga: Gujranwala, Pokhara.",0,Tonga,"('Gujranwala', 'Pokhara')",2,0
-"Exactly 0 of the following cities are in Morocco: Pontianak, Astrakhan.",1,Morocco,"('Astrakhan', 'Pontianak')",0,0
-"Exactly 1 of the following cities are in Cuba: Cimahi, Hamadan.",0,Cuba,"('Cimahi', 'Hamadan')",1,0
-"Exactly 0 of the following cities are in South Africa: Cuiaba, Thembisa.",0,South Africa,"('Cuiaba', 'Thembisa')",0,1
-"Exactly 0 of the following cities are in Jamaica: Kunshan, Kaifeng.",1,Jamaica,"('Kaifeng', 'Kunshan')",0,0
-"Exactly 2 of the following cities are in Turkey: Izmir, Gaziantep.",1,Turkey,"('Gaziantep', 'Izmir')",2,2
-"Exactly 0 of the following cities are in Niger: Sofia, Bandar Lampung.",1,Niger,"('Bandar Lampung', 'Sofia')",0,0
-"Exactly 0 of the following cities are in Jordan: Amman, Kanayannur.",0,Jordan,"('Amman', 'Kanayannur')",0,1
-"Exactly 1 of the following cities are in Cambodia: Benin City, Phnom Penh.",1,Cambodia,"('Benin City', 'Phnom Penh')",1,1
-"Exactly 0 of the following cities are in Tajikistan: Seoul, Dushanbe.",0,Tajikistan,"('Dushanbe', 'Seoul')",0,1
-"Exactly 1 of the following cities are in North Korea: Arifwala, Hamhung.",1,North Korea,"('Arifwala', 'Hamhung')",1,1
-"Exactly 2 of the following cities are in Pakistan: Bahawalpur, Shekhupura.",1,Pakistan,"('Bahawalpur', 'Shekhupura')",2,2
-"Exactly 2 of the following cities are in Bolivia: Mumbai, Novokuznetsk.",0,Bolivia,"('Mumbai', 'Novokuznetsk')",2,0
-"Exactly 2 of the following cities are in China: Aqsu, Ulanqab.",1,China,"('Aqsu', 'Ulanqab')",2,2
-"Exactly 1 of the following cities are in Panama: Shihezi, Niigata.",0,Panama,"('Niigata', 'Shihezi')",1,0
-"Exactly 1 of the following cities are in Sri Lanka: Maturin, Hezhou.",0,Sri Lanka,"('Hezhou', 'Maturin')",1,0
-"Exactly 0 of the following cities are in Albania: Nyala, Ho Chi Minh City.",1,Albania,"('Ho Chi Minh City', 'Nyala')",0,0
-"Exactly 1 of the following cities are in Uganda: Gqeberha, Kampala.",1,Uganda,"('Gqeberha', 'Kampala')",1,1
-"Exactly 2 of the following cities are in Iran: Kinshasa, Meerut.",0,Iran,"('Kinshasa', 'Meerut')",2,0
-"Exactly 0 of the following cities are in France: Marseille, Toulouse.",0,France,"('Marseille', 'Toulouse')",0,2
-"Exactly 0 of the following cities are in Canada: Winnipeg, Mississauga.",0,Canada,"('Mississauga', 'Winnipeg')",0,2
-"Exactly 1 of the following cities are in India: Novokuznetsk, Ranchi.",1,India,"('Novokuznetsk', 'Ranchi')",1,1
-"Exactly 0 of the following cities are in Guinea: Camayenne, Koeln.",0,Guinea,"('Camayenne', 'Koeln')",0,1
-"Exactly 0 of the following cities are in Slovakia: Karaj, Ghaziabad.",1,Slovakia,"('Ghaziabad', 'Karaj')",0,0
-"Exactly 0 of the following cities are in the Dominican Republic: Santiago de los Caballeros, Santo Domingo Oeste.",0,the Dominican Republic,"('Santiago de los Caballeros', 'Santo Domingo Oeste')",0,2
-"Exactly 1 of the following cities are in Malawi: Cuiaba, Aguascalientes.",0,Malawi,"('Aguascalientes', 'Cuiaba')",1,0
-"Exactly 1 of the following cities are in Mali: Duesseldorf, Bamako.",1,Mali,"('Bamako', 'Duesseldorf')",1,1
-"Exactly 1 of the following cities are in Mongolia: New Kingston, Changchun.",0,Mongolia,"('Changchun', 'New Kingston')",1,0
-"Exactly 0 of the following cities are in Myanmar: Hlaingthaya, Mandalay.",0,Myanmar,"('Hlaingthaya', 'Mandalay')",0,2
-"Exactly 0 of the following cities are in Germany: Dortmund, Nuremberg.",0,Germany,"('Dortmund', 'Nuremberg')",0,2
-"Exactly 0 of the following cities are in Latvia: Hlaingthaya, Maianga.",1,Latvia,"('Hlaingthaya', 'Maianga')",0,0
-"Exactly 0 of the following cities are in Russia: Guangzhou, Mississauga.",1,Russia,"('Guangzhou', 'Mississauga')",0,0
-"Exactly 0 of the following cities are in Somalia: Rizhao, Kemerovo.",1,Somalia,"('Kemerovo', 'Rizhao')",0,0
-"Exactly 1 of the following cities are in Slovenia: Agadir, Huludao.",0,Slovenia,"('Agadir', 'Huludao')",1,0
-"Exactly 0 of the following cities are in Antigua and Barbuda: Soweto, Bijie.",1,Antigua and Barbuda,"('Bijie', 'Soweto')",0,0
-"Exactly 2 of the following cities are in Iran: E'zhou, Utsunomiya.",0,Iran,"(""E'zhou"", 'Utsunomiya')",2,0
-"Exactly 0 of the following cities are in Ghana: Kumasi, Accra.",0,Ghana,"('Accra', 'Kumasi')",0,2
-"Exactly 0 of the following cities are in the Philippines: Barnaul, Zibo.",1,the Philippines,"('Barnaul', 'Zibo')",0,0
-"Exactly 2 of the following cities are in Uzbekistan: Namangan, Samarkand.",1,Uzbekistan,"('Namangan', 'Samarkand')",2,2
-"Exactly 2 of the following cities are in Cape Verde: Oslo, Lubumbashi.",0,Cape Verde,"('Lubumbashi', 'Oslo')",2,0
-"Exactly 2 of the following cities are in Somalia: Cheongju-si, Calabar.",0,Somalia,"('Calabar', 'Cheongju-si')",2,0
-"Exactly 1 of the following cities are in Jamaica: New Kingston, UEskuedar.",1,Jamaica,"('New Kingston', 'UEskuedar')",1,1
-"Exactly 2 of the following cities are in Germany: Leipzig, Koeln.",1,Germany,"('Koeln', 'Leipzig')",2,2
-"Exactly 0 of the following cities are in Swaziland: Vilnius, Yangjiang.",1,Swaziland,"('Vilnius', 'Yangjiang')",0,0
-"Exactly 1 of the following cities are in Sweden: Kumamoto, Omsk.",0,Sweden,"('Kumamoto', 'Omsk')",1,0
-"Exactly 0 of the following cities are in Saudi Arabia: Dammam, Seoul.",0,Saudi Arabia,"('Dammam', 'Seoul')",0,1
-"Exactly 1 of the following cities are in Vanuatu: Likasi, Esenyurt.",0,Vanuatu,"('Esenyurt', 'Likasi')",1,0
-"Exactly 0 of the following cities are in Senegal: Pikine, Zhangye.",0,Senegal,"('Pikine', 'Zhangye')",0,1
-"Exactly 1 of the following cities are in the Philippines: Shenyang, Muntinlupa.",1,the Philippines,"('Muntinlupa', 'Shenyang')",1,1
-"Exactly 0 of the following cities are in Mongolia: Ulan Bator, Makhachkala.",0,Mongolia,"('Makhachkala', 'Ulan Bator')",0,1
-"Exactly 1 of the following cities are in Bolivia: Kalyan, Minsk.",0,Bolivia,"('Kalyan', 'Minsk')",1,0
-"Exactly 0 of the following cities are in Djibouti: Balbala, Goiania.",0,Djibouti,"('Balbala', 'Goiania')",0,1
-"Exactly 2 of the following cities are in Colombia: Soacha, Barranquilla.",1,Colombia,"('Barranquilla', 'Soacha')",2,2
-"Exactly 1 of the following cities are in Romania: Bannu, Bucharest.",1,Romania,"('Bannu', 'Bucharest')",1,1
-"Exactly 0 of the following cities are in Saint Kitts and Nevis: Liupanshui, Esenler.",1,Saint Kitts and Nevis,"('Esenler', 'Liupanshui')",0,0
-"Exactly 0 of the following cities are in New Zealand: Kanayannur, Shenyang.",1,New Zealand,"('Kanayannur', 'Shenyang')",0,0
-"Exactly 2 of the following cities are in Angola: Lubango, Mulenvos.",1,Angola,"('Lubango', 'Mulenvos')",2,2
-"Exactly 0 of the following cities are in Cambodia: Zhongwei, N'Djamena.",1,Cambodia,"(""N'Djamena"", 'Zhongwei')",0,0
-"Exactly 1 of the following cities are in the United States: Shangluo, Chicago.",1,the United States,"('Chicago', 'Shangluo')",1,1
-"Exactly 2 of the following cities are in India: Kolkata, Bikaner.",1,India,"('Bikaner', 'Kolkata')",2,2
-"Exactly 1 of the following cities are in Austria: Makkah, Balikpapan.",0,Austria,"('Balikpapan', 'Makkah')",1,0
-"Exactly 1 of the following cities are in Bahrain: Abeokuta, Duque de Caxias.",0,Bahrain,"('Abeokuta', 'Duque de Caxias')",1,0
-"Exactly 2 of the following cities are in South Korea: Daejeon, Jeonju.",1,South Korea,"('Daejeon', 'Jeonju')",2,2
-"Exactly 0 of the following cities are in Burkina Faso: Bobo-Dioulasso, Ajmer.",0,Burkina Faso,"('Ajmer', 'Bobo-Dioulasso')",0,1
-"Exactly 1 of the following cities are in Sweden: Xuancheng, Stockholm.",1,Sweden,"('Stockholm', 'Xuancheng')",1,1
-"Exactly 1 of the following cities are in Colombia: Soacha, Daejeon.",1,Colombia,"('Daejeon', 'Soacha')",1,1
-"Exactly 2 of the following cities are in Iraq: Ipoh, Quebec.",0,Iraq,"('Ipoh', 'Quebec')",2,0
-"Exactly 0 of the following cities are in Zambia: Lusaka, Yangquan.",0,Zambia,"('Lusaka', 'Yangquan')",0,1
-"Exactly 1 of the following cities are in Cuba: Mulenvos, Bamako.",0,Cuba,"('Bamako', 'Mulenvos')",1,0
-"Exactly 1 of the following cities are in Sri Lanka: Zhengzhou, Hlaingthaya.",0,Sri Lanka,"('Hlaingthaya', 'Zhengzhou')",1,0
-"Exactly 2 of the following cities are in Afghanistan: Mazar-e Sharif, Buraydah.",0,Afghanistan,"('Buraydah', 'Mazar-e Sharif')",2,1
-"Exactly 2 of the following cities are in the United States: New South Memphis, Milwaukee.",1,the United States,"('Milwaukee', 'New South Memphis')",2,2
-"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Kolwezi, Bukavu.",1,the Democratic Republic of the Congo,"('Bukavu', 'Kolwezi')",2,2
-"Exactly 2 of the following cities are in India: Sholapur, Nowrangapur.",1,India,"('Nowrangapur', 'Sholapur')",2,2
-"Exactly 0 of the following cities are in Pakistan: Minhang, Saint Petersburg.",1,Pakistan,"('Minhang', 'Saint Petersburg')",0,0
-"Exactly 0 of the following cities are in Ecuador: Rui'an, Quito.",0,Ecuador,"('Quito', ""Rui'an"")",0,1
-"Exactly 2 of the following cities are in Angola: Shangqiu, Zibo.",0,Angola,"('Shangqiu', 'Zibo')",2,0
-"Exactly 1 of the following cities are in Zambia: Kyoto, Durban.",0,Zambia,"('Durban', 'Kyoto')",1,0
-"Exactly 1 of the following cities are in Zimbabwe: Harare, Jilin.",1,Zimbabwe,"('Harare', 'Jilin')",1,1
-"Exactly 1 of the following cities are in South Korea: Matola, Ulsan.",1,South Korea,"('Matola', 'Ulsan')",1,1
-"Exactly 2 of the following cities are in Japan: Sapporo, Suginami.",1,Japan,"('Sapporo', 'Suginami')",2,2
-"Exactly 2 of the following cities are in Iran: Wuzhou, Panshan.",0,Iran,"('Panshan', 'Wuzhou')",2,0
-"Exactly 1 of the following cities are in San Marino: Erbil, Ibb.",0,San Marino,"('Erbil', 'Ibb')",1,0
-"Exactly 0 of the following cities are in Equatorial Guinea: Tianshui, Bujumbura.",1,Equatorial Guinea,"('Bujumbura', 'Tianshui')",0,0
-"Exactly 1 of the following cities are in China: Hefei, Xiangtan.",0,China,"('Hefei', 'Xiangtan')",1,2
-"Exactly 2 of the following cities are in Mali: Sulaymaniyah, Port Said.",0,Mali,"('Port Said', 'Sulaymaniyah')",2,0
-"Exactly 1 of the following cities are in Samoa: Tashkent, Yaounde.",0,Samoa,"('Tashkent', 'Yaounde')",1,0
-"Exactly 0 of the following cities are in Chad: N'Djamena, Chicago.",0,Chad,"('Chicago', ""N'Djamena"")",0,1
-"Exactly 2 of the following cities are in the Republic of the Congo: Al Ahmadi, Bhayandar.",0,the Republic of the Congo,"('Al Ahmadi', 'Bhayandar')",2,0
-"Exactly 2 of the following cities are in Yemen: Yerevan, Xingtai.",0,Yemen,"('Xingtai', 'Yerevan')",2,0
-"Exactly 2 of the following cities are in Lesotho: Gqeberha, Jeddah.",0,Lesotho,"('Gqeberha', 'Jeddah')",2,0
-"Exactly 0 of the following cities are in North Korea: Dharavi, Hamhung.",0,North Korea,"('Dharavi', 'Hamhung')",0,1
-"Exactly 0 of the following cities are in Lesotho: Pune, Jajmau.",1,Lesotho,"('Jajmau', 'Pune')",0,0
-"Exactly 1 of the following cities are in Rwanda: Comilla, Kigali.",1,Rwanda,"('Comilla', 'Kigali')",1,1
-"Exactly 0 of the following cities are in India: Kalaburagi, Ibague.",0,India,"('Ibague', 'Kalaburagi')",0,1
-"Exactly 1 of the following cities are in Peru: Callao, Piura.",0,Peru,"('Callao', 'Piura')",1,2
-"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Tshikapa, Likasi.",1,the Democratic Republic of the Congo,"('Likasi', 'Tshikapa')",2,2
-"Exactly 2 of the following cities are in Tanzania: Naberezhnyye Chelny, Konya.",0,Tanzania,"('Konya', 'Naberezhnyye Chelny')",2,0
-"Exactly 0 of the following cities are in Oman: General Santos, Saratov.",1,Oman,"('General Santos', 'Saratov')",0,0
-"Exactly 1 of the following cities are in Algeria: Amravati, Reynosa.",0,Algeria,"('Amravati', 'Reynosa')",1,0
-"Exactly 1 of the following cities are in Chad: Aktobe, N'Djamena.",1,Chad,"('Aktobe', ""N'Djamena"")",1,1
-"Exactly 1 of the following cities are in Laos: Heze, Yangquan.",0,Laos,"('Heze', 'Yangquan')",1,0
-"Exactly 1 of the following cities are in Kiribati: Kalininskiy, Baku.",0,Kiribati,"('Baku', 'Kalininskiy')",1,0
-"Exactly 1 of the following cities are in Nigeria: Ajegunle, Hamhung.",1,Nigeria,"('Ajegunle', 'Hamhung')",1,1
-"Exactly 1 of the following cities are in Vanuatu: Lipetsk, Port Harcourt.",0,Vanuatu,"('Lipetsk', 'Port Harcourt')",1,0
-"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Binh Thanh, Bhopal.",1,the Democratic Republic of the Congo,"('Bhopal', 'Binh Thanh')",0,0
-"Exactly 1 of the following cities are in Afghanistan: Mazar-e Sharif, Baise.",1,Afghanistan,"('Baise', 'Mazar-e Sharif')",1,1
-"Exactly 0 of the following cities are in Yemen: Sanaa, Taiz.",0,Yemen,"('Sanaa', 'Taiz')",0,2
-"Exactly 1 of the following cities are in France: Lyon, Helsinki.",1,France,"('Helsinki', 'Lyon')",1,1
-"Exactly 2 of the following cities are in Ireland: Dalian, Yerevan.",0,Ireland,"('Dalian', 'Yerevan')",2,0
-"Exactly 1 of the following cities are in Poland: Krakow, Tegucigalpa.",1,Poland,"('Krakow', 'Tegucigalpa')",1,1
-"Exactly 0 of the following cities are in Myanmar: Davao, Nanning.",1,Myanmar,"('Davao', 'Nanning')",0,0
-"Exactly 0 of the following cities are in Poland: Hamadan, Barranquilla.",1,Poland,"('Barranquilla', 'Hamadan')",0,0
-"Exactly 1 of the following cities are in Saudi Arabia: Erode, Nasiriyah.",0,Saudi Arabia,"('Erode', 'Nasiriyah')",1,0
-"Exactly 1 of the following cities are in Russia: Taiz, Munich.",0,Russia,"('Munich', 'Taiz')",1,0
-"Exactly 1 of the following cities are in Canada: Mississauga, Calgary.",0,Canada,"('Calgary', 'Mississauga')",1,2
-"Exactly 2 of the following cities are in Argentina: Porto Alegre, Kolwezi.",0,Argentina,"('Kolwezi', 'Porto Alegre')",2,0
-"Exactly 0 of the following cities are in Malawi: Lilongwe, Lviv.",0,Malawi,"('Lilongwe', 'Lviv')",0,1
-"Exactly 0 of the following cities are in Indonesia: Malang, Situbondo.",0,Indonesia,"('Malang', 'Situbondo')",0,2
-"Exactly 0 of the following cities are in Afghanistan: Novokuznetsk, Al Ain City.",1,Afghanistan,"('Al Ain City', 'Novokuznetsk')",0,0
-"Exactly 0 of the following cities are in Uzbekistan: Sharjah, Calabar.",1,Uzbekistan,"('Calabar', 'Sharjah')",0,0
-"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Likasi, Mbuji-Mayi.",0,the Democratic Republic of the Congo,"('Likasi', 'Mbuji-Mayi')",0,2
-"Exactly 0 of the following cities are in Eritrea: Kanpur, Asmara.",0,Eritrea,"('Asmara', 'Kanpur')",0,1
-"Exactly 2 of the following cities are in Malaysia: Johor Bahru, Subang Jaya.",1,Malaysia,"('Johor Bahru', 'Subang Jaya')",2,2
-"Exactly 0 of the following cities are in Brazil: Sao Bernardo do Campo, Feira de Santana.",0,Brazil,"('Feira de Santana', 'Sao Bernardo do Campo')",0,2
-"Exactly 2 of the following cities are in Benin: Ecatepec de Morelos, Cotonou.",0,Benin,"('Cotonou', 'Ecatepec de Morelos')",2,1
-"Exactly 2 of the following cities are in Bahrain: Kyoto, Quebec.",0,Bahrain,"('Kyoto', 'Quebec')",2,0
-"Exactly 2 of the following cities are in India: Ludhiana, Siliguri.",1,India,"('Ludhiana', 'Siliguri')",2,2
-"Exactly 2 of the following cities are in Guinea: Caracas, Pimpri.",0,Guinea,"('Caracas', 'Pimpri')",2,0
-"Exactly 1 of the following cities are in Côte d'Ivoire: Abidjan, Pietermaritzburg.",1,Côte d'Ivoire,"('Abidjan', 'Pietermaritzburg')",1,1
-"Exactly 2 of the following cities are in Guinea-Bissau: Sargodha, Cimahi.",0,Guinea-Bissau,"('Cimahi', 'Sargodha')",2,0
-"Exactly 0 of the following cities are in Saint Vincent and the Grenadines: Vadodara, Hue.",1,Saint Vincent and the Grenadines,"('Hue', 'Vadodara')",0,0
-"Exactly 0 of the following cities are in Uruguay: Putuo, Vinh.",1,Uruguay,"('Putuo', 'Vinh')",0,0
-"Exactly 1 of the following cities are in Croatia: Sholapur, Shantou.",0,Croatia,"('Shantou', 'Sholapur')",1,0
-"Exactly 2 of the following cities are in Saudi Arabia: Dammam, Makkah.",1,Saudi Arabia,"('Dammam', 'Makkah')",2,2
-"Exactly 1 of the following cities are in South Africa: Malang, Bandar Lampung.",0,South Africa,"('Bandar Lampung', 'Malang')",1,0
-"Exactly 2 of the following cities are in Vietnam: Da Nang, Nha Trang.",1,Vietnam,"('Da Nang', 'Nha Trang')",2,2
-"Exactly 1 of the following cities are in Mexico: Leon de los Aldama, Linyi.",1,Mexico,"('Leon de los Aldama', 'Linyi')",1,1
-"Exactly 1 of the following cities are in Saudi Arabia: Najran, Ta'if.",0,Saudi Arabia,"('Najran', ""Ta'if"")",1,2
-"Exactly 1 of the following cities are in Oman: Muscat, Gold Coast.",1,Oman,"('Gold Coast', 'Muscat')",1,1
-"Exactly 1 of the following cities are in the Czech Republic: Tolyatti, Warri.",0,the Czech Republic,"('Tolyatti', 'Warri')",1,0
-"Exactly 1 of the following cities are in Turkey: Tianjin, Hachioji.",0,Turkey,"('Hachioji', 'Tianjin')",1,0
-"Exactly 0 of the following cities are in Thailand: Cankaya, Bangkok.",0,Thailand,"('Bangkok', 'Cankaya')",0,1
-"Exactly 0 of the following cities are in Djibouti: Balbala, Chelyabinsk.",0,Djibouti,"('Balbala', 'Chelyabinsk')",0,1
-"Exactly 1 of the following cities are in Saudi Arabia: Nagoya, Ta'if.",1,Saudi Arabia,"('Nagoya', ""Ta'if"")",1,1
-"Exactly 2 of the following cities are in Samoa: Manaus, Hoji ya Henda.",0,Samoa,"('Hoji ya Henda', 'Manaus')",2,0
-"Exactly 0 of the following cities are in Norway: Qingdao, Oslo.",0,Norway,"('Oslo', 'Qingdao')",0,1
-"Exactly 1 of the following cities are in Peru: Koeln, Duesseldorf.",0,Peru,"('Duesseldorf', 'Koeln')",1,0
-"Exactly 1 of the following cities are in Mozambique: Matola, Beira.",0,Mozambique,"('Beira', 'Matola')",1,2
-"Exactly 2 of the following cities are in Venezuela: Maracaibo, Caracas.",1,Venezuela,"('Caracas', 'Maracaibo')",2,2
-"Exactly 0 of the following cities are in Azerbaijan: Acapulco de Juarez, Makassar.",1,Azerbaijan,"('Acapulco de Juarez', 'Makassar')",0,0
-"Exactly 2 of the following cities are in Sierra Leone: Latakia, Fuxin.",0,Sierra Leone,"('Fuxin', 'Latakia')",2,0
-"Exactly 1 of the following cities are in Morocco: Santiago de Cuba, Rostov-on-Don.",0,Morocco,"('Rostov-on-Don', 'Santiago de Cuba')",1,0
-"Exactly 2 of the following cities are in Brazil: Porto Alegre, Niteroi.",1,Brazil,"('Niteroi', 'Porto Alegre')",2,2
-"Exactly 1 of the following cities are in Chad: N'Djamena, Ilorin.",1,Chad,"('Ilorin', ""N'Djamena"")",1,1
-"Exactly 0 of the following cities are in Ethiopia: Zarqa, Addis Ababa.",0,Ethiopia,"('Addis Ababa', 'Zarqa')",0,1
-"Exactly 0 of the following cities are in Morocco: Fes, Oujda.",0,Morocco,"('Fes', 'Oujda')",0,2
-"Exactly 2 of the following cities are in South Africa: Durban, Pietermaritzburg.",1,South Africa,"('Durban', 'Pietermaritzburg')",2,2
-"Exactly 0 of the following cities are in South Africa: Johannesburg, Benoni.",0,South Africa,"('Benoni', 'Johannesburg')",0,2
-"Exactly 0 of the following cities are in El Salvador: Khartoum North, Shenyang.",1,El Salvador,"('Khartoum North', 'Shenyang')",0,0
-"Exactly 2 of the following cities are in India: Kolkata, Kanpur.",1,India,"('Kanpur', 'Kolkata')",2,2
-"Exactly 2 of the following cities are in Oman: Nairobi, Jiangyin.",0,Oman,"('Jiangyin', 'Nairobi')",2,0
-"Exactly 1 of the following cities are in South Africa: Pietermaritzburg, Setagaya.",1,South Africa,"('Pietermaritzburg', 'Setagaya')",1,1
-"Exactly 2 of the following cities are in Panama: Iskandar Puteri, Maoming.",0,Panama,"('Iskandar Puteri', 'Maoming')",2,0
-"Exactly 1 of the following cities are in Tanzania: Dar es Salaam, Dodoma.",0,Tanzania,"('Dar es Salaam', 'Dodoma')",1,2
-"Exactly 2 of the following cities are in Malaysia: Selayang Baru Utara, Bukit Rahman Putra.",1,Malaysia,"('Bukit Rahman Putra', 'Selayang Baru Utara')",2,2
-"Exactly 0 of the following cities are in Burundi: Rostov-on-Don, Rui'an.",1,Burundi,"('Rostov-on-Don', ""Rui'an"")",0,0
-"Exactly 1 of the following cities are in Mexico: Putuo, Heroica Matamoros.",1,Mexico,"('Heroica Matamoros', 'Putuo')",1,1
-"Exactly 2 of the following cities are in Canada: Calgary, Bhavnagar.",0,Canada,"('Bhavnagar', 'Calgary')",2,1
-"Exactly 2 of the following cities are in Syria: Aleppo, Homs.",1,Syria,"('Aleppo', 'Homs')",2,2
-"Exactly 2 of the following cities are in Sudan: Sanmenxia, Omdurman.",0,Sudan,"('Omdurman', 'Sanmenxia')",2,1
-"Exactly 0 of the following cities are in Bangladesh: Kuecuekcekmece, Karbala.",1,Bangladesh,"('Karbala', 'Kuecuekcekmece')",0,0
-"Exactly 1 of the following cities are in Mozambique: Zanzibar, Liuzhou.",0,Mozambique,"('Liuzhou', 'Zanzibar')",1,0
-"Exactly 0 of the following cities are in the Dominican Republic: Santo Domingo Este, Santo Domingo Oeste.",0,the Dominican Republic,"('Santo Domingo Este', 'Santo Domingo Oeste')",0,2
-"Exactly 2 of the following cities are in Latvia: Riga, Diyarbakir.",0,Latvia,"('Diyarbakir', 'Riga')",2,1
-"Exactly 0 of the following cities are in France: Lyon, Arequipa.",0,France,"('Arequipa', 'Lyon')",0,1
-"Exactly 1 of the following cities are in North Korea: Shuangyashan, Harare.",0,North Korea,"('Harare', 'Shuangyashan')",1,0
-"Exactly 1 of the following cities are in Nauru: New Kingston, Heroica Matamoros.",0,Nauru,"('Heroica Matamoros', 'New Kingston')",1,0
-"Exactly 2 of the following cities are in Japan: Itabashi, Edogawe.",1,Japan,"('Edogawe', 'Itabashi')",2,2
-"Exactly 1 of the following cities are in Tajikistan: Dushanbe, Kermanshah.",1,Tajikistan,"('Dushanbe', 'Kermanshah')",1,1
-"Exactly 2 of the following cities are in Egypt: Suez, Madinat an Nasr.",1,Egypt,"('Madinat an Nasr', 'Suez')",2,2
-"Exactly 0 of the following cities are in Haiti: Port-au-Prince, Carrefour.",0,Haiti,"('Carrefour', 'Port-au-Prince')",0,2
-"Exactly 1 of the following cities are in Tanzania: Zanzibar, Stockholm.",1,Tanzania,"('Stockholm', 'Zanzibar')",1,1
-"Exactly 2 of the following cities are in Turkey: Niluefer, Izmir.",1,Turkey,"('Izmir', 'Niluefer')",2,2
-"Exactly 2 of the following cities are in Somalia: Borama, Hue.",0,Somalia,"('Borama', 'Hue')",2,1
-"Exactly 0 of the following cities are in Samoa: Oslo, Jabalpur.",1,Samoa,"('Jabalpur', 'Oslo')",0,0
-"Exactly 2 of the following cities are in Pakistan: Chunian, Gujrat.",1,Pakistan,"('Chunian', 'Gujrat')",2,2
-"Exactly 1 of the following cities are in Colombia: Bikaner, Soacha.",1,Colombia,"('Bikaner', 'Soacha')",1,1
-"Exactly 2 of the following cities are in Serbia: Bulawayo, Rajkot.",0,Serbia,"('Bulawayo', 'Rajkot')",2,0
-"Exactly 0 of the following cities are in the Gambia: Utsunomiya, Ziyang.",1,the Gambia,"('Utsunomiya', 'Ziyang')",0,0
-"Exactly 2 of the following cities are in the Philippines: Las Pinas, Makati City.",1,the Philippines,"('Las Pinas', 'Makati City')",2,2
-"Exactly 0 of the following cities are in Russia: Tyumen, Makhachkala.",0,Russia,"('Makhachkala', 'Tyumen')",0,2
-"Exactly 2 of the following cities are in China: E'zhou, Wuwei.",1,China,"(""E'zhou"", 'Wuwei')",2,2
-"Exactly 2 of the following cities are in Slovenia: Hiroshima, Wanxian.",0,Slovenia,"('Hiroshima', 'Wanxian')",2,0
-"Exactly 2 of the following cities are in the United States: New York City, Albuquerque.",1,the United States,"('Albuquerque', 'New York City')",2,2
-"Exactly 2 of the following cities are in Burundi: Madinat an Nasr, Bujumbura.",0,Burundi,"('Bujumbura', 'Madinat an Nasr')",2,1
-"Exactly 1 of the following cities are in Venezuela: Shah Alam, Sanming.",0,Venezuela,"('Sanming', 'Shah Alam')",1,0
-"Exactly 2 of the following cities are in Gabon: Enugu, Libreville.",0,Gabon,"('Enugu', 'Libreville')",2,1
-"Exactly 2 of the following cities are in Ukraine: Lviv, Kyiv.",1,Ukraine,"('Kyiv', 'Lviv')",2,2
-"Exactly 0 of the following cities are in Tuvalu: Ibb, Dehradun.",1,Tuvalu,"('Dehradun', 'Ibb')",0,0
-"Exactly 2 of the following cities are in Russia: Naberezhnyye Chelny, Izhevsk.",1,Russia,"('Izhevsk', 'Naberezhnyye Chelny')",2,2
-"Exactly 2 of the following cities are in Iraq: Karbala, Mosul.",1,Iraq,"('Karbala', 'Mosul')",2,2
-"Exactly 0 of the following cities are in Tonga: Teni, Islamabad.",1,Tonga,"('Islamabad', 'Teni')",0,0
-"Exactly 1 of the following cities are in Sweden: Karbala, Warangal.",0,Sweden,"('Karbala', 'Warangal')",1,0
-"Exactly 2 of the following cities are in Indonesia: Bekasi, South Tangerang.",1,Indonesia,"('Bekasi', 'South Tangerang')",2,2
-"Exactly 0 of the following cities are in Thailand: Weinan, Sanming.",1,Thailand,"('Sanming', 'Weinan')",0,0
-"Exactly 0 of the following cities are in Bangladesh: Comilla, Rajshahi.",0,Bangladesh,"('Comilla', 'Rajshahi')",0,2
-"Exactly 0 of the following cities are in Ukraine: Dnipro, Lviv.",0,Ukraine,"('Dnipro', 'Lviv')",0,2
-"Exactly 1 of the following cities are in Papua New Guinea: Gustavo Adolfo Madero, Kolwezi.",0,Papua New Guinea,"('Gustavo Adolfo Madero', 'Kolwezi')",1,0
-"Exactly 1 of the following cities are in Chile: Puente Alto, Yinchuan.",1,Chile,"('Puente Alto', 'Yinchuan')",1,1
-"Exactly 0 of the following cities are in El Salvador: Bhopal, Bareilly.",1,El Salvador,"('Bareilly', 'Bhopal')",0,0
-"Exactly 1 of the following cities are in Iraq: Subang Jaya, Eskisehir.",0,Iraq,"('Eskisehir', 'Subang Jaya')",1,0
-"Exactly 2 of the following cities are in Australia: Gold Coast, Luohe.",0,Australia,"('Gold Coast', 'Luohe')",2,1
-"Exactly 1 of the following cities are in Oman: Hlaingthaya, Muscat.",1,Oman,"('Hlaingthaya', 'Muscat')",1,1
-"Exactly 2 of the following cities are in Ukraine: Kyiv, Odesa.",1,Ukraine,"('Kyiv', 'Odesa')",2,2
-"Exactly 2 of the following cities are in Malawi: Niluefer, Lilongwe.",0,Malawi,"('Lilongwe', 'Niluefer')",2,1
-"Exactly 1 of the following cities are in Dominica: Tiruchirappalli, Tianjin.",0,Dominica,"('Tianjin', 'Tiruchirappalli')",1,0
-"Exactly 2 of the following cities are in Ukraine: Lviv, Kryvyy Rih.",1,Ukraine,"('Kryvyy Rih', 'Lviv')",2,2
-"Exactly 0 of the following cities are in Ghana: Accra, Arequipa.",0,Ghana,"('Accra', 'Arequipa')",0,1
-"Exactly 0 of the following cities are in Pakistan: Jhang Sadr, Okara.",0,Pakistan,"('Jhang Sadr', 'Okara')",0,2
-"Exactly 0 of the following cities are in Argentina: Ajegunle, San Miguel de Tucuman.",0,Argentina,"('Ajegunle', 'San Miguel de Tucuman')",0,1
-"Exactly 2 of the following cities are in Mongolia: Khartoum North, Xianning.",0,Mongolia,"('Khartoum North', 'Xianning')",2,0
-"Exactly 2 of the following cities are in Tuvalu: Bobo-Dioulasso, Tasikmalaya.",0,Tuvalu,"('Bobo-Dioulasso', 'Tasikmalaya')",2,0
-"Exactly 2 of the following cities are in Angola: Golfe, Calumbo.",1,Angola,"('Calumbo', 'Golfe')",2,2
-"Exactly 1 of the following cities are in South Korea: Rangpur, Seongnam-si.",1,South Korea,"('Rangpur', 'Seongnam-si')",1,1
-"Exactly 0 of the following cities are in Brazil: Rio de Janeiro, Feira de Santana.",0,Brazil,"('Feira de Santana', 'Rio de Janeiro')",0,2
-"Exactly 0 of the following cities are in Suriname: Budta, Chelyabinsk.",1,Suriname,"('Budta', 'Chelyabinsk')",0,0
-"Exactly 2 of the following cities are in Morocco: Fes, Tangier.",1,Morocco,"('Fes', 'Tangier')",2,2
-"Exactly 1 of the following cities are in Lebanon: Ra's Bayrut, Al Ahmadi.",1,Lebanon,"('Al Ahmadi', ""Ra's Bayrut"")",1,1
-"Exactly 1 of the following cities are in Kazakhstan: Astana, Sokoto.",1,Kazakhstan,"('Astana', 'Sokoto')",1,1
-"Exactly 1 of the following cities are in Niger: Huainan, Kozhikode.",0,Niger,"('Huainan', 'Kozhikode')",1,0
-"Exactly 2 of the following cities are in China: Zhongwei, Daxing'anling.",1,China,"(""Daxing'anling"", 'Zhongwei')",2,2
-"Exactly 1 of the following cities are in Ghana: Kumasi, Lome.",1,Ghana,"('Kumasi', 'Lome')",1,1
-"Exactly 2 of the following cities are in China: Ningbo, Zhangjiagang.",1,China,"('Ningbo', 'Zhangjiagang')",2,2
-"Exactly 2 of the following cities are in Egypt: Al Mahallah al Kubra, Suez.",1,Egypt,"('Al Mahallah al Kubra', 'Suez')",2,2
-"Exactly 0 of the following cities are in Botswana: Khartoum North, Kuala Lumpur.",1,Botswana,"('Khartoum North', 'Kuala Lumpur')",0,0
-"Exactly 1 of the following cities are in Finland: Kuala Lumpur, Helsinki.",1,Finland,"('Helsinki', 'Kuala Lumpur')",1,1
-"Exactly 0 of the following cities are in Bangladesh: Khulna, Bhavnagar.",0,Bangladesh,"('Bhavnagar', 'Khulna')",0,1
-"Exactly 2 of the following cities are in Thailand: UEruemqi, Sanming.",0,Thailand,"('Sanming', 'UEruemqi')",2,0
-"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Ujjain, Mbuji-Mayi.",0,the Democratic Republic of the Congo,"('Mbuji-Mayi', 'Ujjain')",0,1
-"Exactly 2 of the following cities are in Uzbekistan: Namangan, Andijon.",1,Uzbekistan,"('Andijon', 'Namangan')",2,2
-"Exactly 0 of the following cities are in Iraq: Abu Ghurayb, Al Basrah al Qadimah.",0,Iraq,"('Abu Ghurayb', 'Al Basrah al Qadimah')",0,2
-"Exactly 0 of the following cities are in Jordan: Amman, Irbid.",0,Jordan,"('Amman', 'Irbid')",0,2
-"Exactly 0 of the following cities are in Ghana: Accra, Suizhou.",0,Ghana,"('Accra', 'Suizhou')",0,1
-"Exactly 1 of the following cities are in Indonesia: Ludhiana, Taiz.",0,Indonesia,"('Ludhiana', 'Taiz')",1,0
-"Exactly 0 of the following cities are in Cameroon: Samarkand, Jiangyin.",1,Cameroon,"('Jiangyin', 'Samarkand')",0,0
-"Exactly 2 of the following cities are in Cameroon: Cuttack, Douala.",0,Cameroon,"('Cuttack', 'Douala')",2,1
-"Exactly 1 of the following cities are in Thailand: Chunian, Bangkok.",1,Thailand,"('Bangkok', 'Chunian')",1,1
-"Exactly 2 of the following cities are in Bahrain: Izhevsk, Guangzhou.",0,Bahrain,"('Guangzhou', 'Izhevsk')",2,0
-"Exactly 2 of the following cities are in Turkey: Gaziantep, UEskuedar.",1,Turkey,"('Gaziantep', 'UEskuedar')",2,2
-"Exactly 2 of the following cities are in Turkey: Mogadishu, Aktobe.",0,Turkey,"('Aktobe', 'Mogadishu')",2,0
-"Exactly 1 of the following cities are in New Zealand: Nuremberg, Zhabei.",0,New Zealand,"('Nuremberg', 'Zhabei')",1,0
-"Exactly 0 of the following cities are in Cambodia: Al Ahmadi, Amravati.",1,Cambodia,"('Al Ahmadi', 'Amravati')",0,0
-"Exactly 2 of the following cities are in China: Guangzhou, Liupanshui.",1,China,"('Guangzhou', 'Liupanshui')",2,2
-"Exactly 0 of the following cities are in Burkina Faso: Panjin, Bobo-Dioulasso.",0,Burkina Faso,"('Bobo-Dioulasso', 'Panjin')",0,1
-"Exactly 0 of the following cities are in North Korea: Pyongyang, Hamhung.",0,North Korea,"('Hamhung', 'Pyongyang')",0,2
-"Exactly 0 of the following cities are in Guinea: Voronezh, Luohu District.",1,Guinea,"('Luohu District', 'Voronezh')",0,0
-"Exactly 2 of the following cities are in Monaco: Bulawayo, Haiphong.",0,Monaco,"('Bulawayo', 'Haiphong')",2,0
-"Exactly 2 of the following cities are in South Africa: Bloemfontein, Evaton.",1,South Africa,"('Bloemfontein', 'Evaton')",2,2
-"Exactly 1 of the following cities are in Burundi: Bujumbura, Yangjiang.",1,Burundi,"('Bujumbura', 'Yangjiang')",1,1
-"Exactly 2 of the following cities are in the Republic of the Congo: Yinchuan, Lodz.",0,the Republic of the Congo,"('Lodz', 'Yinchuan')",2,0
-"Exactly 1 of the following cities are in China: Xuchang, Shubra al Khaymah.",1,China,"('Shubra al Khaymah', 'Xuchang')",1,1
-"Exactly 1 of the following cities are in Egypt: Madinat an Nasr, Mianzhu, Deyang, Sichuan.",1,Egypt,"('Madinat an Nasr', 'Mianzhu, Deyang, Sichuan')",1,1
-"Exactly 1 of the following cities are in Nicaragua: Managua, Hangzhou.",1,Nicaragua,"('Hangzhou', 'Managua')",1,1
-"Exactly 0 of the following cities are in Saudi Arabia: Makkah, Buraydah.",0,Saudi Arabia,"('Buraydah', 'Makkah')",0,2
-"Exactly 1 of the following cities are in the Central African Republic: Erode, Homs.",0,the Central African Republic,"('Erode', 'Homs')",1,0
-"Exactly 2 of the following cities are in Indonesia: Bogor, Batam.",1,Indonesia,"('Batam', 'Bogor')",2,2
-"Exactly 2 of the following cities are in Suriname: Lu'an, Baise.",0,Suriname,"('Baise', ""Lu'an"")",2,0
-"Exactly 0 of the following cities are in Tanzania: Bareilly, Zanzibar.",0,Tanzania,"('Bareilly', 'Zanzibar')",0,1
-"Exactly 1 of the following cities are in Jordan: Zarqa, Hongkou.",1,Jordan,"('Hongkou', 'Zarqa')",1,1
-"Exactly 0 of the following cities are in Kazakhstan: Dehradun, Hohhot.",1,Kazakhstan,"('Dehradun', 'Hohhot')",0,0
-"Exactly 0 of the following cities are in El Salvador: Nay Pyi Taw, Izmir.",1,El Salvador,"('Izmir', 'Nay Pyi Taw')",0,0
-"Exactly 1 of the following cities are in Nigeria: Tucson, Owerri.",1,Nigeria,"('Owerri', 'Tucson')",1,1
-"Exactly 2 of the following cities are in Canada: Narela, Salta.",0,Canada,"('Narela', 'Salta')",2,0
-"Exactly 2 of the following cities are in China: Zhangjiakou, Guang'an.",1,China,"(""Guang'an"", 'Zhangjiakou')",2,2
-"Exactly 2 of the following cities are in Lebanon: Goiania, Pikine.",0,Lebanon,"('Goiania', 'Pikine')",2,0
-"Exactly 1 of the following cities are in Vietnam: Lipetsk, Pingdingshan.",0,Vietnam,"('Lipetsk', 'Pingdingshan')",1,0
-"Exactly 1 of the following cities are in Togo: Bishkek, Ankara.",0,Togo,"('Ankara', 'Bishkek')",1,0
-"Exactly 2 of the following cities are in India: Kanpur, Nashik.",1,India,"('Kanpur', 'Nashik')",2,2
-"Exactly 2 of the following cities are in Belgium: Jiamusi, Sanaa.",0,Belgium,"('Jiamusi', 'Sanaa')",2,0
-"Exactly 0 of the following cities are in Samoa: Guilin, Yangquan.",1,Samoa,"('Guilin', 'Yangquan')",0,0
-"Exactly 2 of the following cities are in Japan: Hachioji, Wuzhong.",0,Japan,"('Hachioji', 'Wuzhong')",2,1
-"Exactly 2 of the following cities are in Burundi: Khabarovsk, Bujumbura.",0,Burundi,"('Bujumbura', 'Khabarovsk')",2,1
-"Exactly 0 of the following cities are in San Marino: Huaibei, Kathmandu.",1,San Marino,"('Huaibei', 'Kathmandu')",0,0
-"Exactly 1 of the following cities are in Portugal: Homyel', Owerri.",0,Portugal,"(""Homyel'"", 'Owerri')",1,0
-"Exactly 1 of the following cities are in Colombia: Barranquilla, Thane.",1,Colombia,"('Barranquilla', 'Thane')",1,1
-"Exactly 2 of the following cities are in Saudi Arabia: Najran, Makkah.",1,Saudi Arabia,"('Makkah', 'Najran')",2,2
-"Exactly 1 of the following cities are in Nigeria: Novokuznetsk, Yaounde.",0,Nigeria,"('Novokuznetsk', 'Yaounde')",1,0
-"Exactly 0 of the following cities are in Jamaica: Maiduguri, Kemerovo.",1,Jamaica,"('Kemerovo', 'Maiduguri')",0,0
-"Exactly 0 of the following cities are in Bosnia and Herzegovina: Rajshahi, Sarajevo.",0,Bosnia and Herzegovina,"('Rajshahi', 'Sarajevo')",0,1
-"Exactly 1 of the following cities are in Germany: Coyoacan, Hannover.",1,Germany,"('Coyoacan', 'Hannover')",1,1
-"Exactly 1 of the following cities are in Germany: Hannover, Ouagadougou.",1,Germany,"('Hannover', 'Ouagadougou')",1,1
-"Exactly 2 of the following cities are in New Zealand: Ziyang, Sialkot.",0,New Zealand,"('Sialkot', 'Ziyang')",2,0
-"Exactly 2 of the following cities are in the United Arab Emirates: Abu Dhabi, Al Ain City.",1,the United Arab Emirates,"('Abu Dhabi', 'Al Ain City')",2,2
-"Exactly 0 of the following cities are in the Netherlands: Hiroshima, Khabarovsk.",1,the Netherlands,"('Hiroshima', 'Khabarovsk')",0,0
-"Exactly 0 of the following cities are in Cambodia: Longyan, Bekasi.",1,Cambodia,"('Bekasi', 'Longyan')",0,0
-"Exactly 2 of the following cities are in the Dominican Republic: Santo Domingo Oeste, Daegu.",0,the Dominican Republic,"('Daegu', 'Santo Domingo Oeste')",2,1
-"Exactly 2 of the following cities are in Iran: Karaj, Ahvaz.",1,Iran,"('Ahvaz', 'Karaj')",2,2
-"Exactly 2 of the following cities are in Pakistan: Gqeberha, Indore.",0,Pakistan,"('Gqeberha', 'Indore')",2,0
-"Exactly 0 of the following cities are in Kazakhstan: Maturin, Duesseldorf.",1,Kazakhstan,"('Duesseldorf', 'Maturin')",0,0
-"Exactly 2 of the following cities are in Saudi Arabia: Sultanah, Madinah.",1,Saudi Arabia,"('Madinah', 'Sultanah')",2,2
-"Exactly 2 of the following cities are in Bahrain: Yinchuan, Liupanshui.",0,Bahrain,"('Liupanshui', 'Yinchuan')",2,0
-"Exactly 2 of the following cities are in the United States: Tucson, Chicago.",1,the United States,"('Chicago', 'Tucson')",2,2
-"Exactly 2 of the following cities are in Samoa: Pasig City, Nairobi.",0,Samoa,"('Nairobi', 'Pasig City')",2,0
-"Exactly 1 of the following cities are in Myanmar: Cankaya, Hoji ya Henda.",0,Myanmar,"('Cankaya', 'Hoji ya Henda')",1,0
-"Exactly 2 of the following cities are in Indonesia: Tasikmalaya, Balikpapan.",1,Indonesia,"('Balikpapan', 'Tasikmalaya')",2,2
-"Exactly 2 of the following cities are in Zambia: Kitwe, Lusaka.",1,Zambia,"('Kitwe', 'Lusaka')",2,2
-"Exactly 2 of the following cities are in Vietnam: Haiphong, Binh Thanh.",1,Vietnam,"('Binh Thanh', 'Haiphong')",2,2
-"Exactly 1 of the following cities are in Thailand: Hebi, Abuja.",0,Thailand,"('Abuja', 'Hebi')",1,0
-"Exactly 2 of the following cities are in the Philippines: Davao, Cabinda.",0,the Philippines,"('Cabinda', 'Davao')",2,1
-"Exactly 1 of the following cities are in Australia: Minsk, Gold Coast.",1,Australia,"('Gold Coast', 'Minsk')",1,1
-"Exactly 2 of the following cities are in Vietnam: Thuan An, Benin City.",0,Vietnam,"('Benin City', 'Thuan An')",2,1
-"Exactly 2 of the following cities are in Russia: Saint Petersburg, Novosibirsk.",1,Russia,"('Novosibirsk', 'Saint Petersburg')",2,2
-"Exactly 0 of the following cities are in Poland: Thembisa, Ujjain.",1,Poland,"('Thembisa', 'Ujjain')",0,0
-"Exactly 0 of the following cities are in Canada: General Santos, Petaling Jaya.",1,Canada,"('General Santos', 'Petaling Jaya')",0,0
-"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Likasi, Kananga.",1,the Democratic Republic of the Congo,"('Kananga', 'Likasi')",2,2
-"Exactly 2 of the following cities are in Palau: Sargodha, Eskisehir.",0,Palau,"('Eskisehir', 'Sargodha')",2,0
-"Exactly 0 of the following cities are in Nigeria: Sanmenxia, Jos.",0,Nigeria,"('Jos', 'Sanmenxia')",0,1
-"Exactly 0 of the following cities are in Cameroon: Douala, Xuancheng.",0,Cameroon,"('Douala', 'Xuancheng')",0,1
-"Exactly 0 of the following cities are in Ecuador: Vijayawada, Quito.",0,Ecuador,"('Quito', 'Vijayawada')",0,1
-"Exactly 0 of the following cities are in Swaziland: Huaihua, Izmir.",1,Swaziland,"('Huaihua', 'Izmir')",0,0
-"Exactly 0 of the following cities are in Egypt: Al Mahallah al Kubra, Huangshi.",0,Egypt,"('Al Mahallah al Kubra', 'Huangshi')",0,1
-"Exactly 2 of the following cities are in Saudi Arabia: Jeddah, Najran.",1,Saudi Arabia,"('Jeddah', 'Najran')",2,2
-"Exactly 1 of the following cities are in Cuba: Huzhou, Santo Domingo Oeste.",0,Cuba,"('Huzhou', 'Santo Domingo Oeste')",1,0
-"Exactly 2 of the following cities are in Guinea: Dharavi, Lueliang.",0,Guinea,"('Dharavi', 'Lueliang')",2,0
-"Exactly 1 of the following cities are in Australia: Bhubaneswar, Erbil.",0,Australia,"('Bhubaneswar', 'Erbil')",1,0
-"Exactly 1 of the following cities are in Argentina: Sagamihara, Teni.",0,Argentina,"('Sagamihara', 'Teni')",1,0
-"Exactly 2 of the following cities are in Samoa: Gazipur, Aracaju.",0,Samoa,"('Aracaju', 'Gazipur')",2,0
-"Exactly 0 of the following cities are in Nauru: Recife, Rostov-on-Don.",1,Nauru,"('Recife', 'Rostov-on-Don')",0,0
-"Exactly 0 of the following cities are in Peru: Chiclayo, Arequipa.",0,Peru,"('Arequipa', 'Chiclayo')",0,2
-"Exactly 1 of the following cities are in Suriname: Queens, Changchun.",0,Suriname,"('Changchun', 'Queens')",1,0
-"Exactly 1 of the following cities are in Haiti: Ziyang, Carrefour.",1,Haiti,"('Carrefour', 'Ziyang')",1,1
-"Exactly 1 of the following cities are in the Gambia: Al Fayyum, Tshikapa.",0,the Gambia,"('Al Fayyum', 'Tshikapa')",1,0
-"Exactly 2 of the following cities are in Angola: Benguela, Kikolo.",1,Angola,"('Benguela', 'Kikolo')",2,2
-"Exactly 0 of the following cities are in Kazakhstan: Shymkent, Baoji.",0,Kazakhstan,"('Baoji', 'Shymkent')",0,1
-"Exactly 2 of the following cities are in Afghanistan: Mazar-e Sharif, Cotonou.",0,Afghanistan,"('Cotonou', 'Mazar-e Sharif')",2,1
-"Exactly 1 of the following cities are in Benin: Kigali, Chenzhou.",0,Benin,"('Chenzhou', 'Kigali')",1,0
-"Exactly 1 of the following cities are in Indonesia: Situbondo, Taicang.",1,Indonesia,"('Situbondo', 'Taicang')",1,1
-"Exactly 0 of the following cities are in South Korea: Rio de Janeiro, Bucheon-si.",0,South Korea,"('Bucheon-si', 'Rio de Janeiro')",0,1
-"Exactly 2 of the following cities are in Mexico: Acapulco de Juarez, Tlalpan.",1,Mexico,"('Acapulco de Juarez', 'Tlalpan')",2,2
-"Exactly 2 of the following cities are in Brazil: Manaus, Duque de Caxias.",1,Brazil,"('Duque de Caxias', 'Manaus')",2,2
-"Exactly 2 of the following cities are in Colombia: Cucuta, Soacha.",1,Colombia,"('Cucuta', 'Soacha')",2,2
-"Exactly 2 of the following cities are in China: Meizhou, Puxi.",1,China,"('Meizhou', 'Puxi')",2,2
-"Exactly 0 of the following cities are in Togo: Gustavo Adolfo Madero, Lome.",0,Togo,"('Gustavo Adolfo Madero', 'Lome')",0,1
+"Exactly 1 of the following cities are in Russia: Kalininskiy, Barnaul.",0,Russia,"('Barnaul', 'Kalininskiy')",1,2
+"Exactly 2 of the following cities are in the United States: Guilin, Detroit.",0,the United States,"('Detroit', 'Guilin')",2,1
+"Exactly 2 of the following cities are in Azerbaijan: Budta, Erzurum.",0,Azerbaijan,"('Budta', 'Erzurum')",2,0
+"Exactly 2 of the following cities are in Pakistan: Chunian, Arifwala.",1,Pakistan,"('Arifwala', 'Chunian')",2,2
+"Exactly 0 of the following cities are in Niger: Niamey, Calgary.",0,Niger,"('Calgary', 'Niamey')",0,1
+"Exactly 1 of the following cities are in Romania: Bucharest, Nowrangapur.",1,Romania,"('Bucharest', 'Nowrangapur')",1,1
+"Exactly 0 of the following cities are in Croatia: Al Fayyum, Zagreb.",0,Croatia,"('Al Fayyum', 'Zagreb')",0,1
+"Exactly 2 of the following cities are in Vietnam: Qui Nhon, Bien Hoa.",1,Vietnam,"('Bien Hoa', 'Qui Nhon')",2,2
+"Exactly 1 of the following cities are in Lesotho: Quito, Pyongyang.",0,Lesotho,"('Pyongyang', 'Quito')",1,0
+"Exactly 0 of the following cities are in Gabon: Ulanqab, Cankaya.",1,Gabon,"('Cankaya', 'Ulanqab')",0,0
+"Exactly 0 of the following cities are in Gabon: Cebu City, Mianzhu, Deyang, Sichuan.",1,Gabon,"('Cebu City', 'Mianzhu, Deyang, Sichuan')",0,0
+"Exactly 1 of the following cities are in Peru: Mexico City, Perm.",0,Peru,"('Mexico City', 'Perm')",1,0
+"Exactly 1 of the following cities are in New Zealand: Auckland, Kaduna.",1,New Zealand,"('Auckland', 'Kaduna')",1,1
+"Exactly 1 of the following cities are in Iraq: Guarulhos, Nasiriyah.",1,Iraq,"('Guarulhos', 'Nasiriyah')",1,1
+"Exactly 0 of the following cities are in Sudan: Khartoum, Khartoum North.",0,Sudan,"('Khartoum', 'Khartoum North')",0,2
+"Exactly 1 of the following cities are in Zimbabwe: Santo Domingo Este, Tomsk.",0,Zimbabwe,"('Santo Domingo Este', 'Tomsk')",1,0
 "Exactly 0 of the following cities are in Fiji: Ciudad Guayana, Kisangani.",1,Fiji,"('Ciudad Guayana', 'Kisangani')",0,0
-"Exactly 1 of the following cities are in Guatemala: Luohe, Guatemala City.",1,Guatemala,"('Guatemala City', 'Luohe')",1,1
-"Exactly 2 of the following cities are in Fiji: Meknes, Panshan.",0,Fiji,"('Meknes', 'Panshan')",2,0
-"Exactly 2 of the following cities are in Chile: Kharkiv, Ar Raqqah.",0,Chile,"('Ar Raqqah', 'Kharkiv')",2,0
-"Exactly 1 of the following cities are in Syria: Ar Raqqah, Homs.",0,Syria,"('Ar Raqqah', 'Homs')",1,2
-"Exactly 2 of the following cities are in Germany: Munich, Koeln.",1,Germany,"('Koeln', 'Munich')",2,2
-"Exactly 2 of the following cities are in Nigeria: Benin City, Calabar.",1,Nigeria,"('Benin City', 'Calabar')",2,2
-"Exactly 0 of the following cities are in Samoa: Guli, Fes.",1,Samoa,"('Fes', 'Guli')",0,0
-"Exactly 1 of the following cities are in Jordan: Tasikmalaya, Libreville.",0,Jordan,"('Libreville', 'Tasikmalaya')",1,0
-"Exactly 0 of the following cities are in Turkey: Ankara, Mersin.",0,Turkey,"('Ankara', 'Mersin')",0,2
-"Exactly 2 of the following cities are in Antigua and Barbuda: Cucuta, Fes.",0,Antigua and Barbuda,"('Cucuta', 'Fes')",2,0
-"Exactly 2 of the following cities are in Vietnam: Soweto, Dar es Salaam.",0,Vietnam,"('Dar es Salaam', 'Soweto')",2,0
-"Exactly 0 of the following cities are in Nauru: Liaocheng, Yerevan.",1,Nauru,"('Liaocheng', 'Yerevan')",0,0
-"Exactly 2 of the following cities are in Malaysia: Kuantan, Kota Bharu.",1,Malaysia,"('Kota Bharu', 'Kuantan')",2,2
-"Exactly 0 of the following cities are in Chile: Amravati, Caloocan.",1,Chile,"('Amravati', 'Caloocan')",0,0
-"Exactly 1 of the following cities are in Bulgaria: Dushanbe, Sofia.",1,Bulgaria,"('Dushanbe', 'Sofia')",1,1
-"Exactly 2 of the following cities are in Kenya: Nairobi, Nakuru.",1,Kenya,"('Nairobi', 'Nakuru')",2,2
-"Exactly 1 of the following cities are in Venezuela: Maracaibo, Barquisimeto.",0,Venezuela,"('Barquisimeto', 'Maracaibo')",1,2
-"Exactly 2 of the following cities are in Bangladesh: Mirpur Model Thana, Pallabi.",1,Bangladesh,"('Mirpur Model Thana', 'Pallabi')",2,2
-"Exactly 1 of the following cities are in Lithuania: Liupanshui, Vilnius.",1,Lithuania,"('Liupanshui', 'Vilnius')",1,1
-"Exactly 2 of the following cities are in the United States: Oklahoma City, New South Memphis.",1,the United States,"('New South Memphis', 'Oklahoma City')",2,2
-"Exactly 2 of the following cities are in China: Huzhou, Zaozhuang.",1,China,"('Huzhou', 'Zaozhuang')",2,2
-"Exactly 2 of the following cities are in Tanzania: Camayenne, Okara.",0,Tanzania,"('Camayenne', 'Okara')",2,0
-"Exactly 2 of the following cities are in Mauritania: New South Memphis, Guilin.",0,Mauritania,"('Guilin', 'New South Memphis')",2,0
-"Exactly 1 of the following cities are in Poland: Soacha, Lodz.",1,Poland,"('Lodz', 'Soacha')",1,1
-"Exactly 0 of the following cities are in Paraguay: Faridabad, Juiz de Fora.",1,Paraguay,"('Faridabad', 'Juiz de Fora')",0,0
-"Exactly 0 of the following cities are in Iraq: Nasiriyah, Sagamihara.",0,Iraq,"('Nasiriyah', 'Sagamihara')",0,1
-"Exactly 1 of the following cities are in Gabon: Libreville, Seoul.",1,Gabon,"('Libreville', 'Seoul')",1,1
-"Exactly 2 of the following cities are in Colombia: Barranquilla, Cucuta.",1,Colombia,"('Barranquilla', 'Cucuta')",2,2
-"Exactly 1 of the following cities are in Seychelles: Maracaibo, Bekasi.",0,Seychelles,"('Bekasi', 'Maracaibo')",1,0
-"Exactly 0 of the following cities are in Argentina: Ranchi, Zhenjiang.",1,Argentina,"('Ranchi', 'Zhenjiang')",0,0
-"Exactly 1 of the following cities are in the Philippines: Nansana, Budta.",1,the Philippines,"('Budta', 'Nansana')",1,1
-"Exactly 2 of the following cities are in Saudi Arabia: Jeddah, Sultanah.",1,Saudi Arabia,"('Jeddah', 'Sultanah')",2,2
-"Exactly 1 of the following cities are in Vanuatu: Asmara, Hongkou.",0,Vanuatu,"('Asmara', 'Hongkou')",1,0
-"Exactly 0 of the following cities are in Ecuador: Guayaquil, Londrina.",0,Ecuador,"('Guayaquil', 'Londrina')",0,1
-"Exactly 1 of the following cities are in Iraq: Nasiriyah, Mosul.",0,Iraq,"('Mosul', 'Nasiriyah')",1,2
-"Exactly 1 of the following cities are in Kenya: Ciudad Juarez, Mexicali.",0,Kenya,"('Ciudad Juarez', 'Mexicali')",1,0
-"Exactly 1 of the following cities are in South Korea: Selayang Baru Utara, Dodoma.",0,South Korea,"('Dodoma', 'Selayang Baru Utara')",1,0
-"Exactly 2 of the following cities are in Guinea: Gujrat, Curitiba.",0,Guinea,"('Curitiba', 'Gujrat')",2,0
-"Exactly 0 of the following cities are in Zimbabwe: Bareilly, Leipzig.",1,Zimbabwe,"('Bareilly', 'Leipzig')",0,0
-"Exactly 0 of the following cities are in Iran: Hamadan, Orumiyeh.",0,Iran,"('Hamadan', 'Orumiyeh')",0,2
-"Exactly 2 of the following cities are in the Philippines: Cagayan de Oro, Budta.",1,the Philippines,"('Budta', 'Cagayan de Oro')",2,2
-"Exactly 2 of the following cities are in Mexico: Heroica Matamoros, Santiago de Queretaro.",1,Mexico,"('Heroica Matamoros', 'Santiago de Queretaro')",2,2
-"Exactly 1 of the following cities are in Chad: Ashgabat, Zhanjiang.",0,Chad,"('Ashgabat', 'Zhanjiang')",1,0
-"Exactly 2 of the following cities are in the Philippines: Quezon City, Budta.",1,the Philippines,"('Budta', 'Quezon City')",2,2
-"Exactly 1 of the following cities are in Swaziland: Thuan An, Ganzhou.",0,Swaziland,"('Ganzhou', 'Thuan An')",1,0
-"Exactly 2 of the following cities are in the Philippines: Makati City, Bucharest.",0,the Philippines,"('Bucharest', 'Makati City')",2,1
-"Exactly 2 of the following cities are in Nigeria: Shangqiu, Jiangmen.",0,Nigeria,"('Jiangmen', 'Shangqiu')",2,0
-"Exactly 1 of the following cities are in China: Wenzhou, Rajshahi.",1,China,"('Rajshahi', 'Wenzhou')",1,1
-"Exactly 1 of the following cities are in Mauritania: Nouakchott, Bhavnagar.",1,Mauritania,"('Bhavnagar', 'Nouakchott')",1,1
-"Exactly 1 of the following cities are in Bangladesh: Guwahati, Gazipur.",1,Bangladesh,"('Gazipur', 'Guwahati')",1,1
-"Exactly 1 of the following cities are in Mozambique: Maputo, Cabinda.",1,Mozambique,"('Cabinda', 'Maputo')",1,1
-"Exactly 0 of the following cities are in Sudan: Khartoum North, Nyala.",0,Sudan,"('Khartoum North', 'Nyala')",0,2
-"Exactly 1 of the following cities are in Ethiopia: Shanghai, Goyang-si.",0,Ethiopia,"('Goyang-si', 'Shanghai')",1,0
-"Exactly 0 of the following cities are in France: Toulouse, Omsk.",0,France,"('Omsk', 'Toulouse')",0,1
-"Exactly 0 of the following cities are in Belize: Fukuoka, Ibb.",1,Belize,"('Fukuoka', 'Ibb')",0,0
-"Exactly 1 of the following cities are in Sweden: Bandar Lampung, Stockholm.",1,Sweden,"('Bandar Lampung', 'Stockholm')",1,1
-"Exactly 1 of the following cities are in Japan: Kyoto, Hiroshima.",0,Japan,"('Hiroshima', 'Kyoto')",1,2
-"Exactly 1 of the following cities are in Egypt: Giza, Cuautitlan Izcalli.",1,Egypt,"('Cuautitlan Izcalli', 'Giza')",1,1
-"Exactly 2 of the following cities are in Barbados: Novosibirsk, Suez.",0,Barbados,"('Novosibirsk', 'Suez')",2,0
-"Exactly 0 of the following cities are in Albania: New Kingston, Callao.",1,Albania,"('Callao', 'New Kingston')",0,0
-"Exactly 1 of the following cities are in Spain: Semarang, Ha'il.",0,Spain,"(""Ha'il"", 'Semarang')",1,0
-"Exactly 2 of the following cities are in Pakistan: Quetta, Gujranwala.",1,Pakistan,"('Gujranwala', 'Quetta')",2,2
-"Exactly 0 of the following cities are in Malawi: Omdurman, Camama.",1,Malawi,"('Camama', 'Omdurman')",0,0
-"Exactly 1 of the following cities are in the United States: Rio de Janeiro, Hue.",0,the United States,"('Hue', 'Rio de Janeiro')",1,0
-"Exactly 1 of the following cities are in Poland: Mumbai, Lodz.",1,Poland,"('Lodz', 'Mumbai')",1,1
-"Exactly 0 of the following cities are in Cameroon: Douala, Yaounde.",0,Cameroon,"('Douala', 'Yaounde')",0,2
-"Exactly 2 of the following cities are in Zambia: Kitwe, Ile-Ife.",0,Zambia,"('Ile-Ife', 'Kitwe')",2,1
-"Exactly 2 of the following cities are in Turkey: Kayseri, Gaziantep.",1,Turkey,"('Gaziantep', 'Kayseri')",2,2
-"Exactly 0 of the following cities are in Latvia: Caracas, Banjarmasin.",1,Latvia,"('Banjarmasin', 'Caracas')",0,0
-"Exactly 0 of the following cities are in Angola: Mulenvos, Kikolo.",0,Angola,"('Kikolo', 'Mulenvos')",0,2
-"Exactly 1 of the following cities are in Canada: Quebec, Mississauga.",0,Canada,"('Mississauga', 'Quebec')",1,2
-"Exactly 0 of the following cities are in Mauritania: Nouakchott, Soshanguve.",0,Mauritania,"('Nouakchott', 'Soshanguve')",0,1
-"Exactly 2 of the following cities are in Iran: Xiamen, Al Hudaydah.",0,Iran,"('Al Hudaydah', 'Xiamen')",2,0
-"Exactly 2 of the following cities are in Antigua and Barbuda: Bandar Lampung, Maceio.",0,Antigua and Barbuda,"('Bandar Lampung', 'Maceio')",2,0
-"Exactly 0 of the following cities are in Belgium: Hanzhong, Bhiwandi.",1,Belgium,"('Bhiwandi', 'Hanzhong')",0,0
-"Exactly 2 of the following cities are in Russia: Naberezhnyye Chelny, Lipetsk.",1,Russia,"('Lipetsk', 'Naberezhnyye Chelny')",2,2
-"Exactly 2 of the following cities are in Equatorial Guinea: Borivli, Saitama.",0,Equatorial Guinea,"('Borivli', 'Saitama')",2,0
-"Exactly 2 of the following cities are in South Africa: Benoni, Soweto.",1,South Africa,"('Benoni', 'Soweto')",2,2
-"Exactly 0 of the following cities are in Morocco: Ha'il, Fes.",0,Morocco,"('Fes', ""Ha'il"")",0,1
-"Exactly 1 of the following cities are in Egypt: Gustavo Adolfo Madero, Yingkou.",0,Egypt,"('Gustavo Adolfo Madero', 'Yingkou')",1,0
-"Exactly 0 of the following cities are in Bangladesh: Suez, Pest.",1,Bangladesh,"('Pest', 'Suez')",0,0
-"Exactly 2 of the following cities are in the Central African Republic: Santo Domingo Este, Sanaa.",0,the Central African Republic,"('Sanaa', 'Santo Domingo Este')",2,0
-"Exactly 1 of the following cities are in Djibouti: Gaziantep, Vijayawada.",0,Djibouti,"('Gaziantep', 'Vijayawada')",1,0
-"Exactly 2 of the following cities are in the United States: Indianapolis, Queens.",1,the United States,"('Indianapolis', 'Queens')",2,2
-"Exactly 2 of the following cities are in Norway: Oslo, Shangqiu.",0,Norway,"('Oslo', 'Shangqiu')",2,1
-"Exactly 2 of the following cities are in Germany: Dortmund, Leipzig.",1,Germany,"('Dortmund', 'Leipzig')",2,2
-"Exactly 2 of the following cities are in Uzbekistan: Namangan, Tashkent.",1,Uzbekistan,"('Namangan', 'Tashkent')",2,2
-"Exactly 0 of the following cities are in Afghanistan: Bannu, Kasur.",1,Afghanistan,"('Bannu', 'Kasur')",0,0
-"Exactly 1 of the following cities are in Poland: Lodz, Wroclaw.",0,Poland,"('Lodz', 'Wroclaw')",1,2
-"Exactly 1 of the following cities are in Belize: Erode, Edogawe.",0,Belize,"('Edogawe', 'Erode')",1,0
-"Exactly 1 of the following cities are in Honduras: Chuzhou, Fes.",0,Honduras,"('Chuzhou', 'Fes')",1,0
-"Exactly 0 of the following cities are in Vietnam: Dombivali, New South Memphis.",1,Vietnam,"('Dombivali', 'New South Memphis')",0,0
-"Exactly 0 of the following cities are in Honduras: Tegucigalpa, San Pedro Sula.",0,Honduras,"('San Pedro Sula', 'Tegucigalpa')",0,2
-"Exactly 2 of the following cities are in India: Thane, Coimbatore.",1,India,"('Coimbatore', 'Thane')",2,2
-"Exactly 1 of the following cities are in Ukraine: Voronezh, Kyiv.",1,Ukraine,"('Kyiv', 'Voronezh')",1,1
-"Exactly 2 of the following cities are in Vietnam: Qui Nhon, Da Nang.",1,Vietnam,"('Da Nang', 'Qui Nhon')",2,2
-"Exactly 0 of the following cities are in Bosnia and Herzegovina: Hebi, Sarajevo.",0,Bosnia and Herzegovina,"('Hebi', 'Sarajevo')",0,1
-"Exactly 2 of the following cities are in Tuvalu: Hermosillo, Zhangjiakou.",0,Tuvalu,"('Hermosillo', 'Zhangjiakou')",2,0
-"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Tshikapa, Lubumbashi.",1,the Democratic Republic of the Congo,"('Lubumbashi', 'Tshikapa')",2,2
-"Exactly 0 of the following cities are in Samoa: Aracaju, Johor Bahru.",1,Samoa,"('Aracaju', 'Johor Bahru')",0,0
-"Exactly 2 of the following cities are in Denmark: Copenhagen, Kigali.",0,Denmark,"('Copenhagen', 'Kigali')",2,1
-"Exactly 2 of the following cities are in Japan: Suginami, Kumamoto.",1,Japan,"('Kumamoto', 'Suginami')",2,2
-"Exactly 0 of the following cities are in Nigeria: Owerri, Sharjah.",0,Nigeria,"('Owerri', 'Sharjah')",0,1
-"Exactly 0 of the following cities are in Tanzania: Himeji, Mbeya.",0,Tanzania,"('Himeji', 'Mbeya')",0,1
-"Exactly 1 of the following cities are in Algeria: Algiers, Adachi.",1,Algeria,"('Adachi', 'Algiers')",1,1
-"Exactly 0 of the following cities are in Turkey: Erzurum, Pikine.",0,Turkey,"('Erzurum', 'Pikine')",0,1
-"Exactly 2 of the following cities are in Egypt: Suez, Giza.",1,Egypt,"('Giza', 'Suez')",2,2
-"Exactly 1 of the following cities are in Tunisia: Qingpu, Vinh.",0,Tunisia,"('Qingpu', 'Vinh')",1,0
-"Exactly 2 of the following cities are in China: Chuxiong, Jiaxing.",1,China,"('Chuxiong', 'Jiaxing')",2,2
-"Exactly 2 of the following cities are in Angola: Camama, Calumbo.",1,Angola,"('Calumbo', 'Camama')",2,2
-"Exactly 1 of the following cities are in Oman: Zhumadian, Muscat.",1,Oman,"('Muscat', 'Zhumadian')",1,1
-"Exactly 1 of the following cities are in Venezuela: Maracaibo, Chengdu.",1,Venezuela,"('Chengdu', 'Maracaibo')",1,1
-"Exactly 2 of the following cities are in Morocco: Oujda, Tangier.",1,Morocco,"('Oujda', 'Tangier')",2,2
-"Exactly 0 of the following cities are in Liechtenstein: Shihezi, Seongnam-si.",1,Liechtenstein,"('Seongnam-si', 'Shihezi')",0,0
-"Exactly 0 of the following cities are in Slovenia: Fortaleza, Changde.",1,Slovenia,"('Changde', 'Fortaleza')",0,0
-"Exactly 0 of the following cities are in Sao Tome and Principe: Antalya, Kanayannur.",1,Sao Tome and Principe,"('Antalya', 'Kanayannur')",0,0
-"Exactly 0 of the following cities are in Suriname: Soshanguve, Santo Domingo Este.",1,Suriname,"('Santo Domingo Este', 'Soshanguve')",0,0
-"Exactly 0 of the following cities are in Iraq: Kalaburagi, Kuecuekcekmece.",1,Iraq,"('Kalaburagi', 'Kuecuekcekmece')",0,0
-"Exactly 0 of the following cities are in Liechtenstein: Puxi, Zahedan.",1,Liechtenstein,"('Puxi', 'Zahedan')",0,0
-"Exactly 0 of the following cities are in Tanzania: Zanzibar, Ranchi.",0,Tanzania,"('Ranchi', 'Zanzibar')",0,1
-"Exactly 2 of the following cities are in Argentina: Thiruvananthapuram, Ankara.",0,Argentina,"('Ankara', 'Thiruvananthapuram')",2,0
-"Exactly 2 of the following cities are in the Central African Republic: Guangzhou, Arak.",0,the Central African Republic,"('Arak', 'Guangzhou')",2,0
-"Exactly 1 of the following cities are in Burundi: Bujumbura, Anshan.",1,Burundi,"('Anshan', 'Bujumbura')",1,1
-"Exactly 2 of the following cities are in Indonesia: Pekanbaru, Batam.",1,Indonesia,"('Batam', 'Pekanbaru')",2,2
-"Exactly 2 of the following cities are in Malawi: Lilongwe, Shaoxing.",0,Malawi,"('Lilongwe', 'Shaoxing')",2,1
-"Exactly 2 of the following cities are in Malaysia: Selayang Baru Utara, Petaling Jaya.",1,Malaysia,"('Petaling Jaya', 'Selayang Baru Utara')",2,2
-"Exactly 0 of the following cities are in Rwanda: Guli, Kigali.",0,Rwanda,"('Guli', 'Kigali')",0,1
-"Exactly 2 of the following cities are in Mongolia: Xuancheng, Wenzhou.",0,Mongolia,"('Wenzhou', 'Xuancheng')",2,0
-"Exactly 2 of the following cities are in China: Tyumen, Hengyang.",0,China,"('Hengyang', 'Tyumen')",2,1
-"Exactly 2 of the following cities are in Saint Kitts and Nevis: Hoji ya Henda, Belford Roxo.",0,Saint Kitts and Nevis,"('Belford Roxo', 'Hoji ya Henda')",2,0
-"Exactly 0 of the following cities are in Tunisia: Zhongwei, Multan.",1,Tunisia,"('Multan', 'Zhongwei')",0,0
-"Exactly 2 of the following cities are in Colombia: Bucaramanga, Ibague.",1,Colombia,"('Bucaramanga', 'Ibague')",2,2
-"Exactly 0 of the following cities are in Jamaica: Lubumbashi, Isfahan.",1,Jamaica,"('Isfahan', 'Lubumbashi')",0,0
-"Exactly 1 of the following cities are in Panama: Feira de Santana, Bishkek.",0,Panama,"('Bishkek', 'Feira de Santana')",1,0
-"Exactly 0 of the following cities are in Jordan: Zarqa, Irbid.",0,Jordan,"('Irbid', 'Zarqa')",0,2
-"Exactly 1 of the following cities are in Argentina: Xiangtan, San Miguel de Tucuman.",1,Argentina,"('San Miguel de Tucuman', 'Xiangtan')",1,1
-"Exactly 1 of the following cities are in Algeria: Algiers, Qiqihar.",1,Algeria,"('Algiers', 'Qiqihar')",1,1
-"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Cancun, Mbuji-Mayi.",1,the Democratic Republic of the Congo,"('Cancun', 'Mbuji-Mayi')",1,1
-"Exactly 2 of the following cities are in Nepal: Saratov, Gujranwala.",0,Nepal,"('Gujranwala', 'Saratov')",2,0
-"Exactly 1 of the following cities are in Togo: Daqing, Lome.",1,Togo,"('Daqing', 'Lome')",1,1
-"Exactly 1 of the following cities are in Iraq: Izmir, Abu Ghurayb.",1,Iraq,"('Abu Ghurayb', 'Izmir')",1,1
-"Exactly 2 of the following cities are in Chad: N'Djamena, Guwahati.",0,Chad,"('Guwahati', ""N'Djamena"")",2,1
-"Exactly 1 of the following cities are in Iraq: Puducherry, Baghdad.",1,Iraq,"('Baghdad', 'Puducherry')",1,1
-"Exactly 2 of the following cities are in Bulgaria: Marseille, Irkutsk.",0,Bulgaria,"('Irkutsk', 'Marseille')",2,0
+"Exactly 1 of the following cities are in Mexico: Naucalpan de Juarez, Gustavo Adolfo Madero.",0,Mexico,"('Gustavo Adolfo Madero', 'Naucalpan de Juarez')",1,2
+"Exactly 1 of the following cities are in Finland: Tianjin, Helsinki.",1,Finland,"('Helsinki', 'Tianjin')",1,1
+"Exactly 1 of the following cities are in Cameroon: Bhiwandi, Douala.",1,Cameroon,"('Bhiwandi', 'Douala')",1,1
+"Exactly 1 of the following cities are in Latvia: Riga, Himeji.",1,Latvia,"('Himeji', 'Riga')",1,1
+"Exactly 0 of the following cities are in Canada: General Santos, Petaling Jaya.",1,Canada,"('General Santos', 'Petaling Jaya')",0,0
+"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Kikwit, Lubumbashi.",0,the Democratic Republic of the Congo,"('Kikwit', 'Lubumbashi')",1,2
+"Exactly 2 of the following cities are in Iraq: Nasiriyah, Abu Ghurayb.",1,Iraq,"('Abu Ghurayb', 'Nasiriyah')",2,2
+"Exactly 1 of the following cities are in Uzbekistan: Andijon, Samarkand.",0,Uzbekistan,"('Andijon', 'Samarkand')",1,2
+"Exactly 0 of the following cities are in Djibouti: Balbala, Guiyang.",0,Djibouti,"('Balbala', 'Guiyang')",0,1
+"Exactly 0 of the following cities are in Jordan: Zarqa, Port-au-Prince.",0,Jordan,"('Port-au-Prince', 'Zarqa')",0,1
+"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Kikwit, Ulhasnagar.",0,the Democratic Republic of the Congo,"('Kikwit', 'Ulhasnagar')",0,1
+"Exactly 0 of the following cities are in Jamaica: New Kingston, Hanzhong.",0,Jamaica,"('Hanzhong', 'New Kingston')",0,1
+"Exactly 0 of the following cities are in Jamaica: Nakuru, New Kingston.",0,Jamaica,"('Nakuru', 'New Kingston')",0,1
+"Exactly 2 of the following cities are in Macedonia: Mukalla, Ganzhou.",0,Macedonia,"('Ganzhou', 'Mukalla')",2,0
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Mbuji-Mayi, Kinshasa.",1,the Democratic Republic of the Congo,"('Kinshasa', 'Mbuji-Mayi')",2,2
+"Exactly 2 of the following cities are in Russia: Novokuznetsk, Ryazan'.",1,Russia,"('Novokuznetsk', ""Ryazan'"")",2,2
+"Exactly 1 of the following cities are in Eritrea: Tegucigalpa, Lusaka.",0,Eritrea,"('Lusaka', 'Tegucigalpa')",1,0
+"Exactly 2 of the following cities are in Albania: Semarang, Utsunomiya.",0,Albania,"('Semarang', 'Utsunomiya')",2,0
+"Exactly 0 of the following cities are in Equatorial Guinea: Tianshui, Bujumbura.",1,Equatorial Guinea,"('Bujumbura', 'Tianshui')",0,0
+"Exactly 2 of the following cities are in Kazakhstan: Astana, Almaty.",1,Kazakhstan,"('Almaty', 'Astana')",2,2
+"Exactly 2 of the following cities are in Sudan: Owerri, Pimpri-Chinchwad.",0,Sudan,"('Owerri', 'Pimpri-Chinchwad')",2,0
+"Exactly 2 of the following cities are in India: Baotou, Pekanbaru.",0,India,"('Baotou', 'Pekanbaru')",2,0
+"Exactly 0 of the following cities are in Indonesia: Malang, Pekanbaru.",0,Indonesia,"('Malang', 'Pekanbaru')",0,2
+"Exactly 1 of the following cities are in Mongolia: Ulan Bator, Goiania.",1,Mongolia,"('Goiania', 'Ulan Bator')",1,1
+"Exactly 0 of the following cities are in Sweden: Krakow, Stockholm.",0,Sweden,"('Krakow', 'Stockholm')",0,1
+"Exactly 0 of the following cities are in Morocco: Pontianak, Astrakhan.",1,Morocco,"('Astrakhan', 'Pontianak')",0,0
 "Exactly 0 of the following cities are in Gabon: Qiqihar, Panshan.",1,Gabon,"('Panshan', 'Qiqihar')",0,0
-"Exactly 1 of the following cities are in Zambia: Malatya, Lusaka.",1,Zambia,"('Lusaka', 'Malatya')",1,1
-"Exactly 1 of the following cities are in Spain: Cho Lon, Zarqa.",0,Spain,"('Cho Lon', 'Zarqa')",1,0
+"Exactly 1 of the following cities are in Sweden: Maiduguri, Auckland.",0,Sweden,"('Auckland', 'Maiduguri')",1,0
+"Exactly 1 of the following cities are in South Africa: Johannesburg, Linfen.",1,South Africa,"('Johannesburg', 'Linfen')",1,1
+"Exactly 2 of the following cities are in Greece: Beira, Florianopolis.",0,Greece,"('Beira', 'Florianopolis')",2,0
+"Exactly 0 of the following cities are in Kenya: Manaus, Surat.",1,Kenya,"('Manaus', 'Surat')",0,0
+"Exactly 1 of the following cities are in Yemen: Lodz, Mukalla.",1,Yemen,"('Lodz', 'Mukalla')",1,1
+"Exactly 0 of the following cities are in Montenegro: Wanzhou, Siliguri.",1,Montenegro,"('Siliguri', 'Wanzhou')",0,0
+"Exactly 2 of the following cities are in Zambia: Kitwe, Lusaka.",1,Zambia,"('Kitwe', 'Lusaka')",2,2
+"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Shangluo, Tlaquepaque.",1,the Democratic Republic of the Congo,"('Shangluo', 'Tlaquepaque')",0,0
+"Exactly 1 of the following cities are in Bosnia and Herzegovina: Anqing, Sarajevo.",1,Bosnia and Herzegovina,"('Anqing', 'Sarajevo')",1,1
+"Exactly 2 of the following cities are in Nicaragua: Managua, Nha Trang.",0,Nicaragua,"('Managua', 'Nha Trang')",2,1
+"Exactly 0 of the following cities are in the Philippines: Chisinau, Caloocan.",0,the Philippines,"('Caloocan', 'Chisinau')",0,1
+"Exactly 0 of the following cities are in Malawi: Omdurman, Camama.",1,Malawi,"('Camama', 'Omdurman')",0,0
+"Exactly 1 of the following cities are in Moldova: Rui'an, Dera Ismail Khan.",0,Moldova,"('Dera Ismail Khan', ""Rui'an"")",1,0
+"Exactly 1 of the following cities are in Myanmar: Hlaingthaya, Nay Pyi Taw.",0,Myanmar,"('Hlaingthaya', 'Nay Pyi Taw')",1,2
+"Exactly 1 of the following cities are in Vietnam: Binh Thanh, Can Tho.",0,Vietnam,"('Binh Thanh', 'Can Tho')",1,2
+"Exactly 2 of the following cities are in Syria: Latakia, Homs.",1,Syria,"('Homs', 'Latakia')",2,2
+"Exactly 1 of the following cities are in Chile: Puente Alto, Ndola.",1,Chile,"('Ndola', 'Puente Alto')",1,1
+"Exactly 2 of the following cities are in Honduras: Ibague, Tegucigalpa.",0,Honduras,"('Ibague', 'Tegucigalpa')",2,1
+"Exactly 2 of the following cities are in Venezuela: Almaty, Ciudad Guayana.",0,Venezuela,"('Almaty', 'Ciudad Guayana')",2,1
+"Exactly 1 of the following cities are in Angola: Tabriz, Kota Kinabalu.",0,Angola,"('Kota Kinabalu', 'Tabriz')",1,0
+"Exactly 1 of the following cities are in Guatemala: Guatemala City, Soweto.",1,Guatemala,"('Guatemala City', 'Soweto')",1,1
+"Exactly 0 of the following cities are in Uganda: Kampala, Nansana.",0,Uganda,"('Kampala', 'Nansana')",0,2
+"Exactly 0 of the following cities are in Bangladesh: Kuecuekcekmece, Karbala.",1,Bangladesh,"('Karbala', 'Kuecuekcekmece')",0,0
+"Exactly 2 of the following cities are in Mexico: Victoria de Durango, Tijuana.",1,Mexico,"('Tijuana', 'Victoria de Durango')",2,2
+"Exactly 0 of the following cities are in Moldova: Bhubaneswar, Qinzhou.",1,Moldova,"('Bhubaneswar', 'Qinzhou')",0,0
+"Exactly 2 of the following cities are in Iran: Onitsha, Balbala.",0,Iran,"('Balbala', 'Onitsha')",2,0
+"Exactly 0 of the following cities are in Paraguay: Faridabad, Juiz de Fora.",1,Paraguay,"('Faridabad', 'Juiz de Fora')",0,0
+"Exactly 1 of the following cities are in Morocco: Soshanguve, Marrakesh.",1,Morocco,"('Marrakesh', 'Soshanguve')",1,1
+"Exactly 2 of the following cities are in Egypt: Al Mahallah al Kubra, Shubra al Khaymah.",1,Egypt,"('Al Mahallah al Kubra', 'Shubra al Khaymah')",2,2
+"Exactly 2 of the following cities are in Jordan: Zarqa, Ganzhou.",0,Jordan,"('Ganzhou', 'Zarqa')",2,1
+"Exactly 0 of the following cities are in Cambodia: Phnom Penh, Matola.",0,Cambodia,"('Matola', 'Phnom Penh')",0,1
+"Exactly 2 of the following cities are in Chile: Kitwe, Kayseri.",0,Chile,"('Kayseri', 'Kitwe')",2,0
+"Exactly 0 of the following cities are in Mauritania: Vinh, Qionghai.",1,Mauritania,"('Qionghai', 'Vinh')",0,0
+"Exactly 2 of the following cities are in Gabon: Nha Trang, Al Hudaydah.",0,Gabon,"('Al Hudaydah', 'Nha Trang')",2,0
+"Exactly 1 of the following cities are in Nepal: Pallabi, Pokhara.",1,Nepal,"('Pallabi', 'Pokhara')",1,1
+"Exactly 1 of the following cities are in Iraq: Mosul, Sulaymaniyah.",0,Iraq,"('Mosul', 'Sulaymaniyah')",1,2
+"Exactly 2 of the following cities are in Pakistan: Islamabad, Okara.",1,Pakistan,"('Islamabad', 'Okara')",2,2
+"Exactly 0 of the following cities are in Indonesia: Batam, Surakarta.",0,Indonesia,"('Batam', 'Surakarta')",0,2
+"Exactly 2 of the following cities are in Kazakhstan: Almaty, Aktobe.",1,Kazakhstan,"('Aktobe', 'Almaty')",2,2
+"Exactly 1 of the following cities are in Azerbaijan: Lilongwe, Baku.",1,Azerbaijan,"('Baku', 'Lilongwe')",1,1
+"Exactly 2 of the following cities are in Guatemala: Hangzhou, Rajkot.",0,Guatemala,"('Hangzhou', 'Rajkot')",2,0
+"Exactly 2 of the following cities are in Eritrea: Wanxian, Shah Alam.",0,Eritrea,"('Shah Alam', 'Wanxian')",2,0
+"Exactly 2 of the following cities are in China: Heze, Minhang.",1,China,"('Heze', 'Minhang')",2,2
+"Exactly 1 of the following cities are in Morocco: Meknes, Marrakesh.",0,Morocco,"('Marrakesh', 'Meknes')",1,2
+"Exactly 1 of the following cities are in Syria: Homs, Ar Raqqah.",0,Syria,"('Ar Raqqah', 'Homs')",1,2
+"Exactly 1 of the following cities are in Eritrea: Pudong, Asmara.",1,Eritrea,"('Asmara', 'Pudong')",1,1
+"Exactly 2 of the following cities are in Slovenia: Bukavu, Huizhou.",0,Slovenia,"('Bukavu', 'Huizhou')",2,0
+"Exactly 2 of the following cities are in Japan: Kyoto, Suginami.",1,Japan,"('Kyoto', 'Suginami')",2,2
+"Exactly 2 of the following cities are in Germany: Hannover, Dortmund.",1,Germany,"('Dortmund', 'Hannover')",2,2
+"Exactly 2 of the following cities are in Tajikistan: Dushanbe, Pretoria.",0,Tajikistan,"('Dushanbe', 'Pretoria')",2,1
+"Exactly 1 of the following cities are in Burkina Faso: Borivli, Ouagadougou.",1,Burkina Faso,"('Borivli', 'Ouagadougou')",1,1
+"Exactly 2 of the following cities are in Morocco: Warangal, Lviv.",0,Morocco,"('Lviv', 'Warangal')",2,0
+"Exactly 2 of the following cities are in Ukraine: Sanaa, Kharkiv.",0,Ukraine,"('Kharkiv', 'Sanaa')",2,1
+"Exactly 0 of the following cities are in India: Jammu, Amritsar.",0,India,"('Amritsar', 'Jammu')",0,2
+"Exactly 2 of the following cities are in Bulgaria: Changde, Sofia.",0,Bulgaria,"('Changde', 'Sofia')",2,1
+"Exactly 2 of the following cities are in Costa Rica: Nagpur, Osogbo.",0,Costa Rica,"('Nagpur', 'Osogbo')",2,0
 "Exactly 0 of the following cities are in Antigua and Barbuda: Kallakurichi, Al Hudaydah.",1,Antigua and Barbuda,"('Al Hudaydah', 'Kallakurichi')",0,0
-"Exactly 1 of the following cities are in Rwanda: Tirunelveli, Amritsar.",0,Rwanda,"('Amritsar', 'Tirunelveli')",1,0
-"Exactly 2 of the following cities are in Armenia: Yerevan, Maceio.",0,Armenia,"('Maceio', 'Yerevan')",2,1
-"Exactly 1 of the following cities are in Morocco: Warangal, Abeokuta.",0,Morocco,"('Abeokuta', 'Warangal')",1,0
-"Exactly 2 of the following cities are in Argentina: Osogbo, Sanya.",0,Argentina,"('Osogbo', 'Sanya')",2,0
-"Exactly 0 of the following cities are in Serbia: Gujranwala, Enugu.",1,Serbia,"('Enugu', 'Gujranwala')",0,0
-"Exactly 1 of the following cities are in Guatemala: Guatemala City, Al Ahmadi.",1,Guatemala,"('Al Ahmadi', 'Guatemala City')",1,1
-"Exactly 0 of the following cities are in Venezuela: Maturin, Acapulco de Juarez.",0,Venezuela,"('Acapulco de Juarez', 'Maturin')",0,1
-"Exactly 0 of the following cities are in Mozambique: Recife, Beira.",0,Mozambique,"('Beira', 'Recife')",0,1
-"Exactly 2 of the following cities are in Yemen: Mukalla, Sanaa.",1,Yemen,"('Mukalla', 'Sanaa')",2,2
-"Exactly 1 of the following cities are in Swaziland: Ulhasnagar, Prayagraj.",0,Swaziland,"('Prayagraj', 'Ulhasnagar')",1,0
-"Exactly 2 of the following cities are in China: Qingpu, Yongzhou.",1,China,"('Qingpu', 'Yongzhou')",2,2
+"Exactly 2 of the following cities are in Myanmar: Nay Pyi Taw, Mandalay.",1,Myanmar,"('Mandalay', 'Nay Pyi Taw')",2,2
+"Exactly 1 of the following cities are in Japan: Shizuoka, Huludao.",1,Japan,"('Huludao', 'Shizuoka')",1,1
+"Exactly 1 of the following cities are in Mexico: Gustavo Adolfo Madero, Heroica Matamoros.",0,Mexico,"('Gustavo Adolfo Madero', 'Heroica Matamoros')",1,2
+"Exactly 1 of the following cities are in Myanmar: Suizhou, Zhangjiagang.",0,Myanmar,"('Suizhou', 'Zhangjiagang')",1,0
+"Exactly 1 of the following cities are in Eritrea: Bengaluru, Bouake.",0,Eritrea,"('Bengaluru', 'Bouake')",1,0
+"Exactly 0 of the following cities are in Djibouti: Gold Coast, Bucaramanga.",1,Djibouti,"('Bucaramanga', 'Gold Coast')",0,0
+"Exactly 2 of the following cities are in Nepal: Dongying, Cancun.",0,Nepal,"('Cancun', 'Dongying')",2,0
+"Exactly 0 of the following cities are in Botswana: Khartoum North, Kuala Lumpur.",1,Botswana,"('Khartoum North', 'Kuala Lumpur')",0,0
+"Exactly 0 of the following cities are in San Marino: Huaibei, Kathmandu.",1,San Marino,"('Huaibei', 'Kathmandu')",0,0
+"Exactly 2 of the following cities are in Venezuela: Ciudad Guayana, Maturin.",1,Venezuela,"('Ciudad Guayana', 'Maturin')",2,2
+"Exactly 0 of the following cities are in Chad: Libreville, Chuxiong.",1,Chad,"('Chuxiong', 'Libreville')",0,0
+"Exactly 1 of the following cities are in the United States: Ar Raqqah, New York City.",1,the United States,"('Ar Raqqah', 'New York City')",1,1
+"Exactly 2 of the following cities are in China: Qionghai, Wanxian.",1,China,"('Qionghai', 'Wanxian')",2,2
+"Exactly 0 of the following cities are in Swaziland: Vilnius, Yangjiang.",1,Swaziland,"('Vilnius', 'Yangjiang')",0,0
+"Exactly 0 of the following cities are in Syria: Jakarta, Aleppo.",0,Syria,"('Aleppo', 'Jakarta')",0,1
+"Exactly 2 of the following cities are in Kiribati: Cancun, Nanning.",0,Kiribati,"('Cancun', 'Nanning')",2,0
+"Exactly 1 of the following cities are in Tajikistan: Qinhuangdao, Dushanbe.",1,Tajikistan,"('Dushanbe', 'Qinhuangdao')",1,1
+"Exactly 2 of the following cities are in Monaco: Khartoum North, Bursa.",0,Monaco,"('Bursa', 'Khartoum North')",2,0
+"Exactly 0 of the following cities are in Uruguay: Putuo, Vinh.",1,Uruguay,"('Putuo', 'Vinh')",0,0
+"Exactly 1 of the following cities are in France: Marseille, Lyon.",0,France,"('Lyon', 'Marseille')",1,2
+"Exactly 2 of the following cities are in the Philippines: Pasig City, Budta.",1,the Philippines,"('Budta', 'Pasig City')",2,2
+"Exactly 2 of the following cities are in the United Kingdom: Culiacan, Daqing.",0,the United Kingdom,"('Culiacan', 'Daqing')",2,0
+"Exactly 2 of the following cities are in Bulgaria: N'Djamena, Karol Bagh.",0,Bulgaria,"('Karol Bagh', ""N'Djamena"")",2,0
+"Exactly 0 of the following cities are in Somalia: Nasiriyah, Borama.",0,Somalia,"('Borama', 'Nasiriyah')",0,1
+"Exactly 0 of the following cities are in Ghana: Andijon, Accra.",0,Ghana,"('Accra', 'Andijon')",0,1
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Sevastopol, Kunming.",0,the Democratic Republic of the Congo,"('Kunming', 'Sevastopol')",2,0
+"Exactly 0 of the following cities are in Morocco: Tangier, Fes.",0,Morocco,"('Fes', 'Tangier')",0,2
+"Exactly 2 of the following cities are in India: Loni, Navi Mumbai.",1,India,"('Loni', 'Navi Mumbai')",2,2
+"Exactly 0 of the following cities are in El Salvador: Khartoum North, Shenyang.",1,El Salvador,"('Khartoum North', 'Shenyang')",0,0
+"Exactly 1 of the following cities are in Turkey: Ulyanovsk, Nakuru.",0,Turkey,"('Nakuru', 'Ulyanovsk')",1,0
+"Exactly 0 of the following cities are in Armenia: Tashkent, Dnipro.",1,Armenia,"('Dnipro', 'Tashkent')",0,0
+"Exactly 1 of the following cities are in Yemen: Aden, Indianapolis.",1,Yemen,"('Aden', 'Indianapolis')",1,1
+"Exactly 2 of the following cities are in Guinea-Bissau: Rajkot, Coyoacan.",0,Guinea-Bissau,"('Coyoacan', 'Rajkot')",2,0
+"Exactly 1 of the following cities are in Poland: Lodz, Krakow.",0,Poland,"('Krakow', 'Lodz')",1,2
+"Exactly 1 of the following cities are in Rwanda: Latakia, Kigali.",1,Rwanda,"('Kigali', 'Latakia')",1,1
+"Exactly 2 of the following cities are in Poland: Kuecuekcekmece, Maputo.",0,Poland,"('Kuecuekcekmece', 'Maputo')",2,0
+"Exactly 1 of the following cities are in Morocco: Fes, Agadir.",0,Morocco,"('Agadir', 'Fes')",1,2
+"Exactly 0 of the following cities are in Kazakhstan: Maturin, Duesseldorf.",1,Kazakhstan,"('Duesseldorf', 'Maturin')",0,0
+"Exactly 1 of the following cities are in Niger: Niamey, Karbala.",1,Niger,"('Karbala', 'Niamey')",1,1
+"Exactly 1 of the following cities are in Norway: Piura, Oslo.",1,Norway,"('Oslo', 'Piura')",1,1
+"Exactly 1 of the following cities are in Papua New Guinea: Lviv, Salta.",0,Papua New Guinea,"('Lviv', 'Salta')",1,0
+"Exactly 0 of the following cities are in Ukraine: Kyiv, Sevastopol.",0,Ukraine,"('Kyiv', 'Sevastopol')",0,2
+"Exactly 0 of the following cities are in Egypt: Assiut, Al Mahallah al Kubra.",0,Egypt,"('Al Mahallah al Kubra', 'Assiut')",0,2
+"Exactly 0 of the following cities are in Afghanistan: Novokuznetsk, Al Ain City.",1,Afghanistan,"('Al Ain City', 'Novokuznetsk')",0,0
+"Exactly 0 of the following cities are in Swaziland: Huaihua, Izmir.",1,Swaziland,"('Huaihua', 'Izmir')",0,0
+"Exactly 2 of the following cities are in Benin: Wuzhou, Johor Bahru.",0,Benin,"('Johor Bahru', 'Wuzhou')",2,0
+"Exactly 2 of the following cities are in Zimbabwe: Santo Domingo Oeste, Cankaya.",0,Zimbabwe,"('Cankaya', 'Santo Domingo Oeste')",2,0
+"Exactly 2 of the following cities are in Jamaica: Sadr City, New Kingston.",0,Jamaica,"('New Kingston', 'Sadr City')",2,1
+"Exactly 0 of the following cities are in Morocco: Marrakesh, Fes.",0,Morocco,"('Fes', 'Marrakesh')",0,2
+"Exactly 1 of the following cities are in New Zealand: Quezon City, Auckland.",1,New Zealand,"('Auckland', 'Quezon City')",1,1
+"Exactly 2 of the following cities are in Turkmenistan: Mexicali, Benoni.",0,Turkmenistan,"('Benoni', 'Mexicali')",2,0
+"Exactly 1 of the following cities are in Comoros: Rui'an, Luancheng.",0,Comoros,"('Luancheng', ""Rui'an"")",1,0
+"Exactly 2 of the following cities are in Bangladesh: Rangpur, Mirpur Model Thana.",1,Bangladesh,"('Mirpur Model Thana', 'Rangpur')",2,2
+"Exactly 0 of the following cities are in Dominica: Tucson, Jaipur.",1,Dominica,"('Jaipur', 'Tucson')",0,0
+"Exactly 1 of the following cities are in Estonia: Pyongyang, Phnom Penh.",0,Estonia,"('Phnom Penh', 'Pyongyang')",1,0
+"Exactly 1 of the following cities are in Singapore: Tonghua, Port-au-Prince.",0,Singapore,"('Port-au-Prince', 'Tonghua')",1,0
+"Exactly 0 of the following cities are in the Dominican Republic: Santiago de los Caballeros, Santo Domingo Oeste.",0,the Dominican Republic,"('Santiago de los Caballeros', 'Santo Domingo Oeste')",0,2
+"Exactly 2 of the following cities are in the Central African Republic: Bien Hoa, Katsina.",0,the Central African Republic,"('Bien Hoa', 'Katsina')",2,0
+"Exactly 0 of the following cities are in France: Toulouse, Gwalior.",0,France,"('Gwalior', 'Toulouse')",0,1
+"Exactly 2 of the following cities are in China: Laiwu, Qiqihar.",1,China,"('Laiwu', 'Qiqihar')",2,2
+"Exactly 0 of the following cities are in Cameroon: Samarkand, Jiangyin.",1,Cameroon,"('Jiangyin', 'Samarkand')",0,0
+"Exactly 1 of the following cities are in Tanzania: Mbeya, Yaounde.",1,Tanzania,"('Mbeya', 'Yaounde')",1,1
+"Exactly 2 of the following cities are in Pakistan: Vijayawada, Minhang.",0,Pakistan,"('Minhang', 'Vijayawada')",2,0
+"Exactly 2 of the following cities are in Pakistan: Battagram, Jhang Sadr.",1,Pakistan,"('Battagram', 'Jhang Sadr')",2,2
+"Exactly 0 of the following cities are in Malaysia: Subang Jaya, Sungai Petani.",0,Malaysia,"('Subang Jaya', 'Sungai Petani')",0,2
+"Exactly 0 of the following cities are in the United States: Indianapolis, Zhangzhou.",0,the United States,"('Indianapolis', 'Zhangzhou')",0,1
+"Exactly 2 of the following cities are in Pakistan: Bahawalpur, Chunian.",1,Pakistan,"('Bahawalpur', 'Chunian')",2,2
+"Exactly 1 of the following cities are in Brazil: Joao Pessoa, Manaus.",0,Brazil,"('Joao Pessoa', 'Manaus')",1,2
+"Exactly 1 of the following cities are in Luxembourg: Zaozhuang, Mbuji-Mayi.",0,Luxembourg,"('Mbuji-Mayi', 'Zaozhuang')",1,0
+"Exactly 0 of the following cities are in Canada: Quebec, Calgary.",0,Canada,"('Calgary', 'Quebec')",0,2
+"Exactly 0 of the following cities are in Cape Verde: Benguela, Kobe.",1,Cape Verde,"('Benguela', 'Kobe')",0,0
+"Exactly 1 of the following cities are in the Philippines: Malingao, General Santos.",0,the Philippines,"('General Santos', 'Malingao')",1,2
+"Exactly 2 of the following cities are in Mauritius: Hezhou, Mosul.",0,Mauritius,"('Hezhou', 'Mosul')",2,0
+"Exactly 2 of the following cities are in South Korea: Incheon, Daejeon.",1,South Korea,"('Daejeon', 'Incheon')",2,2
+"Exactly 0 of the following cities are in Rwanda: Qinzhou, Kigali.",0,Rwanda,"('Kigali', 'Qinzhou')",0,1
+"Exactly 1 of the following cities are in El Salvador: Chenzhou, Longyan.",0,El Salvador,"('Chenzhou', 'Longyan')",1,0
+"Exactly 1 of the following cities are in Malta: Al Basrah al Qadimah, Xingtai.",0,Malta,"('Al Basrah al Qadimah', 'Xingtai')",1,0
+"Exactly 2 of the following cities are in Mali: Hamadan, Liupanshui.",0,Mali,"('Hamadan', 'Liupanshui')",2,0
+"Exactly 0 of the following cities are in Latvia: Calgary, Gujranwala.",1,Latvia,"('Calgary', 'Gujranwala')",0,0
+"Exactly 1 of the following cities are in Sweden: Stockholm, Kozhikode.",1,Sweden,"('Kozhikode', 'Stockholm')",1,1
+"Exactly 2 of the following cities are in Russia: Vladivostok, Izhevsk.",1,Russia,"('Izhevsk', 'Vladivostok')",2,2
+"Exactly 2 of the following cities are in Pakistan: Lahore, Peshawar.",1,Pakistan,"('Lahore', 'Peshawar')",2,2
+"Exactly 2 of the following cities are in Poland: Krakow, Wroclaw.",1,Poland,"('Krakow', 'Wroclaw')",2,2
+"Exactly 2 of the following cities are in Brazil: Recife, Niteroi.",1,Brazil,"('Niteroi', 'Recife')",2,2
+"Exactly 2 of the following cities are in Malaysia: Iskandar Puteri, Kota Bharu.",1,Malaysia,"('Iskandar Puteri', 'Kota Bharu')",2,2
+"Exactly 2 of the following cities are in France: Lyon, Banjarmasin.",0,France,"('Banjarmasin', 'Lyon')",2,1
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Kharkiv, Nizhniy Novgorod.",0,the Democratic Republic of the Congo,"('Kharkiv', 'Nizhniy Novgorod')",2,0
+"Exactly 1 of the following cities are in Thailand: Haiphong, Bangkok.",1,Thailand,"('Bangkok', 'Haiphong')",1,1
+"Exactly 2 of the following cities are in the United States: Tucson, Oklahoma City.",1,the United States,"('Oklahoma City', 'Tucson')",2,2
+"Exactly 1 of the following cities are in Guatemala: Guatemala City, Lyon.",1,Guatemala,"('Guatemala City', 'Lyon')",1,1
+"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Kinshasa, Bandar Lampung.",1,the Democratic Republic of the Congo,"('Bandar Lampung', 'Kinshasa')",1,1
+"Exactly 2 of the following cities are in South Korea: Incheon, Hwaseong-si.",1,South Korea,"('Hwaseong-si', 'Incheon')",2,2
+"Exactly 2 of the following cities are in India: Pune, Loni.",1,India,"('Loni', 'Pune')",2,2
+"Exactly 1 of the following cities are in Kenya: Mombasa, Cabinda.",1,Kenya,"('Cabinda', 'Mombasa')",1,1
+"Exactly 1 of the following cities are in Singapore: Mohammadpur, Matsuyama.",0,Singapore,"('Matsuyama', 'Mohammadpur')",1,0
+"Exactly 2 of the following cities are in Iceland: Ulhasnagar, Pasig City.",0,Iceland,"('Pasig City', 'Ulhasnagar')",2,0
+"Exactly 0 of the following cities are in Pakistan: Sargodha, Shangyu.",0,Pakistan,"('Sargodha', 'Shangyu')",0,1
+"Exactly 1 of the following cities are in Kuwait: Yangon, Baoji.",0,Kuwait,"('Baoji', 'Yangon')",1,0
+"Exactly 0 of the following cities are in Namibia: Mandalay, Bobo-Dioulasso.",1,Namibia,"('Bobo-Dioulasso', 'Mandalay')",0,0
+"Exactly 1 of the following cities are in Togo: Lome, Weihai.",1,Togo,"('Lome', 'Weihai')",1,1
+"Exactly 2 of the following cities are in Palau: Almaty, Akure.",0,Palau,"('Akure', 'Almaty')",2,0
+"Exactly 0 of the following cities are in the Philippines: Daegu, Qingdao.",1,the Philippines,"('Daegu', 'Qingdao')",0,0
+"Exactly 0 of the following cities are in Estonia: Caloocan, Duesseldorf.",1,Estonia,"('Caloocan', 'Duesseldorf')",0,0
+"Exactly 1 of the following cities are in Azerbaijan: Baku, Malingao.",1,Azerbaijan,"('Baku', 'Malingao')",1,1
+"Exactly 2 of the following cities are in Canada: Quebec, Huangshi.",0,Canada,"('Huangshi', 'Quebec')",2,1
+"Exactly 0 of the following cities are in Cameroon: Dandong, Naucalpan de Juarez.",1,Cameroon,"('Dandong', 'Naucalpan de Juarez')",0,0
+"Exactly 2 of the following cities are in the United States: Seattle, New York City.",1,the United States,"('New York City', 'Seattle')",2,2
+"Exactly 2 of the following cities are in Ukraine: Kharkiv, Odesa.",1,Ukraine,"('Kharkiv', 'Odesa')",2,2
+"Exactly 2 of the following cities are in Côte d'Ivoire: Abobo, Abidjan.",1,Côte d'Ivoire,"('Abidjan', 'Abobo')",2,2
+"Exactly 2 of the following cities are in Serbia: Chizhou, Novosibirsk.",0,Serbia,"('Chizhou', 'Novosibirsk')",2,0
+"Exactly 1 of the following cities are in Saudi Arabia: Kolkata, Makkah.",1,Saudi Arabia,"('Kolkata', 'Makkah')",1,1
+"Exactly 0 of the following cities are in Spain: Ahvaz, UEruemqi.",1,Spain,"('Ahvaz', 'UEruemqi')",0,0
+"Exactly 1 of the following cities are in Egypt: Suizhou, Al Fayyum.",1,Egypt,"('Al Fayyum', 'Suizhou')",1,1
+"Exactly 1 of the following cities are in Kenya: Kakamega, Nakuru.",0,Kenya,"('Kakamega', 'Nakuru')",1,2
+"Exactly 1 of the following cities are in the Central African Republic: Jos, Pasir Gudang.",0,the Central African Republic,"('Jos', 'Pasir Gudang')",1,0
+"Exactly 0 of the following cities are in the Philippines: Las Pinas, Paranaque City.",0,the Philippines,"('Las Pinas', 'Paranaque City')",0,2
+"Exactly 2 of the following cities are in the United States: Milwaukee, Fort Worth.",1,the United States,"('Fort Worth', 'Milwaukee')",2,2
+"Exactly 2 of the following cities are in Liberia: Dhanbad, Incheon.",0,Liberia,"('Dhanbad', 'Incheon')",2,0
+"Exactly 0 of the following cities are in Jamaica: Lubumbashi, Isfahan.",1,Jamaica,"('Isfahan', 'Lubumbashi')",0,0
+"Exactly 2 of the following cities are in Ireland: Chennai, Lyon.",0,Ireland,"('Chennai', 'Lyon')",2,0
+"Exactly 2 of the following cities are in Mexico: Hermosillo, Ciudad Nezahualcoyotl.",1,Mexico,"('Ciudad Nezahualcoyotl', 'Hermosillo')",2,2
+"Exactly 2 of the following cities are in Colombia: Ranchi, Cucuta.",0,Colombia,"('Cucuta', 'Ranchi')",2,1
+"Exactly 1 of the following cities are in Poland: Krakow, Bhubaneswar.",1,Poland,"('Bhubaneswar', 'Krakow')",1,1
+"Exactly 0 of the following cities are in Panama: Sofia, Mandalay.",1,Panama,"('Mandalay', 'Sofia')",0,0
+"Exactly 2 of the following cities are in Zimbabwe: Santo Domingo Este, Rizhao.",0,Zimbabwe,"('Rizhao', 'Santo Domingo Este')",2,0
+"Exactly 0 of the following cities are in Bulgaria: Sofia, Zhoushan.",0,Bulgaria,"('Sofia', 'Zhoushan')",0,1
+"Exactly 2 of the following cities are in Bosnia and Herzegovina: Nanning, Toulouse.",0,Bosnia and Herzegovina,"('Nanning', 'Toulouse')",2,0
+"Exactly 1 of the following cities are in Bulgaria: Sofia, Seattle.",1,Bulgaria,"('Seattle', 'Sofia')",1,1
+"Exactly 1 of the following cities are in Kyrgyzstan: Bishkek, Jos.",1,Kyrgyzstan,"('Bishkek', 'Jos')",1,1
+"Exactly 0 of the following cities are in Burkina Faso: Izmir, Jinan.",1,Burkina Faso,"('Izmir', 'Jinan')",0,0
+"Exactly 2 of the following cities are in Uzbekistan: Tashkent, Ipoh.",0,Uzbekistan,"('Ipoh', 'Tashkent')",2,1
+"Exactly 1 of the following cities are in Mozambique: Pingdingshan, Matola.",1,Mozambique,"('Matola', 'Pingdingshan')",1,1
+"Exactly 2 of the following cities are in Russia: Naberezhnyye Chelny, Rostov-on-Don.",1,Russia,"('Naberezhnyye Chelny', 'Rostov-on-Don')",2,2
+"Exactly 1 of the following cities are in the Gambia: Bengbu, Al Mawsil al Jadidah.",0,the Gambia,"('Al Mawsil al Jadidah', 'Bengbu')",1,0
+"Exactly 0 of the following cities are in Belarus: Palembang, Minsk.",0,Belarus,"('Minsk', 'Palembang')",0,1
+"Exactly 0 of the following cities are in Liechtenstein: Shihezi, Seongnam-si.",1,Liechtenstein,"('Seongnam-si', 'Shihezi')",0,0
+"Exactly 1 of the following cities are in Mauritania: Nouakchott, Heze.",1,Mauritania,"('Heze', 'Nouakchott')",1,1
+"Exactly 1 of the following cities are in Afghanistan: Mazar-e Sharif, Calgary.",1,Afghanistan,"('Calgary', 'Mazar-e Sharif')",1,1
+"Exactly 1 of the following cities are in Mongolia: Sungai Petani, Daegu.",0,Mongolia,"('Daegu', 'Sungai Petani')",1,0
+"Exactly 1 of the following cities are in Mauritius: Copenhagen, Hiroshima.",0,Mauritius,"('Copenhagen', 'Hiroshima')",1,0
+"Exactly 1 of the following cities are in Indonesia: Jambi City, Jakarta.",0,Indonesia,"('Jakarta', 'Jambi City')",1,2
+"Exactly 0 of the following cities are in Saudi Arabia: Ha'il, Jeddah.",0,Saudi Arabia,"(""Ha'il"", 'Jeddah')",0,2
+"Exactly 1 of the following cities are in Rwanda: Bamako, Kigali.",1,Rwanda,"('Bamako', 'Kigali')",1,1
+"Exactly 1 of the following cities are in Ukraine: Kyiv, Zhaotong.",1,Ukraine,"('Kyiv', 'Zhaotong')",1,1
+"Exactly 1 of the following cities are in Burundi: Bujumbura, Chengdu.",1,Burundi,"('Bujumbura', 'Chengdu')",1,1
+"Exactly 2 of the following cities are in Russia: Bannu, Cagayan de Oro.",0,Russia,"('Bannu', 'Cagayan de Oro')",2,0
+"Exactly 1 of the following cities are in Burundi: Gujranwala, Pelentong.",0,Burundi,"('Gujranwala', 'Pelentong')",1,0
+"Exactly 1 of the following cities are in Syria: Homs, Basrah.",1,Syria,"('Basrah', 'Homs')",1,1
+"Exactly 0 of the following cities are in Russia: Guangzhou, Mississauga.",1,Russia,"('Guangzhou', 'Mississauga')",0,0
+"Exactly 2 of the following cities are in Turkey: Esenyurt, Kuecuekcekmece.",1,Turkey,"('Esenyurt', 'Kuecuekcekmece')",2,2
+"Exactly 1 of the following cities are in Somalia: Dandong, Borama.",1,Somalia,"('Borama', 'Dandong')",1,1
+"Exactly 2 of the following cities are in El Salvador: Baise, Sulaymaniyah.",0,El Salvador,"('Baise', 'Sulaymaniyah')",2,0
+"Exactly 0 of the following cities are in Afghanistan: Gazipur, Mazar-e Sharif.",0,Afghanistan,"('Gazipur', 'Mazar-e Sharif')",0,1
+"Exactly 1 of the following cities are in China: Yichang, Zhoushan.",0,China,"('Yichang', 'Zhoushan')",1,2
+"Exactly 2 of the following cities are in the Dominican Republic: Santiago de los Caballeros, Santo Domingo Este.",1,the Dominican Republic,"('Santiago de los Caballeros', 'Santo Domingo Este')",2,2
+"Exactly 2 of the following cities are in Cambodia: Lahore, Phnom Penh.",0,Cambodia,"('Lahore', 'Phnom Penh')",2,1
+"Exactly 2 of the following cities are in Hungary: Qingdao, Contagem.",0,Hungary,"('Contagem', 'Qingdao')",2,0
+"Exactly 1 of the following cities are in Japan: Zhangjiakou, Liaocheng.",0,Japan,"('Liaocheng', 'Zhangjiakou')",1,0
+"Exactly 0 of the following cities are in Mali: Bamako, Aguascalientes.",0,Mali,"('Aguascalientes', 'Bamako')",0,1
+"Exactly 0 of the following cities are in Indonesia: Suining, Cuttack.",1,Indonesia,"('Cuttack', 'Suining')",0,0
+"Exactly 2 of the following cities are in Peru: Piura, Chiclayo.",1,Peru,"('Chiclayo', 'Piura')",2,2
+"Exactly 0 of the following cities are in Turkey: Eskisehir, Mysuru.",0,Turkey,"('Eskisehir', 'Mysuru')",0,1
+"Exactly 2 of the following cities are in Jamaica: Kitakyushu, New Kingston.",0,Jamaica,"('Kitakyushu', 'New Kingston')",2,1
+"Exactly 2 of the following cities are in Cyprus: Orenburg, Rio de Janeiro.",0,Cyprus,"('Orenburg', 'Rio de Janeiro')",2,0
+"Exactly 1 of the following cities are in Sweden: Nowrangapur, Detroit.",0,Sweden,"('Detroit', 'Nowrangapur')",1,0
+"Exactly 0 of the following cities are in Niger: Nampula, Niamey.",0,Niger,"('Nampula', 'Niamey')",0,1
+"Exactly 1 of the following cities are in South Africa: Okayama, Johannesburg.",1,South Africa,"('Johannesburg', 'Okayama')",1,1
+"Exactly 1 of the following cities are in Botswana: Khartoum, Port-au-Prince.",0,Botswana,"('Khartoum', 'Port-au-Prince')",1,0
+"Exactly 0 of the following cities are in El Salvador: Bhopal, Bareilly.",1,El Salvador,"('Bareilly', 'Bhopal')",0,0
+"Exactly 1 of the following cities are in Sudan: Khartoum North, Daejeon.",1,Sudan,"('Daejeon', 'Khartoum North')",1,1
+"Exactly 0 of the following cities are in Laos: Vientiane, Port Harcourt.",0,Laos,"('Port Harcourt', 'Vientiane')",0,1
+"Exactly 2 of the following cities are in the Philippines: Las Pinas, Quezon City.",1,the Philippines,"('Las Pinas', 'Quezon City')",2,2
+"Exactly 2 of the following cities are in Indonesia: South Tangerang, Jambi City.",1,Indonesia,"('Jambi City', 'South Tangerang')",2,2
+"Exactly 2 of the following cities are in Swaziland: Giza, Ibadan.",0,Swaziland,"('Giza', 'Ibadan')",2,0
+"Exactly 2 of the following cities are in Germany: Frankfurt am Main, Hannover.",1,Germany,"('Frankfurt am Main', 'Hannover')",2,2
+"Exactly 1 of the following cities are in the United Arab Emirates: Sharjah, Lome.",1,the United Arab Emirates,"('Lome', 'Sharjah')",1,1
+"Exactly 1 of the following cities are in Togo: Antalya, Pyongyang.",0,Togo,"('Antalya', 'Pyongyang')",1,0
+"Exactly 0 of the following cities are in Ethiopia: Katsina, Addis Ababa.",0,Ethiopia,"('Addis Ababa', 'Katsina')",0,1
+"Exactly 0 of the following cities are in Estonia: Bukavu, Erzurum.",1,Estonia,"('Bukavu', 'Erzurum')",0,0
+"Exactly 1 of the following cities are in Mozambique: Al Ahmadi, Tokyo.",0,Mozambique,"('Al Ahmadi', 'Tokyo')",1,0
+"Exactly 1 of the following cities are in Fiji: Johor Bahru, Kathmandu.",0,Fiji,"('Johor Bahru', 'Kathmandu')",1,0
+"Exactly 0 of the following cities are in Tanzania: Hachioji, Arusha.",0,Tanzania,"('Arusha', 'Hachioji')",0,1
+"Exactly 0 of the following cities are in Guyana: Katsina, Dammam.",1,Guyana,"('Dammam', 'Katsina')",0,0
+"Exactly 2 of the following cities are in Argentina: Salta, Mar del Plata.",1,Argentina,"('Mar del Plata', 'Salta')",2,2
+"Exactly 1 of the following cities are in Ukraine: Kirkuk, Odesa.",1,Ukraine,"('Kirkuk', 'Odesa')",1,1
+"Exactly 0 of the following cities are in Estonia: New York City, Ashgabat.",1,Estonia,"('Ashgabat', 'New York City')",0,0
+"Exactly 2 of the following cities are in Romania: Curitiba, Abu Dhabi.",0,Romania,"('Abu Dhabi', 'Curitiba')",2,0
+"Exactly 1 of the following cities are in Mozambique: Beira, Bengbu.",1,Mozambique,"('Beira', 'Bengbu')",1,1
+"Exactly 2 of the following cities are in Bangladesh: Chattogram, Gazipur.",1,Bangladesh,"('Chattogram', 'Gazipur')",2,2
+"Exactly 0 of the following cities are in Guinea: Voronezh, Luohu District.",1,Guinea,"('Luohu District', 'Voronezh')",0,0
+"Exactly 1 of the following cities are in Germany: Tehran, Koeln.",1,Germany,"('Koeln', 'Tehran')",1,1
+"Exactly 1 of the following cities are in Saudi Arabia: Beijing, Dortmund.",0,Saudi Arabia,"('Beijing', 'Dortmund')",1,0
+"Exactly 0 of the following cities are in Tanzania: Odesa, Da Nang.",1,Tanzania,"('Da Nang', 'Odesa')",0,0
+"Exactly 0 of the following cities are in Uganda: Kampala, Rohini.",0,Uganda,"('Kampala', 'Rohini')",0,1
+"Exactly 2 of the following cities are in Denmark: Dortmund, Stockholm.",0,Denmark,"('Dortmund', 'Stockholm')",2,0
+"Exactly 1 of the following cities are in Jordan: Amman, Ghaziabad.",1,Jordan,"('Amman', 'Ghaziabad')",1,1
+"Exactly 2 of the following cities are in Benin: Cotonou, Erzurum.",0,Benin,"('Cotonou', 'Erzurum')",2,1
+"Exactly 1 of the following cities are in New Zealand: Auckland, Denpasar.",1,New Zealand,"('Auckland', 'Denpasar')",1,1
+"Exactly 2 of the following cities are in the Philippines: Malingao, Caloocan.",1,the Philippines,"('Caloocan', 'Malingao')",2,2
+"Exactly 2 of the following cities are in the Philippines: Paranaque City, General Santos.",1,the Philippines,"('General Santos', 'Paranaque City')",2,2
+"Exactly 1 of the following cities are in Kazakhstan: Aktobe, Songjiang.",1,Kazakhstan,"('Aktobe', 'Songjiang')",1,1
+"Exactly 0 of the following cities are in Indonesia: Mexicali, Pallabi.",1,Indonesia,"('Mexicali', 'Pallabi')",0,0
+"Exactly 2 of the following cities are in Ukraine: Dnipro, Kyiv.",1,Ukraine,"('Dnipro', 'Kyiv')",2,2
+"Exactly 1 of the following cities are in Vietnam: Nha Trang, Can Tho.",0,Vietnam,"('Can Tho', 'Nha Trang')",1,2
+"Exactly 0 of the following cities are in New Zealand: Zhangzhou, Coimbatore.",1,New Zealand,"('Coimbatore', 'Zhangzhou')",0,0
+"Exactly 2 of the following cities are in Vietnam: Ho Chi Minh City, Cho Lon.",1,Vietnam,"('Cho Lon', 'Ho Chi Minh City')",2,2
+"Exactly 1 of the following cities are in Gabon: Libreville, Gwalior.",1,Gabon,"('Gwalior', 'Libreville')",1,1
+"Exactly 1 of the following cities are in Syria: Al Fayyum, Tyumen.",0,Syria,"('Al Fayyum', 'Tyumen')",1,0
+"Exactly 0 of the following cities are in Guinea-Bissau: Zahedan, Kota Bharu.",1,Guinea-Bissau,"('Kota Bharu', 'Zahedan')",0,0
+"Exactly 2 of the following cities are in Tanzania: Abu Dhabi, Riga.",0,Tanzania,"('Abu Dhabi', 'Riga')",2,0
+"Exactly 1 of the following cities are in Nepal: Itabashi, Kathmandu.",1,Nepal,"('Itabashi', 'Kathmandu')",1,1
+"Exactly 1 of the following cities are in Gabon: Libreville, N'Djamena.",1,Gabon,"('Libreville', ""N'Djamena"")",1,1
+"Exactly 2 of the following cities are in Brazil: Joao Pessoa, Cheongju-si.",0,Brazil,"('Cheongju-si', 'Joao Pessoa')",2,1
+"Exactly 0 of the following cities are in Ethiopia: Yangpu, Wroclaw.",1,Ethiopia,"('Wroclaw', 'Yangpu')",0,0
+"Exactly 0 of the following cities are in Jamaica: Maiduguri, Kemerovo.",1,Jamaica,"('Kemerovo', 'Maiduguri')",0,0
+"Exactly 0 of the following cities are in Albania: Ranchi, Pimpri.",1,Albania,"('Pimpri', 'Ranchi')",0,0
+"Exactly 1 of the following cities are in Pakistan: Huainan, Guarulhos.",0,Pakistan,"('Guarulhos', 'Huainan')",1,0
+"Exactly 2 of the following cities are in Ukraine: Kryvyy Rih, Dnipro.",1,Ukraine,"('Dnipro', 'Kryvyy Rih')",2,2
+"Exactly 1 of the following cities are in China: Rawalpindi, Lodz.",0,China,"('Lodz', 'Rawalpindi')",1,0
+"Exactly 0 of the following cities are in Iraq: Kalaburagi, Kuecuekcekmece.",1,Iraq,"('Kalaburagi', 'Kuecuekcekmece')",0,0
+"Exactly 2 of the following cities are in Ukraine: Dnipro, Odesa.",1,Ukraine,"('Dnipro', 'Odesa')",2,2
+"Exactly 1 of the following cities are in Madagascar: Pune, Qionghai.",0,Madagascar,"('Pune', 'Qionghai')",1,0
+"Exactly 1 of the following cities are in Thailand: Kayseri, Bangkok.",1,Thailand,"('Bangkok', 'Kayseri')",1,1
+"Exactly 2 of the following cities are in Indonesia: Situbondo, Jakarta.",1,Indonesia,"('Jakarta', 'Situbondo')",2,2
+"Exactly 0 of the following cities are in Albania: Nyala, Ho Chi Minh City.",1,Albania,"('Ho Chi Minh City', 'Nyala')",0,0
+"Exactly 0 of the following cities are in Chad: Ebute Ikorodu, Kathmandu.",1,Chad,"('Ebute Ikorodu', 'Kathmandu')",0,0
+"Exactly 1 of the following cities are in Portugal: Karachi, Mirpur Model Thana.",0,Portugal,"('Karachi', 'Mirpur Model Thana')",1,0
+"Exactly 1 of the following cities are in the United States: Calabar, Shangqiu.",0,the United States,"('Calabar', 'Shangqiu')",1,0
+"Exactly 2 of the following cities are in Sudan: Khartoum North, Nyala.",1,Sudan,"('Khartoum North', 'Nyala')",2,2
+"Exactly 0 of the following cities are in the United States: Kathmandu, Chicago.",0,the United States,"('Chicago', 'Kathmandu')",0,1
+"Exactly 1 of the following cities are in Chad: Dortmund, Pest.",0,Chad,"('Dortmund', 'Pest')",1,0
+"Exactly 2 of the following cities are in Afghanistan: Puducherry, Bhubaneswar.",0,Afghanistan,"('Bhubaneswar', 'Puducherry')",2,0
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Nowrangapur, Lubumbashi.",0,the Democratic Republic of the Congo,"('Lubumbashi', 'Nowrangapur')",2,1
+"Exactly 0 of the following cities are in Kazakhstan: Dehradun, Hohhot.",1,Kazakhstan,"('Dehradun', 'Hohhot')",0,0
+"Exactly 2 of the following cities are in Saudi Arabia: Shangluo, Buraydah.",0,Saudi Arabia,"('Buraydah', 'Shangluo')",2,1
+"Exactly 0 of the following cities are in Ecuador: Zhabei, Guayaquil.",0,Ecuador,"('Guayaquil', 'Zhabei')",0,1
+"Exactly 2 of the following cities are in the United States: Detroit, Seattle.",1,the United States,"('Detroit', 'Seattle')",2,2
+"Exactly 2 of the following cities are in the United States: New South Memphis, Detroit.",1,the United States,"('Detroit', 'New South Memphis')",2,2
+"Exactly 2 of the following cities are in Saint Vincent and the Grenadines: Abeokuta, Al Mawsil al Jadidah.",0,Saint Vincent and the Grenadines,"('Abeokuta', 'Al Mawsil al Jadidah')",2,0
+"Exactly 0 of the following cities are in Mauritania: Nouakchott, Daqing.",0,Mauritania,"('Daqing', 'Nouakchott')",0,1
+"Exactly 1 of the following cities are in Nigeria: Owerri, Xinyang.",1,Nigeria,"('Owerri', 'Xinyang')",1,1
+"Exactly 2 of the following cities are in Venezuela: Jeonju, Xinyu.",0,Venezuela,"('Jeonju', 'Xinyu')",2,0
+"Exactly 0 of the following cities are in Nauru: Recife, Rostov-on-Don.",1,Nauru,"('Recife', 'Rostov-on-Don')",0,0
+"Exactly 2 of the following cities are in Indonesia: Bekasi, Serang.",1,Indonesia,"('Bekasi', 'Serang')",2,2
+"Exactly 0 of the following cities are in Samoa: Oslo, Jabalpur.",1,Samoa,"('Jabalpur', 'Oslo')",0,0
+"Exactly 2 of the following cities are in Russia: Mohammadpur, Cuiaba.",0,Russia,"('Cuiaba', 'Mohammadpur')",2,0
+"Exactly 0 of the following cities are in Saint Kitts and Nevis: Liupanshui, Esenler.",1,Saint Kitts and Nevis,"('Esenler', 'Liupanshui')",0,0
+"Exactly 2 of the following cities are in Nigeria: Maiduguri, Abeokuta.",1,Nigeria,"('Abeokuta', 'Maiduguri')",2,2
+"Exactly 2 of the following cities are in Austria: Recife, Al Ahmadi.",0,Austria,"('Al Ahmadi', 'Recife')",2,0
+"Exactly 0 of the following cities are in Jordan: Mombasa, Zarqa.",0,Jordan,"('Mombasa', 'Zarqa')",0,1
+"Exactly 1 of the following cities are in Palau: Seongnam-si, Abu Dhabi.",0,Palau,"('Abu Dhabi', 'Seongnam-si')",1,0
+"Exactly 2 of the following cities are in South Africa: Soshanguve, Gqeberha.",1,South Africa,"('Gqeberha', 'Soshanguve')",2,2
+"Exactly 0 of the following cities are in Myanmar: Yangon, Mandalay.",0,Myanmar,"('Mandalay', 'Yangon')",0,2
+"Exactly 0 of the following cities are in the United States: Fortaleza, New South Memphis.",0,the United States,"('Fortaleza', 'New South Memphis')",0,1
+"Exactly 2 of the following cities are in Nigeria: Ebute Ikorodu, Port Harcourt.",1,Nigeria,"('Ebute Ikorodu', 'Port Harcourt')",2,2
+"Exactly 2 of the following cities are in Jamaica: Asansol, New Kingston.",0,Jamaica,"('Asansol', 'New Kingston')",2,1
+"Exactly 2 of the following cities are in Mexico: Hermosillo, Heroica Matamoros.",1,Mexico,"('Hermosillo', 'Heroica Matamoros')",2,2
+"Exactly 2 of the following cities are in Bangladesh: Mohammadpur, Ashgabat.",0,Bangladesh,"('Ashgabat', 'Mohammadpur')",2,1
+"Exactly 0 of the following cities are in Somalia: Weinan, Thane.",1,Somalia,"('Thane', 'Weinan')",0,0
+"Exactly 2 of the following cities are in Venezuela: Zhongwei, Chelyabinsk.",0,Venezuela,"('Chelyabinsk', 'Zhongwei')",2,0
+"Exactly 0 of the following cities are in Germany: Hannover, Taguig.",0,Germany,"('Hannover', 'Taguig')",0,1
+"Exactly 0 of the following cities are in Ecuador: Bukavu, Guayaquil.",0,Ecuador,"('Bukavu', 'Guayaquil')",0,1
+"Exactly 1 of the following cities are in Togo: Camama, Johor Bahru.",0,Togo,"('Camama', 'Johor Bahru')",1,0
+"Exactly 0 of the following cities are in Pakistan: Chunian, Okara.",0,Pakistan,"('Chunian', 'Okara')",0,2
+"Exactly 1 of the following cities are in Uruguay: Pelentong, Mulenvos.",0,Uruguay,"('Mulenvos', 'Pelentong')",1,0
+"Exactly 0 of the following cities are in Yemen: Al Hudaydah, Sanaa.",0,Yemen,"('Al Hudaydah', 'Sanaa')",0,2
+"Exactly 0 of the following cities are in Liechtenstein: Puxi, Zahedan.",1,Liechtenstein,"('Puxi', 'Zahedan')",0,0
+"Exactly 1 of the following cities are in Rwanda: Kermanshah, Kigali.",1,Rwanda,"('Kermanshah', 'Kigali')",1,1
+"Exactly 0 of the following cities are in Haiti: Nasiriyah, Bouake.",1,Haiti,"('Bouake', 'Nasiriyah')",0,0
+"Exactly 1 of the following cities are in Oman: Heze, Muscat.",1,Oman,"('Heze', 'Muscat')",1,1
+"Exactly 2 of the following cities are in Colombia: Antalya, Yangquan.",0,Colombia,"('Antalya', 'Yangquan')",2,0
+"Exactly 0 of the following cities are in Brazil: Vijayawada, Frankfurt am Main.",1,Brazil,"('Frankfurt am Main', 'Vijayawada')",0,0
+"Exactly 1 of the following cities are in Madagascar: Kakamega, Chiclayo.",0,Madagascar,"('Chiclayo', 'Kakamega')",1,0
+"Exactly 1 of the following cities are in Peru: Fushun, Callao.",1,Peru,"('Callao', 'Fushun')",1,1
+"Exactly 2 of the following cities are in Tonga: Ziyang, Abeokuta.",0,Tonga,"('Abeokuta', 'Ziyang')",2,0
+"Exactly 0 of the following cities are in the Gambia: Utsunomiya, Ziyang.",1,the Gambia,"('Utsunomiya', 'Ziyang')",0,0
+"Exactly 0 of the following cities are in Finland: Helsinki, Rajkot.",0,Finland,"('Helsinki', 'Rajkot')",0,1
+"Exactly 2 of the following cities are in Iran: Orumiyeh, Karaj.",1,Iran,"('Karaj', 'Orumiyeh')",2,2
+"Exactly 0 of the following cities are in Germany: Nuremberg, Auckland.",0,Germany,"('Auckland', 'Nuremberg')",0,1
+"Exactly 2 of the following cities are in El Salvador: Jaipur, Bahawalpur.",0,El Salvador,"('Bahawalpur', 'Jaipur')",2,0
 "Exactly 0 of the following cities are in Tunisia: Nashik, Balikpapan.",1,Tunisia,"('Balikpapan', 'Nashik')",0,0
-"Exactly 0 of the following cities are in Burkina Faso: Ouagadougou, Bobo-Dioulasso.",0,Burkina Faso,"('Bobo-Dioulasso', 'Ouagadougou')",0,2
-"Exactly 2 of the following cities are in Bangladesh: Khulna, Chattogram.",1,Bangladesh,"('Chattogram', 'Khulna')",2,2
-"Exactly 1 of the following cities are in Morocco: Mukalla, Longyan.",0,Morocco,"('Longyan', 'Mukalla')",1,0
-"Exactly 1 of the following cities are in Greece: Sholapur, Arifwala.",0,Greece,"('Arifwala', 'Sholapur')",1,0
-"Exactly 0 of the following cities are in Algeria: Guwahati, Nampula.",1,Algeria,"('Guwahati', 'Nampula')",0,0
-"Exactly 2 of the following cities are in Sudan: Khartoum, Khartoum North.",1,Sudan,"('Khartoum', 'Khartoum North')",2,2
+"Exactly 1 of the following cities are in Honduras: Giza, San Pedro Sula.",1,Honduras,"('Giza', 'San Pedro Sula')",1,1
+"Exactly 2 of the following cities are in China: Zhangjiakou, Wanxian.",1,China,"('Wanxian', 'Zhangjiakou')",2,2
+"Exactly 1 of the following cities are in Guinea: Conakry, Pontianak.",1,Guinea,"('Conakry', 'Pontianak')",1,1
+"Exactly 2 of the following cities are in Angola: Camama, Maianga.",1,Angola,"('Camama', 'Maianga')",2,2
+"Exactly 2 of the following cities are in New Zealand: Chuxiong, Auckland.",0,New Zealand,"('Auckland', 'Chuxiong')",2,1
+"Exactly 1 of the following cities are in Pakistan: Winnipeg, Arifwala.",1,Pakistan,"('Arifwala', 'Winnipeg')",1,1
+"Exactly 2 of the following cities are in Ghana: Accra, Xuhui.",0,Ghana,"('Accra', 'Xuhui')",2,1
+"Exactly 2 of the following cities are in Eritrea: Khulna, Caracas.",0,Eritrea,"('Caracas', 'Khulna')",2,0
+"Exactly 2 of the following cities are in Indonesia: Jambi City, Cimahi.",1,Indonesia,"('Cimahi', 'Jambi City')",2,2
+"Exactly 1 of the following cities are in Mexico: Toulouse, Xiamen.",0,Mexico,"('Toulouse', 'Xiamen')",1,0
+"Exactly 2 of the following cities are in China: Zhaoqing, Al Basrah al Qadimah.",0,China,"('Al Basrah al Qadimah', 'Zhaoqing')",2,1
+"Exactly 0 of the following cities are in South Korea: Munich, Incheon.",0,South Korea,"('Incheon', 'Munich')",0,1
+"Exactly 1 of the following cities are in Nepal: Zhengzhou, Kathmandu.",1,Nepal,"('Kathmandu', 'Zhengzhou')",1,1
+"Exactly 2 of the following cities are in Nigeria: Mulenvos, Jinzhong.",0,Nigeria,"('Jinzhong', 'Mulenvos')",2,0
+"Exactly 0 of the following cities are in Poland: Wroclaw, Lodz.",0,Poland,"('Lodz', 'Wroclaw')",0,2
+"Exactly 2 of the following cities are in the Central African Republic: Nanded, Zanzibar.",0,the Central African Republic,"('Nanded', 'Zanzibar')",2,0
+"Exactly 1 of the following cities are in the Philippines: Likasi, Caloocan.",1,the Philippines,"('Caloocan', 'Likasi')",1,1
+"Exactly 0 of the following cities are in Togo: Algiers, Changde.",1,Togo,"('Algiers', 'Changde')",0,0
+"Exactly 2 of the following cities are in Turkey: Malatya, Cankaya.",1,Turkey,"('Cankaya', 'Malatya')",2,2
+"Exactly 1 of the following cities are in Turkmenistan: Ashgabat, Lubango.",1,Turkmenistan,"('Ashgabat', 'Lubango')",1,1
+"Exactly 0 of the following cities are in Nicaragua: San Miguel de Tucuman, Ulanqab.",1,Nicaragua,"('San Miguel de Tucuman', 'Ulanqab')",0,0
+"Exactly 2 of the following cities are in Cuba: Niluefer, Santiago de Cuba.",0,Cuba,"('Niluefer', 'Santiago de Cuba')",2,1
+"Exactly 0 of the following cities are in Slovenia: Fortaleza, Changde.",1,Slovenia,"('Changde', 'Fortaleza')",0,0
+"Exactly 1 of the following cities are in New Zealand: Liaocheng, Auckland.",1,New Zealand,"('Auckland', 'Liaocheng')",1,1
+"Exactly 0 of the following cities are in Senegal: Dakar, Pikine.",0,Senegal,"('Dakar', 'Pikine')",0,2
+"Exactly 1 of the following cities are in Austria: Thane, Shizuishan.",0,Austria,"('Shizuishan', 'Thane')",1,0
+"Exactly 1 of the following cities are in Germany: Munich, Fukuoka.",1,Germany,"('Fukuoka', 'Munich')",1,1
+"Exactly 1 of the following cities are in Nauru: Heze, Situbondo.",0,Nauru,"('Heze', 'Situbondo')",1,0
+"Exactly 0 of the following cities are in the United Arab Emirates: Al Fayyum, Al Ain City.",0,the United Arab Emirates,"('Al Ain City', 'Al Fayyum')",0,1
+"Exactly 2 of the following cities are in Bangladesh: Chattogram, Khulna.",1,Bangladesh,"('Chattogram', 'Khulna')",2,2
+"Exactly 1 of the following cities are in Sweden: Anqing, Stockholm.",1,Sweden,"('Anqing', 'Stockholm')",1,1
+"Exactly 1 of the following cities are in Pakistan: Muzaffarabad, Sargodha.",0,Pakistan,"('Muzaffarabad', 'Sargodha')",1,2
+"Exactly 1 of the following cities are in Angola: Bukit Rahman Putra, Kikolo.",1,Angola,"('Bukit Rahman Putra', 'Kikolo')",1,1
+"Exactly 2 of the following cities are in South Korea: Incheon, Ulsan.",1,South Korea,"('Incheon', 'Ulsan')",2,2
+"Exactly 0 of the following cities are in Oman: Bokaro, Islamabad.",1,Oman,"('Bokaro', 'Islamabad')",0,0
+"Exactly 1 of the following cities are in Uganda: Nansana, Guli.",1,Uganda,"('Guli', 'Nansana')",1,1
+"Exactly 1 of the following cities are in Ecuador: Bangkok, Quito.",1,Ecuador,"('Bangkok', 'Quito')",1,1
+"Exactly 1 of the following cities are in Togo: Kallakurichi, Lome.",1,Togo,"('Kallakurichi', 'Lome')",1,1
+"Exactly 2 of the following cities are in Iraq: Taguig, Al Basrah al Qadimah.",0,Iraq,"('Al Basrah al Qadimah', 'Taguig')",2,1
+"Exactly 1 of the following cities are in the United States: Tucson, Indianapolis.",0,the United States,"('Indianapolis', 'Tucson')",1,2
+"Exactly 0 of the following cities are in the Netherlands: Hiroshima, Khabarovsk.",1,the Netherlands,"('Hiroshima', 'Khabarovsk')",0,0
+"Exactly 2 of the following cities are in Tanzania: Akure, Seoul.",0,Tanzania,"('Akure', 'Seoul')",2,0
+"Exactly 1 of the following cities are in Saudi Arabia: Himeji, Shekhupura.",0,Saudi Arabia,"('Himeji', 'Shekhupura')",1,0
+"Exactly 2 of the following cities are in Colombia: Nowrangapur, Barranquilla.",0,Colombia,"('Barranquilla', 'Nowrangapur')",2,1
+"Exactly 1 of the following cities are in Ireland: Dongying, Owerri.",0,Ireland,"('Dongying', 'Owerri')",1,0
+"Exactly 2 of the following cities are in Malawi: Huainan, Lilongwe.",0,Malawi,"('Huainan', 'Lilongwe')",2,1
+"Exactly 1 of the following cities are in Benin: Douala, Caloocan.",0,Benin,"('Caloocan', 'Douala')",1,0
+"Exactly 1 of the following cities are in Djibouti: Bishkek, Albuquerque.",0,Djibouti,"('Albuquerque', 'Bishkek')",1,0
+"Exactly 1 of the following cities are in Poland: Jieyang, Wroclaw.",1,Poland,"('Jieyang', 'Wroclaw')",1,1
+"Exactly 1 of the following cities are in Egypt: Saitama, Kisangani.",0,Egypt,"('Kisangani', 'Saitama')",1,0
+"Exactly 0 of the following cities are in Myanmar: Davao, Nanning.",1,Myanmar,"('Davao', 'Nanning')",0,0
+"Exactly 0 of the following cities are in Argentina: Helsinki, Salta.",0,Argentina,"('Helsinki', 'Salta')",0,1
+"Exactly 1 of the following cities are in Tajikistan: Virar, Dushanbe.",1,Tajikistan,"('Dushanbe', 'Virar')",1,1
+"Exactly 0 of the following cities are in Egypt: Shubra al Khaymah, Madinat an Nasr.",0,Egypt,"('Madinat an Nasr', 'Shubra al Khaymah')",0,2
+"Exactly 2 of the following cities are in Brazil: Ananindeua, Ribeirao Preto.",1,Brazil,"('Ananindeua', 'Ribeirao Preto')",2,2
+"Exactly 1 of the following cities are in Japan: Dongying, Taiz.",0,Japan,"('Dongying', 'Taiz')",1,0
+"Exactly 1 of the following cities are in Myanmar: Hlaingthaya, Matsuyama.",1,Myanmar,"('Hlaingthaya', 'Matsuyama')",1,1
+"Exactly 0 of the following cities are in Mali: Quetta, Pallabi.",1,Mali,"('Pallabi', 'Quetta')",0,0
+"Exactly 2 of the following cities are in China: Gazipur, Aguascalientes.",0,China,"('Aguascalientes', 'Gazipur')",2,0
+"Exactly 0 of the following cities are in Bulgaria: Sofia, Faridabad.",0,Bulgaria,"('Faridabad', 'Sofia')",0,1
+"Exactly 2 of the following cities are in Russia: Tomsk, Ufa.",1,Russia,"('Tomsk', 'Ufa')",2,2
+"Exactly 0 of the following cities are in Indonesia: Tangerang, Denpasar.",0,Indonesia,"('Denpasar', 'Tangerang')",0,2
+"Exactly 2 of the following cities are in South Korea: Nanchong, Incheon.",0,South Korea,"('Incheon', 'Nanchong')",2,1
+"Exactly 2 of the following cities are in Mexico: Torreon, Zapopan.",1,Mexico,"('Torreon', 'Zapopan')",2,2
+"Exactly 0 of the following cities are in New Zealand: Kanayannur, Shenyang.",1,New Zealand,"('Kanayannur', 'Shenyang')",0,0
+"Exactly 1 of the following cities are in Chad: Dnipro, N'Djamena.",1,Chad,"('Dnipro', ""N'Djamena"")",1,1
+"Exactly 2 of the following cities are in Ghana: Al Ahmadi, Tanggu.",0,Ghana,"('Al Ahmadi', 'Tanggu')",2,0
+"Exactly 1 of the following cities are in Tajikistan: Kampung Baru Subang, Indore.",0,Tajikistan,"('Indore', 'Kampung Baru Subang')",1,0
+"Exactly 0 of the following cities are in Kuwait: Al Ahmadi, Cheonan.",0,Kuwait,"('Al Ahmadi', 'Cheonan')",0,1
+"Exactly 2 of the following cities are in Namibia: Kunming, Zhaotong.",0,Namibia,"('Kunming', 'Zhaotong')",2,0
+"Exactly 0 of the following cities are in Burkina Faso: Bobo-Dioulasso, Ouagadougou.",0,Burkina Faso,"('Bobo-Dioulasso', 'Ouagadougou')",0,2
+"Exactly 2 of the following cities are in Burundi: Sargodha, Zagreb.",0,Burundi,"('Sargodha', 'Zagreb')",2,0
+"Exactly 1 of the following cities are in Poland: Weifang, Krakow.",1,Poland,"('Krakow', 'Weifang')",1,1
+"Exactly 1 of the following cities are in India: Akure, Palembang.",0,India,"('Akure', 'Palembang')",1,0
+"Exactly 1 of the following cities are in Rwanda: Xining, Madurai.",0,Rwanda,"('Madurai', 'Xining')",1,0
+"Exactly 1 of the following cities are in Lebanon: Ra's Bayrut, Bahawalpur.",1,Lebanon,"('Bahawalpur', ""Ra's Bayrut"")",1,1
+"Exactly 1 of the following cities are in Romania: Bucharest, Shenyang.",1,Romania,"('Bucharest', 'Shenyang')",1,1
+"Exactly 0 of the following cities are in Iran: Arak, Zhangye.",0,Iran,"('Arak', 'Zhangye')",0,1
+"Exactly 2 of the following cities are in Pakistan: Bahawalpur, Jhang Sadr.",1,Pakistan,"('Bahawalpur', 'Jhang Sadr')",2,2
+"Exactly 2 of the following cities are in South Korea: Ansan-si, Bucheon-si.",1,South Korea,"('Ansan-si', 'Bucheon-si')",2,2
+"Exactly 2 of the following cities are in Turkey: Diyarbakir, Istanbul.",1,Turkey,"('Diyarbakir', 'Istanbul')",2,2
+"Exactly 0 of the following cities are in Switzerland: Zahedan, Baise.",1,Switzerland,"('Baise', 'Zahedan')",0,0
+"Exactly 0 of the following cities are in Azerbaijan: Acapulco de Juarez, Makassar.",1,Azerbaijan,"('Acapulco de Juarez', 'Makassar')",0,0
+"Exactly 0 of the following cities are in Dominica: Davao, Jakarta.",1,Dominica,"('Davao', 'Jakarta')",0,0
+"Exactly 2 of the following cities are in Ukraine: Kharkiv, Dnipro.",1,Ukraine,"('Dnipro', 'Kharkiv')",2,2
+"Exactly 2 of the following cities are in Morocco: Agadir, Oujda.",1,Morocco,"('Agadir', 'Oujda')",2,2
+"Exactly 0 of the following cities are in Niger: Sofia, Bandar Lampung.",1,Niger,"('Bandar Lampung', 'Sofia')",0,0
+"Exactly 0 of the following cities are in Burkina Faso: Arequipa, Ouagadougou.",0,Burkina Faso,"('Arequipa', 'Ouagadougou')",0,1
+"Exactly 0 of the following cities are in Kenya: Abu Dhabi, Cimahi.",1,Kenya,"('Abu Dhabi', 'Cimahi')",0,0
+"Exactly 0 of the following cities are in Germany: Leipzig, Frankfurt am Main.",0,Germany,"('Frankfurt am Main', 'Leipzig')",0,2
+"Exactly 0 of the following cities are in Tanzania: Mbeya, Kumamoto.",0,Tanzania,"('Kumamoto', 'Mbeya')",0,1
+"Exactly 0 of the following cities are in Turkey: Bien Hoa, Siliguri.",1,Turkey,"('Bien Hoa', 'Siliguri')",0,0
+"Exactly 2 of the following cities are in Croatia: Navi Mumbai, Nagpur.",0,Croatia,"('Nagpur', 'Navi Mumbai')",2,0
+"Exactly 2 of the following cities are in Germany: Koeln, Nuremberg.",1,Germany,"('Koeln', 'Nuremberg')",2,2
+"Exactly 2 of the following cities are in Malta: Hubballi, Karol Bagh.",0,Malta,"('Hubballi', 'Karol Bagh')",2,0
+"Exactly 0 of the following cities are in Norway: Culiacan, Oslo.",0,Norway,"('Culiacan', 'Oslo')",0,1
+"Exactly 1 of the following cities are in Russia: Fortaleza, Chelyabinsk.",1,Russia,"('Chelyabinsk', 'Fortaleza')",1,1
+"Exactly 1 of the following cities are in Angola: Dalian, Tashkent.",0,Angola,"('Dalian', 'Tashkent')",1,0
+"Exactly 0 of the following cities are in Malaysia: Iskandar Puteri, Karachi.",0,Malaysia,"('Iskandar Puteri', 'Karachi')",0,1
+"Exactly 0 of the following cities are in Uzbekistan: Tashkent, Samarkand.",0,Uzbekistan,"('Samarkand', 'Tashkent')",0,2
+"Exactly 0 of the following cities are in Syria: Aleppo, Baoji.",0,Syria,"('Aleppo', 'Baoji')",0,1
+"Exactly 2 of the following cities are in Russia: Naberezhnyye Chelny, Penza.",1,Russia,"('Naberezhnyye Chelny', 'Penza')",2,2
+"Exactly 0 of the following cities are in Argentina: Huaibei, Meknes.",1,Argentina,"('Huaibei', 'Meknes')",0,0
+"Exactly 2 of the following cities are in Gabon: Libreville, Teni.",0,Gabon,"('Libreville', 'Teni')",2,1
+"Exactly 0 of the following cities are in Antigua and Barbuda: Soweto, Bijie.",1,Antigua and Barbuda,"('Bijie', 'Soweto')",0,0
+"Exactly 0 of the following cities are in Samoa: Guilin, Yangquan.",1,Samoa,"('Guilin', 'Yangquan')",0,0
+"Exactly 1 of the following cities are in Guatemala: Jajmau, Guatemala City.",1,Guatemala,"('Guatemala City', 'Jajmau')",1,1
+"Exactly 1 of the following cities are in Rwanda: Dongying, Pretoria.",0,Rwanda,"('Dongying', 'Pretoria')",1,0
+"Exactly 2 of the following cities are in Yemen: Quebec, Rio de Janeiro.",0,Yemen,"('Quebec', 'Rio de Janeiro')",2,0
+"Exactly 2 of the following cities are in the United States: Oklahoma City, The Bronx.",1,the United States,"('Oklahoma City', 'The Bronx')",2,2
+"Exactly 1 of the following cities are in Tanzania: Dodoma, Zanzibar.",0,Tanzania,"('Dodoma', 'Zanzibar')",1,2
+"Exactly 0 of the following cities are in Trinidad and Tobago: Albuquerque, Libreville.",1,Trinidad and Tobago,"('Albuquerque', 'Libreville')",0,0
+"Exactly 2 of the following cities are in Tanzania: Mbeya, Arusha.",1,Tanzania,"('Arusha', 'Mbeya')",2,2
+"Exactly 0 of the following cities are in Monaco: Tokyo, Giza.",1,Monaco,"('Giza', 'Tokyo')",0,0
+"Exactly 0 of the following cities are in Djibouti: Kanayannur, Balbala.",0,Djibouti,"('Balbala', 'Kanayannur')",0,1
+"Exactly 0 of the following cities are in El Salvador: Tijuana, Sukkur.",1,El Salvador,"('Sukkur', 'Tijuana')",0,0
+"Exactly 0 of the following cities are in Vietnam: Dombivali, New South Memphis.",1,Vietnam,"('Dombivali', 'New South Memphis')",0,0
+"Exactly 1 of the following cities are in Belarus: Setagaya, Minsk.",1,Belarus,"('Minsk', 'Setagaya')",1,1
+"Exactly 1 of the following cities are in Liberia: Krasnodar, Enugu.",0,Liberia,"('Enugu', 'Krasnodar')",1,0
+"Exactly 0 of the following cities are in Mozambique: Maputo, Beira.",0,Mozambique,"('Beira', 'Maputo')",0,2
+"Exactly 1 of the following cities are in Botswana: Cuiaba, Maputo.",0,Botswana,"('Cuiaba', 'Maputo')",1,0
+"Exactly 1 of the following cities are in Mexico: Ciudad Juarez, Pokhara.",1,Mexico,"('Ciudad Juarez', 'Pokhara')",1,1
+"Exactly 2 of the following cities are in Namibia: Anshun, Yinchuan.",0,Namibia,"('Anshun', 'Yinchuan')",2,0
+"Exactly 2 of the following cities are in China: Daxing'anling, Puxi.",1,China,"(""Daxing'anling"", 'Puxi')",2,2
+"Exactly 2 of the following cities are in Moldova: Chisinau, Baotou.",0,Moldova,"('Baotou', 'Chisinau')",2,1
+"Exactly 2 of the following cities are in Ukraine: Lviv, Odesa.",1,Ukraine,"('Lviv', 'Odesa')",2,2
+"Exactly 1 of the following cities are in Mauritania: Ulan Bator, Kolhapur.",0,Mauritania,"('Kolhapur', 'Ulan Bator')",1,0
+"Exactly 2 of the following cities are in Namibia: Wanxian, San Luis Potosi.",0,Namibia,"('San Luis Potosi', 'Wanxian')",2,0
+"Exactly 2 of the following cities are in Fiji: Barnaul, Changchun.",0,Fiji,"('Barnaul', 'Changchun')",2,0
+"Exactly 0 of the following cities are in Norway: Oslo, Cotonou.",0,Norway,"('Cotonou', 'Oslo')",0,1
+"Exactly 0 of the following cities are in Sudan: Nyala, Owerri.",0,Sudan,"('Nyala', 'Owerri')",0,1
+"Exactly 1 of the following cities are in Belarus: Lodz, New South Memphis.",0,Belarus,"('Lodz', 'New South Memphis')",1,0
+"Exactly 2 of the following cities are in Liberia: Yangjiang, Calabar.",0,Liberia,"('Calabar', 'Yangjiang')",2,0
+"Exactly 0 of the following cities are in Ghana: Kumasi, Tianshui.",0,Ghana,"('Kumasi', 'Tianshui')",0,1
+"Exactly 1 of the following cities are in the United Kingdom: Pasig City, Agadir.",0,the United Kingdom,"('Agadir', 'Pasig City')",1,0
+"Exactly 1 of the following cities are in Tunisia: Maturin, Sadr City.",0,Tunisia,"('Maturin', 'Sadr City')",1,0
+"Exactly 0 of the following cities are in Montenegro: Irbid, Wroclaw.",1,Montenegro,"('Irbid', 'Wroclaw')",0,0
+"Exactly 2 of the following cities are in Mexico: Santiago de Queretaro, Iztapalapa.",1,Mexico,"('Iztapalapa', 'Santiago de Queretaro')",2,2
+"Exactly 1 of the following cities are in Russia: Volgograd, Omsk.",0,Russia,"('Omsk', 'Volgograd')",1,2
+"Exactly 2 of the following cities are in Tanzania: Zhumadian, Suqian.",0,Tanzania,"('Suqian', 'Zhumadian')",2,0
+"Exactly 2 of the following cities are in Iran: Tabriz, Kermanshah.",1,Iran,"('Kermanshah', 'Tabriz')",2,2
+"Exactly 1 of the following cities are in Bangladesh: Mohammadpur, Pallabi.",0,Bangladesh,"('Mohammadpur', 'Pallabi')",1,2
+"Exactly 2 of the following cities are in China: Huaihua, Cangzhou.",1,China,"('Cangzhou', 'Huaihua')",2,2
+"Exactly 1 of the following cities are in Lebanon: Sagamihara, Ra's Bayrut.",1,Lebanon,"(""Ra's Bayrut"", 'Sagamihara')",1,1
+"Exactly 0 of the following cities are in Burkina Faso: Budapest, Ouagadougou.",0,Burkina Faso,"('Budapest', 'Ouagadougou')",0,1
+"Exactly 0 of the following cities are in Guinea: Conakry, Camayenne.",0,Guinea,"('Camayenne', 'Conakry')",0,2
+"Exactly 0 of the following cities are in Rwanda: Kigali, Zhanjiang.",0,Rwanda,"('Kigali', 'Zhanjiang')",0,1
+"Exactly 0 of the following cities are in Zimbabwe: Coyoacan, Bulawayo.",0,Zimbabwe,"('Bulawayo', 'Coyoacan')",0,1
+"Exactly 1 of the following cities are in Panama: Huzhou, Akure.",0,Panama,"('Akure', 'Huzhou')",1,0
+"Exactly 1 of the following cities are in Uganda: Sukkur, Zibo.",0,Uganda,"('Sukkur', 'Zibo')",1,0
+"Exactly 2 of the following cities are in Uzbekistan: Namangan, Tashkent.",1,Uzbekistan,"('Namangan', 'Tashkent')",2,2
+"Exactly 1 of the following cities are in Jamaica: New Kingston, Davao.",1,Jamaica,"('Davao', 'New Kingston')",1,1
+"Exactly 0 of the following cities are in Lebanon: Ra's Bayrut, Anyang-si.",0,Lebanon,"('Anyang-si', ""Ra's Bayrut"")",0,1
+"Exactly 2 of the following cities are in Vietnam: Da Nang, Cho Lon.",1,Vietnam,"('Cho Lon', 'Da Nang')",2,2
+"Exactly 2 of the following cities are in Venezuela: Ciudad Guayana, Coyoacan.",0,Venezuela,"('Ciudad Guayana', 'Coyoacan')",2,1
+"Exactly 1 of the following cities are in Antigua and Barbuda: Al Ain City, Calumbo.",0,Antigua and Barbuda,"('Al Ain City', 'Calumbo')",1,0
+"Exactly 1 of the following cities are in Haiti: Cheonan, Carrefour.",1,Haiti,"('Carrefour', 'Cheonan')",1,1
+"Exactly 1 of the following cities are in Canada: Winnipeg, Quebec.",0,Canada,"('Quebec', 'Winnipeg')",1,2
+"Exactly 2 of the following cities are in Nigeria: Benin City, Port Harcourt.",1,Nigeria,"('Benin City', 'Port Harcourt')",2,2
+"Exactly 2 of the following cities are in Nigeria: Agege, Port Harcourt.",1,Nigeria,"('Agege', 'Port Harcourt')",2,2
+"Exactly 1 of the following cities are in India: Pune, Gqeberha.",1,India,"('Gqeberha', 'Pune')",1,1
+"Exactly 0 of the following cities are in Bolivia: Madinat an Nasr, Surakarta.",1,Bolivia,"('Madinat an Nasr', 'Surakarta')",0,0
+"Exactly 2 of the following cities are in Djibouti: Balbala, Nansana.",0,Djibouti,"('Balbala', 'Nansana')",2,1
+"Exactly 0 of the following cities are in Denmark: Rahim Yar Khan, Kunshan.",1,Denmark,"('Kunshan', 'Rahim Yar Khan')",0,0
+"Exactly 1 of the following cities are in Norway: Oslo, Voronezh.",1,Norway,"('Oslo', 'Voronezh')",1,1
+"Exactly 2 of the following cities are in Mauritania: Nouakchott, Cuiaba.",0,Mauritania,"('Cuiaba', 'Nouakchott')",2,1
+"Exactly 1 of the following cities are in Zambia: Changchun, Kanpur.",0,Zambia,"('Changchun', 'Kanpur')",1,0
+"Exactly 2 of the following cities are in Mexico: Tijuana, Leon de los Aldama.",1,Mexico,"('Leon de los Aldama', 'Tijuana')",2,2
+"Exactly 1 of the following cities are in Angola: Benguela, Maianga.",0,Angola,"('Benguela', 'Maianga')",1,2
+"Exactly 0 of the following cities are in Seychelles: Ha'il, Jeonju.",1,Seychelles,"(""Ha'il"", 'Jeonju')",0,0
+"Exactly 0 of the following cities are in Timor-Leste: Tijuana, Bangkok.",1,Timor-Leste,"('Bangkok', 'Tijuana')",0,0
+"Exactly 1 of the following cities are in Turkmenistan: Ashgabat, Mandalay.",1,Turkmenistan,"('Ashgabat', 'Mandalay')",1,1
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Tshikapa, Mbuji-Mayi.",1,the Democratic Republic of the Congo,"('Mbuji-Mayi', 'Tshikapa')",2,2
+"Exactly 0 of the following cities are in Zimbabwe: Bulawayo, Harare.",0,Zimbabwe,"('Bulawayo', 'Harare')",0,2
+"Exactly 2 of the following cities are in Tanzania: Mbeya, Dar es Salaam.",1,Tanzania,"('Dar es Salaam', 'Mbeya')",2,2
+"Exactly 2 of the following cities are in Cambodia: Madinat an Nasr, Izmir.",0,Cambodia,"('Izmir', 'Madinat an Nasr')",2,0
+"Exactly 0 of the following cities are in Mauritania: Nouakchott, Dalian.",0,Mauritania,"('Dalian', 'Nouakchott')",0,1
+"Exactly 0 of the following cities are in Saudi Arabia: Sanming, Carrefour.",1,Saudi Arabia,"('Carrefour', 'Sanming')",0,0
+"Exactly 1 of the following cities are in Spain: Benin City, Bhubaneswar.",0,Spain,"('Benin City', 'Bhubaneswar')",1,0
+"Exactly 2 of the following cities are in Nigeria: Ile-Ife, Enugu.",1,Nigeria,"('Enugu', 'Ile-Ife')",2,2
+"Exactly 0 of the following cities are in Somalia: Rizhao, Kemerovo.",1,Somalia,"('Kemerovo', 'Rizhao')",0,0
+"Exactly 2 of the following cities are in Angola: Golfe, Maianga.",1,Angola,"('Golfe', 'Maianga')",2,2
+"Exactly 0 of the following cities are in Saudi Arabia: Sultanah, Dammam.",0,Saudi Arabia,"('Dammam', 'Sultanah')",0,2
+"Exactly 0 of the following cities are in Russia: Tomsk, Krasnoyarsk.",0,Russia,"('Krasnoyarsk', 'Tomsk')",0,2
+"Exactly 0 of the following cities are in Burkina Faso: Nowrangapur, Teresina.",1,Burkina Faso,"('Nowrangapur', 'Teresina')",0,0
+"Exactly 0 of the following cities are in Belize: Fukuoka, Ibb.",1,Belize,"('Fukuoka', 'Ibb')",0,0
+"Exactly 0 of the following cities are in Poland: Hamadan, Barranquilla.",1,Poland,"('Barranquilla', 'Hamadan')",0,0
+"Exactly 2 of the following cities are in Syria: Aleppo, Ar Raqqah.",1,Syria,"('Aleppo', 'Ar Raqqah')",2,2
+"Exactly 2 of the following cities are in New Zealand: Arifwala, Mengzi.",0,New Zealand,"('Arifwala', 'Mengzi')",2,0
+"Exactly 2 of the following cities are in Azerbaijan: Baku, Douala.",0,Azerbaijan,"('Baku', 'Douala')",2,1
+"Exactly 2 of the following cities are in Brazil: Niteroi, Feira de Santana.",1,Brazil,"('Feira de Santana', 'Niteroi')",2,2
+"Exactly 0 of the following cities are in Venezuela: Maracaibo, Ciudad Guayana.",0,Venezuela,"('Ciudad Guayana', 'Maracaibo')",0,2
+"Exactly 2 of the following cities are in Brazil: Sao Bernardo do Campo, Santo Domingo Oeste.",0,Brazil,"('Santo Domingo Oeste', 'Sao Bernardo do Campo')",2,1
+"Exactly 1 of the following cities are in Paraguay: Hachioji, Dalian.",0,Paraguay,"('Dalian', 'Hachioji')",1,0
+"Exactly 2 of the following cities are in Fiji: Bogor, Puducherry.",0,Fiji,"('Bogor', 'Puducherry')",2,0
+"Exactly 2 of the following cities are in Eritrea: Asmara, Matsuyama.",0,Eritrea,"('Asmara', 'Matsuyama')",2,1
+"Exactly 0 of the following cities are in Argentina: Ranchi, Zhenjiang.",1,Argentina,"('Ranchi', 'Zhenjiang')",0,0
+"Exactly 0 of the following cities are in Yemen: Sanaa, Taiz.",0,Yemen,"('Sanaa', 'Taiz')",0,2
+"Exactly 2 of the following cities are in Morocco: Marrakesh, Oujda.",1,Morocco,"('Marrakesh', 'Oujda')",2,2
+"Exactly 1 of the following cities are in Spain: Mombasa, Guangyuan.",0,Spain,"('Guangyuan', 'Mombasa')",1,0
+"Exactly 1 of the following cities are in Montenegro: Mbuji-Mayi, Yichang.",0,Montenegro,"('Mbuji-Mayi', 'Yichang')",1,0
+"Exactly 2 of the following cities are in Mauritania: Tashkent, Kanpur.",0,Mauritania,"('Kanpur', 'Tashkent')",2,0
+"Exactly 1 of the following cities are in Montenegro: Zhangjiagang, Deyang.",0,Montenegro,"('Deyang', 'Zhangjiagang')",1,0
+"Exactly 1 of the following cities are in Greece: Guangyuan, Ilorin.",0,Greece,"('Guangyuan', 'Ilorin')",1,0
+"Exactly 0 of the following cities are in Cambodia: Longyan, Bekasi.",1,Cambodia,"('Bekasi', 'Longyan')",0,0
+"Exactly 2 of the following cities are in Morocco: Oujda, Fes.",1,Morocco,"('Fes', 'Oujda')",2,2
+"Exactly 1 of the following cities are in Mozambique: Beira, Kalininskiy.",1,Mozambique,"('Beira', 'Kalininskiy')",1,1
+"Exactly 1 of the following cities are in Poland: Shizuishan, Jaboatao dos Guararapes.",0,Poland,"('Jaboatao dos Guararapes', 'Shizuishan')",1,0
+"Exactly 0 of the following cities are in Suriname: Soshanguve, Santo Domingo Este.",1,Suriname,"('Santo Domingo Este', 'Soshanguve')",0,0
+"Exactly 1 of the following cities are in India: Asansol, Dhanbad.",0,India,"('Asansol', 'Dhanbad')",1,2
+"Exactly 0 of the following cities are in El Salvador: Nay Pyi Taw, Izmir.",1,El Salvador,"('Izmir', 'Nay Pyi Taw')",0,0
+"Exactly 0 of the following cities are in Tunisia: Zhongwei, Multan.",1,Tunisia,"('Multan', 'Zhongwei')",0,0
+"Exactly 2 of the following cities are in Turkey: Istanbul, Bursa.",1,Turkey,"('Bursa', 'Istanbul')",2,2
+"Exactly 1 of the following cities are in Vanuatu: Basrah, Mohammadpur.",0,Vanuatu,"('Basrah', 'Mohammadpur')",1,0
+"Exactly 0 of the following cities are in North Korea: Visakhapatnam, Hamhung.",0,North Korea,"('Hamhung', 'Visakhapatnam')",0,1
+"Exactly 2 of the following cities are in Mozambique: Matola, Maputo.",1,Mozambique,"('Maputo', 'Matola')",2,2
+"Exactly 2 of the following cities are in Ukraine: Sevastopol, Kharkiv.",1,Ukraine,"('Kharkiv', 'Sevastopol')",2,2
+"Exactly 0 of the following cities are in New Zealand: South Tangerang, Asmara.",1,New Zealand,"('Asmara', 'South Tangerang')",0,0

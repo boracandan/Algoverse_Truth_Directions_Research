@@ -195,8 +195,13 @@ countries = {
 random.seed(42)
 np.random.seed(42)
 
+# F2 matches F0/F1's size (no artificial cap, just Poulis's ~1594-total convention)
 TRUE_SAMPLE_AMOUNT = 853
 FALSE_SAMPLE_AMOUNT = 853
+
+# F3/F4/F5 target Poulis's 2000-total convention
+F345_TRUE_SAMPLE_AMOUNT = 1000
+F345_FALSE_SAMPLE_AMOUNT = 1000
 
 F0_df = pd.concat([pd.read_csv("dataset/F0_train.csv"), pd.read_csv("dataset/F0_test.csv")], axis=0)
 
@@ -318,7 +323,7 @@ def make_f3_dataset(F0_true_df, n_true, n_false):
 
     return rows
 
-f3_df = pd.DataFrame(make_f3_dataset(F0_true_df, TRUE_SAMPLE_AMOUNT, FALSE_SAMPLE_AMOUNT))
+f3_df = pd.DataFrame(make_f3_dataset(F0_true_df, F345_TRUE_SAMPLE_AMOUNT, F345_FALSE_SAMPLE_AMOUNT))
 
 f3_df_train, f3_df_test = train_test_split(f3_df, test_size=0.3, train_size=0.7, stratify=f3_df["label"], shuffle=True, random_state=42)
 
@@ -394,7 +399,7 @@ def make_f4_dataset(F0_true_df, n_true, n_false):
 
     return rows
 
-f4_df = pd.DataFrame(make_f4_dataset(F0_true_df, TRUE_SAMPLE_AMOUNT, FALSE_SAMPLE_AMOUNT))
+f4_df = pd.DataFrame(make_f4_dataset(F0_true_df, F345_TRUE_SAMPLE_AMOUNT, F345_FALSE_SAMPLE_AMOUNT))
 
 f4_df_train, f4_df_test = train_test_split(f4_df, test_size=0.3, train_size=0.7, stratify=f4_df["label"], shuffle=True, random_state=42)
 
@@ -404,7 +409,7 @@ f4_df_test.to_csv(os.path.join(ROOT, 'F4_test.csv'), index=False)
 # Building F5 from F0
 
 N_CITIES = 6
-K_RANGE = range(1, 6)  # 1..5
+K_RANGE = range(0, 6)  # 0..5
 
 # All valid (k1, k2) pairs where k1 + k2 <= N_CITIES
 valid_k1_k2_pairs = [(k1, k2) for k1 in K_RANGE for k2 in K_RANGE if k1 + k2 <= N_CITIES]
@@ -483,7 +488,7 @@ def make_f5_dataset(F0_true_df, n_true, n_false):
 
     return rows
 
-f5_df = pd.DataFrame(make_f5_dataset(F0_true_df, TRUE_SAMPLE_AMOUNT, FALSE_SAMPLE_AMOUNT))
+f5_df = pd.DataFrame(make_f5_dataset(F0_true_df, F345_TRUE_SAMPLE_AMOUNT, F345_FALSE_SAMPLE_AMOUNT))
 
 f5_df_train, f5_df_test = train_test_split(f5_df, test_size=0.3, train_size=0.7, stratify=f5_df["label"], shuffle=True, random_state=42)
 
