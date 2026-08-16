@@ -1,3 +1,4 @@
 *.env
-extracted_activations.pkl
-extracted_labels.pkl
+*.pkl
+.ipynb_checkpoints/
+__pycache__/
