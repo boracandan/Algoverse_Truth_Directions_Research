@@ -32,6 +32,7 @@ $$\text{AUROC}_{k, l} = \mathbb{P}\left(\sigma\left(\mathbf{w}_{k,l}^T \mathbf{h
 | `meta-llama/Llama-3.2-3B-Instruct` | LLaMA 3.2 | 3.2B | 28 | 3072 | `bfloat16` | `layerwise_truth_probing_llama3_2_3b.ipynb` |
 | `meta-llama/Llama-3.1-8B-Instruct` | LLaMA 3.1 (Baseline) | 8.0B | 32 | 4096 | `float16` / `bfloat16` | `../Extract_Layers.ipynb` |
 | `ibm-granite/granite-3.1-8b-instruct` | Granite 3.1 | 8.2B | 40 | 4096 | `bfloat16` | `layerwise_truth_probing_granite8b.ipynb` |
+| `deepseek-ai/DeepSeek-R1-Distill-Llama-8B` | DeepSeek R1 Distill | 8.0B | 32 | 4096 | `float16` / `8bit` | `../../experiments/Extract_Layers_Deepseek.ipynb` |
 
 ---
 
@@ -39,17 +40,17 @@ $$\text{AUROC}_{k, l} = \mathbb{P}\left(\sigma\left(\mathbf{w}_{k,l}^T \mathbf{h
 
 The table below reports the maximum in-domain held-out test $\text{AUROC}$ and the optimal layer index $(L^*)$ achieving peak linear separability across all 9 evaluation tasks ($F_0 - F_5, A_1 - A_3$):
 
-| Task | Task Description | Gemma 4 Edge (2B) | LLaMA 3.2 (3B) | LLaMA 3.1 (8B Baseline) | **IBM Granite 3.1 (8B)** |
-| :--- | :--- | :---: | :---: | :---: | :---: |
-| **$F_0$** | Atomic Factual Statements | 0.8554 ($L_9$) | 0.9993 ($L_{12}$) | 0.9998 ($L_{13}$) | **0.9997** ($L_{31}$) |
-| **$F_1$** | Explicit Negations | 0.8807 ($L_8$) | 1.0000 ($L_{14}$) | 0.9999 ($L_{13}$) | **1.0000** ($L_{15}$) |
-| **$F_2$** | Binary Conjunctions | 0.7814 ($L_9$) | 0.9945 ($L_{13}$) | 0.9991 ($L_{16}$) | **0.9967** ($L_{40}$) |
-| **$F_3$** | 2-Item Exact Cardinality Counting | 0.6199 ($L_{11}$) | 0.9388 ($L_{28}$) | 0.9779 ($L_{32}$) | **0.9848** ($L_{40}$) |
-| **$F_4$** | 5-Item Exact Cardinality Counting | 0.6017 ($L_9$) | 0.8531 ($L_{28}$) | 0.8707 ($L_{32}$) | **0.9176** ($L_{36}$) |
-| **$F_5$** | Dual-Predicate Set Comparison | 0.5666 ($L_9$) | 0.7545 ($L_{26}$) | 0.8008 ($L_{32}$) | **0.8862** ($L_{36}$) |
-| **$A_1$** | Single-Operation Arithmetic | 0.5622 ($L_0$) | 0.9988 ($L_{28}$) | 0.9992 ($L_{30}$) | **0.9991** ($L_{39}$) |
-| **$A_2$** | Two-Operation Arithmetic | 0.5298 ($L_5$) | 0.8985 ($L_{26}$) | 0.8848 ($L_{30}$) | **0.8070** ($L_{38}$) |
-| **$A_3$** | Three-Operation Arithmetic | 0.5461 ($L_7$) | 0.5978 ($L_{10}$) | 0.5972 ($L_9$) | **0.6597** ($L_{38}$) |
+| Task | Task Description | Gemma 4 Edge (2B) | LLaMA 3.2 (3B) | LLaMA 3.1 (8B Baseline) | IBM Granite 3.1 (8B) | DeepSeek R1 (Plaintext) | **DeepSeek R1 (CoT Zero-Shot)** |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **$F_0$** | Atomic Factual Statements | 0.8554 ($L_9$) | 0.9993 ($L_{12}$) | 0.9998 ($L_{13}$) | **0.9997** ($L_{31}$) | 0.9748 ($L_{14}$) | **0.9765** ($L_{32}$) |
+| **$F_1$** | Explicit Negations | 0.8807 ($L_8$) | 1.0000 ($L_{14}$) | 0.9999 ($L_{13}$) | **1.0000** ($L_{15}$) | 0.9904 ($L_{28}$) | **0.9814** ($L_{26}$) |
+| **$F_2$** | Binary Conjunctions | 0.7814 ($L_9$) | 0.9945 ($L_{13}$) | 0.9991 ($L_{16}$) | **0.9967** ($L_{40}$) | 0.9757 ($L_{32}$) | **0.9485** ($L_{30}$) |
+| **$F_3$** | 2-Item Exact Cardinality Counting | 0.6199 ($L_{11}$) | 0.9388 ($L_{28}$) | 0.9779 ($L_{32}$) | **0.9848** ($L_{40}$) | 0.7675 ($L_{32}$) | **0.9697** ($L_{30}$) |
+| **$F_4$** | 5-Item Exact Cardinality Counting | 0.6017 ($L_9$) | 0.8531 ($L_{28}$) | 0.8707 ($L_{32}$) | **0.9176** ($L_{36}$) | 0.6719 ($L_{32}$) | **0.9528** ($L_{31}$) |
+| **$F_5$** | Dual-Predicate Set Comparison | 0.5666 ($L_9$) | 0.7545 ($L_{26}$) | 0.8008 ($L_{32}$) | **0.8862** ($L_{36}$) | 0.6471 ($L_{32}$) | **0.9390** ($L_{27}$) |
+| **$A_1$** | Single-Operation Arithmetic | 0.5622 ($L_0$) | 0.9988 ($L_{28}$) | 0.9992 ($L_{30}$) | **0.9991** ($L_{39}$) | 0.8580 ($L_{32}$) | **0.9956** ($L_{14}$) |
+| **$A_2$** | Two-Operation Arithmetic | 0.5298 ($L_5$) | 0.8985 ($L_{26}$) | 0.8848 ($L_{30}$) | **0.8070** ($L_{38}$) | 0.6160 ($L_{32}$) | **1.0000** ($L_{0}$) |
+| **$A_3$** | Three-Operation Arithmetic | 0.5461 ($L_7$) | 0.5978 ($L_{10}$) | 0.5972 ($L_9$) | 0.6597 ($L_{38}$) | 0.6109 ($L_{30}$) | **1.0000** ($L_{0}$) |
 
 ---
 
@@ -59,15 +60,16 @@ The table below reports the maximum in-domain held-out test $\text{AUROC}$ and t
 Linear probe separability on compositional reasoning ($F_3 - F_5$) scales directly with residual stream dimensionality $d_{\text{model}}$:
 - **$d_{\text{model}} = 1536$ (Gemma 4 Edge 2B):** Displays linear collapse under multi-clause composition ($F_3=0.6199, F_5=0.5666$). Representations saturate at shallow layers ($l/L \approx 0.25$) due to constrained subspace capacity for orthogonal truth and feature directions.
 - **$d_{\text{model}} = 3072$ (LLaMA 3.2 3B):** Successfully retains factual fidelity ($F_0=0.9993, F_1=1.0000$) and tracks 8B-scale trajectories up to 2-item cardinality, but degrades on dual-predicate comparisons ($F_5=0.7545$).
-- **$d_{\text{model}} = 4096$ (LLaMA 3.1 8B & IBM Granite 8B):** Provides sufficient subspace rank to decouple multi-entity truth vectors without destructive interference.
+- **$d_{\text{model}} = 4096$ (LLaMA 3.1 8B, IBM Granite 8B, DeepSeek R1 8B):** Provides sufficient subspace rank to decouple multi-entity truth vectors without destructive interference.
 
 ### 4.2 Depthwise Functional Stratification ($l/L$)
 Across dense 8B architectures, truth representations exhibit a two-stage functional trajectory:
 1. **Early Depth ($l/L \in [0.25, 0.40]$):** Linear encoding of isolated factual predicates and lexical polarity ($F_0, F_1$).
 2. **Late Depth ($l/L \in [0.85, 1.00]$):** Emergence of multi-entity working memory, discrete counting states, and compositional truth planes ($F_3 - F_5, A_1 - A_3$).
 
-### 4.3 Breaking the Arithmetic Representation Ceiling
-On composite multi-step arithmetic ($A_3$), LLaMA models plateau at $\text{AUROC} \approx 0.597$, indicating representational bottlenecking in the absence of intermediate chain-of-thought tokens. IBM Granite 3.1 8B breaks this barrier, reaching $\text{AUROC} = 0.6597$ at layer 38 ($l/L = 0.95$).
+### 4.3 Shattering the Arithmetic Ceiling via Chain-of-Thought (CoT)
+On composite multi-step arithmetic ($A_2, A_3$), unprompted autoregressive models plateau at $\text{AUROC} \approx 0.597 - 0.659$, bottlenecked by the absence of intermediate working memory tokens.
+Under **Chain-of-Thought (CoT Zero-Shot)** reasoning on DeepSeek-R1-Distill-8B, this representation ceiling is completely eliminated, reaching **$\text{AUROC} = 1.0000$** across all arithmetic tasks and boosting compositional counting $F_3-F_5$ from $\approx 0.65$ to **$> 0.95$**.
 
 ---
 
