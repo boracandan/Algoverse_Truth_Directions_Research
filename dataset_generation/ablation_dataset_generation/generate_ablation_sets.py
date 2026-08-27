@@ -77,8 +77,12 @@ def build_filler_only_df(task, split):
 
     def build_ids(row):
         messages = [{"role": "user", "content": f"{row["statement"]}"}]
+        # add_generation_prompt=True already appends "<｜Assistant｜><think>\n" for this
+        # model's chat template -- appending another THINK_TOKEN_ID here would double it
+        # up ("<think>\n<think>..."), so only the filler goes on top of what the template
+        # already gives us.
         out = tokenizer.apply_chat_template(messages, add_generation_prompt=True, tokenize=True)
-        return out["input_ids"] + [THINK_TOKEN_ID] + [FILLER_TOKEN_ID] * row["filler_len"]
+        return out["input_ids"] + [FILLER_TOKEN_ID] * row["filler_len"]
 
     plain_df["extracted_statement_ids"] = plain_df.apply(build_ids, axis=1)
     plain_df["extracted_statement_texts"] = plain_df["extracted_statement_ids"].apply(tokenizer.decode)
@@ -86,9 +90,13 @@ def build_filler_only_df(task, split):
 
 def build_instructions_only_df(task, split):
     """Instructions ablation, anchored to no-prompt (not built by subtracting from the full
-    CoT dataset): plain statement + COT_INSTRUCTIONS, chat-templated, NO <think> prefill --
-    readout lands right after the instructions, with no reasoning content at all. Relative
-    to no-prompt, exactly one thing changes: the instructions are present."""
+    CoT dataset): plain statement + COT_INSTRUCTIONS, chat-templated. add_generation_prompt=True
+    appends "<｜Assistant｜><think>\n" (this model's chat template always does this, verified
+    byte-identical to the real generation's explicit <think>\n prefill), so the readout lands
+    right after entering <think> mode, with zero actual reasoning content -- not literally at
+    the last instruction word. Relative to no-prompt, exactly one thing changes: the
+    instructions are present (and, as a consequence of following the same template convention
+    as every other condition, thinking mode gets entered but immediately reads out)."""
     df = pd.read_csv(PLAIN_STATEMENTS_FOLDER / f"{task}_{split}.csv")[["statement", "label"]]
 
     def build_ids(statement):
