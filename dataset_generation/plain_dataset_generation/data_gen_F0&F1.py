@@ -5,7 +5,7 @@ import pandas as pd
 import os
 from sklearn.model_selection import train_test_split
 
-ROOT = 'dataset'
+ROOT = 'datasets/plain_dataset'
 
 df = pd.read_csv(os.path.join(ROOT, 'geonames.csv'))
 

@@ -141,7 +141,7 @@ Probe: activation at token before "Yes", OR mean-pooled over all reasoning token
 
 ### Known Limitations
 - **F5 per-bucket sample size** (~20–30 test examples per `(k1,k2)` pair, given 26 valid pairs) is small enough that individual-cell AUROC estimates are noisy; treat per-cell numbers as directional, not precise
-- **F0–F2 city pool** depends on live GeoNames data; re-running `dataset_generation/build_geonames_csv.py` against a future GeoNames snapshot will change exact counts
+- **F0–F2 city pool** depends on live GeoNames data; re-running `dataset_generation/plain_dataset_generation/build_geonames_csv.py` against a future GeoNames snapshot will change exact counts
 - **A3 generation** filters for valid integer division; if error rates >30%, consider larger operand ranges
 
 ---
@@ -149,9 +149,9 @@ Probe: activation at token before "Yes", OR mean-pooled over all reasoning token
 ## Replication & Extension
 
 To regenerate the dataset from scratch:
-1. `dataset_generation/build_geonames_csv.py` — builds `geonames.csv` from `cities1000.txt` + `CountryInfo.txt`
-2. `dataset_generation/data_gen_F0&F1.py` — generates F0/F1
-3. `dataset_generation/data_gen_F2345.py` — generates F2, F3, F4, F5 (reads F0's output)
+1. `dataset_generation/plain_dataset_generation/build_geonames_csv.py` — builds `geonames.csv` from `cities1000.txt` + `CountryInfo.txt`
+2. `dataset_generation/plain_dataset_generation/data_gen_F0&F1.py` — generates F0/F1
+3. `dataset_generation/plain_dataset_generation/data_gen_F2345.py` — generates F2, F3, F4, F5 (reads F0's output)
 4. Arithmetic (A1–A3) generation script — generates the arithmetic family
 
 To extend further:

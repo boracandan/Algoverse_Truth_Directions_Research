@@ -1,7 +1,7 @@
 import csv
 import os
 
-ROOT = 'dataset'
+ROOT = 'datasets/plain_dataset'
 
 GEONAMES_COLUMNS = [
     'Geoname ID', 'Name', 'ASCII Name', 'Alternate Names', 'Latitude', 'Longitude',

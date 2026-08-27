@@ -87,6 +87,6 @@ def run_check(name, train_path, test_path):
 
 
 if __name__ == "__main__":
-    run_check("F3", "../dataset/F3_train.csv", "../dataset/F3_test.csv")
-    run_check("F4", "../dataset/F4_train.csv", "../dataset/F4_test.csv")
-    run_check("F5", "../dataset/F5_train.csv", "../dataset/F5_test.csv")
+    run_check("F3", "../datasets/plain_dataset/F3_train.csv", "../datasets/plain_dataset/F3_test.csv")
+    run_check("F4", "../datasets/plain_dataset/F4_train.csv", "../datasets/plain_dataset/F4_test.csv")
+    run_check("F5", "../datasets/plain_dataset/F5_train.csv", "../datasets/plain_dataset/F5_test.csv")

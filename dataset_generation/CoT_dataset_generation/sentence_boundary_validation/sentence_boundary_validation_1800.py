@@ -13,7 +13,7 @@ from ast import literal_eval
 from tqdm import tqdm
 from transformers import AutoTokenizer
 
-load_dotenv(dotenv_path="CoT_dataset_generation/azure-openai.env")
+load_dotenv(dotenv_path="dataset_generation/CoT_dataset_generation/azure-openai.env")
 
 import pandas as pd
 import re
@@ -44,7 +44,7 @@ Removed sentence:
 Answer with exactly one word: PASS or FAIL.
 """
 
-AZURE_BATCH_DIR = Path("CoT_dataset_generation/azure_batches")
+AZURE_BATCH_DIR = Path("dataset_generation/CoT_dataset_generation/azure_batches")
 AZURE_BATCH_DIR.mkdir(exist_ok=True)
 
 AZURE_DEPLOYMENT_NAME = "o3"
@@ -116,8 +116,8 @@ if __name__ == "__main__":
     for TASK in TASKS:
         # Load train + test data frames
         task_df = pd.concat([
-            pd.read_csv(f"CoT_datasets/filtered/{TASK}_filtered_test.csv"),
-            pd.read_csv(f"CoT_datasets/filtered/{TASK}_filtered_train.csv"),
+            pd.read_csv(f"datasets/CoT_datasets/filtered/{TASK}_filtered_test.csv"),
+            pd.read_csv(f"datasets/CoT_datasets/filtered/{TASK}_filtered_train.csv"),
         ])
         task_df = task_df.sample(n=min(SAMPLES_PER_TASK, len(task_df)), random_state=RANDOM_SEED)
         task_df[["kept_text", "removed_chunk"]] = task_df.apply(remove_last_sentence, axis=1, result_type="expand")
@@ -140,7 +140,7 @@ if __name__ == "__main__":
 
     # Upload a file with a purpose of "batch"
     file = client.files.create(
-        file=open("CoT_dataset_generation/azure_batches/validation_batch_input.jsonl", "rb"),
+        file=open("dataset_generation/CoT_dataset_generation/azure_batches/validation_batch_input.jsonl", "rb"),
         purpose="batch",
         extra_body={"expires_after": {"seconds": 1209600, "anchor": "created_at"}}  # Optional you can set to a number between 1209600-2592000. This is equivalent to 14-30 days
     )

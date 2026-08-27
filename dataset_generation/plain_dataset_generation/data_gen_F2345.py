@@ -203,7 +203,7 @@ FALSE_SAMPLE_AMOUNT = 853
 F345_TRUE_SAMPLE_AMOUNT = 1000
 F345_FALSE_SAMPLE_AMOUNT = 1000
 
-F0_df = pd.concat([pd.read_csv("dataset/F0_train.csv"), pd.read_csv("dataset/F0_test.csv")], axis=0)
+F0_df = pd.concat([pd.read_csv("datasets/plain_dataset/F0_train.csv"), pd.read_csv("datasets/plain_dataset/F0_test.csv")], axis=0)
 
 F0_true_df = F0_df[F0_df["label"] == 1]
 F0_false_df = F0_df[F0_df["label"] == 0]
