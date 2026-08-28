@@ -13,22 +13,46 @@ import base64
 import argparse
 import pandas as pd
 import numpy as np
+import torch
+import torch.nn as nn
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
-from sklearn.linear_model import LogisticRegression
 from sklearn.decomposition import PCA
+
+
+def fit_linear_probe(X_train, y_train, device="cuda" if torch.cuda.is_available() else "cpu"):
+    """No-bias, train-mean-centered linear probe -- matches the paper's Appendix A.4 exactly
+    (Adam, lr=1e-3, weight_decay=0.1, 1000 steps, BCEWithLogitsLoss, no bias term). Replaces
+    sklearn's LogisticRegression (free intercept, no train-mean centering) so this probe
+    uses the same methodology as train_probe_pytorch elsewhere in the project."""
+    X_train_t = torch.tensor(X_train, dtype=torch.float32)
+    train_mean = X_train_t.mean(dim=0)
+    X_centered = (X_train_t - train_mean).to(device)
+    y_t = torch.tensor(y_train, dtype=torch.float32).to(device)
+
+    probe = nn.Linear(X_train.shape[1], 1, bias=False).to(device)
+    optimizer = torch.optim.Adam(probe.parameters(), lr=1e-3, weight_decay=0.1)
+    loss_fn = nn.BCEWithLogitsLoss()
+
+    for _ in range(1000):
+        optimizer.zero_grad()
+        logits = probe(X_centered).squeeze(-1)
+        loss = loss_fn(logits, y_t)
+        loss.backward()
+        optimizer.step()
+
+    w = probe.weight.detach().cpu().numpy().flatten()
+    return w, train_mean.numpy()
 
 
 def compute_task_projection(X_train, y_train, X_test, y_test):
     """
-    Fits logistic regression probe to obtain truth vector,
+    Fits the no-bias linear probe to obtain the truth vector,
     then projects full distribution onto truth axis and orthogonal PCA.
     """
-    probe = LogisticRegression(max_iter=1000, C=1.0)
-    probe.fit(X_train, y_train)
-    
+    w, _ = fit_linear_probe(X_train, y_train)
+
     # 1. Normalize truth direction vector
-    w = probe.coef_[0]
     norm_w = np.linalg.norm(w)
     v_hat = w / (norm_w if norm_w > 1e-9 else 1.0)
     
@@ -192,15 +216,15 @@ def main():
     os.makedirs(args.output_dir, exist_ok=True)
     
     # 1. Authentic LLaMA Baseline Figure 5 from replicate_figure_5_and_cross_task.ipynb
-    llama_out = os.path.join(args.output_dir, f"figure_5_geometry_llama_baseline_l{args.layer}.png")
+    llama_out = os.path.join(args.output_dir, f"figure_5_geometry_llama_baseline_l{args.layer}_new.png")
     extract_llama_figure_5(llama_out)
     
     # 2. DeepSeek Plaintext Figure 5
-    deepseek_plain_out = os.path.join(args.output_dir, f"figure_5_geometry_deepseek_plaintext_l{args.layer}.png")
+    deepseek_plain_out = os.path.join(args.output_dir, f"figure_5_geometry_deepseek_plaintext_l{args.layer}_new.png")
     generate_deepseek_geometry("deepseek-r1-distill-8b", "no-prompt", args.layer, deepseek_plain_out)
     
     # 3. DeepSeek CoT Figure 5
-    deepseek_cot_out = os.path.join(args.output_dir, f"figure_5_geometry_deepseek_cot_l{args.layer}.png")
+    deepseek_cot_out = os.path.join(args.output_dir, f"figure_5_geometry_deepseek_cot_l{args.layer}_new.png")
     generate_deepseek_geometry("deepseek-r1-distill-8b", "cot-zero-shot", args.layer, deepseek_cot_out)
 
 

@@ -146,15 +146,15 @@ def main():
     print(f"Conditions: {df['train_condition'].unique()}")
 
     # 1. Plot Layer 25 Triplet
-    l25_path = os.path.join(args.output_dir, "figure_4_sentence_based_l25.png")
+    l25_path = os.path.join(args.output_dir, "figure_4_sentence_based_l25_new.png")
     plot_single_layer_triplet(df, args.model, 25, task_order, l25_path)
 
     # 2. Plot Layer 30 Triplet
-    l30_path = os.path.join(args.output_dir, "figure_4_sentence_based_l30.png")
+    l30_path = os.path.join(args.output_dir, "figure_4_sentence_based_l30_new.png")
     plot_single_layer_triplet(df, args.model, 30, task_order, l30_path)
 
     # 3. Plot Multi-Layer Comparison (Layer 25 and Layer 30 together)
-    comp_path = os.path.join(args.output_dir, "figure_4_sentence_based_comparison.png")
+    comp_path = os.path.join(args.output_dir, "figure_4_sentence_based_comparison_new.png")
     plot_multi_layer_comparison(df, args.model, [25, 30], task_order, comp_path)
 
 
