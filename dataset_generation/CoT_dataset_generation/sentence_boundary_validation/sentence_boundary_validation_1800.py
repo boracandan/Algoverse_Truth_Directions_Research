@@ -116,8 +116,8 @@ if __name__ == "__main__":
     for TASK in TASKS:
         # Load train + test data frames
         task_df = pd.concat([
-            pd.read_csv(f"datasets/CoT_datasets/filtered/{TASK}_filtered_test.csv"),
-            pd.read_csv(f"datasets/CoT_datasets/filtered/{TASK}_filtered_train.csv"),
+            pd.read_csv(f"datasets/CoT_datasets/filtered/{TASK}_test.csv"),
+            pd.read_csv(f"datasets/CoT_datasets/filtered/{TASK}_train.csv"),
         ])
         task_df = task_df.sample(n=min(SAMPLES_PER_TASK, len(task_df)), random_state=RANDOM_SEED)
         task_df[["kept_text", "removed_chunk"]] = task_df.apply(remove_last_sentence, axis=1, result_type="expand")
