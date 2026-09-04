@@ -168,6 +168,7 @@ def extract_activations(ids, model, layer, batch_size=4, desc="Batches"):
     while i < len(ids):
         n_batches += 1
         if n_batches % 10 == 0:
+            torch.cuda.empty_cache()
             batch_size, previous_rate = update_batch_size(pbar, batch_size, previous_rate)
 
         batch = ids[i : i + batch_size]
