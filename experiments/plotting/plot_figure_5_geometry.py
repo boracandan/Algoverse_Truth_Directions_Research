@@ -233,7 +233,7 @@ def generate_deepseek_geometry(full_model_name, dataset_path, layer_idx, output_
 def main():
     parser = argparse.ArgumentParser(description="Generate Figure 5 2D Representation Geometry Plots")
     parser.add_argument("--layer", type=int, default=25, help="Layer index (default: 25)")
-    parser.add_argument("--output_dir", default="experiments/figures", help="Output folder")
+    parser.add_argument("--output_dir", default="experiments/figures/figure_5", help="Output folder")
     parser.add_argument("--dataset_path", required=True, help="Folder containing {task}_train.csv/{task}_test.csv, e.g. datasets/CoT_datasets/sentence_based_lexically_cleaned")
     parser.add_argument("--condition", required=True, help="Condition slug used in the output filename and the plot title's label, e.g. sentence-based-CoT, no-prompt-chat-template, filler-token-only")
     parser.add_argument("--model", default="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", help="Full HuggingFace model repo id, e.g. deepseek-ai/DeepSeek-R1-Distill-Llama-8B")

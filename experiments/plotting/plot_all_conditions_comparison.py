@@ -128,7 +128,7 @@ def main():
     parser = argparse.ArgumentParser(description="Generate All Conditions Comparison Heatmaps")
     parser.add_argument("--csv", default="experiments/results_database.csv", help="Path to results_database.csv")
     parser.add_argument("--model", default="deepseek-r1-distill-8b", help="Model name identifier")
-    parser.add_argument("--output_dir", default="experiments/figures", help="Output directory for plots")
+    parser.add_argument("--output_dir", default="experiments/figures/figure_4", help="Output directory for plots")
     args = parser.parse_args()
 
     df = pd.read_csv(args.csv)

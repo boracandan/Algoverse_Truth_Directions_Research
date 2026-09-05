@@ -11,7 +11,7 @@ granite-4.2-8b currently only has sentence-based-CoT, so none of its pairs run y
 import argparse
 import pandas as pd
 
-from plot_figure_4_generalization import (
+from plotting.plot_figure_4_generalization import (
     plot_single_layer_triplet,
     plot_multi_layer_comparison,
     slug,
@@ -32,7 +32,7 @@ CANDIDATE_PAIRS = [
 def main():
     parser = argparse.ArgumentParser(description="Run Figure 4 for every available model x condition-pair combination")
     parser.add_argument("--csv", default="experiments/results_database.csv", help="Path to results_database.csv")
-    parser.add_argument("--output_dir", default="experiments/figures", help="Output directory for plots")
+    parser.add_argument("--output_dir", default="experiments/figures/figure_4", help="Output directory for plots")
     parser.add_argument("--layers", nargs="+", type=int, default=[25, 30], help="Layers to plot")
     args = parser.parse_args()
 

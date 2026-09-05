@@ -159,7 +159,7 @@ def main():
     parser = argparse.ArgumentParser(description="Generate Figure 4 Cross-Task Generalization Heatmaps")
     parser.add_argument("--csv", default="experiments/results_database.csv", help="Path to results_database.csv")
     parser.add_argument("--model", default="deepseek-r1-distill-8b", help="Model name identifier")
-    parser.add_argument("--output_dir", default="experiments/figures", help="Output directory for plots")
+    parser.add_argument("--output_dir", default="experiments/figures/figure_4", help="Output directory for plots")
     parser.add_argument("--left-condition", default="no-prompt", help="Condition for the left/baseline panel (must match a train_condition/test_condition value in the CSV)")
     parser.add_argument("--right-condition", default="cot-zero-shot", help="Condition for the right/comparison panel")
     parser.add_argument("--layers", nargs="+", type=int, default=[25, 30], help="Layers to plot (first two are used for the single-layer triplets; all are used in the multi-layer comparison)")
