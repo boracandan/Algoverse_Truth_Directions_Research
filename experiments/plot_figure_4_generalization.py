@@ -176,11 +176,12 @@ def main():
     left_slug, right_slug = slug(args.left_condition), slug(args.right_condition)
     pair_slug = f"{left_slug}_vs_{right_slug}"
 
+    model_slug = slug(args.model)
     for layer in args.layers:
-        out_path = os.path.join(args.output_dir, f"figure_4_cross_task_deepseek_{pair_slug}_l{layer}_new.png")
+        out_path = os.path.join(args.output_dir, f"figure_4_cross_task_{model_slug}_{pair_slug}_l{layer}_new.png")
         plot_single_layer_triplet(df, args.model, args.left_condition, args.right_condition, layer, task_order, out_path)
 
-    comp_path = os.path.join(args.output_dir, f"figure_4_cross_task_comparison_{pair_slug}_new.png")
+    comp_path = os.path.join(args.output_dir, f"figure_4_cross_task_{model_slug}_comparison_{pair_slug}_new.png")
     plot_multi_layer_comparison(df, args.model, args.left_condition, args.right_condition, args.layers, task_order, comp_path)
 
 
