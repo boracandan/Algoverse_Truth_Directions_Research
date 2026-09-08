@@ -11,7 +11,8 @@ Chain-of-Thought (CoT) reasoning eliminates the arithmetic representation ceilin
 | Condition Identifier | Dataset Directory | Experimental Control | Description |
 | :--- | :--- | :---: | :--- |
 | **`no-prompt` (Baseline)** | `datasets/plain_dataset/` | **Zero-Instruction Baseline** | Raw factual and arithmetic statements without instruction wrappers or chat templates. |
-| **`ablation-instructions-only`** | `datasets/ablation_datasets/instructions_only/` | **Instruction Control** | Includes the full system/user task instruction and enters `<think>` mode, but reads out immediately at the first token without generating intermediate reasoning. |
+| **`ablation-instructions-and-template`** | `datasets/ablation_datasets/instructions_and_template/` | **Instruction + Template Control** | Includes the full system/user task instruction and enters `<think>` mode, but reads out immediately at the first token without generating intermediate reasoning. Carries the instructions **and** the chat template (BOS, role markers, `<think>\n` prompt). Both the folder and the condition label were renamed from `instructions_only` to free that name for the control below. |
+| **`ablation-instructions-only`** | `datasets/ablation_datasets/instructions_only/` | **Instruction Isolation Control** | The same instructions with **no** chat template (raw-tokenized, no BOS). Comparing against the row above attributes the effect to the chat-template package rather than to the instructions. |
 | **`ablation-filler-token`** | `datasets/ablation_datasets/filler_token_only/` | **Length Control** | Retains the exact token length of full CoT, but replaces all semantic reasoning tokens inside `<think>` with repeated filler tokens (`.`). |
 | **`cot-zero-shot` (Full CoT)** | `datasets/CoT_datasets/lexically_cleaned/` | **Full Semantic CoT** | Full model-generated intermediate reasoning chains. |
 
@@ -39,7 +40,7 @@ The table below reports the maximum in-domain held-out test $\text{AUROC}$ and t
 
 1. **Semantic Reasoning is Strictly Necessary for Truth Emergence**:
    - Replacing reasoning with repeated filler dots (`ablation-filler-token`) causes arithmetic representation to collapse to chance level (**$0.5301$** on $A_3$).
-   - Prompts with instructions alone (`ablation-instructions-only`) also fail completely on arithmetic (**$0.5233$** on $A_3$).
+   - Prompts with instructions plus the chat template (`ablation-instructions-and-template`) also fail completely on arithmetic (**$0.5233$** on $A_3$).
    - Only full Chain-of-Thought reasoning drives linear truth separability to **$1.0000$**.
 2. **Parametric Factual Memory is Computation-Invariant**:
    - Simple factual recall ($F_0 - F_2$) maintains $>0.96$ AUROC across all 4 experimental conditions, demonstrating that factual representations are pre-encoded in weights rather than dynamically constructed during thinking.

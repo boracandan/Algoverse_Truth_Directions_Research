@@ -39,8 +39,10 @@ COT_INSTRUCTIONS = (
 # {task}_train.csv filenames and the second one silently overwrites the first.
 ABLATION_FOLDER = Path(__file__).resolve().parent.parent.parent / "datasets" / "ablation_datasets"
 FILLER_ABLATION_FOLDER = ABLATION_FOLDER / "filler_token_only"
+INSTRUCTIONS_AND_TEMPLATE_ABLATION_FOLDER = ABLATION_FOLDER / "instructions_and_template"
 INSTRUCTIONS_ABLATION_FOLDER = ABLATION_FOLDER / "instructions_only"
 FILLER_ABLATION_FOLDER.mkdir(parents=True, exist_ok=True)
+INSTRUCTIONS_AND_TEMPLATE_ABLATION_FOLDER.mkdir(parents=True, exist_ok=True)
 INSTRUCTIONS_ABLATION_FOLDER.mkdir(parents=True, exist_ok=True)
 
 tokenizer = AutoTokenizer.from_pretrained("deepseek-ai/DeepSeek-R1-Distill-Llama-8B")
@@ -88,15 +90,21 @@ def build_filler_only_df(task, split):
     plain_df["extracted_statement_texts"] = plain_df["extracted_statement_ids"].apply(tokenizer.decode)
     return plain_df.drop(columns=["filler_len", "statement"])
 
-def build_instructions_only_df(task, split):
-    """Instructions ablation, anchored to no-prompt (not built by subtracting from the full
-    CoT dataset): plain statement + COT_INSTRUCTIONS, chat-templated. add_generation_prompt=True
-    appends "<｜Assistant｜><think>\n" (this model's chat template always does this, verified
-    byte-identical to the real generation's explicit <think>\n prefill), so the readout lands
-    right after entering <think> mode, with zero actual reasoning content -- not literally at
-    the last instruction word. Relative to no-prompt, exactly one thing changes: the
-    instructions are present (and, as a consequence of following the same template convention
-    as every other condition, thinking mode gets entered but immediately reads out)."""
+def build_template_instructions_df(task, split):
+    """INSTRUCTIONS + CHAT TEMPLATE cell of the 2x2. Anchored to no-prompt (not built by
+    subtracting from the full CoT dataset): plain statement + COT_INSTRUCTIONS, chat-templated.
+    add_generation_prompt=True appends "<｜Assistant｜><think>\n" (this model's chat template
+    always does this, verified byte-identical to the real generation's explicit <think>\n
+    prefill), so the readout lands right after entering <think> mode, with zero actual
+    reasoning content.
+
+    Note on what varies: relative to plain no-prompt this changes TWO things, not one --
+    the instructions are present, AND the chat-template package is applied. That package is
+    itself a bundle: the BOS token (this tokenizer has add_bos_token=False, so BOS appears
+    only via the template), the <｜User｜>/<｜Assistant｜> role markers, the <think>\n
+    generation prompt, and the resulting shift of the readout position off the statement's
+    own final token onto a fixed, content-independent template token. Disentangling the
+    instructions from that package is exactly what build_instructions_df below is for."""
     df = pd.read_csv(PLAIN_STATEMENTS_FOLDER / f"{task}_{split}.csv")[["statement", "label"]]
 
     def build_ids(statement):
@@ -108,22 +116,61 @@ def build_instructions_only_df(task, split):
     df["extracted_statement_texts"] = df["extracted_statement_ids"].apply(tokenizer.decode)
     return df.drop(columns=["statement"])
 
-# Filler-token-only Ablation
 
-for task in TASKS:
-    # Load in the datasets
-    df_train, df_test = build_filler_only_df(task, "train"), build_filler_only_df(task, "test")
+def build_instructions_df(task, split):
+    """INSTRUCTIONS, NO CHAT TEMPLATE cell of the 2x2 -- the control that isolates the
+    instructions from the chat-template package. Same content and same ordering as
+    build_template_instructions_df (statement, blank line, COT_INSTRUCTIONS), but tokenized
+    as raw text: no chat template, so no <｜User｜>/<｜Assistant｜> role markers, no
+    <think>\n generation prompt, and no BOS (this tokenizer has add_bos_token=False, so a
+    bare tokenizer() call adds nothing -- matching plain no-prompt, which also has no BOS).
 
-    # Save the Ablation Datasets
-    df_train.to_csv(FILLER_ABLATION_FOLDER / f"{task}_train.csv", index=False)
-    df_test.to_csv(FILLER_ABLATION_FOLDER / f"{task}_test.csv", index=False)
+    Readout position: the sequence ends on the instruction suffix ("...Answer: No"), so the
+    final token is fixed and content-independent, exactly as in the templated instructions
+    condition. That is deliberate -- it holds the readout-position variable constant between
+    the two instruction cells, so comparing them isolates the chat-template package itself.
+    It does mean this condition differs from plain no-prompt in two ways (instructions present
+    AND readout no longer on the statement's own last token), so the clean comparison for this
+    dataset is against build_template_instructions_df, not against no-prompt."""
+    df = pd.read_csv(PLAIN_STATEMENTS_FOLDER / f"{task}_{split}.csv")[["statement", "label"]]
+
+    def build_ids(statement):
+        message = f"{statement}\n\n{COT_INSTRUCTIONS}"
+        out = tokenizer(message)
+        return out["input_ids"]
+
+    df["extracted_statement_ids"] = df["statement"].apply(build_ids)
+    df["extracted_statement_texts"] = df["extracted_statement_ids"].apply(tokenizer.decode)
+    return df.drop(columns=["statement"])
 
 
-# Instructions-only Ablation (anchored to no-prompt: plain statement + instructions, no <think>)
+if __name__ == "__main__":
+    # Filler-token-only Ablation
 
-for task in TASKS:
-    df_train, df_test = build_instructions_only_df(task, "train"), build_instructions_only_df(task, "test")
+    for task in TASKS:
+        # Load in the datasets
+        df_train, df_test = build_filler_only_df(task, "train"), build_filler_only_df(task, "test")
 
-    # Save the Ablation Datasets
-    df_train.to_csv(INSTRUCTIONS_ABLATION_FOLDER / f"{task}_train.csv", index=False)
-    df_test.to_csv(INSTRUCTIONS_ABLATION_FOLDER / f"{task}_test.csv", index=False)
+        # Save the Ablation Datasets
+        df_train.to_csv(FILLER_ABLATION_FOLDER / f"{task}_train.csv", index=False)
+        df_test.to_csv(FILLER_ABLATION_FOLDER / f"{task}_test.csv", index=False)
+
+
+    # Instructions-and-Template Ablation (anchored to no-prompt: plain statement + instructions + chat template)
+
+    for task in TASKS:
+        df_train, df_test = build_template_instructions_df(task, "train"), build_template_instructions_df(task, "test")
+
+        # Save the Ablation Datasets
+        df_train.to_csv(INSTRUCTIONS_AND_TEMPLATE_ABLATION_FOLDER / f"{task}_train.csv", index=False)
+        df_test.to_csv(INSTRUCTIONS_AND_TEMPLATE_ABLATION_FOLDER / f"{task}_test.csv", index=False)
+
+    # Instructions-only Ablation, NO chat template (anchored to no-prompt: plain statement +
+    # instructions, raw-tokenized)
+
+    for task in TASKS:
+        df_train, df_test = build_instructions_df(task, "train"), build_instructions_df(task, "test")
+
+        # Save the Ablation Datasets
+        df_train.to_csv(INSTRUCTIONS_ABLATION_FOLDER / f"{task}_train.csv", index=False)
+        df_test.to_csv(INSTRUCTIONS_ABLATION_FOLDER / f"{task}_test.csv", index=False)
