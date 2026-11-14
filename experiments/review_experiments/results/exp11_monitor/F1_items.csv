@@ -1,0 +1,1591 @@
+split,statement,label,cot_answer,no_reasoning_p_yes,probe_p_true,probe_answer,probe_flags_cot,quick_flags_cot
+train,The city of Xining is not in India.,1,1,0.8267117932979121,0.9885015022978152,1,0,0
+train,The city of Eskisehir is not in Turkey.,0,0,0.4301473374215286,0.01962260532354298,0,0,0
+train,The city of Conakry is not in Sudan.,1,1,0.7431680058456323,0.4146551714491484,0,1,0
+train,The city of Jhang Sadr is not in Angola.,1,1,0.26894145520915,0.6808949336964775,1,0,1
+train,The city of Huaihua is not in China.,0,1,0.10087861957483418,0.012557502408550686,0,1,1
+train,The city of Benguela is not in Angola.,0,1,0.2120688017175113,0.6763623083425598,1,0,1
+train,The city of Coyoacan is not in Mexico.,0,0,0.10669059664905967,0.017171944175795224,0,0,0
+train,The city of Pingdingshan is not in China.,0,0,0.0656048356824683,0.06598627043325464,0,0,0
+train,The city of Ipoh is not in Ghana.,1,1,0.44939264722802613,0.970982029934885,1,0,1
+train,The city of Sevastopol is not in Brazil.,1,1,0.6039318121386904,0.991755710944081,1,0,0
+train,The city of Rui'an is not in China.,0,0,0.11124121508943667,0.2595394418695887,0,0,0
+train,The city of Coimbatore is not in India.,0,0,0.11124121213809106,0.04370696218078676,0,0,0
+train,The city of Almaty is not in Kazakhstan.,0,0,0.44167303040654,0.1919148530314601,0,0,0
+train,The city of Tonghua is not in Tajikistan.,1,1,0.9046505344786554,0.9658403292908966,1,0,0
+train,The city of Nova Iguacu is not in Brazil.,0,0,0.3629691941796798,0.01841862710814169,0,0,0
+train,The city of Huizhou is not in China.,0,0,0.09534946013225656,0.0034427877458135187,0,0,0
+train,The city of Xinyang is not in China.,0,0,0.14223189695306918,0.008598052354196195,0,0,0
+train,The city of Mbuji-Mayi is not in the Democratic Republic of the Congo.,0,0,0.5234203332025369,0.12483307801123478,0,0,1
+train,The city of Pontianak is not in Indonesia.,0,0,0.15405756055710565,0.19686395346734795,0,0,0
+train,The city of Ujjain is not in Japan.,1,1,0.8031737907708385,0.9944978719535186,1,0,0
+train,The city of Maceio is not in Brazil.,0,0,0.3522017670561002,0.012756383019791939,0,0,0
+train,The city of Ya'an is not in Russia.,1,1,0.9465966688989222,0.8996081065148464,1,0,0
+train,The city of Harare is not in India.,1,1,0.4416730311172832,0.959447018334372,1,0,1
+train,The city of Madinah is not in Saudi Arabia.,0,0,0.11279539712604265,0.05284653136039474,0,0,0
+train,The city of Fortaleza is not in China.,1,1,0.7662936540783415,0.969012431291465,1,0,0
+train,The city of Jiamusi is not in China.,0,0,0.05665242661683354,0.016925541714271086,0,0,0
+train,The city of Kharkiv is not in Iraq.,1,1,0.9935117308387111,0.9843294462462997,1,0,0
+train,The city of Serang is not in Sudan.,1,1,0.437823512395709,0.49035607314770224,0,1,1
+train,The city of Da Nang is not in Russia.,1,1,0.9407897491033141,0.9954087303957094,1,0,0
+train,The city of Dharavi is not in India.,0,0,0.27825678961300443,0.18029326538065532,0,0,0
+train,The city of Hezhou is not in China.,0,0,0.09009299725191991,0.030062634418236457,0,0,0
+train,The city of Saratov is not in Russia.,0,0,0.4455295344932643,0.016704351007227763,0,0,0
+train,The city of Istanbul is not in China.,1,1,0.7690802537609335,0.9876021875832098,1,0,0
+train,The city of Surakarta is not in Indonesia.,0,0,0.17106119250934118,0.03194366516970131,0,0,0
+train,The city of New South Memphis is not in the United States.,0,0,0.38121956796501943,0.051059073545399576,0,0,0
+train,The city of Lome is not in Togo.,0,0,0.22541660784891296,0.2119577951376482,0,0,0
+train,The city of Zhengzhou is not in Uzbekistan.,1,1,0.8577681145593206,0.8603837268126981,1,0,0
+train,The city of Songjiang is not in China.,0,0,0.0980793217065459,0.005093691255613486,0,0,0
+train,The city of Quetta is not in India.,1,1,0.9875683483853079,0.9803068205577157,1,0,0
+train,The city of Jingmen is not in North Korea.,1,1,0.9991100345250171,0.8752455241683619,1,0,0
+train,The city of Enugu is not in China.,1,1,0.9032942155845112,0.9870232877337842,1,0,0
+train,The city of Okara is not in Pakistan.,0,1,0.585101167116298,0.7915862283422055,1,0,0
+train,The city of Konya is not in Senegal.,1,1,0.810478900390529,0.9609666090895811,1,0,0
+train,The city of Banjarmasin is not in Indonesia.,0,0,0.12252321012814768,0.08329814863969677,0,0,0
+train,The city of Deyang is not in China.,0,0,0.07369627610719263,0.3511949893487833,0,0,0
+train,The city of Dehradun is not in Mexico.,1,1,0.7310585493553302,0.9966550558368373,1,0,0
+train,The city of Yangquan is not in Senegal.,1,1,0.9032942062609238,0.9646929139410101,1,0,0
+train,The city of Novosibirsk is not in China.,1,1,0.8080672134584554,0.994173310055269,1,0,0
+train,The city of Pingdingshan is not in Turkey.,1,1,0.7248702612714184,0.9519027374152533,1,0,0
+train,The city of Taguig is not in Japan.,1,1,0.9748211579659976,0.9872220586393595,1,0,0
+train,The city of Nagoya is not in India.,1,1,0.6442251171820923,0.9927049888371335,1,0,0
+train,The city of Leon de los Aldama is not in Mexico.,0,0,0.3040416832922869,0.0791100284902814,0,0,0
+train,The city of Longyan is not in Thailand.,1,1,0.7057850329963478,0.8075629658890175,1,0,0
+train,The city of Erode is not in Guinea.,1,1,0.43398147530448544,0.5712807659463957,1,0,1
+train,The city of Luzhou is not in China.,0,0,0.054198727197181135,0.010167238861172677,0,0,0
+train,The city of South Tangerang is not in Brazil.,1,1,0.5273165218746815,0.9323094732812134,1,0,0
+train,The city of Hlaingthaya is not in China.,1,1,0.8705972718854141,0.8326653599051237,1,0,0
+train,The city of Yingkou is not in China.,0,1,0.06008664726429781,0.13575466685848234,0,1,1
+train,The city of Vientiane is not in Laos.,0,0,0.0481367682098016,0.038350381707352964,0,0,0
+train,The city of Faridabad is not in Indonesia.,1,1,0.20689405594333288,0.9053249139549608,1,0,1
+train,The city of Foshan is not in South Africa.,1,1,0.9706877671565737,0.9702341158952805,1,0,0
+train,The city of Mumbai is not in India.,0,0,0.11436852355731197,0.015640095586514507,0,0,0
+train,The city of Hamhung is not in North Korea.,0,0,0.1441488581201743,0.18309466925695644,0,0,0
+train,The city of Muzaffarabad is not in Pakistan.,0,0,0.38491216544080625,0.09105918662038291,0,0,0
+train,The city of Tonghua is not in China.,0,0,0.12592277154134598,0.025535699847010904,0,0,0
+train,The city of Taicang is not in China.,0,0,0.1561048988851942,0.038556098081797885,0,0,0
+train,The city of Shangqiu is not in China.,0,0,0.2909808605944101,0.019838607011167967,0,0,0
+train,The city of Yongzhou is not in the Philippines.,1,1,0.6297746186088156,0.8969909933006582,1,0,0
+train,The city of Heze is not in Iraq.,1,1,0.9149009535238771,0.5422522387220738,1,0,0
+train,The city of Lu'an is not in Indonesia.,1,1,0.6723316999173252,0.3378460886013939,0,1,0
+train,The city of Dar es Salaam is not in Tanzania.,0,0,0.22270014758908457,0.004489667486817066,0,0,0
+train,The city of Kunming is not in Mexico.,1,1,0.879146771858183,0.9934717230701163,1,0,0
+train,The city of Tehran is not in Russia.,1,1,0.8757869845032397,0.6471350844584443,1,0,0
+train,The city of Wuzhou is not in Finland.,1,1,0.9449947145747146,0.9728171283517473,1,0,0
+train,The city of Lilongwe is not in Cameroon.,1,1,0.6334102612592861,0.9222035092857598,1,0,0
+train,The city of Sultanah is not in China.,1,1,0.5389832199875028,0.8607305785542942,1,0,0
+train,The city of Vijayawada is not in India.,0,0,0.22000709689526202,0.07438280572080215,0,0,0
+train,The city of Ar Raqqah is not in Turkey.,1,1,0.800691998759816,0.45040866601288454,0,1,0
+train,The city of Koeln is not in Germany.,0,0,0.23091975593440384,0.02051628642274599,0,0,0
+train,The city of Zhangjiagang is not in China.,0,0,0.055823140214336014,0.00808916441279696,0,0,0
+train,The city of Huangshi is not in Nicaragua.,1,1,0.5234203419839871,0.9215952911268724,1,0,0
+train,The city of Kozhikode is not in India.,0,0,0.17106118356758107,0.06876496475772885,0,0,0
+train,The city of Chicago is not in China.,1,1,0.9658995729580588,0.9870047323404254,1,0,0
+train,The city of Aleppo is not in Syria.,0,0,0.19436782507179098,0.025738231841646326,0,0,0
+train,The city of Meerut is not in Pakistan.,1,1,0.999862345368604,0.964539470572888,1,0,0
+train,The city of Kota Kuala Muda is not in France.,1,1,0.22541660484757572,0.9945203798289943,1,0,1
+train,The city of Mbuji-Mayi is not in Somalia.,1,1,0.48438009420347106,0.49815945972356607,0,1,1
+train,The city of Irbid is not in India.,1,1,0.7025300620212095,0.9111902037992693,1,0,0
+train,The city of Bhubaneswar is not in India.,0,0,0.12421300946903557,0.026421826797395877,0,0,0
+train,The city of Sungai Petani is not in Malaysia.,0,0,0.30404167180131736,0.36616349041444507,0,0,0
+train,The city of E'zhou is not in Zambia.,1,1,0.658417495945708,0.700693441913484,1,0,0
+train,The city of Visakhapatnam is not in India.,0,0,0.11436853015709723,0.039556057994052735,0,0,0
+train,The city of Rawalpindi is not in Turkey.,1,1,0.833324596044604,0.9773704993964794,1,0,0
+train,The city of Las Pinas is not in Turkey.,1,1,0.6992544122946811,0.8460654252233238,1,0,0
+train,The city of Uberlandia is not in Uzbekistan.,1,1,0.8856314768905736,0.7878537388711001,1,0,0
+train,The city of Bishkek is not in Kyrgyzstan.,0,0,0.2628418684201194,0.031109102189140824,0,0,0
+train,The city of Qom is not in China.,1,1,0.7549149800789362,0.8906062936907846,1,0,0
+train,The city of Hwaseong-si is not in South Korea.,0,0,0.12085323750368207,0.04798569582050883,0,0,0
+train,The city of Gujrat is not in Saudi Arabia.,1,1,0.9949396682514108,0.9801698010518772,1,0,0
+train,The city of Gold Coast is not in Angola.,1,1,0.9511422216862461,0.9590175243928502,1,0,0
+train,The city of Acapulco de Juarez is not in Mexico.,0,0,0.22541660810646774,0.005157200612521987,0,0,0
+train,The city of Tomsk is not in the Philippines.,1,1,0.8887587844632336,0.9844146482109386,1,0,0
+train,The city of Oklahoma City is not in the United States.,0,0,0.1778108751127228,0.007814468970836848,0,0,0
+train,The city of Bengbu is not in the United States.,1,1,0.734119522179206,0.8569088554424871,1,0,0
+train,The city of Ciudad Guayana is not in Poland.,1,1,0.7341195323901123,0.9872182625287376,1,0,0
+train,The city of Kikwit is not in Argentina.,1,1,0.9111797096716415,0.9449147722401445,1,0,0
+train,The city of Helsinki is not in China.,1,1,0.9207896806736668,0.9975868572929333,1,0,0
+train,The city of Yangon is not in Turkey.,1,1,0.8152324904971512,0.9943564005890799,1,0,0
+train,The city of Ilorin is not in Nigeria.,0,0,0.30404168315335517,0.006460205035396721,0,0,0
+train,The city of Kolwezi is not in Mozambique.,1,1,0.7799929127968185,0.36282643672058246,0,1,0
+train,The city of Ulanqab is not in Pakistan.,1,1,0.9196425353224301,0.49496654615201047,0,1,0
+train,The city of Esenler is not in China.,1,1,0.7185943934641322,0.8795483020118151,1,0,0
+train,The city of Nakuru is not in Turkey.,1,1,0.7690802515757221,0.858969121596039,1,0,0
+train,The city of Piura is not in Peru.,0,0,0.2281565015218536,0.10417767598053339,0,0,0
+train,The city of Ryazan' is not in Saudi Arabia.,1,1,0.9637799423742007,0.9781762894492871,1,0,0
+train,The city of Nairobi is not in Kenya.,0,0,0.21206881316615406,0.005678487420844726,0,0,0
+train,The city of Lodz is not in Poland.,0,0,0.15405756257897857,0.010801005794911956,0,0,0
+train,The city of Neijiang is not in Afghanistan.,1,1,0.9566342018559376,0.9891151156795903,1,0,0
+train,The city of Suginami is not in Japan.,0,0,0.6224593325225595,0.06367100259158819,0,0,1
+train,The city of Zhoushan is not in China.,0,0,0.07159119963456566,0.019799289737227072,0,0,0
+train,The city of Qingpu is not in China.,0,0,0.11920292163938899,0.03226991398367967,0,0,0
+train,The city of Ryazan' is not in Russia.,0,0,0.3665897476147383,0.06573375936917017,0,0,0
+train,The city of Isfahan is not in Syria.,1,1,0.8267117925811462,0.9457246384271338,1,0,0
+train,The city of Liuzhou is not in China.,0,0,0.036220060018294274,0.008622270591609246,0,0,0
+train,The city of Dombivali is not in India.,0,0,0.1778108833184541,0.09804769233846672,0,0,0
+train,The city of Jilin is not in China.,0,0,0.05033063159887564,0.0038560045893589485,0,0,0
+train,The city of Contagem is not in China.,1,1,0.7549149933244955,0.950377638476666,1,0,0
+train,The city of Mexico City is not in Mexico.,0,0,0.1688569601685034,0.0036047332232098783,0,0,0
+train,The city of Tianjin is not in China.,0,0,0.07263670367526022,0.005081030033475386,0,0,0
+train,The city of Nanning is not in China.,0,0,0.03676946381381103,0.014245301049077045,0,0,0
+train,The city of Shangluo is not in China.,0,0,0.18952109932071506,0.017938249265088444,0,0,0
+train,The city of Anyang-si is not in Poland.,1,1,0.6001883616867189,0.9518528279313744,1,0,0
+train,The city of Callao is not in Peru.,0,0,0.24508501883324932,0.27891454105793406,0,0,0
+train,The city of Las Pinas is not in the Philippines.,0,0,0.08632347713233655,0.40758235922581143,0,0,0
+train,The city of Adachi is not in Japan.,0,0,0.5273165353009354,0.16582252262961797,0,0,1
+train,The city of Agadir is not in Kenya.,1,1,0.5660185402187273,0.9225423687865013,1,0,0
+train,The city of Balikpapan is not in Indonesia.,0,0,0.10521053471847858,0.0231517071582342,0,0,0
+train,The city of Jiaozhou is not in China.,0,0,0.16451645205719392,0.006734825651128031,0,0,0
+train,The city of Suining is not in Brazil.,1,1,0.4610167809196815,0.7595440293870589,1,0,1
+train,The city of Sao Bernardo do Campo is not in Nigeria.,1,1,0.9407897471806123,0.9901631055093232,1,0,0
+train,The city of Wuwei is not in Russia.,1,1,0.9902915233536885,0.991469497331777,1,0,0
+train,The city of Seattle is not in the United States.,0,0,0.3665897616176899,0.0030094047965542534,0,0,0
+train,The city of Qingdao is not in China.,0,0,0.048857777481866725,0.003130727292114105,0,0,0
+train,The city of Itabashi is not in Japan.,0,0,0.4301473469929892,0.03533993257752818,0,0,0
+train,The city of Qingdao is not in India.,1,1,0.9840936085354344,0.9979395128384563,1,0,0
+train,The city of Najran is not in China.,1,1,0.5660185401001736,0.931991245820634,1,0,0
+train,The city of Saratov is not in Egypt.,1,1,0.8289388233094045,0.9860520565604132,1,0,0
+train,The city of Najafgarh is not in India.,0,1,0.3451052857893676,0.5642369694297372,1,0,1
+train,The city of Zaozhuang is not in China.,0,0,0.16238002967725207,0.033610021012936704,0,0,0
+train,The city of Makassar is not in Colombia.,1,1,0.37022538785694564,0.9573528191338977,1,0,1
+train,The city of Calumbo is not in Angola.,0,1,0.4532618711433842,0.5265509765095301,1,0,1
+train,The city of Nellore is not in Egypt.,1,1,0.8006919932837603,0.9845048144264903,1,0,0
+train,The city of Barranquilla is not in Mexico.,1,1,0.8198933367987087,0.9766633414065863,1,0,0
+train,The city of Qom is not in Iran.,0,0,0.7057850346435124,0.669047432304615,1,1,1
+train,The city of Brasilia is not in Venezuela.,1,1,0.9637799428991096,0.9411837171963674,1,0,0
+train,The city of Marseille is not in France.,0,0,0.2877678095185198,0.0018708469733072122,0,0,0
+train,The city of Nuremberg is not in China.,1,1,0.9706877690029374,0.9927257956724976,1,0,0
+train,The city of Yichang is not in the Democratic Republic of the Congo.,1,1,0.8933094029743861,0.80530876839522,1,0,0
+train,The city of Nanchong is not in China.,0,0,0.04958902228715021,0.007899141000838255,0,0,0
+train,The city of Cheongju-si is not in Japan.,1,1,0.9998103825880573,0.9731702642544952,1,0,0
+train,The city of Denpasar is not in Russia.,1,1,0.8688267793968706,0.9977000407469286,1,0,0
+train,The city of Chelyabinsk is not in Japan.,1,1,0.8976952967889962,0.998384581002285,1,0,0
+train,The city of Libreville is not in Gabon.,0,0,0.1732882060024559,0.7472547233982133,1,1,0
+train,The city of Muzaffarabad is not in India.,1,1,0.955319126645995,0.8756202039439901,1,0,0
+train,The city of Dera Ismail Khan is not in Mozambique.,1,1,0.8311430423095687,0.9598085568675745,1,0,0
+train,The city of Weinan is not in China.,0,0,0.07369627172978718,0.01004763409382173,0,0,0
+train,The city of Jiujiang is not in China.,0,0,0.06560483720897033,0.008264075447859294,0,0,0
+train,The city of Nay Pyi Taw is not in Kazakhstan.,1,1,0.8558511382532991,0.9575290689389753,1,0,0
+train,The city of Al Fayyum is not in Egypt.,0,0,0.2658804730915653,0.020246161820971647,0,0,0
+train,The city of Nouakchott is not in Morocco.,1,1,0.9859363741470826,0.9160004531951418,1,0,0
+train,The city of Mengzi is not in China.,0,1,0.073696273114344,0.26138433961782326,0,1,1
+train,The city of New South Memphis is not in South Korea.,1,1,0.8376199710224388,0.8244574234286498,1,0,0
+train,The city of Faridabad is not in India.,0,0,0.10669059311357586,0.07945453514361324,0,0,0
+train,The city of Binh Thanh is not in Brazil.,1,1,0.6406358650973337,0.9703444775468212,1,0,0
+train,The city of Juiz de Fora is not in China.,1,1,0.9465966673437093,0.9667265497363656,1,0,0
+train,The city of Florianopolis is not in Brazil.,0,0,0.2720245587244689,0.014075864022645717,0,0,0
+train,The city of Kimhae is not in South Korea.,0,0,0.13846179188274263,0.13725509948949668,0,0,0
+train,The city of Antananarivo is not in Egypt.,1,1,0.7772998605508429,0.9886054112193897,1,0,0
+train,The city of Teresina is not in South Korea.,1,1,0.44552953254278804,0.7939725237708579,1,0,1
+train,The city of UEskuedar is not in China.,1,1,0.8175744648535188,0.6462177477897352,1,0,0
+train,The city of Sanmenxia is not in China.,0,0,0.09268778006374123,0.015573621512993721,0,0,0
+train,The city of Maoming is not in China.,0,0,0.07477004980434988,0.15247907415557962,0,0,0
+train,The city of Gurugram is not in India.,0,0,0.10087861543839503,0.0667293822266621,0,0,0
+train,The city of Kalaburagi is not in Turkey.,1,1,0.879146766392486,0.9147415340354659,1,0,0
+train,The city of Sukkur is not in Pakistan.,0,0,0.22815649727410567,0.06401362955790846,0,0,0
+train,The city of Tangerang is not in Germany.,1,1,0.5389832016113121,0.963081584684671,1,0,0
+train,The city of Gurugram is not in Germany.,1,1,0.6619228539319686,0.9834422193759986,1,0,0
+train,The city of Maturin is not in Brazil.,1,1,0.41869691851665686,0.37071838265328816,0,1,1
+train,The city of Malingao is not in India.,1,1,0.3106943917342106,0.7195261400118368,1,0,1
+train,The city of Lueliang is not in India.,1,0,0.46879062128798504,0.5698234524332961,1,1,0
+train,The city of Andijon is not in China.,1,1,0.44167303167467203,0.943702391273864,1,0,1
+train,The city of Jiaxing is not in the Democratic Republic of the Congo.,1,1,0.9086178942185407,0.9845163616053192,1,0,0
+train,The city of Kermanshah is not in Malaysia.,1,1,0.9489172593455731,0.965435780317625,1,0,0
+train,The city of Islamabad is not in Pakistan.,0,0,0.14033624411653517,0.009559503185805954,0,0,0
+train,The city of Pekanbaru is not in Belarus.,1,1,0.5156199291803641,0.9900818781606979,1,0,0
+train,The city of Changchun is not in China.,0,0,0.04023794434708503,0.019152201433399414,0,0,0
+train,The city of Gazipur is not in Bangladesh.,0,0,0.27512971272799,0.17460226748137775,0,0,0
+train,The city of Can Tho is not in China.,1,1,0.9996874121892761,0.8508613859092261,1,0,0
+train,The city of Makassar is not in Indonesia.,0,0,0.11920292285770658,0.03708524109841553,0,0,0
+train,The city of Kakamega is not in Kenya.,0,0,0.29421497721710127,0.18713643580661565,0,0,0
+train,The city of Hangzhou is not in China.,0,0,0.04468087338828528,0.0028835312862703455,0,0,0
+train,The city of Marseille is not in China.,1,1,0.853912750322846,0.9888734708379573,1,0,0
+train,The city of Bhayandar is not in India.,0,0,0.3775406673277351,0.09248627029599786,0,0,0
+train,The city of Luohu District is not in Turkey.,1,0,0.5467381403654614,0.9078830704983091,1,1,1
+train,The city of Changde is not in China.,0,0,0.06371499275452519,0.031171337816265687,0,0,0
+train,The city of Muntinlupa is not in the Philippines.,0,0,0.10374863205645658,0.059178052612163606,0,0,0
+train,The city of Sofia is not in China.,1,1,0.7154239881898387,0.9797599617564412,1,0,0
+train,The city of Pasir Gudang is not in Malaysia.,0,1,0.4960938459489503,0.3097907865788285,0,1,1
+train,The city of Fushun is not in China.,0,0,0.09534945930525407,0.04406462340465292,0,0,0
+train,The city of Rangpur is not in Bangladesh.,0,0,0.507811876829125,0.05866085664031843,0,0,1
+train,The city of Gaziantep is not in Turkey.,0,0,0.2720245637691985,0.015468250489357417,0,0,0
+train,The city of Qionghai is not in China.,0,0,0.07807816658911691,0.034795445011552135,0,0,0
+train,The city of Amritsar is not in India.,0,0,0.07585817917076819,0.03344590476983845,0,0,0
+train,The city of Jinan is not in India.,1,1,0.6992544065978085,0.9885164136238107,1,0,0
+train,The city of Kashgar is not in Peru.,1,1,0.5506073625727165,0.9910521178760839,1,0,0
+train,The city of Jilin is not in India.,1,1,0.9343951616588219,0.9980564246191667,1,0,0
+train,The city of Naberezhnyye Chelny is not in Russia.,0,0,0.7122322017106887,0.058940005021535534,0,0,1
+train,The city of Cape Town is not in South Africa.,0,0,0.2043418944961831,0.005637047263920521,0,0,0
+train,The city of Xinyu is not in China.,0,1,0.19930800265287288,0.015553026823273666,0,1,1
+train,The city of Meknes is not in Cuba.,1,1,0.4263215738444482,0.9803360084310513,1,0,1
+train,The city of Bandar Lampung is not in Indonesia.,0,0,0.1143685262644785,0.011130674668542475,0,0,0
+train,The city of Huzhou is not in China.,0,0,0.1778108652045755,0.008718168968926805,0,0,0
+train,The city of Puducherry is not in China.,1,1,0.8596637500966509,0.9896012146344474,1,0,0
+train,The city of Ulan Bator is not in Mongolia.,0,0,0.11436852482300361,0.02267011343929864,0,0,0
+train,The city of Nanded is not in the Democratic Republic of the Congo.,1,1,0.31069439283927,0.9418325093813892,1,0,1
+train,The city of Subang Jaya is not in Malaysia.,0,0,0.24798744112595802,0.3370636054985909,0,0,0
+train,The city of Hue is not in Iraq.,1,1,0.9609517099908064,0.7934245930736818,1,0,0
+train,The city of Nowrangapur is not in India.,0,0,0.41869692143295434,0.07348004693511433,0,0,0
+train,The city of New Kingston is not in Jamaica.,0,0,0.24798744712478563,0.1521456788418558,0,0,0
+train,The city of Chengdu is not in China.,0,0,0.040845718206273654,0.0050092337359878,0,0,0
+train,The city of Shaoxing is not in South Korea.,1,1,0.9921841103760889,0.9750309025663122,1,0,0
+train,The city of San Miguel de Tucuman is not in China.,1,1,0.9458012696232021,0.9918871219878188,1,0,0
+train,The city of Arusha is not in Tanzania.,0,0,0.2393493370747714,0.2051372354519919,0,0,0
+train,The city of Mersin is not in China.,1,1,0.8824278607445463,0.9868918557933808,1,0,0
+train,The city of Barquisimeto is not in Russia.,1,1,0.9621075746902034,0.9943887398984407,1,0,0
+train,The city of Lianyungang is not in China.,0,0,0.032100708102675776,0.011016225096905578,0,0,0
+train,The city of Malacca is not in China.,1,1,0.7122321870394084,0.9362033741899194,1,0,0
+train,The city of Xianning is not in China.,0,0,0.0863234754515178,0.011095062698322273,0,0,0
+train,The city of Bannu is not in Pakistan.,0,1,0.6926419701124039,0.20495566845218463,0,1,0
+train,The city of Hangzhou is not in Indonesia.,1,1,0.7606506619730865,0.9894958081095351,1,0,0
+train,The city of The Bronx is not in the Democratic Republic of the Congo.,1,1,0.9732407167124887,0.9878826161203708,1,0,0
+train,The city of Odesa is not in Pakistan.,1,1,0.9207896818993497,0.9419852453182357,1,0,0
+train,The city of Katsina is not in South Korea.,1,1,0.4882834228582795,0.4973423097987226,0,1,1
+train,The city of Khartoum is not in Sudan.,0,0,0.12592276446720935,0.012692192068085285,0,0,0
+train,The city of Sanmenxia is not in India.,1,1,0.7431679900814255,0.9614648515016727,1,0,0
+train,The city of Kashgar is not in China.,0,0,0.0769608387687517,0.114848662997288,0,0,0
+train,The city of Asansol is not in India.,0,0,0.16451646441318823,0.42656713386447137,0,0,0
+train,The city of Makkah is not in Saudi Arabia.,0,0,0.05749327293509764,0.006890969037419731,0,0,0
+train,The city of Kyoto is not in Ukraine.,1,1,0.917302659963074,0.9960081939017645,1,0,0
+train,The city of Anshan is not in Pakistan.,1,1,0.863391603890045,0.7995427037912377,1,0,0
+train,The city of Al Mawsil al Jadidah is not in Iraq.,0,0,0.5350984198900891,0.37305215234247174,0,0,1
+train,The city of Osogbo is not in Nigeria.,0,0,0.3702253814114779,0.018331332699098403,0,0,0
+train,The city of Hanzhong is not in China.,0,1,0.13477592398532734,0.016983709587974346,0,1,1
+train,The city of Taicang is not in Nigeria.,1,1,0.9059898184201594,0.9333346578754689,1,0,0
+train,The city of Sulaymaniyah is not in China.,1,1,0.7662936538044456,0.9822498305323358,1,0,0
+train,The city of Zhongwei is not in Jamaica.,1,1,0.8031737823536192,0.9845682409170978,1,0,0
+train,The city of Shah Alam is not in Malaysia.,0,0,0.13296424076915986,0.17764926770080514,0,0,0
+train,The city of Porto Alegre is not in China.,1,1,0.9184802443655998,0.9935426161936736,1,0,0
+train,The city of Chizhou is not in the Democratic Republic of the Congo.,1,1,0.8354835447071639,0.9116344903561656,1,0,0
+train,The city of Kigali is not in India.,1,1,0.64779823042463,0.9299786638900053,1,0,0
+train,The city of Tangier is not in Morocco.,0,0,0.21206879709289964,0.008912883140088847,0,0,0
+train,The city of Thembisa is not in South Africa.,0,0,0.3486451449942019,0.35862238148233805,0,0,0
+train,The city of Santo Domingo Este is not in the Dominican Republic.,0,0,0.18010666943989734,0.06035992299865166,0,0,0
+train,The city of Sagamihara is not in Japan.,0,0,0.29421497416932785,0.026488070376282046,0,0,0
+train,The city of Rasapudipalem is not in Cambodia.,1,1,0.2568320086571334,0.5180845165320515,1,0,1
+train,The city of Kaduna is not in Nigeria.,0,0,0.46879063228112955,0.13030202266005683,0,0,0
+train,The city of Benxi is not in China.,0,0,0.06371499399253551,0.0031776693525731713,0,0,0
+train,The city of Bahawalpur is not in Myanmar.,1,1,0.6926419642028462,0.9340696631641697,1,0,0
+train,The city of Pingliang is not in Indonesia.,1,1,0.6334102643553474,0.7785989901064571,1,0,0
+train,The city of Kitwe is not in Malaysia.,1,1,0.4921881254958136,0.8645306796292379,1,0,1
+train,The city of Karol Bagh is not in Brazil.,1,1,0.381219572132998,0.836445827713622,1,0,1
+train,The city of Karbala is not in Kuwait.,1,1,0.8056321787472193,0.8015146686620888,1,0,0
+train,The city of Lilongwe is not in Malawi.,0,0,0.2909808566952609,0.09978648093242454,0,0,0
+train,The city of Shaoguan is not in China.,0,0,0.06656918998594158,0.02539824433734662,0,0,0
+train,The city of Warangal is not in India.,0,0,0.1993080012942519,0.3204970621672464,0,0,0
+train,The city of Ouagadougou is not in Burkina Faso.,0,0,0.20946969048913822,0.01541886125557508,0,0,0
+train,The city of Bengaluru is not in India.,0,0,0.1540575568609892,0.03632001148028523,0,0,0
+train,The city of Fort Worth is not in France.,1,1,0.7577943605916403,0.9752876272492651,1,0,0
+train,The city of Niluefer is not in Mexico.,1,1,0.5273165462356751,0.7440622421668384,1,0,0
+train,The city of Zibo is not in China.,0,0,0.11920291793308618,0.003593650389087512,0,0,0
+train,The city of Linfen is not in Russia.,1,1,0.9525741283656964,0.8787332182834028,1,0,0
+train,The city of Hermosillo is not in China.,1,1,0.8539127528338283,0.9934544219625373,1,0,0
+train,The city of Beirut is not in India.,1,1,0.5583269736117035,0.9940790572673245,1,0,0
+train,The city of Sapporo is not in Japan.,0,0,0.23651623574862402,0.025862764055129876,0,0,0
+train,The city of Feira de Santana is not in Brazil.,0,0,0.247987436852853,0.009936953491271125,0,0,0
+train,The city of Chuzhou is not in Bangladesh.,1,1,0.8962513711451424,0.8197816855863163,1,0,0
+train,The city of Detroit is not in the United States.,0,0,0.30074557901167054,0.005387689223149281,0,0,0
+train,The city of Soacha is not in Colombia.,0,0,0.1422318902795363,0.4117736941142993,0,0,0
+train,The city of Agege is not in Japan.,1,1,0.39606815176223215,0.21752218612671062,0,1,1
+train,The city of Kalyan is not in India.,0,0,0.38121955863900775,0.16790445127173165,0,0,0
+train,The city of Guwahati is not in India.,0,0,0.10521053408557308,0.1153454898364743,0,0,0
+train,The city of Nanchang is not in China.,0,0,0.05108273806750791,0.01077425581495871,0,0,0
+train,The city of Prayagraj is not in China.,1,1,0.9934102284839696,0.9600633074119791,1,0,0
+train,The city of Maturin is not in Venezuela.,0,1,0.4035668719266513,0.08357645973768268,0,1,1
+train,The city of Bhiwandi is not in China.,1,1,0.8807970784579947,0.9922658305072756,1,0,0
+train,The city of Vilnius is not in Ukraine.,1,1,0.8933094059253016,0.932766629573722,1,0,0
+train,The city of Orumiyeh is not in Angola.,1,1,0.24798743950197416,0.8760752051124201,1,0,1
+train,The city of Ningbo is not in China.,0,0,0.047425872368816645,0.002578805998658857,0,0,0
+train,The city of Samarkand is not in Uzbekistan.,0,0,0.3073580174142543,0.17898822359066344,0,0,0
+train,The city of Quebec is not in Canada.,0,0,0.46879062975057584,0.0026815824047038256,0,0,0
+train,The city of Xuancheng is not in Malaysia.,1,1,0.8902942237990502,0.8199246326856954,1,0,0
+train,The city of Sulaymaniyah is not in Iraq.,0,0,0.3140505534255319,0.08067380629316116,0,0,0
+train,The city of Xuzhou is not in India.,1,1,0.8918110456063908,0.984984370457406,1,0,0
+train,The city of Selayang Baru Utara is not in Malaysia.,0,1,0.5,0.31732444468042886,0,1,1
+train,The city of Lviv is not in Ukraine.,0,0,0.4035668649850891,0.06751956121989022,0,0,0
+train,The city of Matola is not in China.,1,1,0.6406358507758644,0.9377147653108512,1,0,0
+train,The city of Bhayandar is not in China.,1,1,0.9407897492140439,0.857369824981946,1,0,0
+train,The city of Bhiwandi is not in India.,0,0,0.1623800258391909,0.1266222969563741,0,0,0
+train,The city of Jammu is not in India.,0,0,0.11124121067773758,0.022778423058381184,0,0,0
+train,The city of Lyon is not in China.,1,1,0.8376199667699585,0.9856003025126296,1,0,0
+train,The city of Guang'an is not in China.,0,0,0.08269734187236082,0.027608763121680487,0,0,0
+train,The city of Zhabei is not in Japan.,1,1,0.9997748317546901,0.9695416719486534,1,0,0
+train,The city of Hefei is not in China.,0,0,0.05834584004904981,0.018997381988796802,0,0,0
+train,The city of Jos is not in Nigeria.,0,0,0.441673036078145,0.4233427637167556,0,0,0
+train,The city of Foshan is not in China.,0,0,0.06853749474244739,0.0027968824044259264,0,0,0
+train,The city of Najran is not in Saudi Arabia.,0,0,0.18952110821028229,0.2751455102453524,0,0,0
+train,The city of Ankara is not in Jordan.,1,1,0.9989182846996036,0.9888655038164568,1,0,0
+train,The city of Sadr City is not in Eritrea.,1,0,0.17781087616594657,0.33808157918527604,0,0,0
+train,The city of Niigata is not in China.,1,1,0.9111797066780758,0.9870825612074428,1,0,0
+train,The city of Hannover is not in Afghanistan.,1,1,0.661922863258742,0.9736167163344156,1,0,0
+train,The city of Zhuzhou is not in the United States.,1,1,0.9780517456116339,0.9817968008719639,1,0,0
+train,The city of Culiacan is not in Mexico.,0,0,0.22270013818613368,0.015786709497102095,0,0,0
+train,The city of Wroclaw is not in Poland.,0,0,0.1384617943489477,0.018623082697020732,0,0,0
+train,The city of Hermosillo is not in Mexico.,0,0,0.17781087512906074,0.012542073737907711,0,0,0
+train,The city of Cagayan de Oro is not in the Philippines.,0,0,0.07696084313130049,0.020146528671438384,0,0,0
+train,The city of Puducherry is not in India.,0,0,0.18713268337310884,0.08722722429265722,0,0,0
+train,The city of Lubango is not in Angola.,0,0,0.19436782302712147,0.02751230850629174,0,0,0
+train,The city of Seongnam-si is not in Ukraine.,1,0,0.865224083969845,0.9774660367956648,1,1,1
+train,The city of Jeddah is not in Saudi Arabia.,0,0,0.11436853130208384,0.004656035877259113,0,0,0
+train,The city of Qujing is not in China.,0,0,0.1081889612283172,0.023096019324760356,0,0,0
+train,The city of Quito is not in Ecuador.,0,0,0.14608724273336748,0.011123680667544204,0,0,0
+train,The city of Xingtai is not in Kazakhstan.,1,1,0.9073122230276862,0.9639011442382277,1,0,0
+train,The city of Cabinda is not in Angola.,0,0,0.6039318347677937,0.026353015871265265,0,0,1
+train,The city of Tianshui is not in China.,0,0,0.09009299646488582,0.018799940352440172,0,0,0
+train,The city of Lusaka is not in Zambia.,0,0,0.15817435175857197,0.008653794059801642,0,0,0
+train,The city of Shihezi is not in Turkey.,1,1,0.7217432107807571,0.9809364603429731,1,0,0
+train,The city of Amman is not in Jordan.,0,0,0.14608725309920373,0.014675750987839967,0,0,0
+train,The city of Subang Jaya is not in Germany.,1,1,0.422504632284935,0.9894840604346307,1,0,1
+train,The city of Gustavo Adolfo Madero is not in Mexico.,0,0,0.24220562813347357,0.03282731084399016,0,0,0
+train,The city of Tlaquepaque is not in Mexico.,0,0,0.14608724718760016,0.029854801091574554,0,0,0
+train,The city of Toulouse is not in Kenya.,1,1,0.6261241991914107,0.9901834923038737,1,0,0
+train,The city of Kirkuk is not in Iraq.,0,0,0.366589738601452,0.09802610404147928,0,0,0
+train,The city of Bamako is not in Nepal.,1,1,0.8175744693915605,0.9920940699851604,1,0,0
+train,The city of Zaria is not in Nigeria.,0,0,0.5078118818025197,0.04526506430874486,0,0,1
+train,The city of Al Basrah al Qadimah is not in China.,1,1,0.7185943811719057,0.9651772881126789,1,0,0
+train,The city of Mazar-e Sharif is not in Afghanistan.,0,0,0.2018132327035396,0.01386521280553323,0,0,0
+train,The city of Mosul is not in North Korea.,1,1,0.9632305359344057,0.9971057550385037,1,0,0
+train,The city of Edogawe is not in Japan.,0,0,0.5234203457183036,0.27065278210969257,0,0,1
+train,The city of Bhubaneswar is not in Turkey.,1,1,0.5621765016475869,0.9945431196255138,1,0,0
+train,The city of Tiruppur is not in Russia.,1,1,0.9284087972933898,0.9956199554769644,1,0,0
+train,The city of Zhongwei is not in China.,0,0,0.07807815977348517,0.02170089096059188,0,0,0
+train,The city of Asansol is not in China.,1,1,0.8519528059929664,0.5926113725341663,1,0,0
+train,The city of Xuzhou is not in China.,0,0,0.1422318936144137,0.002543263315398416,0,0,0
+train,The city of Shijiazhuang is not in Belarus.,1,1,0.9032942150460774,0.9902292535955015,1,0,0
+train,The city of Camayenne is not in Mexico.,1,1,0.44552954369427855,0.7350496807236133,1,0,1
+train,The city of Lahore is not in the Democratic Republic of the Congo.,1,1,0.7025300568280387,0.9510452290610543,1,0,0
+train,The city of Buraydah is not in Saudi Arabia.,0,0,0.31069439051898007,0.19427449372482974,0,0,0
+train,The city of Bouake is not in Côte d'Ivoire.,0,0,0.21206881059175617,0.34416155870009046,0,0,0
+train,The city of Kharkiv is not in Ukraine.,0,0,0.40356686176679557,0.1058076273873407,0,0,0
+train,The city of Bucheon-si is not in South Korea.,0,0,0.20946968935364196,0.1682285577502933,0,0,0
+train,The city of Makkah is not in Myanmar.,1,1,0.7490872212717687,0.9806417252157301,1,0,0
+train,The city of Hegang is not in China.,0,0,0.14033625741415837,0.5354764081179524,1,1,0
+train,The city of Durban is not in South Africa.,0,0,0.2538610295487408,0.011222622955016344,0,0,0
+train,The city of Nellore is not in India.,0,0,0.14804719004902483,0.0640443635933859,0,0,0
+train,The city of Santiago de los Caballeros is not in the Dominican Republic.,0,0,0.28140560201845927,0.036717771991735246,0,0,0
+train,The city of Naberezhnyye Chelny is not in China.,1,1,0.8872045988914342,0.9729519065851778,1,0,0
+train,The city of Winnipeg is not in Canada.,0,0,0.1919327947940162,0.0060463213282907725,0,0,0
+train,The city of Bagcilar is not in the United States.,1,1,0.9136765227049385,0.8449839664507053,1,0,0
+train,The city of Agege is not in Nigeria.,0,0,0.488283415428987,0.43133939119985004,0,0,0
+train,The city of Jeonju is not in Egypt.,1,1,0.9441768589750198,0.9792588961153242,1,0,0
+train,The city of Mar del Plata is not in China.,1,1,0.787931185389318,0.9966743811000333,1,0,0
+train,The city of Zhaoqing is not in China.,0,0,0.09670578914242481,0.0060228738013771415,0,0,0
+train,The city of Lubumbashi is not in Mexico.,1,1,0.27825680460897406,0.9899343599601365,1,0,1
+train,The city of Luancheng is not in India.,1,1,0.7341195223319719,0.9222152084024453,1,0,0
+train,The city of Puente Alto is not in China.,1,0,0.5964331437717155,0.9697188066596214,1,1,1
+train,The city of Mudanjiang is not in India.,1,1,0.9591542822132675,0.9914972476563456,1,0,0
+train,The city of Cucuta is not in Colombia.,0,0,0.1871326818244848,0.18980730940425225,0,0,0
+train,The city of Krasnodar is not in India.,1,1,0.7799928974086644,0.9979022653278803,1,0,0
+train,The city of Tanggu is not in Turkey.,1,1,0.9632305346667042,0.8546158080374783,1,0,0
+train,The city of Tasikmalaya is not in Indonesia.,0,0,0.12765262328851512,0.08563913105147243,0,0,0
+train,The city of Cixi is not in France.,1,1,0.6959583189237302,0.928740426595152,1,0,0
+train,The city of Kayseri is not in China.,1,1,0.8354835437761551,0.9331503532809706,1,0,0
+train,The city of Borama is not in Somalia.,0,1,0.5,0.6807057327464696,1,0,1
+train,The city of Cuttack is not in India.,0,0,0.17781086866383805,0.04380640209555737,0,0,0
+train,The city of Xiamen is not in China.,0,0,0.048857777428128954,0.005851585837997414,0,0,0
+train,The city of Ulan Bator is not in China.,1,1,0.5467381421068489,0.2535513778752179,0,1,0
+train,The city of Weifang is not in Turkey.,1,1,0.9263037267505572,0.9615537323374675,1,0,0
+train,The city of Wuzhong is not in Vietnam.,1,1,0.668880251476006,0.956350808903432,1,0,0
+train,The city of Conakry is not in Guinea.,0,0,0.21206880913253504,0.07729063028344413,0,0,0
+train,The city of Suqian is not in China.,0,0,0.19436782200773342,0.03326085998387014,0,0,0
+train,The city of Omsk is not in Finland.,1,1,0.9334308111630043,0.9636582773037886,1,0,0
+train,The city of Ndola is not in Zambia.,0,0,0.25386102011558054,0.09828669008437976,0,0,0
+train,The city of Port Said is not in Egypt.,0,0,0.284576012785894,0.013574134717849906,0,0,0
+train,The city of Bishkek is not in Iraq.,1,1,0.9867771780722939,0.9770062676021772,1,0,0
+train,The city of Guiyang is not in India.,1,1,0.9219218410822743,0.992204695680217,1,0,0
+train,The city of Shizuoka is not in India.,1,1,0.9399133543401734,0.9983060089359992,1,0,0
+train,The city of Ribeirao Preto is not in Vietnam.,1,1,0.9111797104072857,0.9976340380986269,1,0,0
+train,The city of Korla is not in China.,0,0,0.5736784073240532,0.6578538919467265,1,1,1
+train,The city of Karaj is not in Iran.,0,0,0.5660185318900394,0.28107892877163865,0,0,1
+train,The city of Bogor is not in Indonesia.,0,0,0.1968262062876783,0.212254352639935,0,0,0
+train,The city of Kisangani is not in the Democratic Republic of the Congo.,0,0,0.3007455786816793,0.08620312869004088,0,0,0
+train,The city of Chennai is not in India.,0,0,0.230919765488677,0.04136542771323997,0,0,0
+train,The city of Chongqing is not in Russia.,1,1,0.9888419689071608,0.9963355185348227,1,0,0
+train,The city of Tangier is not in Egypt.,1,1,0.7520125683285034,0.8210664785124776,1,0,0
+train,The city of Nagpur is not in Bangladesh.,1,1,0.9915543724237651,0.9766131324759626,1,0,0
+train,The city of Jaipur is not in India.,0,0,0.14608725350201474,0.03481681460195988,0,0,0
+train,The city of Korla is not in the United States.,1,1,0.9314625067702724,0.8655059712619461,1,0,0
+train,The city of Yaounde is not in Cameroon.,0,0,0.1422318871250088,0.02818743771860099,0,0,0
+train,The city of Guiyang is not in China.,0,0,0.04146227514083983,0.006058535632852179,0,0,0
+train,The city of Huaihua is not in Djibouti.,1,1,0.9465966674577599,0.9631609158749336,1,0,0
+train,The city of Erzurum is not in Turkey.,0,0,0.2538610284484341,0.00931095841859158,0,0,0
+train,The city of Osaka is not in Japan.,0,0,0.10818895675311292,0.01237455027456044,0,0,0
+train,The city of Helsinki is not in Finland.,0,0,0.19436782472364486,0.01119614443611711,0,0,0
+train,The city of Bukavu is not in the Democratic Republic of the Congo.,0,0,0.59266659333272,0.2081627374976757,0,0,1
+train,The city of Chuxiong is not in China.,0,0,0.15405755754219455,0.06256943520603059,0,0,0
+train,The city of Pelentong is not in Malaysia.,0,0,0.5926665963080597,0.42581564502285674,0,0,1
+train,The city of Santiago de Queretaro is not in Mexico.,0,0,0.23934933946126402,0.010393227244973874,0,0,0
+train,The city of Kampung Baru Subang is not in China.,1,1,0.8080672067885192,0.8660216766653988,1,0,0
+train,The city of Krakow is not in China.,1,1,0.7718435002067234,0.9937380130857885,1,0,0
+train,The city of Manaus is not in Malaysia.,1,1,0.8438950967825661,0.984109581057631,1,0,0
+train,The city of Baku is not in China.,1,1,0.6825737062112608,0.9710135124843229,1,0,0
+train,The city of Kobe is not in China.,1,1,0.23651623728696008,0.4082206522395425,0,1,1
+train,The city of Luohu District is not in China.,0,0,0.037326887912778765,0.018488854854240046,0,0,0
+train,The city of Wanxian is not in China.,0,0,0.16238003377566337,0.014898320544952107,0,0,0
+train,The city of Bucaramanga is not in Colombia.,0,0,0.11920291938134997,0.012044084647672405,0,0,0
+train,The city of Accra is not in Mozambique.,1,1,0.6859494443203166,0.8970883667024205,1,0,0
+train,The city of Kitakyushu is not in Japan.,0,0,0.15817434456000987,0.019221570839080677,0,0,0
+train,The city of Matola is not in Mozambique.,0,1,0.3998116550843213,0.2297325371344885,0,1,1
+train,The city of Kemerovo is not in Russia.,0,0,0.2538610089299124,0.014714870707623274,0,0,0
+train,The city of Aleppo is not in Turkey.,1,1,0.8267118011059734,0.8055033926237284,1,0,0
+train,The city of Pontianak is not in India.,1,1,0.695958332016316,0.6468060418254942,1,0,0
+train,The city of Nagoya is not in Japan.,0,0,0.16238003215895047,0.011885249341273173,0,0,0
+train,The city of Vladivostok is not in China.,1,1,0.9992847675710231,0.9874358144956034,1,0,0
+train,The city of Petaling Jaya is not in China.,1,1,0.8740772306798296,0.9907050515644233,1,0,0
+train,The city of Jingmen is not in China.,0,0,0.16451645073265678,0.08463237658577452,0,0,0
+train,The city of Tolyatti is not in Russia.,0,0,0.472683475067223,0.05392609060133198,0,0,0
+train,The city of Bareilly is not in North Korea.,1,1,0.9976032690964926,0.9923370991676874,1,0,0
+train,The city of Accra is not in Ghana.,0,0,0.12085323063856702,0.007250023580544288,0,0,0
+train,The city of Nyala is not in Sudan.,0,1,0.3629691779252395,0.44732050442969595,0,1,1
+train,The city of Kanayannur is not in Mexico.,1,1,0.5156199222111182,0.952625865196255,1,0,0
+train,The city of Goyang-si is not in South Korea.,0,0,0.21733750480175174,0.2650820225208403,0,0,0
+train,The city of Maoming is not in Colombia.,1,1,0.42632158393744135,0.9058526202393733,1,0,1
+train,The city of Binh Thanh is not in Vietnam.,0,0,0.2909808599004458,0.03788628191478059,0,0,0
+train,The city of Qui Nhon is not in Vietnam.,0,0,0.3040416724150497,0.062128886998953116,0,0,0
+train,The city of Najafgarh is not in China.,1,1,0.472683475310355,0.9685671330605804,1,0,1
+train,The city of Mandalay is not in the United States.,1,1,0.6791786763395518,0.9935930589861692,1,0,0
+train,The city of Calgary is not in Canada.,0,0,0.29746995624478006,0.006064424911945629,0,0,0
+train,The city of Contagem is not in Brazil.,0,0,0.38121957718183364,0.04223081596224473,0,0,0
+train,The city of Madurai is not in India.,0,0,0.25091278510773296,0.03156403287307908,0,0,0
+train,The city of Ningbo is not in Russia.,1,1,0.9934102283179846,0.9828635017579119,1,0,0
+train,The city of Malatya is not in Turkey.,0,0,0.3812195541068771,0.02683093098781024,0,0,0
+train,The city of Cheonan is not in India.,1,1,0.6001883371134874,0.5799201988314232,1,0,0
+train,The city of Sialkot is not in China.,1,1,0.6261241906309859,0.7382207401360437,1,0,0
+train,The city of Stockholm is not in the Dominican Republic.,1,1,0.7879311932027975,0.987521064179258,1,0,0
+train,The city of Bengaluru is not in Vietnam.,1,1,0.28776780861428014,0.9942729529130263,1,0,1
+train,The city of Jiaozhou is not in Ecuador.,1,1,0.7772998643243835,0.9519280665042523,1,0,0
+train,The city of Tolyatti is not in China.,1,1,0.8080672030996979,0.9886862194540872,1,0,0
+train,The city of Can Tho is not in Vietnam.,0,0,0.22000708973364086,0.20443010125033845,0,0,0
+train,The city of Ganzhou is not in Indonesia.,1,1,0.740174342780115,0.9022561770121637,1,0,0
+train,The city of Liuzhou is not in India.,1,1,0.8633915958850072,0.9922479190741973,1,0,0
+train,The city of Jieyang is not in China.,0,0,0.09009299734645272,0.005479222604309907,0,0,0
+train,The city of Tiruppur is not in India.,0,0,0.17781086965215287,0.03417902658707152,0,0,0
+train,The city of Bareilly is not in India.,0,0,0.1422318900696873,0.21561544401521904,0,0,0
+train,The city of Mexicali is not in Russia.,1,1,0.9252299515786506,0.9938799370034095,1,0,0
+train,The city of Mukim Pulai is not in Belarus.,1,1,0.5,0.9631458464352529,1,0,1
+train,The city of Handan is not in China.,0,0,0.2018132138315989,0.11933578299082785,0,0,0
+train,The city of Pokhara is not in Uzbekistan.,1,1,0.5736784087520576,0.9516611437807464,1,0,0
+train,The city of Yinchuan is not in France.,1,1,0.7981867810921602,0.9796707095670156,1,0,0
+train,The city of Erode is not in India.,0,0,0.38491215595378825,0.6647467947292105,1,1,0
+train,The city of Coimbatore is not in Somalia.,1,1,0.9626731127069852,0.9916667754567816,1,0,0
+train,The city of Jabalpur is not in Nigeria.,1,1,0.7122321932665736,0.978753708531243,1,0,0
+train,The city of Arifwala is not in South Africa.,1,0,0.7461389897097291,0.5291099257630302,1,1,1
+train,The city of Caloocan is not in India.,1,1,0.4378235082868875,0.27465154781283335,0,1,1
+train,The city of Camama is not in Angola.,0,1,0.5156199189715569,0.667135206646564,1,0,0
+train,The city of Neijiang is not in China.,0,0,0.08882028776687169,0.31778423007477175,0,0,0
+train,The city of Rui'an is not in Japan.,1,1,0.679178674351585,0.6135020034778117,1,0,0
+train,The city of Nagpur is not in India.,0,0,0.07807816011100371,0.058859798891830926,0,0,0
+train,The city of Manaus is not in Brazil.,0,0,0.23091974305700005,0.0050887350198346535,0,0,0
+train,The city of Detroit is not in the Democratic Republic of the Congo.,1,1,0.9086178960601974,0.9765084551016944,1,0,0
+train,The city of Recife is not in India.,1,1,0.62977462639324,0.932187903838341,1,0,0
+train,The city of Shizuoka is not in Japan.,0,0,0.2068940638658034,0.01407606254660405,0,0,0
+train,The city of Homs is not in Morocco.,1,1,0.9648551525289325,0.8806955717097608,1,0,0
+train,The city of Tshikapa is not in the Democratic Republic of the Congo.,0,0,0.5234203552854951,0.12899466423779102,0,0,1
+train,The city of Shangyu is not in Saudi Arabia.,1,1,0.9835969679212508,0.9795249148865873,1,0,0
+train,The city of Bursa is not in Turkey.,0,0,0.3174262664374319,0.04689016838905711,0,0,0
+train,The city of Lueliang is not in China.,0,1,0.25982563594894936,0.532220011159013,1,0,1
+train,The city of Zhangye is not in China.,0,0,0.06853749119026839,0.005938822352056959,0,0,0
+train,The city of Torreon is not in Mexico.,0,0,0.23091975062761425,0.04230913188385368,0,0,0
+train,The city of Malingao is not in the Philippines.,0,1,0.2568320080457273,0.46055375287891365,0,1,1
+train,The city of Linfen is not in China.,0,0,0.06853749053045617,0.08145571016360813,0,0,0
+train,The city of Comilla is not in Bangladesh.,0,0,0.4687906289514081,0.51258343490401,1,1,0
+train,The city of Mysuru is not in China.,1,1,0.9615338048762192,0.996776069476352,1,0,0
+train,The city of Nouakchott is not in Mauritania.,0,0,0.1895210997224911,0.3625024027713198,0,0,0
+train,The city of Kisangani is not in Mozambique.,1,1,0.8438950948620098,0.5787023493250019,1,0,0
+train,The city of Yangjiang is not in India.,1,1,0.8596637462986418,0.9903383740022909,1,0,0
+train,The city of Nanjing is not in China.,0,0,0.039048291430164604,0.00365703423387061,0,0,0
+train,The city of Rohini is not in Saudi Arabia.,1,1,0.8933094019601656,0.7762746525615952,1,0,0
+train,The city of Shah Alam is not in Mexico.,1,1,0.29098085637831284,0.9255848664490551,1,0,1
+train,The city of Ibague is not in Mexico.,1,1,0.8175744704396767,0.8708341605406391,1,0,0
+train,The city of Makhachkala is not in Russia.,0,0,0.34864514725808055,0.04226386662572537,0,0,0
+train,The city of Leipzig is not in Germany.,0,0,0.19193279124901672,0.002478713536071373,0,0,0
+train,The city of Al Ain City is not in South Korea.,1,1,0.32766829970467587,0.9588594897139613,1,0,1
+train,The city of San Miguel de Tucuman is not in Argentina.,0,0,0.1993080086248348,0.014493482523944919,0,0,0
+train,The city of Liupanshui is not in South Korea.,1,1,0.341582507652822,0.8695101519927656,1,0,1
+train,The city of Maianga is not in Angola.,0,0,0.24220563186262148,0.280427720170885,0,0,0
+train,The city of Sholapur is not in China.,1,1,0.6477982067623965,0.9892333749935138,1,0,0
+train,The city of Zhenjiang is not in China.,0,0,0.06656918510158544,0.01678931494162713,0,0,0
+train,The city of Suez is not in Egypt.,0,0,0.28140559210074323,0.018541852038228165,0,0,0
+train,The city of Barnaul is not in Russia.,0,1,0.5039061638482819,0.1740917177711662,0,1,0
+train,The city of Dalian is not in China.,0,0,0.042087727415254794,0.01753782271932956,0,0,0
+train,The city of Jakarta is not in Mongolia.,1,1,0.8652240708871126,0.9938612270749199,1,0,0
+train,The city of Londrina is not in China.,1,1,0.7217432069633473,0.9807257616704647,1,0,0
+train,The city of Odesa is not in Ukraine.,0,0,0.4649015687874562,0.18061698718190058,0,0,0
+train,The city of Port-au-Prince is not in South Africa.,1,1,0.9678992929402782,0.9791741626109035,1,0,0
+train,The city of Zapopan is not in Mexico.,0,0,0.2538610220979346,0.021009435665801244,0,0,0
+train,The city of Surat is not in Angola.,1,1,0.27202457717901557,0.8673316700215916,1,0,1
+train,The city of Kobe is not in Japan.,0,0,0.15817435044290926,0.008525092135734484,0,0,0
+train,The city of Ho Chi Minh City is not in Nigeria.,1,1,0.9046505393541656,0.9903486615995302,1,0,0
+train,The city of Kananga is not in the Democratic Republic of the Congo.,0,0,0.2309197507313834,0.26314877998194447,0,0,0
+train,The city of Wuhan is not in China.,0,0,0.08756384692119833,0.008783807294712773,0,0,0
+train,The city of Huludao is not in China.,0,0,0.09401018115123738,0.04410986867973617,0,0,0
+train,The city of Mohammadpur is not in Bangladesh.,0,0,0.2422056242888376,0.45108046911816396,0,0,0
+train,The city of Soshanguve is not in South Africa.,0,0,0.5888891530392657,0.2670467901535239,0,0,1
+train,The city of Faisalabad is not in Pakistan.,0,0,0.26588047661727476,0.09679430153718764,0,0,0
+train,The city of Shaoguan is not in Angola.,1,1,0.5,0.9363800343105354,1,0,1
+train,The city of Anqing is not in China.,0,0,0.09268777975414154,0.006500721015672683,0,0,0
+train,The city of Kimhae is not in China.,1,1,0.9032942083443612,0.8896822110598445,1,0,0
+train,The city of Anshan is not in China.,0,0,0.07369627541906935,0.02443918866135199,0,0,0
+train,"The city of Mianzhu, Deyang, Sichuan is not in Angola.",1,1,0.929440402854238,0.9848314796773348,1,0,0
+train,The city of Zarqa is not in Russia.,1,1,0.9609517070873901,0.9642490614502827,1,0,0
+train,The city of Malang is not in Angola.,1,1,0.2974699465572717,0.8690913657702468,1,0,1
+train,The city of Zhoushan is not in Jordan.,1,1,0.9896718468892393,0.9898222799599139,1,0,0
+train,The city of Tegucigalpa is not in China.,1,1,0.9802808745213959,0.9947836466120069,1,0,0
+train,The city of Vilnius is not in Lithuania.,0,0,0.5312093812157943,0.028258208612689083,0,0,1
+train,The city of Bikaner is not in India.,0,0,0.13660839793702864,0.02946164412487827,0,0,0
+train,The city of Pasig City is not in Syria.,1,1,0.8807970818830739,0.9929778351654738,1,0,0
+train,The city of Malang is not in Indonesia.,0,0,0.11920291933252225,0.04083114705189546,0,0,0
+train,The city of Yibin is not in China.,0,0,0.20689405470982308,0.09245769843571836,0,0,0
+train,The city of Borivli is not in India.,0,0,0.3040416867269845,0.231357998295268,0,0,0
+train,The city of Adachi is not in Jamaica.,1,1,0.7279754397514384,0.922784541564586,1,0,0
+train,The city of Warri is not in Myanmar.,1,1,0.9273632955033827,0.54416838985468,1,0,0
+train,The city of Sao Jose dos Campos is not in Brazil.,0,0,0.2018132172332724,0.0026253847955387405,0,0,0
+train,The city of Bobo-Dioulasso is not in Burkina Faso.,0,0,0.2658804821031721,0.014029175216359172,0,0,0
+train,The city of Abu Ghurayb is not in Iraq.,0,0,0.6224593342614249,0.2447012009619013,0,0,1
+train,The city of Homyel' is not in China.,1,1,0.6825737234093855,0.860553373524549,1,0,0
+train,The city of Quito is not in Russia.,1,1,0.8872046034858668,0.9935753590583773,1,0,0
+train,The city of Oujda is not in Japan.,1,1,0.8289388105208387,0.9931360011978487,1,0,0
+train,The city of Budapest is not in Hungary.,0,0,0.2173375163210901,0.011990872149128506,0,0,0
+train,The city of Sanaa is not in Russia.,1,1,0.7634837600676955,0.9818606947284928,1,0,0
+train,The city of Hamamatsu is not in Japan.,0,0,0.20946969208965777,0.016492993214999547,0,0,0
+train,The city of Ranchi is not in India.,0,0,0.08389038159817815,0.2985211986693269,0,0,0
+train,The city of Kota Bharu is not in China.,1,1,0.9940889313066805,0.9788319761388673,1,0,0
+train,The city of Kallakurichi is not in India.,0,0,0.22000708931859972,0.06904779720408073,0,0,0
+train,The city of Daxing'anling is not in Nepal.,1,1,0.9678992930728308,0.9265313956006557,1,0,0
+train,The city of Osogbo is not in Malaysia.,1,1,0.672331700672504,0.8887173478064365,1,0,0
+train,The city of Bandar Lampung is not in Vietnam.,1,1,0.7185943815149648,0.9972776298208506,1,0,0
+train,The city of Battagram is not in Indonesia.,1,1,0.24798743518830146,0.6329667075943567,1,0,1
+train,The city of Marrakesh is not in China.,1,1,0.8333245946467621,0.9952261598058602,1,0,0
+train,The city of Johannesburg is not in South Africa.,0,0,0.2628418393060158,0.005999297699238759,0,0,0
+train,The city of Incheon is not in China.,1,1,0.9763105279862596,0.8355881476211353,1,0,0
+train,The city of Kikolo is not in Angola.,0,1,0.29098085998028417,0.3723473216616314,0,1,1
+train,The city of Ulanqab is not in China.,0,0,0.11596071468368241,0.3031150474268152,0,0,0
+train,The city of Zigong is not in Turkey.,1,1,0.8558511479951728,0.9248974267029137,1,0,0
+train,The city of Kolhapur is not in Tanzania.,1,1,0.6513548568481964,0.9696393005938339,1,0,0
+train,The city of Lipetsk is not in Russia.,0,0,0.5195213335896338,0.04774036984475708,0,0,1
+train,The city of Minsk is not in Belarus.,0,0,0.3311197359968322,0.03655089086658659,0,0,0
+train,The city of Abeokuta is not in Bangladesh.,1,1,0.8198933288210694,0.8516186063745936,1,0,0
+train,The city of UEruemqi is not in Bangladesh.,1,1,0.4339814854566101,0.9050419777414628,1,0,1
+train,The city of Acapulco de Juarez is not in Mali.,1,1,0.9390248160276782,0.9581714860505856,1,0,0
+train,The city of Albuquerque is not in the United States.,0,0,0.24220563085697697,0.004406861023300726,0,0,0
+train,The city of Cimahi is not in Indonesia.,0,0,0.12252321381906177,0.1840798781863726,0,0,0
+train,The city of Sorocaba is not in Brazil.,0,0,0.3998116638072313,0.062023305379273676,0,0,0
+train,The city of Hongkou is not in Morocco.,1,1,0.672331706572257,0.9857397191058106,1,0,0
+train,The city of Ajmer is not in India.,0,0,0.12085323409717297,0.07804446595380342,0,0,0
+train,The city of Putian is not in China.,0,0,0.23651624260557771,0.1317903147199587,0,0,0
+train,The city of Culiacan is not in Indonesia.,1,1,0.39233682617723487,0.962043827468224,1,0,1
+train,The city of Ile-Ife is not in China.,1,1,0.9046505427059867,0.9518483041626407,1,0,0
+train,The city of Hubballi is not in India.,0,0,0.22815649714714956,0.03923090153581271,0,0,0
+train,The city of Indore is not in India.,0,0,0.1520322446348473,0.12361133809916372,0,0,0
+train,The city of Vinh is not in China.,1,1,0.9697854122472405,0.9361121066294009,1,0,0
+train,The city of Guarulhos is not in Azerbaijan.,1,1,0.7745833925210611,0.7452818939185016,1,0,0
+train,The city of Jeddah is not in the Democratic Republic of the Congo.,1,1,0.7662936482986943,0.9819946910956154,1,0,0
+train,The city of Kasur is not in Yemen.,1,1,0.6076631720151664,0.8881371571632831,1,0,0
+train,The city of Goyang-si is not in Brazil.,1,1,0.6688802597981114,0.9708236935241327,1,0,0
+train,The city of Tashkent is not in Uzbekistan.,0,0,0.25091277549595115,0.0647969510794993,0,0,0
+train,The city of Qiqihar is not in China.,0,0,0.08882028700382487,0.08130478015222968,0,0,0
+train,The city of Ciudad Juarez is not in Mexico.,0,0,0.1366084006769461,0.008139670475479454,0,0,0
+train,The city of Bekasi is not in Indonesia.,0,0,0.19930800731706053,0.04725067947472106,0,0,0
+train,The city of Pingliang is not in China.,0,0,0.07159120504978543,0.023614120974162576,0,0,0
+train,The city of Pietermaritzburg is not in India.,1,1,0.5851011597931949,0.9921633912500303,1,0,0
+train,The city of Hue is not in Vietnam.,0,0,0.3040416890618703,0.03316449231505379,0,0,0
+train,The city of Chiclayo is not in Peru.,0,0,0.1732882103987421,0.052812506651863204,0,0,0
+train,The city of Ajegunle is not in Nigeria.,0,1,0.4186969328655624,0.050940635353380115,0,1,1
+train,The city of Hegang is not in Kyrgyzstan.,1,1,0.7956580980495515,0.5985131303620514,1,0,0
+train,The city of N'Djamena is not in China.,1,0,0.7745833963716309,0.9915379052736951,1,1,1
+train,The city of Golfe is not in Togo.,1,1,0.32766829867395375,0.41193122749935,0,1,1
+train,The city of Nansana is not in Uganda.,0,0,0.29421497692637666,0.5404104371395984,1,1,0
+train,The city of Linyi is not in China.,0,0,0.07477005024644985,0.013243961285111015,0,0,0
+train,The city of Benguela is not in India.,1,0,0.37022537553489054,0.9049314590061245,1,1,0
+train,The city of Ziyang is not in China.,0,0,0.09401018275899453,0.10734601286893351,0,0,0
+train,The city of Haiphong is not in Vietnam.,0,0,0.20689405738393862,0.07396288492803481,0,0,0
+train,The city of Ashgabat is not in Turkmenistan.,0,0,0.2877678257686204,0.44052714941493687,0,0,0
+train,The city of Homs is not in Syria.,0,0,0.35577486410805664,0.07210668584472239,0,0,0
+train,The city of Ulyanovsk is not in Armenia.,1,1,0.822189133270842,0.9639506797842473,1,0,0
+train,The city of Al Hudaydah is not in Russia.,1,0,0.9539661001531424,0.9946059292188094,1,1,1
+train,The city of Zhangye is not in Pakistan.,1,1,0.9632305360083743,0.8683716863115845,1,0,0
+train,The city of Bijie is not in Brazil.,1,1,0.9136765206088111,0.3251029095498994,0,1,0
+train,The city of Tirunelveli is not in Turkmenistan.,1,1,0.9284087970823917,0.9270666059588782,1,0,0
+train,The city of Borivli is not in Azerbaijan.,1,1,0.8244619292111641,0.4810897517408263,0,1,0
+train,The city of Saitama is not in Japan.,0,0,0.5888891319541488,0.0948409050474025,0,0,1
+train,The city of Puxi is not in China.,0,0,0.28140560659940456,0.1886761001463971,0,0,0
+train,The city of Wuhan is not in Nigeria.,1,1,0.982013790803014,0.9924646324195413,1,0,0
+train,The city of Suwon is not in China.,1,1,0.9683812318117407,0.9481880073552958,1,0,0
+train,The city of Jiangmen is not in China.,0,0,0.0850990439543019,0.02975693426042018,0,0,0
+train,The city of Suizhou is not in Kyrgyzstan.,1,1,0.9399133514188646,0.6573733590390197,1,0,0
+train,The city of Dar es Salaam is not in the Philippines.,1,1,0.8376199683259872,0.9969055677283414,1,0,0
+train,The city of Bukavu is not in China.,1,1,0.9525741289168472,0.6853605100209389,1,0,0
+train,The city of Mirpur Model Thana is not in Burkina Faso.,1,1,0.41869692095572447,0.6731951087009833,1,0,1
+train,The city of Multan is not in Malaysia.,1,1,0.39981165138674474,0.1545288550551793,0,1,1
+train,The city of Bucaramanga is not in Turkey.,1,1,0.7122321900002082,0.9924534481347448,1,0,0
+train,The city of Jaboatao dos Guararapes is not in Japan.,1,1,0.8615382061323399,0.9641053055350831,1,0,0
+train,The city of Peshawar is not in India.,1,1,0.9881308790215569,0.18684741176814484,0,1,0
+train,The city of Sao Jose dos Campos is not in Uganda.,1,1,0.33807714300641367,0.9944194450231432,1,0,1
+train,The city of Johannesburg is not in Japan.,1,1,0.7122321842570571,0.9952766838400845,1,0,0
+train,The city of Gold Coast is not in Australia.,0,0,0.3174262766394599,0.01700579932929318,0,0,0
+train,The city of Ciudad Guayana is not in Venezuela.,0,0,0.17553806987739798,0.01378643413022966,0,0,0
+train,The city of Makati City is not in China.,1,1,0.658417509569319,0.9874530001047002,1,0,0
+train,The city of Indore is not in Myanmar.,1,1,0.9927672366575705,0.993542184826875,1,0,0
+train,The city of Caracas is not in India.,1,1,0.6150878368143746,0.9978885527251555,1,0,0
+train,The city of Hengyang is not in China.,0,0,0.04742587063318193,0.030598820229677862,0,0,0
+train,The city of Sialkot is not in Pakistan.,0,0,0.30404168077657484,0.018255285902593028,0,0,0
+train,The city of Bhavnagar is not in China.,1,1,0.8947894675492412,0.9885510370889046,1,0,0
+train,The city of Ibague is not in Colombia.,0,0,0.15817435744797478,0.04787260342863275,0,0,0
+train,The city of Gaziantep is not in Ghana.,1,1,0.5888891544002907,0.9790842328945293,1,0,0
+train,The city of Okayama is not in Japan.,0,0,0.23651623550320539,0.016887761238475116,0,0,0
+train,The city of Kinshasa is not in the Democratic Republic of the Congo.,0,0,0.3073580024590722,0.0466149039597134,0,0,0
+train,The city of Beira is not in Mozambique.,0,0,0.32423539756129244,0.25927650460494983,0,0,0
+train,The city of Macapa is not in Brazil.,0,0,0.28457600398632626,0.02893264331247136,0,0,0
+train,The city of Marrakesh is not in Morocco.,0,0,0.15002881965633075,0.00564433800476128,0,0,0
+train,The city of Tomsk is not in Russia.,0,0,0.503906157602335,0.12898634693841682,0,0,1
+train,The city of Nova Iguacu is not in the Democratic Republic of the Congo.,1,1,0.9458012706115494,0.9090416396848926,1,0,0
+train,The city of Zhangjiakou is not in China.,0,0,0.094010181157642,0.004081705027090533,0,0,0
+train,The city of Ankara is not in Turkey.,0,0,0.256832002400372,0.012712350571032434,0,0,0
+train,The city of Bangkok is not in South Korea.,1,0,0.6001883427922968,0.99648007723848,1,1,1
+train,The city of Chuzhou is not in China.,0,0,0.11596071391114324,0.04619877269448068,0,0,0
+train,The city of Dharavi is not in Venezuela.,1,1,0.6619228584436073,0.9158149115960997,1,0,0
+train,The city of Thu GJuc is not in Vietnam.,0,1,0.370225394303076,0.43376454349531474,0,1,1
+train,The city of Pimpri is not in China.,1,1,0.6224593141416999,0.6722082032384445,1,0,0
+train,The city of Fushun is not in Indonesia.,1,1,0.5851011509443457,0.9402339823132989,1,0,0
+train,The city of Basrah is not in China.,1,1,0.7905303054605172,0.9917378900708138,1,0,0
+train,The city of Wanning is not in the Philippines.,1,1,0.6992544167100938,0.8073349967383524,1,0,0
+train,The city of Ipoh is not in Malaysia.,0,0,0.3073580164603897,0.0772886919355059,0,0,0
+train,The city of Perm is not in India.,1,1,0.6224593338150531,0.9921836156929948,1,0,0
+train,The city of Algiers is not in Algeria.,0,0,0.366589749222678,0.0025389811671520006,0,0,0
+train,The city of Nasiriyah is not in Iraq.,0,0,0.25982565929267104,0.11379186206103153,0,0,0
+train,The city of Shangrao is not in India.,1,1,0.9252299529590565,0.7309023593387156,1,0,0
+train,The city of Zhaotong is not in China.,0,0,0.059210252895616246,0.017690873834321098,0,0,0
+train,The city of Kozhikode is not in Yemen.,1,1,0.9833429606091618,0.9778834833871923,1,0,0
+train,The city of Curitiba is not in Iran.,1,1,0.9980429829950819,0.9693430502900922,1,0,0
+train,The city of Beijing is not in China.,0,0,0.04401865483081288,0.0052786942544030165,0,0,0
+train,The city of Munich is not in Germany.,0,0,0.20434190271588054,0.002205488619422163,0,0,0
+train,The city of Guangyuan is not in China.,0,0,0.11436852361837634,0.010261083624070974,0,0,0
+train,The city of Kigali is not in Rwanda.,0,0,0.10970577645390266,0.04528204756085108,0,0,0
+train,The city of Bucharest is not in Romania.,0,0,0.2094696864624717,0.04034224502162247,0,0,0
+train,The city of Cotonou is not in Malaysia.,1,1,0.7956581014641912,0.9967960504279487,1,0,0
+train,The city of Tijuana is not in Mexico.,0,0,0.27825678081919303,0.002540775094898727,0,0,0
+train,The city of Huaibei is not in Japan.,1,1,0.979976559872182,0.9723367274323775,1,0,0
+train,The city of Dalian is not in India.,1,1,0.8740772255103723,0.9891782646310119,1,0,0
+train,The city of Bhavnagar is not in India.,0,0,0.1801066640631106,0.0329434541586325,0,0,0
+train,The city of Gwalior is not in China.,1,1,0.8333245946336644,0.987356354941446,1,0,0
+train,The city of Durban is not in Eritrea.,1,1,0.34864514730402163,0.9762078360331867,1,0,1
+train,The city of Ordos is not in Egypt.,1,1,0.6442251259924414,0.7797825323172375,1,0,0
+train,The city of Erbil is not in China.,1,1,0.7310585679197565,0.9917925465798582,1,0,0
+train,The city of Puxi is not in Nigeria.,1,0,0.7853085840802551,0.6819623646585158,1,1,1
+train,The city of Santiago de Queretaro is not in Indonesia.,1,1,0.6076631639932932,0.9921137966657562,1,0,0
+train,The city of Albuquerque is not in Nepal.,1,1,0.815232494317747,0.9795058463871944,1,0,0
+train,The city of Shekhupura is not in Lithuania.,1,1,0.6406358506788005,0.8844507246930592,1,0,0
+train,The city of Daegu is not in Mexico.,1,1,0.7057850257964767,0.9957454736307874,1,0,0
+train,The city of The Bronx is not in the United States.,0,0,0.2538610195003236,0.00841544420924201,0,0,0
+train,The city of Putuo is not in Malaysia.,1,1,0.9136765216777416,0.8315480864953041,1,0,0
+train,The city of New York City is not in New Zealand.,1,1,0.918480245368065,0.9865038952426661,1,0,0
+train,The city of Xiangtan is not in China.,0,0,0.17781086717805283,0.009678956099322567,0,0,0
+train,The city of Shizuishan is not in China.,0,0,0.07807816088020535,0.03958413782261386,0,0,0
+train,The city of Paranaque City is not in China.,1,1,0.3960681718466882,0.9881996809797096,1,0,1
+train,The city of Nha Trang is not in Vietnam.,0,0,0.16885696036813896,0.008296650036146073,0,0,0
+train,The city of Ha'il is not in Saudi Arabia.,0,0,0.21469142245781353,0.3223491714205787,0,0,0
+train,The city of Malatya is not in Iran.,1,1,0.8006920019388625,0.943639696073149,1,0,0
+train,The city of Jalandhar is not in India.,0,1,0.11596071853896114,0.06257715499661563,0,1,1
+train,The city of Sevastopol is not in Ukraine.,0,0,0.7217432081182553,0.04295631571316342,0,0,1
+train,The city of Ciudad Nezahualcoyotl is not in Mexico.,0,0,0.21469141959559487,0.020283490991139446,0,0,0
+train,The city of Karachi is not in Pakistan.,0,0,0.19436782611599132,0.00919422383339582,0,0,0
+train,The city of Mulenvos is not in Mexico.,1,1,0.31405054632211293,0.6492243960568301,1,0,1
+train,The city of Yekaterinburg is not in Russia.,0,0,0.5,0.013431331521442292,0,0,0
+train,The city of Istanbul is not in Turkey.,0,0,0.31069439231849083,0.009544381597487016,0,0,0
+train,The city of Cucuta is not in Nigeria.,1,0,0.6825737216311921,0.5463142581897379,1,1,1
+train,The city of Homyel' is not in Belarus.,0,0,0.5117165816789586,0.20447659763208736,0,0,1
+train,The city of Leipzig is not in China.,1,1,0.822189126840227,0.9913052271987004,1,0,0
+train,The city of Jamnagar is not in India.,0,0,0.2479874358952333,0.03442050646050992,0,0,0
+train,The city of Beijing is not in the Philippines.,1,1,0.9822877013328886,0.9950018481293753,1,0,0
+train,The city of Sukkur is not in the Philippines.,1,1,0.7549149877936181,0.9829061679209938,1,0,0
+train,The city of Suining is not in China.,0,0,0.09670578950546747,0.9471766272558002,1,1,0
+train,The city of Qinhuangdao is not in China.,0,0,0.03676946482491275,0.003946516307212258,0,0,0
+train,The city of Weihai is not in China.,0,0,0.12592276542310518,0.007935583700456383,0,0,0
+train,The city of Assiut is not in Indonesia.,1,1,0.2845759934014726,0.9248676941698997,1,0,1
+train,The city of Al Mahallah al Kubra is not in Egypt.,0,0,0.4186969320399926,0.17179911817775584,0,0,0
+train,The city of Dortmund is not in China.,1,1,0.7025300368644488,0.991306172434498,1,0,0
+train,The city of Goiania is not in the Democratic Republic of the Congo.,1,1,0.8333245981405192,0.9248229673475833,1,0,0
+train,The city of Xuhui is not in India.,1,1,0.8774767877773746,0.897822328408343,1,0,0
+train,The city of Laibin is not in Egypt.,1,1,0.5813030740318182,0.693196158376484,1,0,0
+train,The city of Likasi is not in China.,1,1,0.7490872086220656,0.736778771636818,1,0,0
+train,The city of Karaj is not in Mexico.,1,1,0.558326992191563,0.6081277264716306,1,0,0
+train,The city of Benxi is not in Peru.,1,1,0.67233169098405,0.9518995062542989,1,0,0
+train,The city of Ufa is not in Pakistan.,1,1,0.9511422203645616,0.425600960268549,0,1,0
+train,The city of Abidjan is not in Brazil.,1,1,0.679178688438378,0.9646430110551601,1,0,0
+train,The city of Yangquan is not in China.,0,0,0.1561048935801672,0.0874542186780968,0,0,0
+train,The city of Hohhot is not in Pakistan.,1,1,0.9944450751732029,0.9063725706328313,1,0,0
+train,The city of Guatemala City is not in Mexico.,1,1,0.7745833870057118,0.9544759022369829,1,0,0
+train,The city of Nanchong is not in Malaysia.,1,1,0.9840936085106639,0.9036908530062147,1,0,0
+train,The city of Bouake is not in China.,1,1,0.9637799416004695,0.6798739921241099,1,0,0
+train,The city of Kuecuekcekmece is not in Turkey.,0,1,0.4843800866272578,0.38656149226661474,0,1,1
+train,The city of Qiqihar is not in South Korea.,1,1,0.9871787855624173,0.8918150019940979,1,0,0
+train,The city of Pasig City is not in the Philippines.,0,0,0.05834583650429885,0.03538154679559709,0,0,0
+train,The city of Ulhasnagar is not in India.,0,0,0.18952110007723047,0.044416594649544346,0,0,0
+train,The city of Yibin is not in Canada.,1,1,0.9252299535601488,0.9427212325171529,1,0,0
+train,The city of Caloocan is not in the Philippines.,0,0,0.18952110564133662,0.09060398025800043,0,0,0
+train,The city of Al Ahmadi is not in Yemen.,1,1,0.6723316980452136,0.7531995925393485,1,0,0
+train,The city of Orumiyeh is not in Iran.,0,0,0.6370308256151825,0.19089450208296946,0,0,1
+train,The city of Hamamatsu is not in Russia.,1,1,0.9230391601123107,0.9942142594831844,1,0,0
+train,The city of Saint Petersburg is not in Russia.,0,0,0.3380771270470277,0.018382918779006392,0,0,0
+train,The city of Sanya is not in Malaysia.,1,1,0.7057850336132374,0.7992606054657893,1,0,0
+train,The city of Milwaukee is not in Brazil.,1,1,0.33807715452445086,0.9914727029388661,1,0,1
+train,The city of Rangpur is not in Bosnia and Herzegovina.,1,1,0.5,0.7981132210556442,1,0,1
+train,The city of Aktobe is not in Kazakhstan.,0,0,0.3738758325340896,0.056734027932430674,0,0,0
+train,The city of Semarang is not in Malaysia.,1,1,0.964321446840161,0.7023606492011619,1,0,0
+train,The city of Mukim Pulai is not in Malaysia.,0,0,0.6297746142610766,0.28455658852140503,0,0,1
+train,The city of Siliguri is not in India.,0,0,0.13296424446955915,0.06522176317075991,0,0,0
+train,The city of Baghdad is not in Iraq.,0,0,0.1460872504002348,0.025378357574973406,0,0,0
+train,The city of Cimahi is not in Egypt.,1,1,0.6150878410822632,0.8348155320150327,1,0,0
+train,The city of Jiujiang is not in India.,1,1,0.8418256451348501,0.9919683054519826,1,0,0
+train,The city of Shekhupura is not in Pakistan.,0,1,0.44167303210755104,0.09731899570559123,0,1,1
+train,The city of Fukuoka is not in Belarus.,1,1,0.8670357502096582,0.9927207838421698,1,0,0
+train,The city of Kolkata is not in Mozambique.,1,1,0.9207896792812429,0.9901641458129805,1,0,0
+train,The city of Nashik is not in Brazil.,1,1,0.6584174955944564,0.8180637235861091,1,0,0
+train,The city of Warangal is not in Myanmar.,1,1,0.9736446465729264,0.9850259727054265,1,0,0
+train,The city of Surat is not in India.,0,0,0.14804719205064906,0.04074903825917592,0,0,0
+train,The city of Bauchi is not in Nigeria.,0,0,0.2814055939317832,0.03415416487169102,0,0,0
+train,The city of Amritsar is not in China.,1,1,0.8333246069950663,0.9857952193514811,1,0,0
+train,The city of Kaduna is not in India.,1,1,0.7185944043427721,0.604634483232413,1,0,0
+train,The city of Pest is not in Hungary.,0,0,0.2942149722165129,0.09926768111515923,0,0,0
+train,The city of Ar Raqqah is not in Syria.,0,0,0.3557748651513819,0.1041671520397431,0,0,0
+train,The city of Hanzhong is not in Nigeria.,1,1,0.8887587851124443,0.8854706636727078,1,0,0
+train,The city of Chunian is not in Pakistan.,0,1,0.44167303359519283,0.5302603772314031,1,0,1
+train,The city of Langfang is not in China.,0,0,0.1311732171684927,0.0439303046190711,0,0,0
+train,The city of Frankfurt am Main is not in China.,1,1,0.9740426431982262,0.9935337077131703,1,0,0
+train,The city of Bikaner is not in Egypt.,1,1,0.771843501062687,0.9698079837116684,1,0,0
+train,The city of Camayenne is not in Guinea.,0,1,0.31405055673620363,0.22182618532568632,0,1,1
+train,The city of Amman is not in Japan.,1,1,0.849971183443825,0.9968104548374228,1,0,0
+train,The city of Rajkot is not in India.,0,0,0.14414884894151195,0.0238880571814122,0,0,0
+train,The city of Vadodara is not in Bangladesh.,1,1,0.9928785718588753,0.9552444745775256,1,0,0
+train,The city of Astrakhan is not in Nigeria.,1,1,0.8267117962814603,0.9508696010810783,1,0,0
+train,The city of Phnom Penh is not in Chad.,1,1,0.5926665908448892,0.9894094693103127,1,0,0
+train,The city of Mersin is not in Turkey.,0,0,0.297469944706864,0.03456458565642412,0,0,0
+train,The city of Xuancheng is not in China.,0,0,0.23651623728392884,0.025895971749718825,0,0,0
+train,The city of Songjiang is not in Ukraine.,1,1,0.988312742986027,0.9924188923336175,1,0,0
+train,The city of Porto Velho is not in Russia.,1,1,0.8438950942005264,0.9818751519666421,1,0,0
+train,The city of Sanming is not in Colombia.,1,1,0.46101678359915865,0.9458742846704182,1,0,1
+train,The city of Maputo is not in China.,1,1,0.9441768574471718,0.9821305862745228,1,0,0
+train,The city of Aracaju is not in Brazil.,0,0,0.23370635075168758,0.05342957394946275,0,0,0
+train,The city of Arequipa is not in Peru.,0,0,0.17781087358908612,0.012035026800165237,0,0,0
+train,The city of Rajshahi is not in Malaysia.,1,1,0.9324533083904827,0.9914334399123156,1,0,0
+train,The city of Tasikmalaya is not in China.,1,1,0.9748211576131343,0.9289260630237146,1,0,0
+train,The city of Dombivali is not in Iraq.,1,1,0.743167999872921,0.9790710902989742,1,0,0
+train,The city of Suwon is not in South Korea.,0,0,0.10087861442419,0.11426974552924521,0,0,0
+train,The city of Amravati is not in the Democratic Republic of the Congo.,1,1,0.31742628016170465,0.9239789319012987,1,0,1
+train,The city of Zahedan is not in Iran.,0,0,0.41111086835637206,0.15655670439311428,0,0,0
+train,The city of Toulouse is not in France.,0,0,0.287767800653402,0.0023191552159572827,0,0,0
+train,The city of Onitsha is not in Nigeria.,0,0,0.19193279762089363,0.13321098344240578,0,0,0
+train,The city of Ordos is not in China.,0,0,0.09947020827681666,0.4092163712789585,0,0,0
+train,The city of Incheon is not in South Korea.,0,0,0.0736962703505954,0.03145210796719586,0,0,0
+train,The city of Liaocheng is not in China.,0,0,0.09009299460809199,0.012260039346286701,0,0,0
+train,The city of Loni is not in India.,0,1,0.262841861349093,0.38871838129752223,0,1,1
+train,The city of Qionghai is not in Tanzania.,1,1,0.5964331281524509,0.7015425533693763,1,0,0
+train,The city of Kinshasa is not in Sudan.,1,1,0.7606506623455588,0.9002062370731908,1,0,0
+train,The city of Baku is not in Azerbaijan.,0,0,0.16885695724314345,0.01438944841459262,0,0,0
+train,The city of Port Said is not in India.,1,1,0.6113819915037058,0.9712617071611866,1,0,0
+train,The city of Hefei is not in Russia.,1,1,0.9263037318690649,0.8556454233129863,1,0,0
+train,The city of Lianyungang is not in Mozambique.,1,1,0.7154239971182947,0.9343834693642731,1,0,0
+train,The city of Maracaibo is not in Venezuela.,0,0,0.2365162406106173,0.009591425480908076,0,0,0
+train,The city of Niluefer is not in Turkey.,0,0,0.5813030607915763,0.7266770603454207,1,1,1
+train,The city of Kunshan is not in Zimbabwe.,1,1,0.9683812329744146,0.9736488193079579,1,0,0
+train,The city of Kitakyushu is not in Nigeria.,1,1,0.9715639675838192,0.9915210288336331,1,0,0
+train,The city of Taiz is not in Nigeria.,1,1,0.6893056087821439,0.496941282851652,0,1,0
+train,The city of Ndola is not in Poland.,1,1,0.7662936535556286,0.8487998113582051,1,0,0
+train,The city of Thane is not in Bangladesh.,1,1,0.909907008610346,0.5037162411219999,1,0,0
+train,The city of Jiaozuo is not in Brazil.,1,1,0.8991213846652162,0.9799737561752313,1,0,0
+train,The city of Changwon is not in China.,1,1,0.803173790819463,0.9719636212155353,1,0,0
+train,The city of Kirkuk is not in the United States.,1,1,0.849971181719696,0.9762512448356299,1,0,0
+train,The city of Guarulhos is not in Brazil.,0,0,0.2782568034189793,0.12228626910707964,0,0,0
+train,The city of Mexicali is not in Mexico.,0,0,0.10669059571277831,0.029660243013575675,0,0,0
+train,The city of Laiwu is not in China.,0,0,0.0826973399474949,0.02297147770333519,0,0,0
+train,The city of Faisalabad is not in Mexico.,1,1,0.6959583206552212,0.980021188344299,1,0,0
+train,The city of Xinyang is not in Chad.,1,1,0.7279754401363574,0.9826642564995783,1,0,0
+train,The city of Mukalla is not in Yemen.,0,0,0.26588047936337605,0.18436372758911285,0,0,0
+train,The city of Shenyang is not in China.,0,0,0.055005283449309626,0.005813611760570195,0,0,0
+train,The city of Guankou is not in Poland.,1,1,0.8479677524977624,0.969878474841666,1,0,0
+train,The city of Guwahati is not in China.,1,1,0.9958012045717937,0.9902189508164356,1,0,0
+train,The city of Mirpur Model Thana is not in Bangladesh.,0,0,0.7549149909711725,0.6191227619095581,1,1,1
+train,The city of Mbeya is not in Burundi.,1,1,0.5389832157189046,0.4950026103179403,0,1,0
+train,The city of Ta'if is not in Nigeria.,1,1,0.3593641410357627,0.7124245300732113,1,0,1
+train,The city of Seoul is not in Mozambique.,1,1,0.8311430397607845,0.9910511579544481,1,0,0
+train,The city of Aqsu is not in China.,0,0,0.3380771290918162,0.8422717159958636,1,1,0
+train,The city of Wroclaw is not in China.,1,1,0.8615382061928346,0.9947256855709278,1,0,0
+train,The city of Guang'an is not in Japan.,1,1,0.9314625091283391,0.990014765970716,1,0,0
+train,The city of Qujing is not in Turkey.,1,1,0.9252299570761988,0.8968179557575544,1,0,0
+train,The city of Oklahoma City is not in Russia.,1,1,0.9793540689906921,0.995932192689117,1,0,0
+train,The city of Calgary is not in China.,1,1,0.901920675039547,0.9921120616641033,1,0,0
+train,The city of Sao Bernardo do Campo is not in Brazil.,0,0,0.18476751306622793,0.01358969686033116,0,0,0
+train,The city of Orenburg is not in Turkey.,1,1,0.5156199025188666,0.9630101922455799,1,0,0
+train,The city of Rizhao is not in China.,0,0,0.11757214238775228,0.01407892821648651,0,0,0
+train,The city of Dushanbe is not in Tajikistan.,0,0,0.5698526562225272,0.8772325680075963,1,1,1
+train,The city of Xianyang is not in Mexico.,1,1,0.9284088028432487,0.9885142969797561,1,0,0
+train,The city of Gwalior is not in India.,0,0,0.08509904049469325,0.06362323249963826,0,0,0
+train,The city of Kampala is not in Malaysia.,1,1,0.6442251084685225,0.9264627482571142,1,0,0
+train,The city of Kumamoto is not in Japan.,0,0,0.1710611798145377,0.031064836641977043,0,0,0
+train,The city of Giza is not in Russia.,1,1,0.8479677537181671,0.9935681442136334,1,0,0
+train,The city of Seoul is not in South Korea.,0,0,0.057493275857980364,0.022346272278458628,0,0,0
+train,The city of Zagreb is not in Croatia.,0,0,0.3073580138229423,0.031108124873713446,0,0,0
+train,The city of Utsunomiya is not in Canada.,1,1,0.8933094028527387,0.994610038719547,1,0,0
+train,The city of Shaoxing is not in China.,0,0,0.08756384327228299,0.01431232144848041,0,0,0
+train,The city of Johor Bahru is not in Malaysia.,0,0,0.20946969148068334,0.04886801707674781,0,0,0
+train,The city of Stockholm is not in Sweden.,0,0,0.2393493373488751,0.010475811180453386,0,0,0
+train,The city of Lome is not in Iraq.,1,1,0.7310585578505113,0.7656143618045843,1,0,0
+train,The city of Benin City is not in Saudi Arabia.,1,0,0.9961155236867589,0.9813540576982857,1,1,1
+train,The city of Dodoma is not in Tanzania.,0,0,0.21206881101108352,0.08734818102672443,0,0,0
+train,The city of Daxing'anling is not in China.,0,0,0.06278920954350527,0.029155601485251422,0,0,0
+train,The city of Ecatepec de Morelos is not in Lebanon.,1,1,0.9496693686251915,0.9920094582066867,1,0,0
+train,The city of New Kingston is not in Jordan.,1,1,0.7279754496551679,0.9213334300284544,1,0,0
+train,The city of Zhaoqing is not in Mexico.,1,1,0.8887587826845483,0.9870407313358415,1,0,0
+train,The city of Shihezi is not in China.,0,0,0.0940101832430679,0.04761619162853288,0,0,0
+train,The city of Liupanshui is not in China.,0,0,0.11279539528290779,0.13869457339809044,0,0,0
+train,The city of Lviv is not in China.,1,1,0.9086178969598852,0.9857562255411948,1,0,0
+train,The city of Kanpur is not in China.,1,1,0.8397339682199038,0.9930761841391496,1,0,0
+train,The city of Heze is not in China.,0,0,0.1824255306049772,0.7585829668531522,1,1,0
+train,The city of Addis Ababa is not in Ethiopia.,0,0,0.17553806879228717,0.02155207448465354,0,0,0
+train,The city of Makati City is not in the Philippines.,0,0,0.07921032294939036,0.018661169676230643,0,0,0
+train,The city of Almaty is not in Turkey.,1,1,0.8633915984907802,0.9824052235596962,1,0,0
+train,The city of Dakar is not in Germany.,1,1,0.7279754360914324,0.9874080806398772,1,0,0
+train,The city of Abu Dhabi is not in the United Arab Emirates.,0,0,0.18476751096407396,0.0070623538027022575,0,0,0
+train,The city of E'zhou is not in China.,0,0,0.30404168297039685,0.014430806628351906,0,0,0
+train,The city of Pudong is not in China.,0,0,0.06853749334195812,0.01037835302574136,0,0,0
+train,The city of Isfahan is not in Iran.,0,0,0.20181322913384075,0.013169650568245204,0,0,0
+train,The city of Heroica Matamoros is not in China.,1,1,0.8376199718078202,0.8785308525868428,1,0,0
+train,The city of Joao Pessoa is not in Brazil.,0,0,0.2337063485048259,0.015556590071851787,0,0,0
+train,The city of Indianapolis is not in the United States.,0,0,0.24798743664519413,0.007411754426995772,0,0,0
+train,The city of Thiruvananthapuram is not in Mozambique.,1,1,0.9719924791770582,0.9822903890930382,1,0,0
+train,The city of Asmara is not in Eritrea.,0,0,0.15405756581042843,0.6292953831371056,1,1,0
+train,The city of Managua is not in Nicaragua.,0,0,0.09138210349896941,0.02943130884266098,0,0,0
+train,The city of Kumasi is not in Russia.,1,1,0.8807970768051502,0.9961482936106704,1,0,0
+train,The city of Huludao is not in South Korea.,1,0,0.654894714992289,0.9628923608180932,1,1,1
+train,The city of Barranquilla is not in Colombia.,0,0,0.14804719256462964,0.03073921532915866,0,0,0
+train,The city of Salta is not in South Africa.,1,1,0.9294403996321141,0.7370915208607177,1,0,0
+train,The city of Jiangyin is not in India.,1,1,0.8539127507112809,0.9944758013218755,1,0,0
+train,The city of Chattogram is not in Djibouti.,1,1,0.7520125553162157,0.9749325727080682,1,0,0
+train,The city of Ebute Ikorodu is not in Nigeria.,0,0,0.2509127900601813,0.008705164776370075,0,0,0
+train,The city of Jalandhar is not in Russia.,1,1,0.7690802447708092,0.9786952061358534,1,0,0
+train,The city of Bhilai is not in India.,0,0,0.09807932040088636,0.04464267205400531,0,0,0
+train,The city of Zahedan is not in China.,1,1,0.7577943690044984,0.9510590360371214,1,0,0
+train,The city of Wuwei is not in China.,0,0,0.11436853078257629,0.020785420280754134,0,0,0
+train,The city of Hiroshima is not in Poland.,1,1,0.9553191254624638,0.9848639130406247,1,0,0
+train,The city of Kyiv is not in Ukraine.,0,0,0.36296919914133086,0.1453200700293089,0,0,0
+train,The city of Chicago is not in the United States.,0,0,0.4111108652998548,0.009066258719540792,0,0,0
+train,The city of Al Mahallah al Kubra is not in Indonesia.,1,1,0.23934934617174522,0.8198803090095057,1,0,1
+train,The city of Ujjain is not in India.,0,0,0.16451645368033127,0.051236014123984756,0,0,0
+train,The city of Chuxiong is not in Russia.,1,1,0.9149009582819996,0.9721320237503323,1,0,0
+train,The city of Daegu is not in South Korea.,0,0,0.1097057697404532,0.32400477978231057,0,0,0
+train,The city of Pretoria is not in South Africa.,0,0,0.18476751927501217,0.032282923754961175,0,0,0
+train,The city of Shangluo is not in Saudi Arabia.,1,1,0.9987355781306767,0.9824664080308538,1,0,0
+train,The city of Cangzhou is not in China.,0,0,0.09670579162947698,0.03467946298508312,0,0,0
+train,The city of Zapopan is not in Angola.,1,1,0.5,0.893188299466371,1,0,1
+train,The city of Panzhihua is not in Nigeria.,1,1,0.9830850876816041,0.9824342291728589,1,0,0
+train,The city of Aden is not in China.,1,1,0.8175744751533847,0.9576514744040807,1,0,0
+train,The city of Ulhasnagar is not in Japan.,1,1,0.7185943873059047,0.9866889069240167,1,0,0
+train,The city of Al Mawsil al Jadidah is not in the United States.,1,1,0.9597620576080759,0.7539118254710725,1,0,0
+train,The city of Madurai is not in China.,1,1,0.8333245978548378,0.990541184162922,1,0,0
+train,The city of Mar del Plata is not in Argentina.,0,0,0.17328821452811347,0.012240981247581736,0,0,0
+train,The city of Beirut is not in Lebanon.,0,0,0.2146914108196811,0.031084003229447894,0,0,0
+train,The city of Okara is not in China.,1,1,0.32766830430575683,0.856533725811595,1,0,1
+train,The city of Jambi City is not in Indonesia.,0,0,0.15405756558197325,0.025120213215503152,0,0,0
+train,The city of Hannover is not in Germany.,0,0,0.24798743786171132,0.002858705274344327,0,0,0
+train,The city of Kikwit is not in the Democratic Republic of the Congo.,0,0,0.6406358556334371,0.33595590280615467,0,0,1
+train,The city of Guigang is not in China.,0,0,0.054198732721857656,0.01963615869943436,0,0,0
+train,The city of Ghaziabad is not in India.,0,0,0.1943678212739074,0.13043794493932317,0,0,0
+train,The city of Zhumadian is not in Colombia.,1,1,0.44939264829158826,0.9478781129909607,1,0,1
+train,The city of Libreville is not in the Philippines.,1,1,0.5156199195787593,0.7654933898456648,1,0,0
+train,The city of Tabriz is not in Iran.,0,0,0.16451644747294691,0.08898865451408455,0,0,0
+train,The city of Budta is not in the Philippines.,0,1,0.3106943998476487,0.847464148566637,1,0,1
+train,The city of Cankaya is not in Turkey.,0,0,0.3593641378798658,0.2070536135839234,0,0,0
+train,The city of Kuantan is not in Malaysia.,0,0,0.3451052755647472,0.1192618108506995,0,0,0
+train,The city of Arak is not in Iran.,0,1,0.5544704406155838,0.3326190699148639,0,1,0
+train,The city of Orenburg is not in Russia.,0,1,0.37754067411304,0.03649953435541553,0,1,1
+train,The city of Aracaju is not in the United States.,1,1,0.8354835490247571,0.9715964354960374,1,0,0
+train,The city of Saint Petersburg is not in India.,1,1,0.5888891504011095,0.9931554996588576,1,0,0
+train,The city of Qingpu is not in Turkey.,1,1,0.9473810435759634,0.9871324612670377,1,0,0
+train,The city of Serang is not in Indonesia.,0,0,0.1480471954584491,0.08301260379808523,0,0,0
+train,The city of Zigong is not in China.,0,0,0.10521053495919708,0.0413803681337979,0,0,0
+train,The city of Pallabi is not in Bangladesh.,0,1,0.893309408701568,0.5700200923720925,1,0,0
+train,The city of Dera Ismail Khan is not in Pakistan.,0,0,0.5234203529903209,0.05039387130967277,0,0,1
+train,The city of Rajkot is not in Brazil.,1,1,0.6001883430960943,0.9725368180010352,1,0,0
+train,The city of Zhangzhou is not in Malaysia.,1,1,0.9230391592008103,0.8835094234115962,1,0,0
+train,The city of Asmara is not in South Korea.,1,1,0.39233682549428833,0.8319757982786682,1,0,1
+train,The city of Munich is not in Syria.,1,1,0.9546474202409633,0.9910809018451099,1,0,0
+train,The city of Ghaziabad is not in China.,1,1,0.6370308022414854,0.8101295836018803,1,0,0
+train,The city of Malacca is not in Malaysia.,0,0,0.262841858440019,0.04746388757590729,0,0,0
+train,The city of Suqian is not in Russia.,1,0,0.952574127482772,0.9128749236834959,1,1,1
+train,The city of Bucheon-si is not in Uzbekistan.,1,1,0.5428632887515328,0.7945865324144707,1,0,0
+train,The city of Multan is not in Pakistan.,0,0,0.27512972138794345,0.5584697916570787,1,1,0
+train,The city of Belford Roxo is not in China.,1,1,0.7371581469499632,0.9594779719527733,1,0,0
+train,The city of Balbala is not in Djibouti.,0,1,0.7248702589946275,0.7542693667100958,1,0,0
+train,The city of Vijayawada is not in Turkey.,1,1,0.8872046021585506,0.9777631656666061,1,0,0
+train,The city of Antalya is not in Kazakhstan.,1,1,0.679178689079862,0.9299082855096344,1,0,0
+train,The city of Hamadan is not in Iran.,0,0,0.1581743586928621,0.023320161077307753,0,0,0
+train,The city of Jajmau is not in Malaysia.,1,1,0.7981867679726241,0.7443078399689838,1,0,0
+train,The city of Batam is not in Vietnam.,1,1,0.9372107931430989,0.9617197582619705,1,0,0
+train,The city of Taiz is not in Yemen.,0,0,0.3106943888623529,0.5699992672174294,1,1,0
+train,The city of Pune is not in India.,0,0,0.1143685247676721,0.038813327984791264,0,0,0
+train,The city of Karbala is not in Iraq.,0,0,0.21469140319126362,0.053233910280125106,0,0,0
+train,The city of Ibadan is not in Nigeria.,0,0,0.30735801901004695,0.012047069482842754,0,0,0
+train,The city of Ahmedabad is not in India.,0,0,0.11757213291970149,0.05064861105006456,0,0,0
+train,The city of Abidjan is not in Côte d'Ivoire.,0,0,0.18476750946420917,0.019967993743877577,0,0,0
+train,The city of Nowrangapur is not in Ukraine.,1,1,0.8221891258662185,0.9800667918306848,1,0,0
+train,The city of Jiamusi is not in Lebanon.,1,1,0.5964331251784074,0.9679741748882112,1,0,0
+train,The city of Palembang is not in Indonesia.,0,0,0.2909808577402448,0.010694080598701722,0,0,0
+train,The city of Santiago de Cuba is not in China.,1,1,0.8791467710578632,0.9962458990573649,1,0,0
+train,The city of Binzhou is not in Côte d'Ivoire.,1,1,0.5117165894253557,0.7657686911263555,1,0,0
+train,The city of Jabalpur is not in India.,0,0,0.10521053127101758,0.060895997521025626,0,0,0
+train,The city of Pallabi is not in New Zealand.,1,1,0.4416730249053337,0.840464191124478,1,0,1
+train,The city of Banjarmasin is not in Nigeria.,1,1,0.7772998597732758,0.8443000455573404,1,0,0
+train,The city of Nampula is not in Mozambique.,0,0,0.20689405565631627,0.11904125739197512,0,0,0
+train,The city of Tangerang is not in Indonesia.,0,0,0.14804718964853036,0.029989661632070588,0,0,0
+train,The city of Osaka is not in Indonesia.,1,1,0.6001883450754454,0.9959569620486121,1,0,0
+train,The city of Bengbu is not in China.,0,1,0.40356685983211993,0.9128954388737486,1,0,1
+train,The city of Samarinda is not in Indonesia.,0,0,0.11436852503699657,0.17233644760423097,0,0,0
+train,The city of Kathmandu is not in India.,1,1,0.5851011696763114,0.18043506050536015,0,1,0
+train,The city of Meizhou is not in Vietnam.,1,1,0.8577681102621351,0.8479005560912292,1,0,0
+train,The city of Londrina is not in Brazil.,0,0,0.26284185495415985,0.10546007191454539,0,0,0
+train,The city of Evaton is not in South Africa.,0,0,0.6757645938790364,0.5926306980804728,1,1,1
+train,The city of Diyarbakir is not in India.,1,1,0.6926419864464181,0.9958246038292892,1,0,0
+train,The city of Yinchuan is not in China.,0,0,0.08151975183020256,0.006002736501347883,0,0,0
+train,The city of Guankou is not in China.,0,0,0.2568319916830274,0.011470305257030073,0,0,0
+train,The city of Ra's Bayrut is not in Ghana.,1,1,0.6187804265091172,0.7097671880898013,1,0,0
+train,The city of Niteroi is not in Brazil.,0,0,0.21469141000337663,0.03486026554900774,0,0,0
+train,The city of Huzhou is not in South Korea.,1,1,0.9525741283064005,0.9604739488024752,1,0,0
+train,The city of Bujumbura is not in Burundi.,0,0,0.16238003436354223,0.21939266322334772,0,0,0
+train,The city of Bayan Nur is not in Bangladesh.,1,1,0.9353465081324224,0.48085005480063714,0,1,0
+train,The city of Minhang is not in the United States.,1,1,0.9372107933321654,0.9765732712496503,1,0,0
+train,The city of Feira de Santana is not in Vietnam.,1,1,0.637030811552931,0.9961112405440319,1,0,0
+train,The city of Zhanjiang is not in the United States.,1,1,0.9828232896801243,0.9933354139385718,1,0,0
+train,The city of Chongming is not in China.,0,0,0.0705595979763638,0.05437307849574728,0,0,0
+train,The city of Samarkand is not in Burundi.,1,1,0.7956580973507504,0.9638946977325569,1,0,0
+train,The city of Al Ahmadi is not in Kuwait.,0,1,0.3923368366699816,0.4216503307248765,0,1,1
+train,The city of Thuan An is not in China.,1,0,0.1919327912987481,0.05063483314564117,0,0,0
+train,The city of Andijon is not in Uzbekistan.,0,0,0.17553806385952497,0.5585999844623001,1,1,0
+train,The city of Balikpapan is not in Ukraine.,1,1,0.9553191269279083,0.9926661247562301,1,0,0
+train,The city of Cuautitlan Izcalli is not in Mexico.,0,0,0.26284185085478207,0.019339487138032258,0,0,0
+train,The city of Kunshan is not in China.,0,0,0.04084571619214494,0.00437165998406267,0,0,0
+train,The city of Sharjah is not in the United Arab Emirates.,0,0,0.30074558625526365,0.0029584034411924325,0,0,0
+train,The city of Kalyan is not in China.,1,1,0.7956581005009797,0.715853672505397,1,0,0
+train,The city of Kolwezi is not in the Democratic Republic of the Congo.,0,0,0.40356687053112444,0.2089330391222848,0,0,0
+train,The city of Torreon is not in Honduras.,1,1,0.27825680225909877,0.8497705715526097,1,0,1
+train,The city of Bloemfontein is not in South Africa.,0,0,0.19436782673381833,0.012574648933671745,0,0,0
+train,The city of Kalininskiy is not in Russia.,0,1,0.5428632725432729,0.07633291257285235,0,1,0
+train,The city of Krasnoyarsk is not in the Dominican Republic.,1,1,0.9372107953400138,0.9916206362998684,1,0,0
+train,The city of Busan is not in South Korea.,0,0,0.06560483063141268,0.2816594900150225,0,0,0
+train,The city of Bangkok is not in Thailand.,0,0,0.12940272173717765,0.004687020465029421,0,0,0
+train,The city of Ulsan is not in China.,1,1,0.9908743630037741,0.9830457286825662,1,0,0
+train,The city of Setagaya is not in Japan.,0,0,0.42632157037674073,0.05761594180193336,0,0,0
+train,The city of Haiphong is not in China.,1,1,0.9697854104208001,0.8921213403461078,1,0,0
+train,The city of Iztapalapa is not in Malaysia.,1,1,0.7310585643152624,0.981080228471013,1,0,0
+train,The city of Nakuru is not in Kenya.,0,0,0.18476751515026735,0.05603782179248932,0,0,0
+train,The city of Agadir is not in Morocco.,0,0,0.19930801419655012,0.07215101291213237,0,0,0
+train,The city of Santiago de Cuba is not in Cuba.,0,1,0.3007455764429748,0.0067628130229855764,0,1,1
+train,The city of Ulsan is not in South Korea.,0,0,0.07696083949640584,0.15136811235160225,0,0,0
+train,The city of Johor Bahru is not in France.,1,1,0.6619228597412585,0.9936056227822487,1,0,0
+train,The city of Zamboanga is not in India.,1,1,0.48047868308962277,0.9923937741671089,1,0,1
+train,The city of Budapest is not in South Korea.,1,1,0.7122321710872299,0.9963445117555072,1,0,0
+train,The city of Minhang is not in China.,0,0,0.1645164571246975,0.0391760312611179,0,0,0
+train,The city of Kermanshah is not in Iran.,0,0,0.45326186474571,0.01795294709991818,0,0,0
+train,The city of Seattle is not in China.,1,1,0.9787126493660926,0.9927923311948156,1,0,0
+train,The city of Sorocaba is not in Iraq.,1,1,0.9777138146001603,0.977357149080469,1,0,0
+train,The city of Gqeberha is not in South Africa.,0,0,0.34158248717269013,0.12544878933266604,0,0,0
+train,The city of Bokaro is not in Venezuela.,1,1,0.7090191370453462,0.7676310009142883,1,0,0
+train,The city of Assiut is not in Egypt.,0,0,0.3451052790615912,0.16582506205503683,0,0,0
+train,The city of Ouagadougou is not in Egypt.,1,1,0.740174356359685,0.97692496155538,1,0,0
+train,The city of Nha Trang is not in Morocco.,1,1,0.38491213811511105,0.9911885578088359,1,0,1
+train,The city of Ahmedabad is not in China.,1,1,0.7185943934100855,0.9914138528685632,1,0,0
+train,The city of Zanzibar is not in India.,1,1,0.6001883480744493,0.9757083166273529,1,0,0
+train,The city of Katsina is not in Nigeria.,0,0,0.327668310439161,0.2886069804180043,0,0,0
+train,The city of Selayang Baru Utara is not in India.,1,1,0.7185943949108973,0.9887261690286631,1,0,0
+train,The city of Nanjing is not in India.,1,1,0.7606506658970266,0.9940582549287055,1,0,0
+train,The city of Jammu is not in Russia.,1,1,0.9875683487402003,0.9867439876756042,1,0,0
+train,The city of Beira is not in China.,1,1,0.8723473845438299,0.9265219170777291,1,0,0
+train,The city of Duesseldorf is not in Germany.,0,0,0.19436782593631272,0.010244670326730815,0,0,0
+train,The city of Maiduguri is not in China.,1,1,0.8577681119621987,0.9966181684653391,1,0,0
+train,The city of Auckland is not in China.,1,1,0.8962513723719492,0.9921020360202282,1,0,0
+train,The city of Muscat is not in Oman.,0,0,0.13296423740436691,0.013291429903083388,0,0,0
+train,The city of Cuautitlan Izcalli is not in Turkey.,1,1,0.79310594118359,0.9831492727925154,1,0,0
+train,The city of Benin City is not in Nigeria.,0,0,0.5621764977302482,0.11496641163712994,0,0,1
+train,The city of Fes is not in Morocco.,0,0,0.1688569527832474,0.2213761869634909,0,0,0
+train,The city of Laiwu is not in Sudan.,1,1,0.8519528138251813,0.8169148340770661,1,0,0
+train,The city of Nanchang is not in India.,1,1,0.8519528063580692,0.9644054665763673,1,0,0
+train,The city of Enugu is not in Nigeria.,0,0,0.5,0.398693287660187,0,0,0
+train,The city of Changshu is not in China.,0,0,0.10087861501942279,0.01882279712423637,0,0,0
+train,The city of Situbondo is not in Indonesia.,0,0,0.21206880633851122,0.07788668268538743,0,0,0
+train,The city of Rostov-on-Don is not in Russia.,0,1,0.4339814742678528,0.0078350517523864,0,1,1
+train,The city of Ta'if is not in Saudi Arabia.,0,0,0.34864514389152246,0.1924939330100316,0,0,0
+train,The city of Ajmer is not in Japan.,1,1,0.746138975807462,0.9925930254537885,1,0,0
+train,The city of Chattogram is not in Bangladesh.,0,0,0.44167302007429,0.046590052544559196,0,0,0
+train,The city of Cancun is not in Mexico.,0,0,0.13846178710632653,0.0047266977188209994,0,0,0
+train,The city of Karachi is not in China.,1,1,0.702530050726824,0.9871458156551742,1,0,0
+train,The city of Muntinlupa is not in China.,1,1,0.9399133509635317,0.8484951213299936,1,0,0
+train,The city of Jakarta is not in Indonesia.,0,0,0.14414885521020052,0.013265271471265619,0,0,0
+train,The city of Kuala Lumpur is not in Malaysia.,0,0,0.10669059512015426,0.010353361907543962,0,0,0
+train,The city of Davao is not in the Philippines.,0,0,0.14608725159160793,0.03724403644970652,0,0,0
+train,The city of Tashkent is not in Ukraine.,1,1,0.8633915922322178,0.957912829586545,1,0,0
+train,The city of Binzhou is not in China.,0,0,0.15002881699468051,0.008016573267601461,0,0,0
+train,The city of Hamadan is not in Jordan.,1,1,0.7772998508122745,0.9706241116295043,1,0,0
+train,The city of Thiruvananthapuram is not in India.,0,0,0.20946968765758478,0.01421612959746729,0,0,0
+train,The city of Port Harcourt is not in Nigeria.,0,0,0.23091975812062657,0.019100982113800073,0,0,0
+train,The city of Iztapalapa is not in Mexico.,0,0,0.16667540107694082,0.009600892608915605,0,0,0
+train,The city of Kallakurichi is not in Germany.,1,1,0.4532618589692581,0.9836386897171319,1,0,1
+train,The city of Lubumbashi is not in the Democratic Republic of the Congo.,0,0,0.25091279451356463,0.04062003882418386,0,0,0
+train,The city of Lahore is not in Pakistan.,0,0,0.2658804670575792,0.02293992788319509,0,0,0
+train,The city of Samarinda is not in Russia.,1,1,0.6442251336828211,0.8892608181094731,1,0,0
+train,The city of Bhopal is not in India.,0,0,0.17553805978758374,0.027423684001601414,0,0,0
+train,The city of Dhanbad is not in India.,0,0,0.14608724791378735,0.08037293981052848,0,0,0
+train,The city of Santo Domingo Oeste is not in the Dominican Republic.,0,0,0.23091974491865674,0.01649890361519693,0,0,0
+train,The city of Tokyo is not in China.,1,1,0.95464742184849,0.9892961886458659,1,0,0
+train,The city of Arak is not in India.,1,1,0.7185943958680593,0.3362048847216672,0,1,0
+train,The city of Teni is not in Côte d'Ivoire.,1,1,0.30404166824768025,0.3967575498004832,0,1,1
+train,The city of Ya'an is not in China.,0,0,0.042087730422182786,0.1819625368915994,0,0,0
+train,The city of Lusaka is not in China.,1,1,0.8104789061480169,0.9924298623480791,1,0,0
+train,The city of Golfe is not in Angola.,0,1,0.4225046307890273,0.4392277735207702,0,1,1
+train,The city of Panshan is not in Brazil.,1,1,0.6370308031570854,0.925674758025961,1,0,0
+train,The city of Milwaukee is not in the United States.,0,0,0.2309197529769876,0.00457468499378858,0,0,0
+train,The city of Shijiazhuang is not in China.,0,0,0.10970577539892483,0.005963832639439587,0,0,0
+train,The city of Piura is not in China.,1,1,0.8056321773893276,0.9828359648380792,1,0,0
+train,The city of San Luis Potosi is not in Mexico.,0,0,0.23651622958376006,0.013836177644150374,0,0,0
+train,The city of Quebec is not in India.,1,1,0.8539127513877476,0.9961825169051076,1,0,0
+train,The city of Krakow is not in Poland.,0,0,0.15203224545300806,0.015938422047586883,0,0,0
+train,The city of Fuxin is not in the United States.,1,1,0.9759464478139406,0.9846805093849246,1,0,0
+train,The city of Cuiaba is not in China.,1,1,0.8479677429922022,0.9924413424475798,1,0,0
+train,The city of Perm is not in Russia.,0,0,0.5506073681906717,0.016992476785946283,0,0,1
+train,The city of Guayaquil is not in Ecuador.,0,0,0.16026602692852454,0.033130757110424694,0,0,0
+train,The city of Balbala is not in India.,1,1,0.5312093769454495,0.3518594861139105,0,1,0
+train,The city of Douala is not in Cameroon.,0,0,0.2814055956979141,0.027895362900340444,0,0,0
+train,The city of Hongkou is not in China.,0,0,0.07159120001622807,0.04225452581280584,0,0,0
+train,The city of Zhabei is not in China.,0,0,0.08756384279566004,0.07129754685857358,0,0,0
+train,The city of Bukit Rahman Putra is not in India.,1,1,0.8128673180071418,0.9592649758668987,1,0,0
+train,The city of Zunyi is not in the United Arab Emirates.,1,1,0.9953904275655889,0.8071158416166744,1,0,0
+train,The city of Mysuru is not in India.,0,0,0.160266025829341,0.06324964617005213,0,0,0
+train,The city of Yangpu is not in China.,0,0,0.11757213633118249,0.29323663847225634,0,0,0
+train,The city of Sultanah is not in Saudi Arabia.,0,1,0.7401743558575501,0.4221057508257244,0,1,0
+train,The city of Harare is not in Zimbabwe.,0,0,0.5926665924980802,0.043091998259105396,0,0,1
+train,The city of Meerut is not in India.,0,0,0.13477591592538393,0.03836525308117274,0,0,0
+train,The city of Cangzhou is not in the United States.,1,1,0.9073122206292187,0.9570772130050562,1,0,0
+train,The city of Mukalla is not in Indonesia.,1,1,0.39981165305384064,0.5786842569211016,1,0,1
+train,The city of Luohe is not in India.,1,1,0.9241418203503782,0.9699836037146684,1,0,0
+train,The city of Changshu is not in Bangladesh.,1,1,0.9688561686160747,0.8911734897389533,1,0,0
+train,The city of Xining is not in China.,0,0,0.08509904152634275,0.01977381535868623,0,0,0
+train,The city of Bulawayo is not in Zimbabwe.,0,0,0.5964331205466424,0.1849760744118863,0,0,1
+train,The city of Phnom Penh is not in Cambodia.,0,0,0.05749327714326345,0.004148886763055009,0,0,0
+train,The city of Maceio is not in China.,1,1,0.8976953004894905,0.9907149216833627,1,0,0
+train,The city of Yichang is not in China.,0,0,0.11596071431449421,0.017449702212569012,0,0,0
+train,The city of Changchun is not in Pakistan.,1,1,0.9830850876758405,0.9887037275650209,1,0,0
+train,The city of Omdurman is not in Indonesia.,1,1,0.46101680590030336,0.9452371826435838,1,0,1
+train,The city of Shubra al Khaymah is not in Egypt.,0,1,0.45326186081698144,0.20709307365295246,0,1,1
+train,The city of Luzhou is not in Brazil.,1,1,0.8887587838589782,0.9442404730886332,1,0,0
+train,The city of Leon de los Aldama is not in Somalia.,1,1,0.8976952986015662,0.9214469373878579,1,0,0
+train,The city of Uberlandia is not in Brazil.,0,0,0.5273165282645332,0.1608505795179007,0,0,1
+train,The city of Soweto is not in South Africa.,0,0,0.32082130565777006,0.05138728560546406,0,0,0
+train,The city of Pekanbaru is not in Indonesia.,0,0,0.1143685262623264,0.037269067324744234,0,0,0
+train,The city of Gustavo Adolfo Madero is not in China.,1,1,0.8740772266516975,0.9804482967966328,1,0,0
+train,The city of Quezon City is not in the Philippines.,0,0,0.09401018873785504,0.008460150512177448,0,0,0
+train,The city of Salta is not in Argentina.,0,0,0.16885695356084085,0.022490826159359597,0,0,0
+train,The city of Izhevsk is not in China.,1,1,0.8856314741180815,0.9924639049068988,1,0,0
+train,The city of Guli is not in China.,0,1,0.43782351045322593,0.40591477035877904,0,1,1
+train,The city of Yangpu is not in India.,1,1,0.8031737862666296,0.936642500216832,1,0,0
+train,The city of Hachioji is not in Japan.,0,0,0.25982564038867834,0.033688074223178814,0,0,0
+train,The city of Mudanjiang is not in China.,0,0,0.0695417461469751,0.006650386295969027,0,0,0
+train,The city of Daejeon is not in Rwanda.,1,1,0.9324533068927509,0.9903846464118806,1,0,0
+train,The city of Edogawe is not in Ukraine.,1,0,0.9585377244744953,0.9165008605759761,1,1,1
+train,The city of Victoria de Durango is not in Belarus.,1,1,0.5621764997387624,0.9762503051126421,1,0,0
+train,The city of Moradabad is not in Turkey.,1,1,0.7718434978566778,0.9289624318198372,1,0,0
+train,The city of Winnipeg is not in Indonesia.,1,1,0.4649015539266477,0.993601543675802,1,0,1
+train,The city of Nizhniy Novgorod is not in Russia.,0,0,0.5350984187756146,0.018925698158570498,0,0,1
+train,The city of Shubra al Khaymah is not in Indonesia.,1,1,0.4571367146426564,0.8990842842184584,1,0,1
+train,The city of Maputo is not in Mozambique.,0,0,0.18476750675330525,0.07730712504588834,0,0,0
+train,The city of Jaboatao dos Guararapes is not in Brazil.,0,0,0.30404168868719084,0.03558798654060248,0,0,0
+train,The city of Adana is not in China.,1,1,0.810478899921636,0.9094740958673582,1,0,0
+test,The city of Baotou is not in Iran.,1,1,0.9946150622352806,0.8729968512861518,1,0,0
+test,The city of Jinzhong is not in Russia.,1,1,0.9518632316208285,0.9700608649974946,1,0,0
+test,The city of Sholapur is not in India.,0,0,0.22270014032721577,0.09732921714801292,0,0,0
+test,The city of Sanya is not in China.,0,1,0.3593641355844063,0.2344655681206858,0,1,1
+test,The city of Gazipur is not in India.,1,1,0.6150878597257656,0.7728003005878671,1,0,0
+test,The city of Kemerovo is not in Lebanon.,1,1,0.865224070781626,0.9775767543685178,1,0,0
+test,The city of Anqing is not in India.,1,1,0.863391600064336,0.9821744597679106,1,0,0
+test,The city of Shanghai is not in China.,0,0,0.10230469975960807,0.005315822040092927,0,0,0
+test,The city of Coyoacan is not in India.,1,1,0.6150878459328373,0.976082176897908,1,0,0
+test,The city of Hoji ya Henda is not in Angola.,0,1,0.2018132257415341,0.561095700681426,1,0,1
+test,The city of Suginami is not in China.,1,1,0.9715639670941307,0.9231810419694548,1,0,0
+test,The city of Nizhniy Novgorod is not in the Democratic Republic of the Congo.,1,1,0.8031737892725472,0.9778840247993897,1,0,0
+test,The city of Izmir is not in Turkey.,0,0,0.5389831929291664,0.019288741939192975,0,0,1
+test,The city of Vadodara is not in India.,0,0,0.11124121671361357,0.10507186224402541,0,0,0
+test,The city of Kolhapur is not in India.,0,0,0.1645164565447784,0.052642728846513616,0,0,0
+test,The city of Xiangtan is not in Indonesia.,1,1,0.6513548689428844,0.9831445086379019,1,0,0
+test,The city of Harbin is not in Uganda.,1,1,0.5660185210935346,0.9875032350822053,1,0,0
+test,The city of Esenyurt is not in Turkey.,0,0,0.2689414388054773,0.10432943187568063,0,0,0
+test,The city of Kunming is not in China.,0,0,0.040845715993900966,0.004188102495324951,0,0,0
+test,The city of Zhangzhou is not in China.,0,0,0.10521053892437311,0.01214628324302361,0,0,0
+test,The city of Xuchang is not in China.,0,0,0.15610491247550295,0.04073027305045608,0,0,0
+test,The city of Abu Dhabi is not in the Dominican Republic.,1,1,0.8438950937052748,0.9893503733555249,1,0,0
+test,The city of Chenzhou is not in China.,0,0,0.090092995881479,0.010367197732723552,0,0,0
+test,The city of Tanggu is not in China.,0,0,0.08151974832972593,0.029872850278098453,0,0,0
+test,The city of Tlalpan is not in Saudi Arabia.,1,1,0.9879462213195259,0.9164725392475154,1,0,0
+test,The city of Riga is not in Latvia.,0,0,0.3665897323501504,0.02816476449203073,0,0,0
+test,The city of Cotonou is not in Benin.,0,0,0.2974699637505926,0.0541981798525099,0,0,0
+test,The city of Siping is not in China.,0,0,0.15610489693920537,0.005442515971291303,0,0,0
+test,The city of Puning is not in Russia.,1,1,0.8791467658991353,0.8784598623225364,1,0,0
+test,The city of Joao Pessoa is not in Lithuania.,1,1,0.6926419743633356,0.9835521016077087,1,0,0
+test,The city of Tianshui is not in Turkey.,1,1,0.7981867752159079,0.9626561543947578,1,0,0
+test,The city of Sadr City is not in Iraq.,0,1,0.48438009348856675,0.40799547703835337,0,1,1
+test,The city of Zhu Cheng City is not in Japan.,1,1,0.9425067241574576,0.9426692633733307,1,0,0
+test,The city of Shantou is not in China.,0,0,0.1460872435848789,0.3057634083620826,0,0,0
+test,The city of Kathmandu is not in Nepal.,0,0,0.1311732213634461,0.005922113203514445,0,0,0
+test,The city of Panshan is not in China.,0,1,0.18010665843513304,0.15529037979951577,0,1,1
+test,The city of Weinan is not in Ukraine.,1,1,0.9884918498746306,0.9904782159041591,1,0,0
+test,The city of Mazar-e Sharif is not in India.,1,1,0.8962513706513004,0.9467665703702649,1,0,0
+test,The city of Kota Kinabalu is not in India.,1,1,0.7879311962080258,0.9825302647668824,1,0,0
+test,The city of Nashik is not in India.,0,0,0.18713268690456727,0.04207767473688604,0,0,0
+test,The city of Qinzhou is not in China.,0,0,0.12592276831267915,0.00689333854487969,0,0,0
+test,The city of Denpasar is not in Indonesia.,0,0,0.14223188525870428,0.021954058298700445,0,0,0
+test,The city of Puning is not in China.,0,1,0.25982564489972854,0.39432456368507185,0,1,1
+test,The city of Belford Roxo is not in Brazil.,0,1,0.20434189892789711,0.9171970819064862,1,0,1
+test,The city of Sangli is not in India.,0,0,0.2598256531619503,0.09039194544817132,0,0,0
+test,The city of Puente Alto is not in Chile.,0,0,0.1688569516242159,0.48116912131975803,0,0,0
+test,The city of Zhaotong is not in India.,1,1,0.8652240884298265,0.9678356667081901,1,0,0
+test,The city of Santo Domingo Oeste is not in Iran.,1,1,0.8152324918002386,0.9836743357395155,1,0,0
+test,The city of Niamey is not in South Korea.,1,1,0.38861802430002235,0.9492333406398595,1,0,1
+test,The city of Cabinda is not in South Africa.,1,1,0.9489172621233802,0.9019076840438247,1,0,0
+test,The city of Jamshedpur is not in Russia.,1,1,0.9473810432785396,0.9978773833383993,1,0,0
+test,The city of Matsuyama is not in India.,1,1,0.7154239994092022,0.9927449742588547,1,0,0
+test,The city of Himeji is not in the United States.,1,1,0.9740426434435957,0.9804853233543106,1,0,0
+test,The city of Pretoria is not in Egypt.,1,1,0.3738758245746063,0.9520907821677745,1,0,1
+test,The city of Karol Bagh is not in India.,0,0,0.23370634890071526,0.20221858957077726,0,0,0
+test,The city of Narela is not in India.,0,0,0.1871326893297573,0.1257159803557098,0,0,0
+test,The city of Navi Mumbai is not in China.,1,1,0.9744347865786418,0.9898562867937948,1,0,0
+test,The city of Zhumadian is not in China.,0,0,0.10230470813592049,0.04887803588941947,0,0,0
+test,The city of Riga is not in Brazil.,1,1,0.5583269901208577,0.9912903365830131,1,0,0
+test,The city of Rio de Janeiro is not in China.,1,1,0.9744347884801283,0.9952263138558556,1,0,0
+test,The city of Cebu City is not in the Philippines.,0,0,0.14223189090039795,0.017489291020888312,0,0,0
+test,The city of Meizhou is not in China.,0,0,0.12940272993046206,0.01002002507646736,0,0,0
+test,The city of Bokaro is not in India.,0,0,0.2751297187934259,0.14887112095541086,0,0,0
+test,The city of Basrah is not in Iraq.,0,0,0.2393493352120857,0.11079822064187572,0,0,0
+test,The city of Zanzibar is not in Tanzania.,0,0,0.40733341433796433,0.03610200835455538,0,0,0
+test,The city of Gqeberha is not in China.,1,1,0.9263037258431945,0.979546067935028,1,0,0
+test,The city of Kryvyy Rih is not in China.,1,1,0.9863631640189322,0.8483781737286931,1,0,0
+test,The city of Chennai is not in Tanzania.,1,1,0.5774953786956373,0.9918197769682325,1,0,0
+test,The city of Khulna is not in China.,1,1,0.9740426424696244,0.9634774850418412,1,0,0
+test,The city of Teresina is not in Brazil.,0,0,0.2877678238724619,0.05537631604965565,0,0,0
+test,The city of Benoni is not in South Africa.,0,0,0.6261241846629491,0.4040232824987733,0,0,1
+test,The city of Bilimora is not in the United States.,1,1,0.5467381437473,0.9412708961378408,1,0,0
+test,The city of Lipetsk is not in Burkina Faso.,1,1,0.7981867758290554,0.7074940634109584,1,0,0
+test,The city of Qui Nhon is not in Jordan.,1,1,0.819893339681958,0.9454759179164354,1,0,0
+test,The city of Bien Hoa is not in Vietnam.,0,0,0.19436781829921962,0.0543308627838055,0,0,0
+test,The city of Zarqa is not in Jordan.,0,1,0.33111973030731795,0.031980017731289986,0,1,1
+test,The city of Jaipur is not in China.,1,1,0.8244619287541973,0.9969790634310172,1,0,0
+test,The city of Baise is not in China.,0,1,0.262841846363124,0.6373677093177913,1,0,1
+test,The city of Carrefour is not in Haiti.,0,0,0.8991213856426327,0.8502722827981053,1,1,1
+test,The city of Navi Mumbai is not in India.,0,0,0.10669059598818464,0.028583369015605722,0,0,0
+test,The city of Harbin is not in China.,0,0,0.06371499103165737,0.0075967150731777,0,0,0
+test,The city of Abeokuta is not in Nigeria.,0,0,0.21733751881067678,0.025583264011255415,0,0,0
+test,The city of Ho Chi Minh City is not in Vietnam.,0,0,0.1294027325586247,0.0032224598177177616,0,0,0
+test,The city of Kampung Baru Subang is not in Malaysia.,0,0,0.5078118822216063,0.21127900426410726,0,0,1
+test,The city of Konya is not in Turkey.,0,0,0.3702253867241941,0.031768235271379626,0,0,0
+test,The city of Astana is not in Hungary.,1,1,0.6261241902762447,0.9271225564166211,1,0,0
+test,The city of Abu Ghurayb is not in India.,1,1,0.7310585527419768,0.9523413207679173,1,0,0
+test,The city of Al Ain City is not in the United Arab Emirates.,0,0,0.29421496927299867,0.008707366476384188,0,0,0
+test,The city of Antananarivo is not in Madagascar.,0,0,0.26894144567681505,0.1049452403200297,0,0,0
+test,The city of Shangqiu is not in Uzbekistan.,1,1,0.8670357467526377,0.90654521343542,1,0,0
+test,The city of Yaroslavl is not in Russia.,0,1,0.37387581386263385,0.023953482944276152,0,1,1
+test,The city of Hezhou is not in Brazil.,1,1,0.8333245941366378,0.9323987782396475,1,0,0
+test,The city of Batam is not in Indonesia.,0,0,0.13846179595868213,0.015454894556685948,0,0,0
+test,The city of Jambi City is not in China.,1,1,0.7248702798444565,0.9589951416837088,1,0,0
+test,The city of Teni is not in India.,0,1,0.5888891306158601,0.39554018216978815,0,1,0
+test,The city of Nuremberg is not in Germany.,0,0,0.22541660603782046,0.0044874004295461485,0,0,0
+test,The city of Yaounde is not in China.,1,1,0.9621075735277973,0.9888963276246733,1,0,0
+test,The city of Port-au-Prince is not in Haiti.,0,0,0.2254166095552124,0.027033032799685164,0,0,0
+test,The city of Guangyuan is not in Indonesia.,1,1,0.7662936574181308,0.9808898314813,1,0,0
+test,The city of Nasiriyah is not in Venezuela.,1,1,0.3665897394519957,0.8012883396602056,1,0,1
+test,The city of Abobo is not in Côte d'Ivoire.,0,0,0.3007455873538691,0.20672440925815144,0,0,0
+test,The city of Bucharest is not in China.,1,1,0.8289388107863472,0.9888734655914458,1,0,0
+test,The city of Jhang Sadr is not in Pakistan.,0,0,0.5813030799839247,0.07932301046447052,0,0,1
+test,The city of Maianga is not in China.,1,1,0.6442251243444763,0.7320201331596076,1,0,0
+test,The city of Dammam is not in Pakistan.,1,1,0.9136765230517673,0.6777349323452605,1,0,0
+test,The city of Oslo is not in Vietnam.,1,1,0.3380771402013471,0.991789619412885,1,0,1
+test,The city of Al Basrah al Qadimah is not in Iraq.,0,0,0.6150878388733382,0.42864500323568744,0,0,1
+test,The city of Semarang is not in Indonesia.,0,0,0.11920292018513773,0.0713063089724826,0,0,0
+test,The city of Jamshedpur is not in India.,0,0,0.1623800367562243,0.035931246809724676,0,0,0
+test,The city of New York City is not in the United States.,0,0,0.20181321247266273,0.00759628370000599,0,0,0
+test,The city of Xianyang is not in China.,0,0,0.04208773018576686,0.018181944768077007,0,0,0
+test,The city of Shangyu is not in China.,0,0,0.23934933714792433,0.03182234249966882,0,0,0
+test,The city of Jamnagar is not in the Philippines.,1,1,0.6859494395659078,0.9947501906985985,1,0,0
+test,The city of Zibo is not in Bangladesh.,1,1,0.9918120901751363,0.949823215520473,1,0,0
+test,The city of Yerevan is not in Armenia.,0,0,0.18476750933298322,0.061801487742942224,0,0,0
+test,The city of Laibin is not in China.,0,1,0.17328820095675224,0.04001831358226207,0,1,1
+test,The city of Wanzhou is not in Guinea.,1,1,0.5621764996154827,0.7208259219003887,1,0,0
+test,The city of Tangshan is not in China.,0,0,0.038466194647691264,0.0074828471559926345,0,0,0
+test,The city of N'Djamena is not in Chad.,0,0,0.3040416763039724,0.012369958945344239,0,0,0
+test,The city of Dakar is not in Senegal.,0,0,0.34158249384675393,0.014771168222649095,0,0,0
+test,The city of Sokoto is not in Syria.,1,1,0.8418256487731512,0.9677088000784276,1,0,0
+test,The city of Kitwe is not in Zambia.,0,0,0.1871326863816852,0.03975854326663332,0,0,0
+test,The city of Kakamega is not in India.,1,1,0.6992544094230223,0.6843515326945815,1,0,0
+test,The city of Panzhihua is not in China.,0,0,0.09401018777676742,0.004667787039111621,0,0,0
+test,The city of Vientiane is not in Indonesia.,1,1,0.32423538511828287,0.9713773481134268,1,0,1
+test,The city of Changde is not in India.,1,1,0.853912751453761,0.9458213223723365,1,0,0
+test,The city of Shymkent is not in Kazakhstan.,0,0,0.4493926307817961,0.05059904094144656,0,0,0
+test,The city of Bien Hoa is not in China.,1,1,0.8933094049888218,0.8900267520720863,1,0,0
+test,The city of Hiroshima is not in Japan.,0,0,0.16238002702585658,0.006329671745165686,0,0,0
+test,The city of Tyumen is not in Turkey.,1,1,0.8221891284076656,0.9851274878955841,1,0,0
+test,The city of Pelentong is not in India.,1,1,0.4148988372762332,0.7780012422037063,1,0,1
+test,The city of Lyon is not in France.,0,0,0.22815650067614132,0.0016649170578928037,0,0,0
+test,The city of Ziyang is not in Iraq.,1,1,0.7799928991331967,0.8611542653121603,1,0,0
+test,The city of Dortmund is not in Germany.,0,0,0.13846179486625781,0.003642548381908483,0,0,0
+test,The city of Anshun is not in China.,0,0,0.10970577233169251,0.11555875394739817,0,0,0
+test,The city of Baotou is not in China.,0,0,0.08756383946535176,0.010391162708386888,0,0,0
+test,The city of Jiangmen is not in Poland.,1,1,0.9525741273842171,0.985313460947454,1,0,0
+test,The city of Novosibirsk is not in Russia.,0,0,0.4610167919792876,0.022036723615438045,0,0,0
+test,The city of Jinan is not in China.,0,0,0.04336579994583735,0.0085209015146499,0,0,0
+test,The city of Giza is not in Egypt.,0,0,0.21206880701784991,0.02873078048247847,0,0,0
+test,The city of Tiruchirappalli is not in India.,0,0,0.16026603491659644,0.05396684119448409,0,0,0
+test,The city of Thu GJuc is not in India.,1,1,0.523420357174585,0.46081456207260796,0,1,0
+test,The city of Ananindeua is not in Iran.,1,0,0.9059898195240931,0.8518495967707568,1,1,1
+test,The city of Antalya is not in Turkey.,0,0,0.25982564346223125,0.006271753760553395,0,0,0
+test,The city of Kanayannur is not in India.,0,0,0.2845760037759271,0.18081441820716765,0,0,0
+test,The city of Bannu is not in Senegal.,1,1,0.5888891394198523,0.6786124123498452,1,0,0
+test,The city of Madinat an Nasr is not in Mexico.,1,1,0.6619228594403133,0.9564740638435706,1,0,0
+test,The city of Abuja is not in Nigeria.,0,0,0.2337063464327533,0.024143170114627997,0,0,0
+test,The city of Sarajevo is not in Bosnia and Herzegovina.,0,0,0.12421301132197554,0.013377037460942978,0,0,0
+test,The city of Sargodha is not in Bangladesh.,1,1,0.9353465098925509,0.4612579120714097,0,1,0
+test,The city of Hebi is not in China.,0,0,0.15203224354686745,0.2535632230642894,0,0,0
+test,The city of Kikolo is not in China.,1,1,0.7217432079052264,0.8910000876718023,1,0,0
+test,The city of Shenyang is not in Malaysia.,1,1,0.9207896768064391,0.9897094700118931,1,0,0
+test,The city of Ra's Bayrut is not in Lebanon.,0,0,0.3738758178330545,0.17494744187585765,0,0,0
+test,The city of Palembang is not in Russia.,1,1,0.8519528118804397,0.9947515999422664,1,0,0
+test,The city of Aden is not in Yemen.,0,0,0.35936413870410805,0.05829663367256014,0,0,0
+test,The city of Guatemala City is not in Guatemala.,0,0,0.10230470528929739,0.024147692379969426,0,0,0
+test,The city of Cagayan de Oro is not in the United States.,1,1,0.8519528092966069,0.9932582521704637,1,0,0
+test,The city of Dushanbe is not in China.,1,0,0.06097518560227523,0.07128731775639098,0,0,0
+test,The city of Bloemfontein is not in China.,1,1,0.8688267786386095,0.9939070193429685,1,0,0
+test,The city of Bukit Rahman Putra is not in Malaysia.,0,0,0.5583269681787386,0.15488307364993456,0,0,1
+test,The city of Ludhiana is not in China.,1,1,0.7981867790256776,0.986077106094608,1,0,0
+test,The city of Calabar is not in Nigeria.,0,0,0.26588046550097605,0.25747117594256735,0,0,0
+test,The city of Khabarovsk is not in Saudi Arabia.,1,1,0.995600586609341,0.9932752848075034,1,0,0
+test,The city of Mandalay is not in Myanmar.,0,0,0.09670578897408656,0.02287278249833971,0,0,0
+test,The city of Kanpur is not in India.,0,0,0.17106118443774676,0.029762352046847965,0,0,0
+test,The city of Vladivostok is not in Russia.,0,0,0.4035668673744898,0.010399806063753772,0,0,0
+test,The city of Peshawar is not in Pakistan.,0,1,0.3486451584794213,0.8205535914305505,1,0,1
+test,The city of Moradabad is not in India.,0,0,0.12765262544819464,0.034949696442040885,0,0,0
+test,The city of Aihara is not in Japan.,0,1,0.6477982165426651,0.3324826961665279,0,1,0
+test,The city of Iskandar Puteri is not in Gabon.,1,1,0.5583269667686401,0.8652605411519385,1,0,0
+test,The city of Gujranwala is not in Japan.,1,1,0.6513548602585062,0.9962584740038833,1,0,0
+test,The city of Shantou is not in Bulgaria.,1,1,0.8976952918349544,0.7192650910372392,1,0,0
+test,The city of Chizhou is not in China.,0,0,0.10521053701428897,0.00799940638195769,0,0,0
+test,The city of Ahvaz is not in China.,1,1,0.6548947283163302,0.9697740655047686,1,0,0
+test,The city of Varanasi is not in Vietnam.,1,1,0.6406358520993619,0.9969617863897311,1,0,0
+test,The city of Omsk is not in Russia.,0,0,0.48047866240589543,0.018359481831703005,0,0,0
+test,The city of Kananga is not in China.,1,1,0.6723317015499636,0.9050338429272995,1,0,0
+test,The city of Indianapolis is not in Japan.,1,1,0.7905303073525711,0.996811233988489,1,0,0
+test,The city of Mexico City is not in Guatemala.,1,1,0.6548947253944574,0.9932281262083851,1,0,0
+test,The city of Kampala is not in Uganda.,0,0,0.16451645612025298,0.05525205551881189,0,0,0
+test,The city of Macapa is not in Iraq.,1,1,0.9546474191838745,0.9527364927681683,1,0,0
+test,The city of Comilla is not in China.,1,1,0.5234203403115117,0.7882040420266831,1,0,0
+test,The city of Jiaxing is not in China.,0,0,0.09138210212429061,0.006859595718446105,0,0,0
+test,The city of Nampula is not in Pakistan.,1,1,0.7057850414968938,0.9613661401685666,1,0,0
+test,The city of Owerri is not in Nigeria.,0,0,0.23651623615802436,0.04192812917010851,0,0,0
+test,The city of Mogadishu is not in South Korea.,1,1,0.49218813208217693,0.9918109244442014,1,0,1
+test,The city of Victoria de Durango is not in Mexico.,0,0,0.3593641410146636,0.07963547102157462,0,0,0
+test,The city of Tehran is not in Iran.,0,0,0.1097057759789044,0.04666433702930616,0,0,0
+test,The city of UEskuedar is not in Turkey.,0,1,0.6406358564141451,0.4447160309497985,0,1,0
+test,The city of Chunian is not in Guatemala.,1,1,0.18713268601066696,0.46517722593825483,0,1,1
+test,The city of Thembisa is not in Yemen.,1,1,0.8104789032185905,0.8465894767772909,1,0,0
+test,The city of Liaocheng is not in Ukraine.,1,1,0.975946446588704,0.9872071626011006,1,0,0
+test,The city of Yingkou is not in Malaysia.,1,0,0.6757645947873443,0.7941035347530183,1,1,1
+test,The city of Changwon is not in South Korea.,0,0,0.100878618653031,0.09016126721107652,0,0,0
+test,The city of Cancun is not in Vietnam.,1,1,0.6150878403142163,0.9939352991580028,1,0,0
+test,The city of Aparecida de Goiania is not in India.,1,1,0.8333245915016784,0.984450163354879,1,0,0
+test,The city of Likasi is not in the Democratic Republic of the Congo.,0,0,0.29746996030982065,0.1316270601110421,0,0,0
+test,The city of UEruemqi is not in China.,0,0,0.06853749445097503,0.07109925262594483,0,0,0
+test,The city of Yangon is not in Myanmar.,0,0,0.23934934224481433,0.07446283616617849,0,0,0
+test,The city of Namangan is not in Brazil.,1,1,0.2782567898778883,0.8755078053471419,1,0,1
+test,The city of Guilin is not in Nigeria.,1,1,0.9637799397163731,0.9648113486698403,1,0,0
+test,The city of Varanasi is not in India.,0,0,0.10087861606027188,0.029270133136131592,0,0,0
+test,The city of Lanzhou is not in China.,0,0,0.02887090748010327,0.0010474100223353746,0,0,0
+test,The city of Pudong is not in Morocco.,1,1,0.8902942242771553,0.9848361660310074,1,0,0
+test,The city of Madinah is not in Malaysia.,1,1,0.3960681734867458,0.8985562114158261,1,0,1
+test,The city of Dammam is not in Saudi Arabia.,0,0,0.19436782835102945,0.022892815805564248,0,0,0
+test,The city of Mosul is not in Iraq.,0,0,0.10521053637838869,0.01805612966742128,0,0,0
+test,The city of Irkutsk is not in Brazil.,1,1,0.8198933299630339,0.9930883570511848,1,0,0
+test,The city of Fortaleza is not in Brazil.,0,0,0.19436783293363305,0.02918489779592235,0,0,0
+test,The city of Longyan is not in China.,0,0,0.11757214152454973,0.08594265883848697,0,0,0
+test,"The city of Mianzhu, Deyang, Sichuan is not in China.",0,0,0.21733752056053252,0.0075840033666673785,0,0,0
+test,The city of Chelyabinsk is not in Russia.,0,0,0.39233682655236957,0.009774179469714598,0,0,0
+test,The city of Niamey is not in Niger.,0,0,0.15610490966166338,0.03693628067617391,0,0,0
+test,The city of Soshanguve is not in India.,1,1,0.3775406709919611,0.486719407945054,0,1,1
+test,The city of Dongying is not in Mexico.,1,1,0.5273165190366279,0.9720540991076382,1,0,0
+test,The city of Zhengzhou is not in China.,0,0,0.048857778986092,0.005205981176971639,0,0,0
+test,The city of Guangzhou is not in the Democratic Republic of the Congo.,1,1,0.9883127425026612,0.9921370463925349,1,0,0
+test,The city of Shizuishan is not in Iran.,1,1,0.9678992906120361,0.9611143205877278,1,0,0
+test,The city of Bhopal is not in Egypt.,1,1,0.7248702598401469,0.9932669412605138,1,0,0
+test,The city of Ranchi is not in China.,1,1,0.787931193624975,0.8969724650702435,1,0,0
+test,The city of Kumasi is not in Ghana.,0,0,0.13660840285850878,0.031405673035047856,0,0,0
+test,The city of Erzurum is not in Brazil.,1,1,0.5813030731168655,0.9840920706078963,1,0,0
+test,The city of San Luis Potosi is not in China.,1,1,0.9504109759225007,0.9967127452919596,1,0,0
+test,The city of Kumamoto is not in Brazil.,1,1,0.6406358564186607,0.9945749480107761,1,0,0
+test,The city of Izmir is not in Indonesia.,1,1,0.5428632869773207,0.6344065667990927,1,0,0
+test,The city of Jieyang is not in Russia.,1,1,0.9748211569391325,0.9919717504577646,1,0,0
+test,The city of Kota Kuala Muda is not in Malaysia.,0,0,0.2120688049013678,0.19932007837671895,0,0,0
+test,The city of Caracas is not in Venezuela.,0,0,0.19193278928945834,0.013415254027319612,0,0,0
+test,The city of Mulenvos is not in Angola.,0,1,0.28776780074765707,0.41602437752858235,0,1,1
+test,The city of Makhachkala is not in China.,1,1,0.7057850341256854,0.9770366437371301,1,0,0
+test,The city of Khulna is not in Bangladesh.,0,0,0.33807713701002257,0.016083364397641645,0,0,0
+test,The city of Zhanjiang is not in China.,0,0,0.03514484696886405,0.02109641849419906,0,0,0
+test,The city of Huangshi is not in China.,0,0,0.1520322477770634,0.006856033062649879,0,0,0
+test,The city of Madinat an Nasr is not in Egypt.,0,0,0.5273165285060532,0.5407484638759454,1,1,1
+test,The city of Muscat is not in China.,1,1,0.5312093779716451,0.9484353745184269,1,0,0
+test,The city of Taguig is not in the Philippines.,0,0,0.10669059676607123,0.0302696368576097,0,0,0
+test,The city of Visakhapatnam is not in China.,1,1,0.9994515208074585,0.9974045362205487,1,0,0
+test,The city of Tucson is not in the United States.,0,0,0.18010666878147735,0.005269828234629609,0,0,0
+test,The city of Khartoum is not in India.,1,1,0.5350984239422222,0.9931726090459152,1,0,0
+test,The city of Ecatepec de Morelos is not in Mexico.,0,0,0.21469141932741614,0.008058804264009026,0,0,0
+test,The city of Thane is not in India.,0,0,0.11920291945767633,0.3191841486040356,0,0,0
+test,The city of Anshun is not in Canada.,1,1,0.9284087961932753,0.8257061562342143,1,0,0
+test,The city of Wanxian is not in Syria.,1,1,0.5774953786428684,0.8527430024566274,1,0,0
+test,The city of Zunyi is not in China.,0,0,0.05033063269501696,0.045031297820151396,0,0,0
+test,The city of Sokoto is not in Nigeria.,0,0,0.31405057190403673,0.012145659620748265,0,0,0
+test,The city of Nyala is not in China.,1,1,0.6370308001221805,0.6385730927096569,1,0,0
+test,The city of Khabarovsk is not in Russia.,0,0,0.3073580210854203,0.016377080219474465,0,0,0
+test,The city of Bogor is not in Yemen.,1,1,0.9926541740627671,0.8503843718584595,1,0,0
+test,The city of Rawalpindi is not in Pakistan.,0,0,0.2365162289142985,0.01785025985749938,0,0,0
+test,The city of Managua is not in China.,1,1,0.8418256415208325,0.9919963393914248,1,0,0
+test,The city of Dodoma is not in China.,1,1,0.9032942139640647,0.8962267847865589,1,0,0
+test,The city of Arusha is not in Vietnam.,1,1,0.5774953696051647,0.973130070755243,1,0,0
+test,The city of Sanming is not in China.,0,0,0.10230470322016347,0.026734594116968022,0,0,0
+test,The city of Mombasa is not in Kenya.,0,0,0.22000710070765528,0.011846381271022551,0,0,0
+test,The city of Xiaogan is not in Bangladesh.,1,1,0.9979170293311708,0.9462219316098761,1,0,0
+test,The city of Astrakhan is not in Russia.,0,0,0.33111972176643717,0.011056413802542544,0,0,0
+test,The city of Ganzhou is not in China.,0,0,0.06187598534798781,0.003285619351518759,0,0,0
+test,The city of Naucalpan de Juarez is not in China.,1,1,0.8519528164439512,0.9912813241452504,1,0,0
+test,The city of Mohammadpur is not in Turkey.,1,1,0.3345894283758059,0.9782869730254325,1,0,1
+test,The city of Sagamihara is not in China.,1,1,0.9790357597280839,0.8717858598049509,1,0,0
+test,The city of Kota Bharu is not in Malaysia.,0,1,0.2942149758327444,0.10003995770951654,0,1,1
+test,The city of General Santos is not in Canada.,1,1,0.8723473876455862,0.975436471365637,1,0,0
+test,The city of Fort Worth is not in the United States.,0,0,0.22815649626432555,0.021239807520264515,0,0,0
+test,The city of Dehradun is not in India.,0,0,0.0863234811325034,0.03160476859207475,0,0,0
+test,The city of Kagoshima is not in Japan.,0,0,0.18476751200317817,0.0190347860645947,0,0,0
+test,The city of Volgograd is not in the Philippines.,1,1,0.9859363728266147,0.9986779675907607,1,0,0
+test,The city of Ibb is not in Yemen.,0,0,0.35220178784672523,0.41056964940640145,0,0,0
+test,The city of Siliguri is not in Pakistan.,1,1,0.9999626564326423,0.8570801977930378,1,0,0
+test,The city of Reynosa is not in Mexico.,0,0,0.1755380684171415,0.047787790277857234,0,0,0
+test,The city of Tlalpan is not in Mexico.,0,0,0.37754066222183513,0.026090171800326644,0,0,0
+test,The city of Pune is not in the United States.,1,1,0.7431679939177143,0.9913774400097606,1,0,0
+test,The city of Ludhiana is not in India.,0,0,0.13660839899707922,0.06012738120848159,0,0,0
+test,The city of Algiers is not in the Democratic Republic of the Congo.,1,1,0.511716604277072,0.7445658435649206,1,0,0
+test,The city of Queens is not in China.,1,1,0.6001883603279652,0.7296733286540024,1,0,0
+test,The city of Chisinau is not in Moldova.,0,0,0.37754068578460764,0.18596134244752274,0,0,0
+test,The city of Latakia is not in Burkina Faso.,1,1,0.5467381368879293,0.9732880955484419,1,0,0
+test,The city of Dandong is not in China.,0,0,0.05582314073051624,0.04175096303909124,0,0,0
+test,The city of Calabar is not in Uganda.,1,1,0.6334102613250321,0.8709288916528722,1,0,0
+test,The city of Koeln is not in Kyrgyzstan.,1,1,0.7248702885054766,0.851393502659598,1,0,0
+test,The city of Tyumen is not in Russia.,0,0,0.5312093741376683,0.03844884140237112,0,0,1
+test,The city of Itabashi is not in China.,1,1,0.7853085944946072,0.9471789533257878,1,0,0
+test,The city of Novokuznetsk is not in Malaysia.,1,1,0.9399133504211725,0.9817891082093928,1,0,0
+test,The city of Hoji ya Henda is not in China.,1,1,0.5698526469804231,0.894539028402455,1,0,0
+test,The city of Kayseri is not in Turkey.,0,0,0.31405054201549126,0.4257752560663622,0,0,0
+test,The city of Nanning is not in Iraq.,1,1,0.9896718466067588,0.959551602022174,1,0,0
+test,The city of Iskandar Puteri is not in Malaysia.,0,0,0.6406358652959978,0.12774924425887102,0,0,1
+test,The city of Copenhagen is not in Nigeria.,1,1,0.6584174962237308,0.9922507794538401,1,0,0
+test,The city of Narela is not in China.,1,1,0.5389832224680667,0.8129841958020083,1,0,0
+test,The city of Ile-Ife is not in Nigeria.,0,0,0.5234203572839053,0.0540347786988677,0,0,1
+test,The city of Penza is not in Colombia.,1,1,0.49218813405939577,0.5910503728131171,1,0,1
+test,The city of Pokhara is not in Nepal.,0,0,0.2068940562802872,0.04041576396623585,0,0,0
+test,The city of Oujda is not in Morocco.,0,0,0.2658804768527393,0.06178324257753406,0,0,0
+test,The city of Owerri is not in Japan.,1,1,0.7371581319215453,0.8606890465410403,1,0,0
+test,The city of Aqsu is not in Russia.,1,1,0.7431680039510542,0.4577266529415089,0,1,0
+test,The city of Ha'il is not in Finland.,1,1,0.6791786842433785,0.7219099232356251,1,0,0
+test,The city of Jajmau is not in India.,0,1,0.6039318168569624,0.3341732530219396,0,1,0
+test,The city of Akure is not in Nigeria.,0,0,0.43398146820778494,0.29759961623615405,0,0,0
+test,The city of Reynosa is not in China.,1,1,0.6584175026282435,0.9817375341644125,1,0,0
+test,The city of Mbeya is not in Tanzania.,0,0,0.1081889566245692,0.034229748185402115,0,0,0
+test,The city of Cebu City is not in South Africa.,1,1,0.959762054981316,0.9936000247152442,1,0,0
+test,The city of Tshikapa is not in South Korea.,1,1,0.44939266083552704,0.848333193022249,1,0,1
+test,The city of Evaton is not in Malawi.,1,1,0.6187804272844446,0.5886702069263269,1,0,0
+test,The city of Bauchi is not in India.,1,1,0.760650656725541,0.7287796431878467,1,0,0
+test,The city of Pietermaritzburg is not in South Africa.,0,0,0.22815649848644964,0.3633266606067,0,0,0
+test,The city of Bayan Nur is not in China.,0,1,0.14608725006051748,0.3387074497482322,0,1,1
+test,The city of Xingtai is not in China.,0,0,0.1755380632777101,0.01267284071670571,0,0,0
+test,The city of Kolkata is not in India.,0,0,0.12765262045115772,0.03552874094803167,0,0,0
+test,The city of Fes is not in the Democratic Republic of the Congo.,1,1,0.43782349831476847,0.5006325995899445,1,0,1
+test,The city of Putuo is not in China.,0,0,0.12252320898140148,0.18104048931558353,0,0,0
+test,The city of Sangli is not in China.,1,1,0.7772998581762237,0.5161034053030406,1,0,0
+test,The city of Latakia is not in Syria.,0,0,0.34510529197115375,0.025638108167940127,0,0,0
+test,The city of Bagcilar is not in Turkey.,0,0,0.2814055982026203,0.22564132434588227,0,0,0
+test,The city of Meknes is not in Morocco.,0,0,0.15610490676046035,0.04957373212996435,0,0,0
+test,The city of Matsuyama is not in Japan.,0,0,0.17106117538665375,0.02916521973542123,0,0,0
+test,The city of Volgograd is not in Russia.,0,0,0.3998116477740932,0.021276103856509333,0,0,0
+test,The city of Mumbai is not in Vietnam.,1,1,0.7090191450217208,0.9949273276022842,1,0,0
+test,The city of Rajshahi is not in Bangladesh.,0,0,0.23091975713312893,0.12081539244104568,0,0,0
+test,The city of Pimpri is not in India.,0,0,0.28140560574598034,0.16972517205083698,0,0,0
+test,The city of Hwaseong-si is not in China.,1,1,0.7401743653829075,0.8502318178660767,1,0,0
+test,The city of Ahvaz is not in Iran.,0,0,0.43398147475995535,0.06301029324838801,0,0,0
+test,The city of Xianning is not in Russia.,1,1,0.9933071494319057,0.9951889507593997,1,0,0
+test,The city of Mississauga is not in Canada.,0,0,0.20946969316299824,0.002798006418223434,0,0,0
+test,The city of Xiaogan is not in China.,0,0,0.18713267877728407,0.014776366735604332,0,0,0
+test,The city of Kyoto is not in Japan.,0,0,0.2309197555882479,0.013307398568035653,0,0,0
+test,The city of Panjin is not in Syria.,1,1,0.7606506652202082,0.737971492176377,1,0,0
+test,The city of Huainan is not in China.,0,0,0.04468087384620451,0.007744074501466631,0,0,0
+test,The city of Lanzhou is not in Mexico.,1,1,0.8056321805532947,0.9912946047911706,1,0,0
+test,The city of Buraydah is not in India.,1,1,0.8688267766117712,0.8703393312120069,1,0,0
+test,The city of Port Harcourt is not in China.,1,1,0.6548947133602447,0.9859199266784201,1,0,0
+test,The city of Qinhuangdao is not in India.,1,1,0.9511422225558915,0.9976104479245448,1,0,0
+test,The city of Wenzhou is not in China.,0,0,0.0656048317697013,0.0009363309909285894,0,0,0
+test,The city of Ajegunle is not in Russia.,1,1,0.8221891288004811,0.6462014226698183,1,0,0
+test,The city of Kuecuekcekmece is not in Mexico.,1,1,0.5544704531130076,0.6935912675609376,1,0,0
+test,The city of Warri is not in Nigeria.,0,0,0.5774953709711604,0.21263466621256974,0,0,1
+test,The city of Auckland is not in New Zealand.,0,0,0.19193279780085015,0.0038689591189285813,0,0,0
+test,The city of Amravati is not in India.,0,0,0.2281564975963254,0.06924489908730647,0,0,0
+test,The city of Ciudad Juarez is not in Japan.,1,1,0.6688802522513771,0.9978365233826666,1,0,0
+test,The city of Carrefour is not in China.,1,0,0.7879311887810385,0.7147275136715187,1,1,1
+test,The city of Krasnodar is not in Russia.,0,0,0.48047868870778343,0.023602513890684896,0,0,0
+test,The city of Zhuzhou is not in China.,0,0,0.1993079983046609,0.0318368900033065,0,0,0
+test,The city of Sanaa is not in Yemen.,0,0,0.18713268228767532,0.07776153498165343,0,0,0
+test,The city of Kota Kinabalu is not in Malaysia.,0,0,0.1540575619249363,0.013583945251846401,0,0,0
+test,The city of Daqing is not in India.,1,1,0.9711290928391272,0.9934343637827068,1,0,0
+test,The city of Ciudad Nezahualcoyotl is not in Bangladesh.,1,1,0.9173026619698377,0.97969758204787,1,0,0
+test,The city of Yunfu is not in Indonesia.,1,1,0.6723317015817618,0.8865424105021292,1,0,0
+test,The city of Soacha is not in India.,1,1,0.28776780805818397,0.6285437146303958,1,0,1
+test,The city of Lubango is not in India.,1,1,0.34158248212023007,0.9649506219123195,1,0,1
+test,The city of Bamako is not in Mali.,0,0,0.12252321098442331,0.018600986115897333,0,0,0
+test,The city of Setagaya is not in Hungary.,1,1,0.6926419806144104,0.9675748305788061,1,0,0
+test,The city of Saitama is not in Australia.,1,1,0.8740772252278937,0.9562560523687793,1,0,0
+test,The city of Ibadan is not in India.,1,1,0.9252299491899413,0.9380420333619619,1,0,0
+test,The city of Rahim Yar Khan is not in Pakistan.,0,0,0.4843800862628673,0.09474567256526549,0,0,0
+test,The city of Naucalpan de Juarez is not in Mexico.,0,0,0.22541661408454594,0.009272725698496166,0,0,0
+test,The city of Guli is not in Brazil.,1,1,0.7217431908015091,0.6849291114021798,1,0,0
+test,The city of Minsk is not in Egypt.,1,1,0.5851011480644472,0.9773089163516268,1,0,0
+test,The city of Porto Velho is not in Brazil.,0,0,0.21206880619419288,0.010817938381781052,0,0,0
+test,The city of Hubballi is not in Angola.,1,1,0.4416730119902786,0.9124261402954631,1,0,1
+test,The city of Yaroslavl is not in Niger.,1,1,0.9032942090109687,0.9530761600943463,1,0,0
+test,The city of Virar is not in India.,0,0,0.2200070944508914,0.0965476671026661,0,0,0
+test,The city of Yerevan is not in Honduras.,1,1,0.5926665725164496,0.9921622233003999,1,0,0
+test,The city of Borama is not in South Korea.,1,1,0.2309197603884532,0.33248380736421895,0,1,1
+test,The city of Sargodha is not in Pakistan.,0,1,0.3380771209447498,0.16612982118606207,0,1,1
+test,The city of Kaifeng is not in China.,0,0,0.1943678219419522,0.004114776364830373,0,0,0
+test,The city of Nay Pyi Taw is not in Myanmar.,0,0,0.09009299737941803,0.034062838017172706,0,0,0
+test,The city of Wanzhou is not in China.,0,0,0.11124121267769463,0.016725471903186975,0,0,0
+test,The city of Kalaburagi is not in India.,0,0,0.20946969053769965,0.08209933215248941,0,0,0
+test,The city of Kasur is not in Pakistan.,0,0,0.28457599888157376,0.14825737095221841,0,0,0
+test,The city of Florianopolis is not in the United States.,1,1,0.9241418220509652,0.9361919243248289,1,0,0
+test,The city of Luancheng is not in China.,0,1,0.23091974813238622,0.024870536315465788,0,1,1
+test,The city of Ebute Ikorodu is not in the Philippines.,1,1,0.24220563176494736,0.9625543437382197,1,0,1
+test,The city of Nansana is not in China.,1,1,0.6442251330890315,0.8912365059801097,1,0,0
+test,The city of Tirunelveli is not in India.,0,0,0.1520322563690372,0.10212954158991128,0,0,0
+test,The city of Sungai Petani is not in Malawi.,1,1,0.35577487245279943,0.9378464633442929,1,0,1
+test,The city of Frankfurt am Main is not in Germany.,0,0,0.206894065340554,0.0013382514958045844,0,0,0
+test,The city of Voronezh is not in Russia.,0,0,0.5078118779831295,0.04441779887146469,0,0,1
+test,The city of Gujranwala is not in Pakistan.,0,0,0.2689414338553581,0.033612607580896514,0,0,0
+test,The city of Bulawayo is not in Japan.,1,1,0.6113819664909578,0.9958668955751536,1,0,0
+test,The city of Santo Domingo Este is not in the Philippines.,1,1,0.2422056305347608,0.959777191699101,1,0,1
+test,The city of Virar is not in China.,1,1,0.9207896766323488,0.9591038710971137,1,0,0
+test,The city of Wenzhou is not in Colombia.,1,1,0.6334102541902994,0.9907850242010855,1,0,0
+test,The city of Guangzhou is not in China.,0,0,0.045352580348140575,0.003008213277387768,0,0,0
+test,The city of Hlaingthaya is not in Myanmar.,0,0,0.2814055912104637,0.1355699722741123,0,0,0
+test,The city of Guilin is not in China.,0,0,0.05033063319278669,0.006942542517267236,0,0,0
+test,The city of Camama is not in Russia.,1,1,0.8791467656427858,0.7592172758246751,1,0,0
+test,The city of Cho Lon is not in the Dominican Republic.,1,1,0.6791786875164587,0.7599102833163316,1,0,0
+test,The city of Tiruchirappalli is not in China.,1,1,0.8006920036875987,0.9888608616613103,1,0,0
+test,The city of Mogadishu is not in Somalia.,0,0,0.27202455767824696,0.01522185837172428,0,0,0
+test,The city of Sharjah is not in Brazil.,1,1,0.607663170622456,0.9959996763190115,1,0,0
+test,The city of Tokyo is not in Japan.,0,0,0.37387581658048397,0.04035889980281046,0,0,0
+test,The city of Zhangjiagang is not in Indonesia.,1,1,0.8397339763200748,0.9762495201397497,1,0,0
+test,The city of Eskisehir is not in Mauritania.,1,1,0.6926419681845166,0.9449600632001732,1,0,0
+test,The city of San Pedro Sula is not in Honduras.,0,0,0.2538610083046766,0.3095857236759307,0,0,0
+test,The city of Addis Ababa is not in India.,1,1,0.5,0.8124421171244192,1,0,1
+test,The city of Wuzhou is not in China.,0,0,0.0953494643156628,0.009228926323082759,0,0,0
+test,The city of Wanning is not in China.,0,0,0.055005283173185766,0.6186887709944143,1,1,0
+test,The city of Ibb is not in India.,1,1,0.46490156269214905,0.7400184815307853,1,0,1
+test,The city of Zaozhuang is not in South Korea.,1,1,0.6688802714287646,0.5731784519615485,1,0,0
+test,The city of Ribeirao Preto is not in Brazil.,0,0,0.20689406631141022,0.006594949197975105,0,0,0
+test,The city of Erbil is not in Iraq.,0,0,0.18476751221319115,0.030724017438687006,0,0,0
+test,The city of Yunfu is not in China.,0,0,0.07807816558129457,0.042240441129256776,0,0,0
+test,The city of Pikine is not in Senegal.,0,0,0.22541660860352308,0.03788930635068012,0,0,0
+test,The city of Irkutsk is not in Russia.,0,0,0.370225369599363,0.023610504154909596,0,0,0
+test,The city of Hengyang is not in the Philippines.,1,1,0.824461937083921,0.8692561584541036,1,0,0
+test,The city of Benoni is not in India.,1,1,0.5660185327430415,0.5118322126844537,1,0,0
+test,The city of Krasnoyarsk is not in Russia.,0,0,0.661922849453394,0.07606906205300401,0,0,1
+test,The city of Xiamen is not in Brazil.,1,1,0.950410976314974,0.9955109931456666,1,0,0
+test,The city of Juiz de Fora is not in Brazil.,0,0,0.23651623535356467,0.045666589553606314,0,0,0
+test,The city of Luohe is not in China.,0,0,0.07369627193146214,0.01384262037748813,0,0,0
+test,The city of Abobo is not in Saudi Arabia.,1,1,0.9724147164874591,0.8198043158225786,1,0,0
+test,The city of Battagram is not in Pakistan.,0,1,0.25386101929154437,0.19733926138136607,0,1,1
+test,The city of South Tangerang is not in Indonesia.,0,0,0.16026603690031416,0.046659765851923676,0,0,0
+test,The city of Esenyurt is not in Jordan.,1,1,0.8688267682594744,0.6979222233238979,1,0,0
+test,The city of Dnipro is not in Ukraine.,0,0,0.7577943693206295,0.3031117990449395,0,0,1
+test,The city of Siping is not in the Democratic Republic of the Congo.,1,1,0.7879311893710936,0.9495690810150763,1,0,0
+test,The city of Tabriz is not in Turkey.,1,1,0.8633916026870819,0.5338563574741657,1,0,0
+test,The city of Dhanbad is not in the United States.,1,1,0.890294228972032,0.9939150014021034,1,0,0
+test,The city of Irbid is not in Jordan.,0,0,0.20946968934732302,0.019153979592803353,0,0,0
+test,The city of Panjin is not in China.,0,0,0.08151975584116697,0.08070818764467702,0,0,0
+test,The city of Xuhui is not in China.,0,1,0.2751297238255988,0.021198777550914,0,1,1
+test,The city of Baoji is not in Japan.,1,1,0.9615338031784877,0.710934309010241,1,0,0
+test,The city of Cixi is not in China.,0,0,0.278256784542483,0.014712541090747934,0,0,0
+test,The city of Abuja is not in China.,1,1,0.6959583198314958,0.9884588349441531,1,0,0
+test,The city of Pimpri-Chinchwad is not in China.,1,1,0.8652240885954834,0.814413971633929,1,0,0
+test,The city of Yekaterinburg is not in Iraq.,1,1,0.9905874104415138,0.9941726581413494,1,0,0
+test,The city of Chongqing is not in China.,0,0,0.06560483051143239,0.007214038599478254,0,0,0
+test,The city of Ansan-si is not in Afghanistan.,1,1,0.3849121597108689,0.44517427263803133,0,1,1
+test,The city of Zamboanga is not in the Philippines.,0,0,0.1097057715952421,0.032349086055312296,0,0,0
+test,The city of Sofia is not in Bulgaria.,0,0,0.2538610223737288,0.02648971808192392,0,0,0
+test,The city of Curitiba is not in Brazil.,0,1,0.2628418548509857,0.03606691338064482,0,1,1
+test,The city of Chenzhou is not in Ukraine.,1,1,0.9770226302192556,0.988423788597554,1,0,0
+test,The city of Nanded is not in India.,0,0,0.18242552425396036,0.04188435398591838,0,0,0
+test,The city of Santiago de los Caballeros is not in Bangladesh.,1,1,0.8354835444490403,0.947257803509941,1,0,0
+test,The city of Rasapudipalem is not in India.,0,1,0.20946969485648367,0.09122775045128724,0,1,1
+test,The city of Akure is not in Jordan.,1,1,0.8705972679579168,0.6998953073448836,1,0,0
+test,The city of Surakarta is not in Pakistan.,1,1,0.826711785095029,0.9776677192454852,1,0,0
+test,The city of Aguascalientes is not in India.,1,1,0.6992544161380402,0.9849900960106039,1,0,0
+test,The city of Hamhung is not in Turkey.,1,1,0.9518632304705483,0.8825285280021951,1,0,0
+test,The city of Soweto is not in Mexico.,1,1,0.21469140736323802,0.9867542625986906,1,0,1
+test,The city of Huainan is not in India.,1,1,0.8976952939363948,0.9858453907500403,1,0,0
+test,The city of Busan is not in China.,1,1,0.9086178927252989,0.8533903407693502,1,0,0
+test,The city of Dandong is not in Indonesia.,1,1,0.46490156178513964,0.9584176487234605,1,0,1
+test,The city of Handan is not in Mexico.,1,1,0.39981164047238227,0.5481439668434162,1,0,1
+test,The city of Budta is not in Japan.,1,1,0.5,0.7673342602368006,1,0,1
+test,The city of Huizhou is not in Japan.,1,1,0.9873750511420522,0.9799904019939967,1,0,0
+test,The city of Jiangyin is not in China.,0,0,0.08035746284414688,0.01562822206230657,0,0,0
+test,The city of Queens is not in the United States.,0,0,0.48438009479761657,0.07887005921995927,0,0,0
+test,The city of General Santos is not in the Philippines.,0,0,0.11124120954606054,0.09218396732843588,0,0,0
+test,The city of Cuttack is not in Jordan.,1,1,0.8198933301591503,0.9775697396812308,1,0,0
+test,The city of Linyi is not in Mexico.,1,1,0.5234203531010295,0.9294794205837664,1,0,0
+test,The city of Omdurman is not in Sudan.,0,0,0.23651623268071523,0.020100799097752163,0,0,0
+test,The city of Mengzi is not in Venezuela.,1,1,0.5234203498027556,0.9615571343561631,1,0,0
+test,The city of Hohhot is not in China.,0,0,0.07807815922199826,0.029251834579429647,0,0,0
+test,The city of Maiduguri is not in Nigeria.,0,0,0.225416598370871,0.05022914743805986,0,0,0
+test,The city of Kryvyy Rih is not in Ukraine.,0,0,0.6584175128245007,0.14231493105874363,0,0,1
+test,The city of Ulyanovsk is not in Russia.,0,0,0.43782350584892316,0.032840106067717145,0,0,0
+test,The city of Kyiv is not in Germany.,1,1,0.5273165183292728,0.9901118615812182,1,0,0
+test,The city of Jos is not in India.,1,1,0.41111086196098284,0.4519912141794362,0,1,1
+test,The city of Kalininskiy is not in Germany.,1,1,0.50781185781592,0.8050788295053107,1,0,0
+test,The city of Suizhou is not in China.,0,0,0.09268778189943787,0.024981696193368687,0,0,0
+test,The city of Zhu Cheng City is not in China.,0,1,0.19930801271299114,0.12189091711762073,0,1,1
+test,The city of Davao is not in China.,1,1,0.9896718471335981,0.9929790885476895,1,0,0
+test,The city of San Pedro Sula is not in Côte d'Ivoire.,1,1,0.4148988398818548,0.9661489943807774,1,0,1
+test,The city of Bhilai is not in Brazil.,1,0,0.5964331467770511,0.9645782418107919,1,1,1
+test,The city of Esenler is not in Turkey.,0,0,0.46879064363689216,0.04950246005925034,0,0,0
+test,The city of Kuantan is not in China.,1,1,0.5621765185782316,0.6696212204465779,1,0,0
+test,The city of Kagoshima is not in Ecuador.,1,1,0.4225046221884624,0.9706653474939781,1,0,1
+test,The city of Adana is not in Turkey.,0,0,0.31742626905517285,0.11190676565792926,0,0,0
+test,The city of Cankaya is not in Mozambique.,1,1,0.5621765044014051,0.8848736741536102,1,0,0
+test,The city of Oslo is not in Norway.,0,0,0.12940272819049117,0.006032824648741901,0,0,0
+test,The city of Guayaquil is not in Bangladesh.,1,1,0.8902942269178629,0.9592135650558256,1,0,0
+test,The city of Duesseldorf is not in Vietnam.,1,1,0.43398147770457635,0.9975432855651895,1,0,1
+test,The city of Rohini is not in India.,0,0,0.37754067674014025,0.4575123603351311,0,0,0
+test,The city of Weihai is not in Tajikistan.,1,1,0.9916842212273368,0.9462616263615903,1,0,0
+test,The city of Pimpri-Chinchwad is not in India.,0,0,0.14804719241231945,0.07865803400829159,0,0,0
+test,The city of Al Hudaydah is not in Yemen.,0,0,0.4455295255490037,0.25887502453208927,0,0,0
+test,The city of Pyongyang is not in North Korea.,0,0,0.07696083887384482,0.037789128182125285,0,0,0
+test,The city of Huaibei is not in China.,0,1,0.13846178638810636,0.046507855248807725,0,1,1
+test,The city of Tianjin is not in India.,1,1,0.9643214439092819,0.9983929534189413,1,0,0
+test,The city of Hebi is not in Brazil.,1,1,0.5660185358762421,0.9452821745412772,1,0,0
+test,The city of Fuxin is not in China.,0,0,0.1259227673176459,0.03819838058434955,0,0,0
+test,The city of Shangrao is not in China.,0,0,0.15610490350676362,0.12063067018933435,0,0,0
+test,The city of Baghdad is not in China.,1,1,0.7401743435232725,0.9935066259442442,1,0,0
+test,The city of Copenhagen is not in Denmark.,0,0,0.24508501381012143,0.006749335544590045,0,0,0
+test,The city of Pikine is not in India.,1,1,0.7461389821159691,0.7917829267186253,1,0,0
+test,The city of Putian is not in Egypt.,1,1,0.9504109746929386,0.7345103660389614,1,0,0
+test,The city of Barquisimeto is not in Venezuela.,0,0,0.24508501792571044,0.08960422779783336,0,0,0
+test,The city of Callao is not in Brazil.,1,1,0.6442251092389949,0.35226338860418455,0,1,0
+test,The city of Niigata is not in Japan.,0,0,0.23370634487699046,0.02313836570177561,0,0,0
+test,The city of Prayagraj is not in India.,0,0,0.14804718696829425,0.0937434868427697,0,0,0
+test,The city of Calumbo is not in Brazil.,1,1,0.5039061501411375,0.44655144702108673,0,1,0

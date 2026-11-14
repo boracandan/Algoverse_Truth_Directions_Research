@@ -1,0 +1,7 @@
+task,probe_tokens_median,reasoning_tokens_median,reasoning_tokens_p90,token_ratio
+F0,10,431,618,43.1
+F1,11,405,596,36.8
+F2,28,386,542,13.8
+F3,19,430,633,22.6
+F4,31,555,708,17.9
+F5,40,666,921,16.7

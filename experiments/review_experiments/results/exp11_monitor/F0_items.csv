@@ -1,0 +1,1463 @@
+split,statement,label,cot_answer,no_reasoning_p_yes,probe_p_true,probe_answer,probe_flags_cot,quick_flags_cot
+train,The city of Xining is in China.,1,1,0.9999097196102834,0.92183359456517,1,0,0
+train,The city of Eskisehir is in Mauritania.,0,0,0.19193279221541865,0.053805736436669055,0,0,0
+train,The city of Conakry is in Guinea.,1,1,0.9979809862469203,0.8349936678261198,1,0,0
+train,The city of Huaihua is in Djibouti.,0,0,0.1441488467152689,0.051647638061579494,0,0,0
+train,The city of Benguela is in India.,0,0,0.2628418414795936,0.07443617245851109,0,0,0
+train,The city of Coyoacan is in India.,0,0,0.4416730237077785,0.23433250467399935,0,0,0
+train,The city of Diyarbakir is in India.,0,0,0.07807815877117444,0.02737714901713784,0,0,0
+train,The city of Rui'an is in Japan.,0,1,0.978712647699341,0.6423382851294127,1,0,0
+train,The city of Almaty is in Turkey.,0,0,0.14804718128391783,0.036256435551970265,0,0,0
+train,The city of Tonghua is in China.,1,1,0.9997527065375456,0.902123884972065,1,0,0
+train,The city of Nova Iguacu is in the Democratic Republic of the Congo.,0,0,0.2628418427351028,0.28139751990857126,0,0,0
+train,The city of Huizhou is in Japan.,0,1,0.5660185142331512,0.1308906783572862,0,1,0
+train,The city of Xinyang is in Chad.,0,0,0.777299860428814,0.05502471124013908,0,0,1
+train,The city of Voronezh is in Russia.,1,1,0.9924227594371526,0.930496227267999,1,0,0
+train,The city of Mbuji-Mayi is in Somalia.,0,1,0.8652240799292835,0.5342099145034533,1,0,0
+train,The city of Pontianak is in India.,0,0,0.5078118725867138,0.5013703703328082,1,1,1
+train,The city of Ujjain is in India.,1,1,0.9857180660358239,0.927862042088322,1,0,0
+train,The city of Maceio is in China.,0,0,0.1919327952455381,0.008700047442521903,0,0,0
+train,The city of Harare is in Zimbabwe.,1,1,0.9883127420438912,0.8271737235238107,1,0,0
+train,The city of Madinah is in Malaysia.,0,0,0.7606506659157859,0.1969855891584546,0,0,1
+train,The city of Fortaleza is in Brazil.,1,1,0.9947798745324574,0.8797065722374531,1,0,0
+train,The city of Jiamusi is in Lebanon.,0,0,0.16667539958175098,0.12861823254529195,0,0,0
+train,The city of Kharkiv is in Ukraine.,1,1,0.9697854115293661,0.8249738232030223,1,0,0
+train,The city of Serang is in Indonesia.,1,0,0.9597620555189228,0.8544030158240148,1,1,1
+train,The city of Da Nang is in Vietnam.,1,1,0.9773707992186678,0.9213280038948092,1,0,0
+train,The city of Dharavi is in Venezuela.,0,0,0.5117165890923423,0.12655457692272537,0,0,1
+train,The city of Hezhou is in Brazil.,0,0,0.9284088019299783,0.21010827749050603,0,0,1
+train,The city of Saratov is in Egypt.,0,0,0.19193278500291608,0.02335163952766321,0,0,0
+train,The city of Kuala Lumpur is in Malaysia.,1,1,0.9999124970043558,0.9200246168901084,1,0,0
+train,The city of Surakarta is in Pakistan.,0,0,0.15203225065700507,0.11556384686370179,0,0,0
+train,The city of New South Memphis is in South Korea.,0,0,0.32423538943072644,0.5835706310533638,1,1,0
+train,The city of Zhengzhou is in China.,1,1,0.9999901816726178,0.9447207203525091,1,0,0
+train,The city of Songjiang is in Ukraine.,0,0,0.3276682963746006,0.025378959087731474,0,0,0
+train,The city of Quetta is in Pakistan.,1,1,0.9879462202305546,0.86882108364023,1,0,0
+train,The city of Seongnam-si is in Ukraine.,0,0,0.19436782275735734,0.1094977197103519,0,0,0
+train,The city of Jingmen is in China.,1,1,0.9992562970892471,0.8740124035591198,1,0,0
+train,The city of Enugu is in Nigeria.,1,1,0.9648551512409012,0.7662151553094411,1,0,0
+train,The city of Okara is in China.,0,0,0.9958012048223821,0.24176349172046238,0,0,1
+train,The city of Konya is in Turkey.,1,1,0.9736446466660248,0.8505979807408994,1,0,0
+train,The city of Banjarmasin is in Nigeria.,0,0,0.09138211079022644,0.4272878569416048,0,0,0
+train,The city of Deyang is in India.,0,0,0.8652240856519207,0.7446223383892474,1,1,1
+train,The city of Dehradun is in India.,1,0,0.992988204144656,0.9218974958974003,1,1,1
+train,The city of Yangquan is in China.,1,1,0.999884982641121,0.8666225834736048,1,0,0
+train,The city of Novosibirsk is in Russia.,1,1,0.9896718467077329,0.9037413685114719,1,0,0
+train,The city of Pingdingshan is in China.,1,1,0.9995794125400081,0.842395996337962,1,0,0
+train,The city of Taguig is in the Philippines.,1,1,0.991812090465367,0.91084852312087,1,0,0
+train,The city of Nagoya is in Japan.,1,0,0.9833429604305101,0.9352262626031297,1,1,1
+train,The city of Leon de los Aldama is in Somalia.,0,0,0.7401743491613024,0.17865375231294495,0,0,1
+train,The city of Longyan is in China.,1,1,0.9999546021298904,0.7974419528218559,1,0,0
+train,The city of Bursa is in Turkey.,1,1,0.9850429139214889,0.853061281130955,1,0,0
+train,The city of Erode is in India.,1,1,0.9441768597596449,0.5940021047698482,1,0,0
+train,The city of South Tangerang is in Indonesia.,1,1,0.9828232917339881,0.9109097992076316,1,0,0
+train,The city of Hlaingthaya is in Myanmar.,1,0,0.9294404053695438,0.7984185902316653,1,1,1
+train,The city of Yingkou is in Malaysia.,0,0,0.4532618585435008,0.4341789288892938,0,0,0
+train,The city of Vientiane is in Indonesia.,0,0,0.08509904391261543,0.0387501986270218,0,0,0
+train,The city of Faridabad is in India.,1,1,0.9905874104455622,0.9098361510991377,1,0,0
+train,The city of Quezon City is in the Philippines.,1,1,0.9919380084185119,0.9232117076906362,1,0,0
+train,The city of Foshan is in China.,1,1,0.9999542460887835,0.9252857690225444,1,0,0
+train,The city of Mumbai is in Vietnam.,0,0,0.13477591804007327,0.014558649783014079,0,0,0
+train,The city of Hamhung is in Turkey.,0,0,0.08509904325027018,0.05939424692167335,0,0,0
+train,The city of Muzaffarabad is in India.,0,0,0.1403362509335325,0.15424627742971994,0,0,0
+train,The city of Tonghua is in Tajikistan.,0,0,0.7549149884989611,0.3063015266862387,0,0,1
+train,The city of Taicang is in Nigeria.,0,0,0.7490872185162324,0.13453706589922168,0,0,1
+train,The city of Shangqiu is in Uzbekistan.,0,0,0.8499711823501225,0.3420461662960515,0,0,1
+train,The city of Yongzhou is in China.,1,1,0.9993280722394445,0.8485375806072027,1,0,0
+train,The city of Heze is in China.,1,1,0.9995197027678877,0.26189591448281613,0,1,0
+train,The city of Lu'an is in China.,1,1,0.9998822554061638,0.8588747656164342,1,0,0
+train,The city of Dar es Salaam is in the Philippines.,0,0,0.018546563910814294,0.010561580348560778,0,0,0
+train,The city of Kunming is in China.,1,1,0.9999904837484755,0.9309848698050325,1,0,0
+train,The city of Tehran is in Iran.,1,1,0.998217803698115,0.8972256562152806,1,0,0
+train,The city of Wuzhou is in China.,1,1,0.9996430293874523,0.8974999900498706,1,0,0
+train,The city of Lilongwe is in Malawi.,1,1,0.9959298622664821,0.8569745900120399,1,0,0
+train,The city of Sultanah is in Saudi Arabia.,1,0,0.8774767903832528,0.31427673071614987,0,0,1
+train,The city of Onitsha is in Nigeria.,1,1,0.9648551540700187,0.781094107957963,1,0,0
+train,The city of Vijayawada is in Turkey.,0,0,0.11596071697887894,0.017232631726297225,0,0,0
+train,The city of Ar Raqqah is in Syria.,1,1,0.894789466913553,0.7131313650243275,1,0,0
+train,The city of Koeln is in Kyrgyzstan.,0,0,0.42632159380321233,0.1528080527099533,0,0,0
+train,The city of Kozhikode is in Yemen.,0,0,0.24798742938563956,0.1827119505443921,0,0,0
+train,The city of Kota Kuala Muda is in Malaysia.,1,0,0.9343951649608288,0.8651818452712685,1,1,1
+train,The city of Mbuji-Mayi is in the Democratic Republic of the Congo.,1,1,0.9294403998048744,0.8167583993950646,1,0,0
+train,The city of Shuangyashan is in India.,0,0,0.3007455838529432,0.12398374591644441,0,0,0
+train,The city of Irbid is in Jordan.,1,1,0.9859363730634707,0.9161226953796112,1,0,0
+train,The city of Sungai Petani is in Malawi.,0,0,0.7490872157009283,0.18358985253238422,0,0,1
+train,The city of E'zhou is in China.,1,1,0.9998726889539724,0.8731180293993015,1,0,0
+train,The city of Rawalpindi is in Pakistan.,1,0,0.97871264897389,0.9276762904064604,1,1,1
+train,The city of Yongzhou is in the Philippines.,0,0,0.7577943598680605,0.5160375376418064,1,1,1
+train,The city of Las Pinas is in the Philippines.,1,1,0.9802808737290124,0.8044025772974278,1,0,0
+train,The city of Uberlandia is in Brazil.,1,0,0.9697854103574092,0.6578607877073207,1,1,1
+train,The city of Bishkek is in Iraq.,0,0,0.09807932767171589,0.01665875057181412,0,0,0
+train,The city of Acapulco de Juarez is in Mali.,0,0,0.2720245776464154,0.0406886166837776,0,0,0
+train,The city of Tomsk is in Russia.,1,1,0.9802808723433754,0.8839338496673196,1,0,0
+train,The city of Bengbu is in China.,1,0,0.43782350382651586,0.0830197365483219,0,0,0
+train,The city of Ciudad Guayana is in Venezuela.,1,0,0.9869795094140343,0.8756852861906376,1,1,1
+train,The city of Kikwit is in the Democratic Republic of the Congo.,1,1,0.9353465137137721,0.68888961428294,1,0,0
+train,The city of Helsinki is in Finland.,1,1,0.9973683260394571,0.856395575492806,1,0,0
+train,The city of Yangon is in Myanmar.,1,1,0.9966755632445673,0.8767110114312641,1,0,0
+train,The city of Ilorin is in India.,0,0,0.48438006931120065,0.21393812277790833,0,0,0
+train,The city of Kolwezi is in the Democratic Republic of the Congo.,1,1,0.938124010755852,0.8365034694942516,1,0,0
+train,The city of Ulanqab is in China.,1,1,0.9996110079115373,0.7138292462380734,1,0,0
+train,The city of Esenler is in Turkey.,1,1,0.917302657007052,0.8297675238671288,1,0,0
+train,The city of Nakuru is in Kenya.,1,0,0.9893474887034613,0.8866163239212324,1,1,1
+train,The city of Piura is in China.,0,0,0.21469140900711634,0.05666891543566912,0,0,0
+train,The city of Ryazan' is in Russia.,1,0,0.983596967232276,0.9283676198885269,1,1,1
+train,The city of Nairobi is in Vietnam.,0,0,0.23091975047950763,0.013864991134776327,0,0,0
+train,The city of Lodz is in China.,0,0,0.09807932499151681,0.011916852214497335,0,0,0
+train,The city of Neijiang is in China.,1,1,0.999912497001651,0.8220877832327476,1,0,0
+train,The city of Suginami is in China.,0,0,0.4921881319712993,0.22079953335805994,0,0,0
+train,The city of Zhoushan is in Jordan.,0,0,0.41111086965187127,0.021898020340399945,0,0,0
+train,The city of Qingpu is in Turkey.,0,0,0.1384617933539307,0.031177372120676,0,0,0
+train,The city of Ryazan' is in Saudi Arabia.,0,0,0.12421300730811975,0.04125319949906744,0,0,0
+train,The city of Isfahan is in Iran.,1,1,0.9988304898226877,0.9315164597699962,1,0,0
+train,The city of Liuzhou is in India.,0,0,0.26894144360423206,0.12153948856354224,0,0,0
+train,The city of Dombivali is in Iraq.,0,0,0.23934933261627864,0.11822349768885657,0,0,0
+train,The city of Contagem is in Brazil.,1,1,0.9697854113622478,0.8221911521264273,1,0,0
+train,The city of Mexico City is in Guatemala.,0,0,0.19682621129182604,0.04024601833488264,0,0,0
+train,The city of Nanning is in Iraq.,0,0,0.1460872465070072,0.08333365632000224,0,0,0
+train,The city of Shangluo is in Saudi Arabia.,0,0,0.16238002801173076,0.08747800563742678,0,0,0
+train,The city of Anyang-si is in South Korea.,1,1,0.9518632305201348,0.8286200040500045,1,0,0
+train,The city of Callao is in Brazil.,0,0,0.9766692317077772,0.7105286442787364,1,1,1
+train,The city of Las Pinas is in Turkey.,0,0,0.08269734581331083,0.10281878397696557,0,0,0
+train,The city of Rostov-on-Don is in Russia.,1,0,0.98677717757807,0.9187619233875776,1,1,1
+train,The city of Adachi is in Jamaica.,0,0,0.411110856559186,0.09535660136531755,0,0,0
+train,The city of Agadir is in Morocco.,1,1,0.9988304897606025,0.820371845826531,1,0,0
+train,The city of Balikpapan is in Ukraine.,0,0,0.10521053292117001,0.045044525819946,0,0,0
+train,The city of Jiaozhou is in Ecuador.,0,0,0.6039318308483349,0.16528230201118926,0,0,1
+train,The city of Suining is in China.,1,1,0.9998756377378785,0.22081614659204943,0,1,0
+train,The city of Sao Bernardo do Campo is in Brazil.,1,1,0.9790357596132837,0.8704007166126294,1,0,0
+train,The city of Aihara is in Japan.,1,1,0.9284088026150726,0.8168287730480729,1,0,0
+train,The city of Wuwei is in China.,1,0,0.9998488180115899,0.8569240271919196,1,1,1
+train,The city of Seattle is in China.,0,0,0.09401018422395375,0.017813923026491624,0,0,0
+train,The city of Itabashi is in China.,0,0,0.6001883433477061,0.09528301793644738,0,0,1
+train,The city of Qingdao is in China.,1,1,0.9999775259096545,0.9549064162505047,1,0,0
+train,The city of Najran is in Saudi Arabia.,1,1,0.9458012693573385,0.5696330006393212,1,0,0
+train,The city of Saratov is in Russia.,1,0,0.9787126483144177,0.9178325112628919,1,1,1
+train,The city of Islamabad is in Pakistan.,1,1,0.9991573576650457,0.9297963004033718,1,0,0
+train,The city of Zaozhuang is in South Korea.,0,0,0.8633915971633629,0.7823233458089109,1,1,1
+train,The city of Makassar is in Indonesia.,1,1,0.9973887522823304,0.9210196220831598,1,0,0
+train,The city of Calumbo is in Brazil.,0,0,0.9637799402870708,0.5861759463490915,1,1,1
+train,The city of Nellore is in India.,1,1,0.9511422212138526,0.9079684946390714,1,0,0
+train,The city of Barranquilla is in Colombia.,1,1,0.986571744774156,0.9284572446469217,1,0,0
+train,The city of Qom is in China.,0,0,0.9284088038060376,0.1497357912550606,0,0,1
+train,The city of Brasilia is in Brazil.,1,1,0.9960545932386856,0.9351649542015695,1,0,0
+train,The city of Marseille is in China.,0,0,0.10970577580768809,0.010298808608478803,0,0,0
+train,The city of Nuremberg is in Germany.,1,1,0.9664104926433997,0.8844218236934592,1,0,0
+train,The city of Yichang is in China.,1,1,0.9997868124315802,0.9003579047448914,1,0,0
+train,The city of Nanchong is in Malaysia.,0,0,0.19436782256163873,0.2731079811116718,0,0,0
+train,The city of Denpasar is in Indonesia.,1,0,0.9925393567516686,0.9326251807737644,1,1,1
+train,The city of Chelyabinsk is in Russia.,1,0,0.9863631647780648,0.944805848648041,1,1,1
+train,The city of Libreville is in the Philippines.,0,0,0.07159120396672722,0.5708991967412267,1,1,0
+train,The city of Muzaffarabad is in Pakistan.,1,1,0.9489172621013301,0.7792264717330321,1,0,0
+train,The city of Weinan is in Ukraine.,0,0,0.19682620274338164,0.032101617879707424,0,0,0
+train,The city of Chengdu is in China.,1,1,0.9999864747345797,0.9465206650119319,1,0,0
+train,The city of Bekasi is in Indonesia.,1,0,0.9925393564259781,0.9066287838022183,1,1,1
+train,The city of Nay Pyi Taw is in Myanmar.,1,1,0.9783846676272445,0.8854297713182361,1,0,0
+train,The city of Al Fayyum is in Malaysia.,0,0,0.05582313994169781,0.1311847722103959,0,0,0
+train,The city of Nouakchott is in Mauritania.,1,1,0.9994207083319565,0.5430801354446765,1,0,0
+train,The city of Chisinau is in Moldova.,1,1,0.9916842213755835,0.8366745211710618,1,0,0
+train,The city of Mengzi is in Venezuela.,0,0,0.6039318304773904,0.09604188113397788,0,0,1
+train,The city of New South Memphis is in the United States.,1,1,0.7217432101377304,0.7634736675365434,1,0,0
+train,The city of Faridabad is in Indonesia.,0,0,0.34864513864829183,0.2586561602616202,0,0,0
+train,The city of Binh Thanh is in Vietnam.,1,1,0.9744347889586091,0.8807939989556611,1,0,0
+train,The city of Juiz de Fora is in Brazil.,1,1,0.9780517455721334,0.8842471631656859,1,0,0
+train,The city of Florianopolis is in the United States.,0,0,0.4882834034743747,0.21339452370239645,0,0,0
+train,The city of Antananarivo is in Madagascar.,1,1,0.9953181771189985,0.8939278447920455,1,0,0
+train,The city of Teresina is in Brazil.,1,1,0.9770226296779234,0.8457288231807562,1,0,0
+train,The city of UEskuedar is in Turkey.,1,0,0.6688802629212928,0.3648617562423291,0,0,1
+train,The city of Sanmenxia is in India.,0,0,0.25091278010622936,0.27558157049310844,0,0,0
+train,The city of Maoming is in Colombia.,0,0,0.5,0.32856422554936526,0,0,0
+train,The city of Gurugram is in Germany.,0,0,0.3073580198270787,0.018619997907940885,0,0,0
+train,The city of Kalaburagi is in India.,1,1,0.9916842207371824,0.8783942991620276,1,0,0
+train,The city of Sukkur is in the Philippines.,0,0,0.09807932485336754,0.08811288944305759,0,0,0
+train,The city of Tangerang is in Indonesia.,1,1,0.9898303415182181,0.8522111856775837,1,0,0
+train,The city of Gurugram is in India.,1,1,0.9949396683813692,0.8983365453926829,1,0,0
+train,The city of Maturin is in Venezuela.,1,0,0.9362850040519052,0.8499347033939939,1,1,1
+train,The city of Malingao is in the Philippines.,1,0,0.9664104949794118,0.7315637649213637,1,1,1
+train,The city of Lueliang is in China.,1,0,0.998027664474709,0.5063418045731424,1,1,1
+train,The city of Andijon is in Uzbekistan.,1,1,0.9927672364898962,0.6404240378725189,1,0,0
+train,The city of Jiaxing is in China.,1,1,0.9998088957048062,0.9312111683761926,1,0,0
+train,The city of Kermanshah is in Iran.,1,1,0.9871787857790072,0.8487291309455355,1,0,0
+train,The city of Islamabad is in New Zealand.,0,0,0.13117321352252473,0.011630992527156611,0,0,0
+train,The city of Pekanbaru is in Indonesia.,1,1,0.9911526449627593,0.8996500007645772,1,0,0
+train,The city of Changchun is in Pakistan.,0,0,0.06187598770748772,0.03331831270758748,0,0,0
+train,The city of Can Tho is in Vietnam.,1,1,0.9884918501438683,0.7923917141148631,1,0,0
+train,The city of Makassar is in Colombia.,0,0,0.1294027261747162,0.2097144849208125,0,0,0
+train,The city of Marseille is in France.,1,1,0.9899864292135924,0.9379176501024278,1,0,0
+train,The city of Bhayandar is in China.,0,0,0.30404168429535977,0.2302815442566207,0,0,0
+train,The city of Luohu District is in China.,1,1,0.9992847675960388,0.880993392487511,1,0,0
+train,The city of Kaifeng is in China.,1,0,0.9993537967430283,0.9192705295467696,1,1,1
+train,The city of Changde is in India.,0,0,0.3415825017804274,0.17231011061007404,0,0,0
+train,The city of Muntinlupa is in China.,0,0,0.12252321671724895,0.2848403068437355,0,0,0
+train,The city of Sofia is in Bulgaria.,1,1,0.997782987034846,0.8894377222486547,1,0,0
+train,The city of Pasir Gudang is in Côte d'Ivoire.,0,0,0.5389832073274771,0.5207978331436514,1,1,1
+train,The city of Fushun is in Indonesia.,0,0,0.6959583171765483,0.22266563784413615,0,0,1
+train,The city of Rangpur is in Bosnia and Herzegovina.,0,0,0.8670357566640132,0.318071997981589,0,0,1
+train,The city of Gaziantep is in Ghana.,0,0,0.11436852967572787,0.044465821071986746,0,0,0
+train,The city of Qionghai is in Tanzania.,0,0,0.8558511500297202,0.3550563871346746,0,0,1
+train,The city of Amritsar is in China.,0,0,0.04535258015264257,0.03534072912360656,0,0,0
+train,The city of Jinan is in China.,1,1,0.9998804014292306,0.8931596818269698,1,0,0
+train,The city of Jilin is in China.,1,1,0.9999886105595545,0.9368696284402854,1,0,0
+train,The city of Cape Town is in Pakistan.,0,0,0.0967057873951742,0.019913738923200426,0,0,0
+train,The city of Xinyu is in India.,0,0,0.8311430429812878,0.3225832252916324,0,0,1
+train,The city of Meknes is in Morocco.,1,1,0.9990673640116676,0.8547872705236361,1,0,0
+train,The city of Bandar Lampung is in Vietnam.,0,0,0.1847675121526235,0.019997062964825753,0,0,0
+train,The city of Huzhou is in South Korea.,0,0,0.7310585612609977,0.5468290767462145,1,1,1
+train,The city of Puducherry is in India.,1,1,0.9950177301809335,0.8757947852539995,1,0,0
+train,The city of Nanded is in India.,1,1,0.9591542800789513,0.9125207382485494,1,0,0
+train,The city of Subang Jaya is in Germany.,0,0,0.27825680221637017,0.030019173071874513,0,0,0
+train,The city of Hue is in Vietnam.,1,1,0.9859363730630925,0.8766619620128486,1,0,0
+train,The city of Nowrangapur is in Ukraine.,0,0,0.21206880898739722,0.08613430337972448,0,0,0
+train,The city of New Kingston is in Jordan.,0,0,0.7090191247801494,0.15795986340536666,0,0,1
+train,The city of Shaoxing is in China.,1,1,0.9999697580430903,0.9151309787248725,1,0,0
+train,The city of San Miguel de Tucuman is in Argentina.,1,1,0.9987551565734434,0.8979344548193703,1,0,0
+train,The city of Arusha is in Vietnam.,0,0,0.23651623052506227,0.09929808453334174,0,0,0
+train,The city of Mersin is in Turkey.,1,1,0.9755769087794456,0.8981764144058227,1,0,0
+train,The city of Barquisimeto is in Venezuela.,1,1,0.9688561674110729,0.7907675355896767,1,0,0
+train,The city of Lianyungang is in Mozambique.,0,0,0.27825678534899095,0.19132393299764924,0,0,0
+train,The city of Malacca is in Malaysia.,1,1,0.9995159375784285,0.9252506045511537,1,0,0
+train,The city of Xianning is in Russia.,0,0,0.27825680434133554,0.03161051184912315,0,0,0
+train,The city of Bannu is in Senegal.,0,0,0.8918110487092524,0.4997215448235259,0,0,1
+train,The city of Hangzhou is in China.,1,1,0.999973311468954,0.9468647773561039,1,0,0
+train,The city of Odesa is in Ukraine.,1,1,0.9854964202693183,0.7880262750416662,1,0,0
+train,The city of Dnipro is in Ukraine.,1,0,0.9518632293692515,0.76116635622754,1,1,1
+train,The city of Katsina is in Nigeria.,1,1,0.9921841103070527,0.6536383060578984,1,0,0
+train,The city of Khartoum is in India.,0,0,0.4455295400649918,0.020251478273253052,0,0,0
+train,The city of Sanmenxia is in China.,1,1,0.9998902490928013,0.9032002372539747,1,0,0
+train,The city of Kashgar is in Peru.,0,0,0.1666754018863413,0.021199494883577932,0,0,0
+train,The city of Asansol is in China.,0,0,0.39981164892609516,0.3905570208299854,0,0,0
+train,The city of Makkah is in Myanmar.,0,0,0.07477004291616593,0.022212364498065473,0,0,0
+train,The city of Kyoto is in Japan.,1,1,0.9974688887788762,0.9436864037047703,1,0,0
+train,The city of Anshan is in China.,1,1,0.9999435020679651,0.7948151184349619,1,0,0
+train,The city of Al Mawsil al Jadidah is in the United States.,0,0,0.600188341045312,0.09792323838978809,0,0,1
+train,The city of Cheongju-si is in Japan.,0,0,0.18952109841563214,0.3498195169562599,0,0,0
+train,The city of Osogbo is in Malaysia.,0,0,0.48047867872650235,0.5422328834241374,1,1,0
+train,The city of Hanzhong is in Nigeria.,0,0,0.74017434078168,0.23693574052705613,0,0,1
+train,The city of Taicang is in China.,1,1,0.9993929244427553,0.8837405943651979,1,0,0
+train,The city of Zhongwei is in China.,1,1,0.9996970265704376,0.9112242122823746,1,0,0
+train,The city of Porto Alegre is in Brazil.,1,1,0.9799765593069758,0.9176040130897806,1,0,0
+train,The city of Chizhou is in China.,1,1,0.9991832618979904,0.924125438607505,1,0,0
+train,The city of Kigali is in Rwanda.,1,1,0.9925393561224506,0.8584397761086134,1,0,0
+train,The city of Tangier is in Egypt.,0,0,0.28776782373588633,0.0515801821816402,0,0,0
+train,The city of Thembisa is in Yemen.,0,0,0.15817435353754838,0.4716268743018159,0,0,0
+train,The city of Santo Domingo Este is in the Philippines.,0,1,0.34510526930148216,0.18520102754928608,0,1,1
+train,The city of Sagamihara is in China.,0,0,0.39606816052587307,0.12200953980514652,0,0,0
+train,The city of Ananindeua is in Iran.,0,1,0.535098432094883,0.21093592037358488,0,1,0
+train,The city of Rasapudipalem is in India.,1,0,0.9284087989313305,0.8162319222312967,1,1,1
+train,The city of Kaduna is in India.,0,0,0.7371581498473073,0.6751118976363092,1,1,1
+train,The city of Bahawalpur is in Pakistan.,1,1,0.9888419686901802,0.894567994794359,1,0,0
+train,The city of Pingliang is in China.,1,1,0.9991306325717783,0.8596112780607665,1,0,0
+train,The city of Kitwe is in Zambia.,1,1,0.9777138138735626,0.8708260747569956,1,0,0
+train,The city of Karol Bagh is in India.,1,1,0.9744347874092115,0.8270784558906815,1,0,0
+train,The city of Karbala is in Iraq.,1,1,0.9763105278576996,0.8304717029487405,1,0,0
+train,The city of Lilongwe is in Cameroon.,0,0,0.8221891286736469,0.3486557338778865,0,0,1
+train,The city of Warangal is in Myanmar.,0,0,0.15610489802079489,0.04046664997965084,0,0,0
+train,The city of Ouagadougou is in Egypt.,0,0,0.22541661322096654,0.012810662906888624,0,0,0
+train,The city of Bengaluru is in Vietnam.,0,0,0.17106117994509826,0.014624469891932923,0,0,0
+train,The city of Fort Worth is in the United States.,1,1,0.984093607689879,0.8225932843678563,1,0,0
+train,The city of Niluefer is in Turkey.,1,1,0.8918110476191958,0.3604349885321458,0,1,0
+train,The city of Zibo is in Bangladesh.,0,0,0.8056321824422746,0.1109958977694399,0,0,1
+train,The city of Linfen is in China.,1,1,0.9999145238333853,0.812651924553251,1,0,0
+train,The city of Hermosillo is in Mexico.,1,1,0.9838471652784664,0.8348752783449935,1,0,0
+train,The city of Beirut is in Lebanon.,1,0,0.9724147174249299,0.8581281188616829,1,1,1
+train,The city of Sapporo is in Turkey.,0,0,0.10970577234195038,0.057786706797017154,0,0,0
+train,The city of Feira de Santana is in Vietnam.,0,0,0.399811652611104,0.04307778457042406,0,0,0
+train,The city of Chuzhou is in China.,1,1,0.9992791619846119,0.8829253259530937,1,0,0
+train,The city of Detroit is in the Democratic Republic of the Congo.,0,0,0.5078118825648786,0.0805815520950127,0,0,1
+train,The city of Soacha is in India.,0,0,0.8705972672572051,0.6051100517710778,1,1,1
+train,The city of Agege is in Nigeria.,1,0,0.943347573812157,0.5954355120603004,1,1,1
+train,The city of Kalyan is in China.,0,0,0.4882833951378142,0.18359183584860536,0,0,0
+train,The city of Bahawalpur is in Myanmar.,0,0,0.0373268867961458,0.0678915952338956,0,0,0
+train,The city of Guwahati is in China.,0,0,0.11920292509884259,0.02693384077212456,0,0,0
+train,The city of Prayagraj is in India.,1,1,0.9959298622976982,0.8939417247221926,1,0,0
+train,The city of Maturin is in Brazil.,0,0,0.901920676710069,0.7282433728519007,1,1,1
+train,The city of Vilnius is in Lithuania.,1,1,0.992654174091416,0.8247611080907931,1,0,0
+train,The city of Orumiyeh is in Iran.,1,1,0.9263037270355361,0.6520047709177785,1,0,0
+train,The city of Heroica Matamoros is in China.,0,0,0.3702253802099583,0.18026303546138106,0,0,0
+train,The city of Porto Alegre is in China.,0,0,0.11124121619523347,0.012445210576143416,0,0,0
+train,The city of Quebec is in India.,0,0,0.15610490339803687,0.009728236872361535,0,0,0
+train,The city of Xuancheng is in China.,1,0,0.9997388097056592,0.885162340261215,1,1,1
+train,The city of Niteroi is in Brazil.,1,1,0.975201839637081,0.8902100406144893,1,0,0
+train,The city of Gujrat is in Saudi Arabia.,0,0,0.10521053503803583,0.04308820357211562,0,0,0
+train,The city of Xuzhou is in China.,1,1,0.9997346976388687,0.9257343625260247,1,0,0
+train,The city of Selayang Baru Utara is in India.,0,1,0.6477982042329862,0.24607547973233254,0,1,0
+train,The city of Lviv is in China.,0,0,0.1847675158394788,0.010182077938571153,0,0,0
+train,The city of Matola is in Mozambique.,1,1,0.9603611588974901,0.7499659604713883,1,0,0
+train,The city of Bhayandar is in India.,1,1,0.9621075739434385,0.8477048667565923,1,0,0
+train,The city of Lyon is in France.,1,1,0.9915543729778096,0.9387507297486034,1,0,0
+train,The city of Guang'an is in Japan.,0,0,0.3208213127073222,0.04120407948193593,0,0,0
+train,The city of Zhabei is in China.,1,0,0.9995522991321281,0.8752438320060741,1,1,1
+train,The city of Jos is in India.,0,1,0.9817357222290557,0.7124821163060288,1,0,0
+train,The city of Cuiaba is in China.,0,0,0.46101678043144095,0.031321565709862983,0,0,0
+train,The city of Foshan is in South Africa.,0,0,0.49609385096315994,0.17247711286460374,0,0,0
+train,The city of Niigata is in Japan.,1,1,0.9808759633300255,0.8699286353094753,1,0,0
+train,The city of Hannover is in Germany.,1,1,0.9669140230036601,0.8735401764583958,1,0,0
+train,The city of Zhuzhou is in China.,1,1,0.9997326173753449,0.8932857716953501,1,0,0
+train,The city of Culiacan is in Indonesia.,0,0,0.15203224787582528,0.2501024706613308,0,0,0
+train,The city of Hermosillo is in China.,0,0,0.17328819717414984,0.016061503750129314,0,0,0
+train,The city of Cagayan de Oro is in the United States.,0,0,0.01798620963333718,0.02205718286604311,0,0,0
+train,The city of Puducherry is in China.,0,0,0.09534946307565575,0.017933386204214922,0,0,0
+train,The city of Cho Lon is in the Dominican Republic.,0,0,0.5621764962582618,0.3487625398204859,0,0,1
+train,The city of Seongnam-si is in South Korea.,1,1,0.9632305333139479,0.9262470057581758,1,0,0
+train,The city of Zaria is in Nigeria.,1,1,0.9719924797569098,0.8473945592876806,1,0,0
+train,The city of Xingtai is in China.,1,1,0.9998488180189222,0.9280775649775224,1,0,0
+train,The city of Tianshui is in Turkey.,0,0,0.12765261356721921,0.04471959871679808,0,0,0
+train,The city of Shihezi is in China.,1,1,0.9995197027476809,0.8481524543709368,1,0,0
+train,The city of Amman is in Japan.,0,0,0.21206880873012315,0.017862025805615078,0,0,0
+train,The city of Subang Jaya is in Malaysia.,1,1,0.9964063972529381,0.8133210991482729,1,0,0
+train,The city of Tlaquepaque is in Sudan.,0,0,0.21733751807640403,0.14062894090239397,0,0,0
+train,The city of Toulouse is in France.,1,1,0.9967775158670296,0.9386494825643824,1,0,0
+train,The city of Kirkuk is in the United States.,0,0,0.29098085439748156,0.08025746640358182,0,0,0
+train,The city of Bamako is in Mali.,1,1,0.9938070100899509,0.8944337862821689,1,0,0
+train,The city of Zaria is in Pakistan.,0,0,0.6113819630645291,0.4221675013384668,0,0,1
+train,The city of Al Basrah al Qadimah is in Iraq.,1,1,0.9433475718468479,0.5788269268607258,1,0,0
+train,The city of Edogawe is in Ukraine.,0,1,0.9688561680259189,0.470044866780216,0,1,0
+train,The city of Bhubaneswar is in India.,1,1,0.9970650483093408,0.9103943135112468,1,0,0
+train,The city of Tiruppur is in India.,1,1,0.9891815513960988,0.919008223717977,1,0,0
+train,The city of Zhongwei is in Jamaica.,0,0,0.4804786830933521,0.045603954653725784,0,0,0
+train,The city of Loni is in India.,1,0,0.9715639684327384,0.7254616118662679,1,1,1
+train,The city of Xuzhou is in India.,0,0,0.5544704656551479,0.12142958957570561,0,0,1
+train,The city of Shijiazhuang is in China.,1,1,0.999900069684721,0.9310152715813742,1,0,0
+train,The city of Camayenne is in Guinea.,1,0,0.9925393565155758,0.6229868554089397,1,1,1
+train,The city of Buraydah is in India.,0,0,0.682573722983702,0.32455834652732435,0,0,1
+train,The city of Bouake is in China.,0,0,0.16026603417811291,0.2841759352655728,0,0,0
+train,The city of Kharkiv is in Iraq.,0,0,0.09670579397222104,0.014223448693626586,0,0,0
+train,The city of Bucheon-si is in Uzbekistan.,0,0,0.7341195171478703,0.5465186723343516,1,1,1
+train,The city of Hegang is in Kyrgyzstan.,0,0,0.8539127475754614,0.3763790199446733,0,0,1
+train,The city of Durban is in Eritrea.,0,0,0.21469142277668554,0.07223050707754464,0,0,0
+train,The city of Penza is in Colombia.,0,0,0.8244619293301,0.5958956828648186,1,1,1
+train,The city of Nellore is in Egypt.,0,0,0.3380771383891895,0.013020257258973414,0,0,0
+train,The city of Santiago de los Caballeros is in Bangladesh.,0,0,0.39981166474055585,0.1033345936336135,0,0,0
+train,The city of Naberezhnyye Chelny is in Russia.,1,1,0.9790357602747937,0.9058455033759681,1,0,0
+train,The city of Bagcilar is in Turkey.,1,0,0.9465966670125384,0.7046175527476239,1,1,1
+train,The city of Jeonju is in South Korea.,1,1,0.9664104927365378,0.9328502225483974,1,0,0
+train,The city of Lubumbashi is in the Democratic Republic of the Congo.,1,1,0.9728307669035796,0.8754402515801968,1,0,0
+train,The city of Luancheng is in China.,1,1,0.9996922569490218,0.907317153599049,1,0,0
+train,The city of Mudanjiang is in China.,1,1,0.999989466479874,0.9187718525524037,1,0,0
+train,The city of Cucuta is in Nigeria.,0,0,0.15203224442106297,0.4742058173180177,0,0,0
+train,The city of Deyang is in China.,1,1,0.9999724643067799,0.6398446450108037,1,0,0
+train,The city of Krasnodar is in Russia.,1,1,0.9924227587484291,0.9373795025814772,1,0,0
+train,The city of Lodz is in Poland.,1,1,0.9928785720884605,0.9576534081810779,1,0,0
+train,The city of Tanggu is in China.,1,1,0.999981222124196,0.9081978262098599,1,0,0
+train,The city of Tasikmalaya is in China.,0,0,0.16238003672118276,0.1109988385717883,0,0,0
+train,The city of Cixi is in China.,1,1,0.9998378071897991,0.9222916405880031,1,0,0
+train,The city of Kayseri is in Turkey.,1,1,0.9706877694472956,0.5072781396841477,1,0,0
+train,The city of Ulan Bator is in Mongolia.,1,1,0.957277802991565,0.7808130170998746,1,0,0
+train,The city of Weifang is in China.,1,0,0.9998464376088338,0.919318978975631,1,1,1
+train,The city of Wuzhong is in China.,1,1,0.9975273766241246,0.8943129261528021,1,0,0
+train,The city of Conakry is in Sudan.,0,0,0.4455295559740944,0.5135992353235608,1,1,0
+train,The city of Omsk is in Russia.,1,0,0.9850429139363007,0.9378769614383259,1,1,1
+train,The city of Ndola is in Poland.,0,0,0.4571367374673812,0.3057275399687513,0,0,0
+train,The city of Thuan An is in China.,0,0,0.9998259945625727,0.8461063464271124,1,1,1
+train,The city of Guiyang is in China.,1,1,0.9999583404185642,0.9387136239289222,1,0,0
+train,The city of Shizuoka is in Japan.,1,0,0.9787126476881745,0.9469990361458595,1,1,1
+train,The city of Ribeirao Preto is in Brazil.,1,1,0.982013789445427,0.9129259949897157,1,0,0
+train,The city of Korla is in the United States.,0,1,0.7431679965679066,0.3803825290216903,0,1,0
+train,The city of Karaj is in Mexico.,0,0,0.9372107929914476,0.31036661860605064,0,0,1
+train,The city of Bilimora is in the United States.,0,0,0.4765796582075867,0.3465708298783077,0,0,0
+train,The city of Bogor is in Yemen.,0,0,0.2094696875683119,0.4617034787665491,0,0,0
+train,The city of Kisangani is in Mozambique.,0,0,0.35936414030005087,0.30001125563594966,0,0,0
+train,The city of Chennai is in Tanzania.,0,0,0.45326186265411816,0.03657333971537412,0,0,0
+train,The city of Tangier is in Morocco.,1,1,0.9998273484405962,0.9291600895342351,1,0,0
+train,The city of Nagpur is in India.,1,1,0.9920620061832116,0.9340430238235162,1,0,0
+train,The city of Korla is in China.,1,0,0.9986645993121401,0.4594834730699318,0,0,1
+train,The city of Yaounde is in China.,0,0,0.19682620903564985,0.01940304712943557,0,0,0
+train,The city of Guiyang is in India.,0,0,0.1602660357459581,0.04450145201791552,0,0,0
+train,The city of Huaihua is in China.,1,1,0.9995557816295345,0.8640986203240955,1,0,0
+train,The city of Osaka is in Indonesia.,0,0,0.06278920811682114,0.010953867130929466,0,0,0
+train,The city of Helsinki is in China.,0,0,0.06008664908056756,0.01002050282232653,0,0,0
+train,The city of Bukavu is in China.,0,0,0.1143685260867935,0.24205735752818794,0,0,0
+train,The city of Chuxiong is in Russia.,0,0,0.6791786864328052,0.22586981838653766,0,0,1
+train,The city of Ansan-si is in Afghanistan.,0,0,0.217337514429769,0.3710318405999775,0,0,0
+train,The city of Pelentong is in India.,0,1,0.9481545328808508,0.5599945818442325,1,0,0
+train,The city of Kampung Baru Subang is in Malaysia.,1,1,0.9678992906818417,0.8182540948309092,1,0,0
+train,The city of Krakow is in Poland.,1,1,0.9898303413351418,0.9324095073220479,1,0,0
+train,The city of Manaus is in Brazil.,1,1,0.9873750515860521,0.92004357847142,1,0,0
+train,The city of Baku is in Azerbaijan.,1,1,0.9984752136684432,0.9089959331705061,1,0,0
+train,The city of Kobe is in Japan.,1,1,0.991288615844306,0.9344556437791098,1,0,0
+train,The city of Wanxian is in Syria.,0,0,0.7606506574758145,0.1272573727077501,0,0,1
+train,The city of Bucaramanga is in Turkey.,0,0,0.08632347865727309,0.017955208707609114,0,0,0
+train,The city of Accra is in Ghana.,1,1,0.999868648197897,0.9127289919842599,1,0,0
+train,The city of Kitakyushu is in Nigeria.,0,0,0.1259227712974138,0.02477342572548429,0,0,0
+train,The city of Matola is in China.,0,0,0.7490872138175028,0.20071258079328777,0,0,1
+train,The city of Kemerovo is in Lebanon.,0,0,0.08882029488806988,0.04266389770091473,0,0,0
+train,The city of Pasir Gudang is in Malaysia.,1,0,0.9850429142266873,0.8414911949657498,1,1,1
+train,The city of Aleppo is in Syria.,1,1,0.9693242007663433,0.8748460324396691,1,0,0
+train,The city of Pontianak is in Indonesia.,1,1,0.9916842205355304,0.8555518546737473,1,0,0
+train,The city of Nagoya is in India.,0,0,0.3007455934555544,0.05028349768115064,0,0,0
+train,The city of Vladivostok is in Russia.,1,0,0.988491850453469,0.9147109045052081,1,1,1
+train,The city of Petaling Jaya is in Malaysia.,1,1,0.9992903296329106,0.9072135471616003,1,0,0
+train,The city of Tolyatti is in China.,0,0,0.3311197285667367,0.01968238427698579,0,0,0
+train,The city of Bareilly is in India.,1,1,0.9859363739803966,0.861600113830238,1,0,0
+train,The city of Accra is in Mozambique.,0,0,0.281405605481279,0.022652740701399172,0,0,0
+train,The city of Nyala is in China.,0,0,0.8774767894905604,0.5390379379074836,1,1,1
+train,The city of Kanayannur is in India.,1,0,0.9294403995400005,0.7757053962166517,1,1,1
+train,The city of Goyang-si is in Brazil.,0,0,0.23091975044491675,0.16175661965803745,0,0,0
+train,The city of Maoming is in China.,1,1,0.9997219690229809,0.7952991477798119,1,0,0
+train,The city of Binh Thanh is in Brazil.,0,0,0.7025300454713888,0.09987766843430751,0,0,1
+train,The city of Qui Nhon is in Jordan.,0,0,0.21733751833424184,0.060783636364124385,0,0,0
+train,The city of Najafgarh is in India.,1,1,0.9572778026903809,0.7810320146014106,1,0,0
+train,The city of Mandalay is in Myanmar.,1,1,0.9918120907235589,0.9166433565040232,1,0,0
+train,The city of Calgary is in China.,0,0,0.1192029255892026,0.01626927783307139,0,0,0
+train,The city of Contagem is in China.,0,0,0.507811871397307,0.1261793973036438,0,0,1
+train,The city of Madurai is in China.,0,0,0.1329642459096806,0.009599990363237904,0,0,0
+train,The city of Ningbo is in China.,1,1,0.9999800110819433,0.936676985632351,1,0,0
+train,The city of Malatya is in Iran.,0,0,0.8080672059912715,0.053360584048667524,0,0,1
+train,The city of Cheonan is in South Korea.,1,1,0.9532750422691807,0.933936660600299,1,0,0
+train,The city of Sialkot is in Pakistan.,1,0,0.9736446477138555,0.8562267345510144,1,1,1
+train,The city of Jiaozhou is in China.,1,1,0.999699383670213,0.9181672623742904,1,0,0
+train,The city of Tolyatti is in Russia.,1,0,0.9719924789385813,0.9112619300035267,1,1,1
+train,The city of Can Tho is in China.,0,0,0.3174262695323728,0.12360396431978891,0,0,0
+train,The city of Jeonju is in Egypt.,0,0,0.36296917968180925,0.02278076891199598,0,0,0
+train,The city of Ganzhou is in China.,1,1,0.9999493552820125,0.9161455932112639,1,0,0
+train,The city of Liuzhou is in China.,1,1,0.9999589862628229,0.8955720316817839,1,0,0
+train,The city of Jieyang is in Russia.,0,1,0.33807714235487113,0.069076216267946,0,1,1
+train,The city of Tiruppur is in Russia.,0,0,0.3040416614694298,0.05240121502870878,0,0,0
+train,The city of Bareilly is in North Korea.,0,0,0.09268777816173274,0.04311758631623311,0,0,0
+train,The city of Mexicali is in Mexico.,1,1,0.9572778029116337,0.8038080336077279,1,0,0
+train,The city of Mukim Pulai is in Malaysia.,1,1,0.9603611611644274,0.8049989750163852,1,0,0
+train,The city of Pokhara is in Nepal.,1,0,0.9835969682490785,0.9141398267195656,1,1,1
+train,The city of Yinchuan is in China.,1,0,0.9999031439207575,0.9370082426056363,1,1,1
+train,The city of Erode is in Guinea.,0,0,0.6187804212638154,0.3309421546846102,0,0,1
+train,The city of Coimbatore is in India.,1,1,0.9916842206630454,0.9171564586654622,1,0,0
+train,The city of Jabalpur is in India.,1,1,0.9946981053005902,0.9113784433745405,1,0,0
+train,The city of Arifwala is in Pakistan.,1,0,0.8791467663324773,0.7032300227115896,1,1,1
+train,The city of Caloocan is in the Philippines.,1,1,0.9828232896383452,0.8671293767784286,1,0,0
+train,The city of Camama is in Russia.,0,1,0.9241418155953809,0.49629105352552594,0,1,0
+train,The city of Neijiang is in Afghanistan.,0,0,0.1801066666170095,0.02717432373820759,0,0,0
+train,The city of Rui'an is in China.,1,1,0.9999546021299051,0.6546442313028578,1,0,0
+train,The city of Qinzhou is in China.,1,1,0.9998785182498355,0.9197354408509778,1,0,0
+train,The city of Manaus is in Malaysia.,0,0,0.05749327446335321,0.03325417566414548,0,0,0
+train,The city of Detroit is in the United States.,1,1,0.978712649040609,0.9036396287294904,1,0,0
+train,The city of Recife is in Brazil.,1,0,0.9881308785554231,0.7196265447174369,1,1,1
+train,The city of Homs is in Syria.,1,1,0.9863631640934187,0.8633601680462404,1,0,0
+train,The city of Tshikapa is in South Korea.,0,0,0.9425067238562777,0.6767613079932272,1,1,1
+train,The city of Lueliang is in India.,0,0,0.9546474208337529,0.6235315779944315,1,1,1
+train,The city of Torreon is in Honduras.,0,0,0.9706877686855776,0.5496689971747313,1,1,1
+train,The city of Linfen is in Russia.,0,0,0.5583269695326355,0.34010120946273625,0,0,1
+train,The city of Mysuru is in India.,1,1,0.9905874100562041,0.8975071399938274,1,0,0
+train,The city of Nouakchott is in Morocco.,0,0,0.10521053907309402,0.15153513169669244,0,0,0
+train,The city of Kisangani is in the Democratic Republic of the Congo.,1,1,0.9566342019455337,0.812683484432793,1,0,0
+train,The city of Yangjiang is in China.,1,1,0.9999520504193401,0.9036003430711438,1,0,0
+train,The city of Nanjing is in India.,0,0,0.5660185260833723,0.0912073735967365,0,0,1
+train,The city of Mississauga is in Canada.,1,0,0.9817357212690764,0.8724678881851329,1,1,1
+train,The city of Rohini is in India.,1,1,0.9780517458320185,0.7669123194864397,1,0,0
+train,The city of Shah Alam is in Malaysia.,1,1,0.9991440993846102,0.8260484801067595,1,0,0
+train,The city of Ibague is in Colombia.,1,1,0.963230532502963,0.9040364359717683,1,0,0
+train,The city of Makhachkala is in China.,0,0,0.06560483499903881,0.03657520475044397,0,0,0
+train,The city of Al Ain City is in the United Arab Emirates.,1,1,0.9591542834540845,0.903724919860721,1,0,0
+train,The city of San Miguel de Tucuman is in China.,0,0,0.0705595985326215,0.017660025032755253,0,0,0
+train,The city of Liupanshui is in China.,1,1,0.9976032690513172,0.8345444260799137,1,0,0
+train,The city of Maianga is in China.,0,0,0.8221891320762961,0.2610742873925016,0,0,1
+train,The city of Sholapur is in India.,1,1,0.989510907824767,0.8922533212884985,1,0,0
+train,The city of Zhenjiang is in Norway.,0,0,0.3345894312242791,0.06817477883981651,0,0,0
+train,The city of Suez is in China.,0,0,0.21469141839556388,0.012149047014064723,0,0,0
+train,The city of Dalian is in India.,0,0,0.31742629188439936,0.058368270312351624,0,0,0
+train,The city of Londrina is in Brazil.,1,1,0.9822877002721891,0.7693126135668976,1,0,0
+train,The city of Odesa is in Pakistan.,0,0,0.04468087227255419,0.02450828040597451,0,0,0
+train,The city of Port-au-Prince is in Haiti.,1,1,0.9674102578388976,0.8749976081474561,1,0,0
+train,The city of Zapopan is in Angola.,0,0,0.5078118605939914,0.23357922680658513,0,0,1
+train,The city of Surat is in India.,1,0,0.9845754481788687,0.9265380818265587,1,1,1
+train,The city of Kobe is in China.,0,0,0.35220179132239166,0.2397044649159469,0,0,0
+train,The city of Ho Chi Minh City is in Vietnam.,1,1,0.9966233874859436,0.9255740438377575,1,0,0
+train,The city of Kananga is in China.,0,0,0.24798743597159167,0.05621463575206832,0,0,0
+train,The city of Wuhan is in Nigeria.,0,0,0.13117322487437771,0.01569542640326904,0,0,0
+train,The city of Wuzhong is in Vietnam.,0,0,0.6442251225807772,0.2764217354453773,0,0,1
+train,The city of Soshanguve is in India.,0,0,0.8824278613400015,0.4567152410032967,0,0,1
+train,The city of Shaoguan is in China.,1,1,0.9999251537670416,0.9082025968275718,1,0,0
+train,The city of Anqing is in India.,0,0,0.44939264586594563,0.07846569872007307,0,0,0
+train,The city of Kimhae is in South Korea.,1,1,0.9111797077661797,0.917567430770009,1,0,0
+train,The city of Anshan is in Pakistan.,0,0,0.6584174902682746,0.11002620894732408,0,0,1
+train,The city of Zarqa is in Jordan.,1,1,0.9902915231144451,0.864319457295198,1,0,0
+train,The city of Zhoushan is in China.,1,1,0.9988213279808501,0.8789971562547622,1,0,0
+train,The city of Tegucigalpa is in Honduras.,1,1,0.9953181770673245,0.8572192729514532,1,0,0
+train,The city of Vilnius is in Ukraine.,0,0,0.2845760022299001,0.05512044521075373,0,0,0
+train,The city of Bikaner is in Egypt.,0,0,0.14608724355542232,0.02874191994628792,0,0,0
+train,The city of Pasig City is in the Philippines.,1,1,0.9796676475291413,0.9133310624704442,1,0,0
+train,The city of Malang is in Angola.,0,0,0.2974699358881413,0.23903056163560282,0,0,0
+train,The city of Yibin is in Canada.,0,0,0.7931059474659157,0.1490417351051668,0,0,1
+train,The city of Borivli is in Azerbaijan.,0,1,0.9294404021263929,0.6922855054126278,1,0,0
+train,The city of Adachi is in Japan.,1,1,0.9597620545964902,0.8360868911276993,1,0,0
+train,The city of Warri is in Nigeria.,1,1,0.9669140213075005,0.7616654132212628,1,0,0
+train,The city of Sao Jose dos Campos is in Uganda.,0,0,0.32766830415096515,0.028779794826520266,0,0,0
+train,The city of Bobo-Dioulasso is in Malaysia.,0,0,0.11757213428936875,0.05320032267909937,0,0,0
+train,The city of Homyel' is in Belarus.,1,1,0.9674102547514232,0.8735899592345051,1,0,0
+train,The city of Ilorin is in Nigeria.,1,1,0.9678992905319551,0.9249174962597079,1,0,0
+train,The city of Quito is in Ecuador.,1,1,0.996461913772558,0.8705007040585692,1,0,0
+train,The city of Oujda is in Morocco.,1,0,0.9969721648856427,0.8625997769058412,1,1,1
+train,The city of Budapest is in South Korea.,0,0,0.016403032483662087,0.01734814358917711,0,0,0
+train,The city of Sanaa is in Yemen.,1,0,0.9840936095090163,0.9006314398029963,1,1,1
+train,The city of Hamamatsu is in Russia.,0,0,0.33807713787647736,0.04721608787076132,0,0,0
+train,The city of Ranchi is in China.,0,0,0.13846179581423212,0.11195105909753003,0,0,0
+train,The city of Kota Bharu is in Malaysia.,1,1,0.9981613347059487,0.8756310703241592,1,0,0
+train,The city of Kallakurichi is in Germany.,0,0,0.28776780790501927,0.025325861330426153,0,0,0
+train,The city of Daxing'anling is in China.,1,1,0.9999940448606521,0.8668949407726745,1,0,0
+train,The city of Osogbo is in Nigeria.,1,1,0.9822877023368968,0.8688274555318084,1,0,0
+train,The city of Bandar Lampung is in Indonesia.,1,1,0.9850429137047818,0.9395661488685901,1,0,0
+train,The city of Battagram is in Pakistan.,1,0,0.8479677439772334,0.7493734985177152,1,1,1
+train,The city of Marrakesh is in Morocco.,1,1,0.9998849826423615,0.9481648811910203,1,0,0
+train,The city of Johannesburg is in Japan.,0,0,0.07477004902793444,0.024552100418756953,0,0,0
+train,The city of Incheon is in South Korea.,1,1,0.9987934103127585,0.9277986299263083,1,0,0
+train,The city of Ulanqab is in Pakistan.,0,0,0.1276526184377086,0.44073831908572814,0,0,0
+train,The city of Zigong is in China.,1,1,0.9999296881530165,0.8619917018893055,1,0,0
+train,The city of Kolhapur is in India.,1,1,0.9939964040744634,0.9103752513155926,1,0,0
+train,The city of Minsk is in Egypt.,0,0,0.2974699476995904,0.023329122753545345,0,0,0
+train,The city of Abeokuta is in Nigeria.,1,1,0.9755769091316957,0.8500296315906758,1,0,0
+train,The city of UEruemqi is in China.,1,1,0.999910422113677,0.7860750279302069,1,0,0
+train,The city of Baoji is in Japan.,0,0,0.8558511427203185,0.7003241868564783,1,1,1
+train,The city of Daejeon is in Rwanda.,0,0,0.24508501460531423,0.039312003525809845,0,0,0
+train,The city of Albuquerque is in Nepal.,0,0,0.49609384732848166,0.024337480763129984,0,0,0
+train,The city of Cimahi is in Egypt.,0,0,0.17781087887052804,0.11522421934260169,0,0,0
+train,The city of Sorocaba is in Iraq.,0,0,0.21206880760153235,0.0934979204784903,0,0,0
+train,The city of Hongkou is in China.,1,1,0.9999501404180146,0.8907893147105596,1,0,0
+train,The city of Ajmer is in Japan.,0,0,0.1480471843958573,0.023114369993015537,0,0,0
+train,The city of Putian is in Egypt.,0,1,0.5544704570683975,0.1346319247030142,0,1,0
+train,The city of Ile-Ife is in Nigeria.,1,1,0.97404264230967,0.7460331681406752,1,0,0
+train,The city of Hubballi is in Angola.,0,0,0.40356685890456506,0.17595246620959523,0,0,0
+train,The city of Indore is in Myanmar.,0,0,0.06560483249584859,0.023575326111666996,0,0,0
+train,The city of Guarulhos is in Brazil.,1,1,0.9822877024224268,0.813789279119124,1,0,0
+train,The city of Jeddah is in Saudi Arabia.,1,1,0.9941800405272447,0.9154651136721824,1,0,0
+train,The city of Kasur is in Pakistan.,1,1,0.9802808729029362,0.6918321896277523,1,0,0
+train,The city of Tashkent is in Ukraine.,0,0,0.1968262004411252,0.05848928368704256,0,0,0
+train,The city of Qiqihar is in South Korea.,0,0,0.32082129423597505,0.7027769936864783,1,1,0
+train,The city of Ciudad Juarez is in Japan.,0,0,0.051845469973856015,0.010898888018585172,0,0,0
+train,The city of Bekasi is in China.,0,0,0.1645164486854357,0.16214821293960324,0,0,0
+train,The city of Pingliang is in Indonesia.,0,0,0.11757214265754826,0.38009265657658536,0,0,0
+train,The city of Pietermaritzburg is in South Africa.,1,1,0.9759464463974118,0.7877824795170459,1,0,0
+train,The city of Hue is in Iraq.,0,0,0.45326183591333735,0.28394835972102517,0,0,0
+train,The city of Chiclayo is in Pakistan.,0,0,0.09807932475526861,0.08608510860872584,0,0,0
+train,The city of Ajegunle is in Russia.,0,0,0.5621764960404098,0.7374839616236762,1,1,1
+train,The city of Hegang is in China.,1,1,0.9997997262226165,0.39154910951668936,0,1,0
+train,The city of N'Djamena is in Chad.,1,1,0.9763105284870714,0.9069747872934655,1,0,0
+train,The city of Golfe is in Angola.,1,0,0.8902942234285148,0.41075169106464643,0,0,1
+train,The city of Nansana is in China.,0,1,0.7401743587506872,0.2572479616000397,0,1,0
+train,The city of Linyi is in Mexico.,0,0,0.7718434964610184,0.08766616648251753,0,0,1
+train,The city of Yangjiang is in India.,0,0,0.5774953571782385,0.07609113352265462,0,0,1
+train,The city of Benguela is in Angola.,1,0,0.2479874503264486,0.12119514189659497,0,0,0
+train,The city of Ziyang is in Iraq.,0,0,0.705785038307703,0.4228418477772511,0,0,1
+train,The city of Haiphong is in China.,0,0,0.131173232712764,0.06442292467399094,0,0,0
+train,The city of Homs is in Morocco.,0,0,0.1895210950930342,0.390373886206236,0,0,0
+train,The city of Ulyanovsk is in Russia.,1,0,0.989510907892342,0.9287571504531795,1,1,1
+train,The city of Al Hudaydah is in Yemen.,1,1,0.9481545302592999,0.7838454988815701,1,0,0
+train,The city of Zhangye is in China.,1,1,0.9998831715933506,0.9034430157309186,1,0,0
+train,The city of Bijie is in China.,1,0,0.9995826842724178,0.7430979218961041,1,1,1
+train,The city of Tirunelveli is in India.,1,1,0.9845754479565191,0.8016100068223819,1,0,0
+train,The city of Borivli is in India.,1,1,0.9822877017698931,0.8134320057931201,1,0,0
+train,The city of Saitama is in Australia.,0,0,0.8221891268472135,0.14639593850860705,0,0,1
+train,The city of Puxi is in Nigeria.,0,0,0.920789680125233,0.5146728308344437,1,1,1
+train,The city of Wuhan is in China.,1,1,0.9999952149053619,0.9421125280833068,1,0,0
+train,The city of Suwon is in South Korea.,1,1,0.9817357205975649,0.9265104894164338,1,0,0
+train,The city of Jiangmen is in Poland.,0,0,0.23651622635801894,0.061568329304847194,0,0,0
+train,The city of Suizhou is in China.,1,1,0.9995557816440712,0.9080086906834278,1,0,0
+train,The city of Dar es Salaam is in Tanzania.,1,1,0.9845754479840029,0.9080708459459438,1,0,0
+train,The city of Bukavu is in the Democratic Republic of the Congo.,1,1,0.9433475761037837,0.6816050154158741,1,0,0
+train,The city of Mirpur Model Thana is in Bangladesh.,1,0,0.754914988154136,0.6205626154177653,1,1,1
+train,The city of Multan is in Pakistan.,1,1,0.9969721648326646,0.6507760167712163,1,0,0
+train,The city of Bucaramanga is in Colombia.,1,1,0.9833429605159874,0.9082834447634448,1,0,0
+train,The city of Jaboatao dos Guararapes is in Brazil.,1,1,0.9609517100374805,0.8108725354269878,1,0,0
+train,The city of Peshawar is in Pakistan.,1,1,0.98145343522776,0.6461570515066499,1,0,0
+train,The city of Sao Jose dos Campos is in Brazil.,1,1,0.9766692320308182,0.9069631195085117,1,0,0
+train,The city of Johannesburg is in South Africa.,1,1,0.9898303417153774,0.9294732004959376,1,0,0
+train,The city of Gold Coast is in Angola.,0,0,0.20946969437096907,0.03457492198796517,0,0,0
+train,The city of Ciudad Guayana is in Poland.,0,0,0.18476750618680096,0.028171016955658507,0,0,0
+train,The city of Makati City is in the Philippines.,1,1,0.9820137899244059,0.8986439989581896,1,0,0
+train,The city of Indore is in India.,1,1,0.9942697530866015,0.9402460123169988,1,0,0
+train,The city of Hengyang is in the Philippines.,0,0,0.72797543891734,0.345347049954577,0,0,1
+train,The city of Sialkot is in China.,0,0,0.4765796502870079,0.10485249373925533,0,0,0
+train,The city of Bhavnagar is in India.,1,0,0.9615338055648086,0.9151222752915404,1,1,1
+train,The city of Gaziantep is in Turkey.,1,1,0.9802808736314325,0.8945020680724693,1,0,0
+train,The city of Okayama is in Malaysia.,0,0,0.07585817830197214,0.05832255477353275,0,0,0
+train,The city of Kinshasa is in Sudan.,0,0,0.10230470380156037,0.050444575830444635,0,0,0
+train,The city of Beira is in China.,0,0,0.4493926576855816,0.09839850425491482,0,0,0
+train,The city of Macapa is in Iraq.,0,0,0.17106118900404038,0.06492991059057679,0,0,0
+train,The city of Marrakesh is in China.,0,0,0.08389039029250844,0.008132036214002348,0,0,0
+train,The city of Tomsk is in the Philippines.,0,0,0.3073580238810818,0.1113857355482285,0,0,0
+train,The city of Nova Iguacu is in Brazil.,1,1,0.9732407165497317,0.8938308214506397,1,0,0
+train,The city of Ankara is in Jordan.,0,0,0.25982563523498053,0.013508579072255762,0,0,0
+train,The city of Bangkok is in Thailand.,1,1,0.9990149915543958,0.9127434431894789,1,0,0
+train,The city of Chuzhou is in Bangladesh.,0,1,0.6893056092836954,0.47949020012742327,0,1,0
+train,The city of Dharavi is in India.,1,0,0.9845754472505998,0.8588524689871472,1,1,1
+train,The city of Pimpri is in India.,1,1,0.8976952931802079,0.8513435720994575,1,0,0
+train,The city of Fushun is in China.,1,1,0.9998794635107058,0.8087050592181986,1,0,0
+train,The city of Basrah is in Iraq.,1,1,0.9886682454345767,0.8534517198622352,1,0,0
+train,The city of Wanning is in China.,1,1,0.9998427965482984,0.5479351393352305,1,0,0
+train,The city of Ipoh is in Ghana.,0,0,0.3242353968130481,0.11491300437076835,0,0,0
+train,The city of Perm is in Russia.,1,1,0.9871787856759866,0.9448399424320081,1,0,0
+train,The city of Algiers is in the Democratic Republic of the Congo.,0,0,0.9525741268194146,0.4978449845950095,0,0,1
+train,The city of Nasiriyah is in Venezuela.,0,0,0.8774767858366617,0.3247594207063138,0,0,1
+train,The city of Shangrao is in China.,1,1,0.999724132081537,0.7622950251294649,1,0,0
+train,The city of Zhaotong is in India.,0,0,0.2538610195661987,0.19383758734553144,0,0,0
+train,The city of Kozhikode is in India.,1,1,0.9886682456047461,0.8547185991017381,1,0,0
+train,The city of Curitiba is in Brazil.,1,1,0.9936116793261718,0.8960274714147665,1,0,0
+train,The city of Beijing is in the Philippines.,0,0,0.042722195670649776,0.013147149380578751,0,0,0
+train,The city of Munich is in Syria.,0,0,0.2598256401339477,0.014688740390468214,0,0,0
+train,The city of Shuangyashan is in China.,1,1,0.9997817579314424,0.8750543416612648,1,0,0
+train,The city of Bucharest is in China.,0,0,0.22541660593400717,0.006917831572660585,0,0,0
+train,The city of Cotonou is in Benin.,1,1,0.9901401453852192,0.8175522505886804,1,0,0
+train,The city of Tijuana is in China.,0,0,0.08509903863263517,0.010688643669425422,0,0,0
+train,The city of Huaibei is in China.,1,1,0.9999221724692439,0.7994985457891733,1,0,0
+train,The city of Dalian is in China.,1,1,0.9999826332805035,0.8028091493999172,1,0,0
+train,The city of Bhavnagar is in China.,0,0,0.16238003281803895,0.02144548503633808,0,0,0
+train,The city of Gwalior is in India.,1,1,0.9967775159388146,0.9061813806220966,1,0,0
+train,The city of Durban is in South Africa.,1,1,0.9859363733950398,0.9359685117966312,1,0,0
+train,The city of Ordos is in China.,1,1,0.9999046453883941,0.6349067679291414,1,0,0
+train,The city of Erbil is in Iraq.,1,1,0.9674102572465411,0.878493612285738,1,0,0
+train,The city of Puxi is in China.,1,1,0.9999412515800756,0.7697960362347811,1,0,0
+train,The city of Albuquerque is in the United States.,1,1,0.9658995720093279,0.8391873906565831,1,0,0
+train,The city of Shekhupura is in Pakistan.,1,1,0.9353465056919388,0.8212352316557103,1,0,0
+train,The city of Daegu is in South Korea.,1,1,0.980280874206466,0.9250784041742586,1,0,0
+train,The city of The Bronx is in the Democratic Republic of the Congo.,0,0,0.3140505518813003,0.06388164824959952,0,0,0
+train,The city of New York City is in the United States.,1,1,0.9935117304628227,0.8907845829947943,1,0,0
+train,The city of Xiangtan is in Indonesia.,0,0,0.6926419749159591,0.24112498439461233,0,0,1
+train,The city of Shizuishan is in Iran.,0,0,0.07477005292721374,0.03240628002972297,0,0,0
+train,The city of Paranaque City is in the Philippines.,1,1,0.9597620580324291,0.4971264530629967,0,1,0
+train,The city of Nha Trang is in Morocco.,0,0,0.044680872292805145,0.06799497349478614,0,0,0
+train,The city of Ha'il is in Finland.,0,0,0.6859494568126256,0.23448730822271716,0,0,1
+train,The city of Malatya is in Turkey.,1,1,0.9884918507600948,0.9045444054703798,1,0,0
+train,The city of Jalandhar is in Russia.,0,0,0.403566856741946,0.09951853284900872,0,0,0
+train,The city of Sevastopol is in Brazil.,0,0,0.42250464358061374,0.023884949726742374,0,0,0
+train,The city of Ciudad Nezahualcoyotl is in Bangladesh.,0,0,0.11279539601586214,0.0351142344139836,0,0,0
+train,The city of Mulenvos is in Angola.,1,0,0.7634837669992817,0.6012060604197726,1,1,1
+train,The city of Yekaterinburg is in Iraq.,0,0,0.12252321436647536,0.016674466142169622,0,0,0
+train,The city of Istanbul is in China.,0,0,0.05419873080245508,0.007851564124810246,0,0,0
+train,The city of Cucuta is in Colombia.,1,1,0.9865717443268318,0.7995825753959895,1,0,0
+train,The city of Leipzig is in Germany.,1,1,0.9905874103739172,0.8533088269839901,1,0,0
+train,The city of Jamnagar is in the Philippines.,0,0,0.3380771297706868,0.12904034386360694,0,0,0
+train,The city of Beijing is in China.,1,1,0.9999979896254877,0.9393480396963327,1,0,0
+train,The city of Sukkur is in Pakistan.,1,1,0.9814534345374619,0.8775228932174017,1,0,0
+train,The city of Dongying is in Mexico.,0,0,0.3522017782658274,0.07715466300072048,0,0,0
+train,The city of Qinhuangdao is in India.,0,0,0.1023047042999779,0.02331904789163785,0,0,0
+train,The city of Weihai is in Tajikistan.,0,0,0.6477982341597455,0.3125370921207727,0,0,1
+train,The city of Assiut is in Egypt.,1,1,0.9881308793046502,0.7405732111112258,1,0,0
+train,The city of Al Mahallah al Kubra is in Indonesia.,0,0,0.8633916053804863,0.40364539818237183,0,0,1
+train,The city of Dortmund is in Germany.,1,1,0.9525741279393759,0.8892545022321549,1,0,0
+train,The city of Goiania is in Brazil.,1,0,0.9857180662238587,0.9094974323147914,1,1,1
+train,The city of Xuhui is in China.,1,0,0.9989012689124855,0.8751223354194714,1,1,1
+train,The city of Laibin is in China.,1,1,0.9995859304580507,0.8844849786158449,1,0,0
+train,The city of Likasi is in the Democratic Republic of the Congo.,1,1,0.9425067261375989,0.8201959338774151,1,0,0
+train,The city of Karaj is in Iran.,1,1,0.961533805648135,0.6308439521170682,1,0,0
+train,The city of Benxi is in China.,1,1,0.9999369724118066,0.9342993529890592,1,0,0
+train,The city of Ufa is in Russia.,1,1,0.9873750506132607,0.7837857477013611,1,0,0
+train,The city of Abidjan is in Côte d'Ivoire.,1,1,0.9961755160569526,0.8907544488793039,1,0,0
+train,The city of Hohhot is in China.,1,1,0.9999379495069037,0.919568429034222,1,0,0
+train,The city of Guatemala City is in Guatemala.,1,1,0.993710097786573,0.8520017217018432,1,0,0
+train,The city of Nanchong is in China.,1,1,0.9998794635126638,0.9236192660859351,1,0,0
+train,The city of Tlaquepaque is in Mexico.,1,1,0.9465966684859995,0.8290870204669064,1,0,0
+train,The city of Qiqihar is in China.,1,1,0.9999546021323547,0.8669792383635999,1,0,0
+train,The city of Pasig City is in Syria.,0,0,0.08389038344220963,0.017577509061800837,0,0,0
+train,The city of Ulhasnagar is in Japan.,0,0,0.43782349384293395,0.17946211905868528,0,0,0
+train,The city of Yibin is in China.,1,0,0.9997367616762662,0.8568417504264394,1,1,1
+train,The city of Duque de Caxias is in China.,0,0,0.07477004381670353,0.030485897225611257,0,0,0
+train,The city of Caloocan is in India.,0,0,0.7401743455749902,0.7888768546020339,1,1,1
+train,The city of Al Ahmadi is in Kuwait.,1,1,0.8376199738634611,0.5564861992524817,1,0,0
+train,The city of Xuchang is in China.,1,1,0.9995761152582278,0.8881759975839362,1,0,0
+train,The city of Orumiyeh is in Angola.,0,0,0.5117165897918297,0.28278825714298256,0,0,1
+train,The city of Hamamatsu is in Japan.,1,1,0.9925393565065797,0.9306364421844544,1,0,0
+train,The city of Saint Petersburg is in India.,0,0,0.4687906128545398,0.02100072827836579,0,0,0
+train,The city of Tegucigalpa is in China.,0,0,0.05184546802148455,0.012184332413908143,0,0,0
+train,The city of Sanya is in China.,1,1,0.9799765586577173,0.6906358455569832,1,0,0
+train,The city of Milwaukee is in the United States.,1,1,0.9759464466517274,0.8653044527378693,1,0,0
+train,The city of Rangpur is in Bangladesh.,1,1,0.9658995729932471,0.8090462768571188,1,0,0
+train,The city of Aktobe is in Pakistan.,0,0,0.07585818135130377,0.16299535431613796,0,0,0
+train,The city of Zhangjiakou is in China.,1,0,0.99986657998035,0.9277399614794977,1,1,1
+train,The city of Semarang is in Indonesia.,1,1,0.9817357208548941,0.9160136238158756,1,0,0
+train,The city of Mukim Pulai is in Belarus.,0,0,0.399811643411237,0.16845189680635198,0,0,0
+train,The city of Siliguri is in Pakistan.,0,0,0.04084571828074635,0.09521525678346512,0,0,0
+train,The city of Bijie is in Brazil.,0,1,0.7745833898678616,0.7719414358454634,1,0,0
+train,The city of Arifwala is in South Africa.,0,0,0.7461389824160156,0.5568244777649272,1,1,1
+train,The city of Baghdad is in China.,0,0,0.14414884675185918,0.010211266182322765,0,0,0
+train,The city of Cimahi is in Indonesia.,1,1,0.9956005867221026,0.8261741745311294,1,0,0
+train,The city of Jiujiang is in China.,1,1,0.9999640869889671,0.937903807641144,1,0,0
+train,The city of Shekhupura is in Lithuania.,0,1,0.5,0.2709215178431292,0,1,1
+train,The city of Guigang is in China.,1,0,0.999848818012558,0.9006436439799652,1,1,1
+train,The city of Fukuoka is in Japan.,1,1,0.9840936088061045,0.9277973841578845,1,0,0
+train,The city of Kolkata is in India.,1,1,0.9962345861039201,0.9335484918938924,1,0,0
+train,The city of Nashik is in India.,1,1,0.9881308792942617,0.8672594739648416,1,0,0
+train,The city of Warangal is in India.,1,0,0.9632305327772581,0.7922527178566905,1,1,1
+train,The city of Surat is in Angola.,0,0,0.4843800878824245,0.301103792223143,0,0,0
+train,The city of Bauchi is in India.,0,0,0.4726834559551589,0.5295748538958324,1,1,0
+train,The city of Amritsar is in India.,1,1,0.9901401447505447,0.9317153457447115,1,0,0
+train,The city of Kaduna is in Nigeria.,1,1,0.9715639665559758,0.7821635176909995,1,0,0
+train,The city of Pest is in India.,0,0,0.7341195275904995,0.34676066368201564,0,0,1
+train,The city of Ar Raqqah is in Turkey.,0,0,0.5195213305192592,0.24094956128721193,0,0,1
+train,The city of Hanzhong is in China.,1,1,0.9996646498685148,0.8787343742588343,1,0,0
+train,The city of Chunian is in Guatemala.,0,1,0.877476791238399,0.5079222824806072,1,0,0
+train,The city of Langfang is in Angola.,0,0,0.7025300471635489,0.34375756497633964,0,0,1
+train,The city of Frankfurt am Main is in Germany.,1,1,0.990731987322168,0.9363250885010742,1,0,0
+train,The city of Bikaner is in India.,1,1,0.9908743624216931,0.9225760610644307,1,0,0
+train,The city of Amman is in Jordan.,1,1,0.9863631644986152,0.9222852667466519,1,0,0
+train,The city of Vadodara is in India.,1,1,0.9895109083597361,0.9220753636069101,1,0,0
+train,The city of Astrakhan is in Russia.,1,1,0.9752018382465815,0.9077981737937021,1,0,0
+train,The city of Phnom Penh is in Cambodia.,1,1,0.996675563213608,0.8973870018029265,1,0,0
+train,The city of Mersin is in China.,0,0,0.2337063392429779,0.019327006616441364,0,0,0
+train,The city of Xuancheng is in Malaysia.,0,0,0.8006919841816482,0.383147054855855,0,0,1
+train,The city of Songjiang is in China.,1,1,0.9999773496476545,0.9236810721616611,1,0,0
+train,The city of Porto Velho is in Brazil.,1,1,0.9664104936830518,0.9098458712056717,1,0,0
+train,The city of Sanming is in China.,1,1,0.9997388096923521,0.9179311526802948,1,0,0
+train,The city of Maputo is in Mozambique.,1,1,0.9961155236909248,0.8513253764358872,1,0,0
+train,The city of Aracaju is in the United States.,0,0,0.5039061447593001,0.09648799805239423,0,0,1
+train,The city of Arequipa is in China.,0,0,0.1259227754472401,0.010836302701439066,0,0,0
+train,The city of Rajshahi is in Bangladesh.,1,1,0.9773708000764121,0.724587771247397,1,0,0
+train,The city of Al Fayyum is in Egypt.,1,1,0.9585377243017374,0.8585811914912814,1,0,0
+train,The city of Tasikmalaya is in Indonesia.,1,1,0.9869795093863408,0.894316756987899,1,0,0
+train,The city of Zagreb is in Croatia.,1,1,0.9950177303571456,0.8621337803565362,1,0,0
+train,The city of Dombivali is in India.,1,1,0.9525741277561313,0.8886620187005264,1,0,0
+train,The city of Suwon is in China.,0,0,0.24220563740155077,0.04855434511061361,0,0,0
+train,The city of Amravati is in India.,1,1,0.960361161221055,0.9017113870520879,1,0,0
+train,The city of Toulouse is in Kenya.,0,0,0.2720245640998812,0.014276497500459772,0,0,0
+train,The city of Ordos is in Egypt.,0,0,0.48828340449877156,0.17768403127739368,0,0,0
+train,The city of Recife is in India.,0,0,0.7431680005367228,0.5284533358362757,1,1,1
+train,The city of Incheon is in China.,0,0,0.06954174481210113,0.039021113983279614,0,0,0
+train,The city of Liaocheng is in Ukraine.,0,0,0.1968262100118515,0.12649567330684577,0,0,0
+train,The city of Loni is in Indonesia.,0,0,0.9615338064563219,0.6039642686767748,1,1,1
+train,The city of Kinshasa is in the Democratic Republic of the Congo.,1,1,0.9465966653529669,0.8808877406135852,1,0,0
+train,The city of Baku is in China.,0,0,0.13846178990754068,0.012436358493664574,0,0,0
+train,The city of Port Said is in Egypt.,1,1,0.9808759624876492,0.8349771933269552,1,0,0
+train,The city of Hefei is in China.,1,1,0.9999735191570005,0.8167336878288569,1,0,0
+train,The city of Lianyungang is in China.,1,1,0.9999871945259902,0.8675395518647911,1,0,0
+train,The city of Kunshan is in China.,1,1,0.999941251575591,0.9129319458590189,1,0,0
+train,The city of Kitakyushu is in Japan.,1,1,0.9879462207672746,0.9155589814821776,1,0,0
+train,The city of Taiz is in Yemen.,1,1,0.9585377255978981,0.7399056263830877,1,0,0
+train,The city of Ndola is in Zambia.,1,0,0.9787126481880886,0.7498038382618093,1,1,1
+train,The city of Jiaozuo is in China.,1,1,0.9998365353117651,0.9215078513965301,1,0,0
+train,The city of Astana is in Hungary.,0,0,0.42632159567858186,0.09782892771401724,0,0,0
+train,The city of Changwon is in South Korea.,1,1,0.9683812321418177,0.9244979116005673,1,0,0
+train,The city of Kirkuk is in Iraq.,1,1,0.8757869882837868,0.8333845249861973,1,0,0
+train,The city of Guarulhos is in Azerbaijan.,0,0,0.5389831982206665,0.2112123249686838,0,0,1
+train,The city of Mexicali is in Russia.,0,0,0.21733752564606793,0.040609364596832224,0,0,0
+train,The city of Okayama is in Japan.,1,1,0.9871787861154759,0.8639300402188363,1,0,0
+train,The city of Xinyang is in China.,1,1,0.9993881659528225,0.9272971307120017,1,0,0
+train,The city of Anyang-si is in Poland.,0,0,0.6926419770887909,0.13313165053541695,0,0,1
+train,The city of Mukalla is in Indonesia.,0,0,0.8705972774475683,0.6532001269006126,1,1,1
+train,The city of Shenyang is in Malaysia.,0,0,0.09534946434704544,0.06497319082794441,0,0,0
+train,The city of Guankou is in China.,1,0,0.9989994955803043,0.911656690316195,1,1,1
+train,The city of Guwahati is in India.,1,1,0.9914225145859069,0.8416710589805091,1,0,0
+train,The city of Mirpur Model Thana is in Burkina Faso.,0,0,0.40356686901230504,0.4178912903150083,0,0,0
+train,The city of Mbeya is in Tanzania.,1,1,0.9719924792298286,0.876485201367498,1,0,0
+train,The city of Ta'if is in Saudi Arabia.,1,1,0.9111797118342301,0.5843256831937422,1,0,0
+train,The city of Seoul is in South Korea.,1,1,0.9984021543885454,0.9231718434459686,1,0,0
+train,The city of Wroclaw is in Poland.,1,0,0.9674102576493763,0.9393018801473129,1,1,1
+train,The city of Bobo-Dioulasso is in Burkina Faso.,1,1,0.9955316153349885,0.8780261608459444,1,0,0
+train,The city of Guang'an is in China.,1,1,0.9996430293765514,0.9265792579218867,1,0,0
+train,The city of Qujing is in China.,1,1,0.9998716905809822,0.8788908640078086,1,0,0
+train,The city of Oklahoma City is in the United States.,1,1,0.9883127425762369,0.8621816224720301,1,0,0
+train,The city of Calgary is in Canada.,1,0,0.9838471642786419,0.9044912804449179,1,1,1
+train,The city of Sao Bernardo do Campo is in Nigeria.,0,0,0.16238003248163382,0.023411090282340258,0,0,0
+train,The city of Xianyang is in China.,1,1,0.9999861539950258,0.9122823337898646,1,0,0
+train,The city of Kampala is in Uganda.,1,1,0.9958012047711103,0.7999910549943817,1,0,0
+train,The city of Kumamoto is in Brazil.,0,0,0.48047867671675,0.032169551310754385,0,0,0
+train,The city of Petaling Jaya is in China.,0,0,0.06560483769603688,0.01740902681815527,0,0,0
+train,The city of Giza is in Egypt.,1,1,0.9933071488899397,0.901510548750716,1,0,0
+train,The city of Seoul is in Mozambique.,0,0,0.07807816229311591,0.016625499789507888,0,0,0
+train,The city of Zagreb is in India.,0,0,0.41111085584757706,0.009334092013494302,0,0,0
+train,The city of Utsunomiya is in Japan.,1,0,0.972414717121951,0.9113608028005171,1,1,1
+train,The city of Johor Bahru is in France.,0,0,0.1294027366346279,0.017335248002929585,0,0,0
+train,The city of Stockholm is in the Dominican Republic.,0,0,0.16451645155553898,0.02204915116876058,0,0,0
+train,The city of Lome is in Togo.,1,1,0.9770226282297176,0.7385559784709141,1,0,0
+train,The city of Benin City is in Nigeria.,1,0,0.9916842208132802,0.6093886761888162,1,1,1
+train,The city of Goiania is in the Democratic Republic of the Congo.,0,0,0.5660185373515267,0.33185868324818096,0,0,1
+train,The city of Dodoma is in China.,0,0,0.22270015336597415,0.08678152211444616,0,0,0
+train,The city of Daxing'anling is in Nepal.,0,0,0.48047868604050725,0.18223500338374576,0,0,0
+train,The city of Ecatepec de Morelos is in Mexico.,1,1,0.9933071493853877,0.9217928176699677,1,0,0
+train,The city of New Kingston is in Jamaica.,1,1,0.9458012714045204,0.7937613727397566,1,0,0
+train,The city of Zhaoqing is in China.,1,1,0.9999505284102218,0.921857591079139,1,0,0
+train,The city of Lviv is in Ukraine.,1,1,0.977370800470621,0.8181488546885666,1,0,0
+train,The city of Kanpur is in India.,1,1,0.9915543728283833,0.9195669830348181,1,0,0
+train,The city of Heze is in Iraq.,0,0,0.20434189938645203,0.38292689460620444,0,0,0
+train,The city of Shanghai is in China.,1,1,0.9999984096622293,0.9561835201832267,1,0,0
+train,The city of Makati City is in China.,0,0,0.0953494596679918,0.022484715230234473,0,0,0
+train,The city of Almaty is in Kazakhstan.,1,1,0.992654173801009,0.8208648936269807,1,0,0
+train,The city of Dakar is in Senegal.,1,1,0.9939964042903379,0.9163063955978015,1,0,0
+train,The city of Abu Dhabi is in the Dominican Republic.,0,0,0.07369627553407194,0.025671494187454413,0,0,0
+train,The city of E'zhou is in Zambia.,0,0,0.5926666042943323,0.1731356172225351,0,0,1
+train,The city of Pudong is in Morocco.,0,0,0.1403362604271371,0.07308159902083192,0,0,0
+train,The city of Isfahan is in Syria.,0,0,0.12940273373625516,0.03584269311717482,0,0,0
+train,The city of Heroica Matamoros is in Mexico.,1,1,0.9511422211683339,0.829936484196159,1,0,0
+train,The city of Joao Pessoa is in Lithuania.,0,0,0.39981165378251726,0.08836700774643153,0,0,0
+train,The city of Indianapolis is in Japan.,0,0,0.07696084162472558,0.021593103234806114,0,0,0
+train,The city of Thiruvananthapuram is in India.,1,1,0.9930961617077468,0.898826028197808,1,0,0
+train,The city of Brasilia is in Venezuela.,0,0,0.10087861771764353,0.06913548044976194,0,0,0
+train,The city of Asmara is in South Korea.,0,0,0.2146914205457648,0.6143145416272936,1,1,0
+train,The city of Kumasi is in Ghana.,1,1,0.9994115912073552,0.8248814569643019,1,0,0
+train,The city of Huludao is in China.,1,1,0.9998176454003079,0.8760741567865736,1,0,0
+train,The city of Salta is in Argentina.,1,1,0.9944450747526186,0.8786442559134674,1,0,0
+train,The city of Chattogram is in Bangladesh.,1,1,0.9899864287758278,0.8668112035257556,1,0,0
+train,The city of Weifang is in Turkey.,0,0,0.28457601045227177,0.05875440096328844,0,0,0
+train,The city of Ebute Ikorodu is in the Philippines.,0,0,0.33807713259956157,0.07628518590063821,0,0,0
+train,The city of Mombasa is in Kenya.,1,1,0.9936116792689718,0.8662802828986312,1,0,0
+train,The city of Bhilai is in Brazil.,0,0,0.338077138341634,0.12536141101368756,0,0,0
+train,The city of Zahedan is in Iran.,1,1,0.9912886155863545,0.8418739597053433,1,0,0
+train,The city of Hiroshima is in Japan.,1,1,0.9967775157676747,0.9468523968610788,1,0,0
+train,The city of Kyiv is in Germany.,0,0,0.31405055422806694,0.018704303601119965,0,0,0
+train,The city of Chicago is in China.,0,0,0.04813676944834323,0.02986048478855573,0,0,0
+train,The city of Al Mahallah al Kubra is in Egypt.,1,0,0.9811668700469849,0.6974673067566932,1,1,1
+train,The city of Aparecida de Goiania is in India.,0,0,0.2877678231761133,0.24005879049210577,0,0,0
+train,The city of Chuxiong is in China.,1,1,0.9998952744261936,0.8526569675370214,1,0,0
+train,The city of Pretoria is in Egypt.,0,0,0.26588047133181103,0.019808569113633868,0,0,0
+train,The city of Shangluo is in China.,1,1,0.9997488132002216,0.9080835431123941,1,0,0
+train,The city of Cangzhou is in the United States.,0,0,0.32423539141709423,0.11817953742167428,0,0,0
+train,The city of Zapopan is in Mexico.,1,1,0.9833429592424127,0.8517523833898972,1,0,0
+train,The city of Panzhihua is in China.,1,0,0.9998590814348405,0.9292916886362008,1,1,1
+train,The city of Aden is in Yemen.,1,1,0.9648551511204381,0.8719032840369196,1,0,0
+train,The city of Ulhasnagar is in India.,1,1,0.9715639677131213,0.9002345913537151,1,0,0
+train,The city of Al Mawsil al Jadidah is in Iraq.,1,1,0.9284087995722643,0.7270145413191282,1,0,0
+train,The city of Sapporo is in Japan.,1,0,0.9799765592730834,0.9014289968204499,1,1,1
+train,The city of Madurai is in India.,1,1,0.9867771777583269,0.9237869906396288,1,0,0
+train,The city of Duque de Caxias is in Brazil.,1,1,0.9664104912919116,0.8870942218219952,1,0,0
+train,The city of Beirut is in India.,0,0,0.20434190796453325,0.006908436197474332,0,0,0
+train,The city of Okara is in Pakistan.,1,0,0.7981867674498475,0.37594750420786666,0,0,1
+train,The city of Nairobi is in Kenya.,1,1,0.9981324339799148,0.9334498158849299,1,0,0
+train,The city of Hannover is in Afghanistan.,0,0,0.3007455845319719,0.013626391024380164,0,0,0
+train,The city of Kikwit is in Argentina.,0,0,0.4301473309604285,0.1804438749037785,0,0,0
+train,The city of Guigang is in India.,0,0,0.7025300433468492,0.2045006826663112,0,0,1
+train,The city of Ghaziabad is in China.,0,0,0.28457600718151715,0.19997535758486717,0,0,0
+train,The city of Zhumadian is in China.,1,0,0.9997851407555189,0.8658505700994213,1,1,1
+train,The city of Libreville is in Gabon.,1,1,0.9905874104008549,0.4470688828980428,0,1,0
+train,The city of Tabriz is in Turkey.,0,0,0.3886180182954547,0.19036399969161105,0,0,0
+train,The city of Budta is in Japan.,0,0,0.5350984103965005,0.5097785210890415,1,1,1
+train,The city of Cankaya is in Mozambique.,0,0,0.6584174968014553,0.18697834335946437,0,0,1
+train,The city of Tijuana is in Mexico.,1,1,0.9867771781942262,0.9042426009887935,1,0,0
+train,The city of Aracaju is in Brazil.,1,1,0.9857180657005664,0.8810234853022123,1,0,0
+train,The city of Saint Petersburg is in Russia.,1,1,0.9881308790615942,0.8982465604998022,1,0,0
+train,The city of Qingpu is in China.,1,1,0.9999563412222724,0.906842421765437,1,0,0
+train,The city of Serang is in Sudan.,0,0,0.8006919970343241,0.3015899647019241,0,0,1
+train,The city of Zigong is in Turkey.,0,0,0.14804718336808484,0.1034484400478171,0,0,0
+train,The city of Pallabi is in New Zealand.,0,0,0.5467381410537318,0.24464072663272007,0,0,1
+train,The city of Dera Ismail Khan is in Mozambique.,0,0,0.6001883401787215,0.03088373045184148,0,0,1
+train,The city of Tangshan is in China.,1,1,0.9999838124193839,0.9282596507999403,1,0,0
+train,The city of Zhangzhou is in China.,1,1,0.9999274563778188,0.9055516245593918,1,0,0
+train,The city of Asmara is in Eritrea.,1,1,0.9825575153628047,0.6007809946151837,1,0,0
+train,The city of Munich is in Germany.,1,1,0.9875683489677926,0.90847476844881,1,0,0
+train,The city of Ghaziabad is in India.,1,1,0.9949396683226561,0.8401112346340128,1,0,0
+train,The city of Malacca is in China.,0,0,0.6001883344051637,0.020781698643135428,0,0,1
+train,The city of Suqian is in China.,1,1,0.9995416871040272,0.859736707105365,1,0,0
+train,The city of Bucheon-si is in South Korea.,1,1,0.9284087978682496,0.855110965062482,1,0,0
+train,The city of Multan is in Malaysia.,0,0,0.3345894343772971,0.8627624037883731,1,1,0
+train,The city of Belford Roxo is in Brazil.,1,0,0.8856314771656889,0.20931776239567867,0,0,1
+train,The city of Balbala is in India.,0,0,0.9496693689149522,0.7532735988456657,1,1,1
+train,The city of Vijayawada is in India.,1,1,0.9923043527959264,0.8899653628447604,1,0,0
+train,The city of Antalya is in Turkey.,1,1,0.9888419691429046,0.938332469257153,1,0,0
+train,The city of Hamadan is in Jordan.,0,0,0.10374862743190652,0.02886339436874387,0,0,0
+train,The city of Batam is in Indonesia.,1,0,0.9938070097613969,0.9436798148749654,1,1,1
+train,The city of Taiz is in Nigeria.,0,0,0.5195213296315128,0.5372046108396596,1,1,1
+train,The city of Rio de Janeiro is in China.,0,0,0.020964240230186486,0.02958054416599578,0,0,0
+train,The city of Karbala is in Kuwait.,0,0,0.32082130150891813,0.14321884203143967,0,0,0
+train,The city of Ibadan is in India.,0,0,0.34864515012469444,0.16107879439634795,0,0,0
+train,The city of Quetta is in India.,0,0,0.32423538822825354,0.020590435138453045,0,0,0
+train,The city of Nowrangapur is in India.,1,1,0.928408798272769,0.8535437187878226,1,0,0
+train,The city of Palembang is in Russia.,0,0,0.4804786733470412,0.045061327638830806,0,0,0
+train,The city of Santiago de Cuba is in Cuba.,1,1,0.9959927113032907,0.9059913027584452,1,0,0
+train,The city of Binzhou is in China.,1,0,0.9997219690419777,0.8939692311884552,1,1,1
+train,The city of Pallabi is in Bangladesh.,1,0,0.8244619379269732,0.4266015715898298,0,0,1
+train,The city of Banjarmasin is in Indonesia.,1,1,0.9943580917537543,0.873734643514384,1,0,0
+train,The city of Tangerang is in Germany.,0,0,0.44552953436807896,0.02194539804184632,0,0,0
+train,The city of Osaka is in Japan.,1,1,0.9981178140053735,0.9493934107763836,1,0,0
+train,The city of Bengbu is in the United States.,0,0,0.4765796605698325,0.181480152246933,0,0,0
+train,The city of Samarinda is in Russia.,0,0,0.34158249627896936,0.5355702378215611,1,1,0
+train,The city of Meizhou is in China.,1,1,0.9993588222598184,0.9022382192290753,1,0,0
+train,The city of Londrina is in China.,0,0,0.23091975300556503,0.013777043050927555,0,0,0
+train,The city of Evaton is in Malawi.,0,0,0.8807970828596509,0.36061247548100434,0,0,1
+train,The city of Diyarbakir is in Turkey.,1,1,0.9559813467809306,0.8864707105758411,1,0,0
+train,The city of Yinchuan is in France.,0,0,0.31742628572978016,0.03173351474907057,0,0,0
+train,The city of Guankou is in Poland.,0,1,0.41489883549354434,0.06790529613108211,0,1,1
+train,The city of Ra's Bayrut is in Lebanon.,1,1,0.923039164563965,0.7609418340891364,1,0,0
+train,The city of Niteroi is in India.,0,0,0.5389832093411162,0.6515708501155512,1,1,1
+train,The city of Huzhou is in China.,1,1,0.9998634164555753,0.9047768146369438,1,0,0
+train,The city of Bayan Nur is in China.,1,0,0.9999576844040942,0.6718622115805375,1,1,1
+train,The city of Minhang is in China.,1,1,0.9997917498912855,0.8513371600728691,1,0,0
+train,The city of Feira de Santana is in Brazil.,1,1,0.9763105280368004,0.9093552885050906,1,0,0
+train,The city of Zhanjiang is in China.,1,1,0.9999291367347015,0.9046114946403339,1,0,0
+train,The city of Chongming is in Tanzania.,0,0,0.5851011686453458,0.18764941583453604,0,0,1
+train,The city of Samarkand is in Uzbekistan.,1,1,0.9960545933838018,0.7516850063184879,1,0,0
+train,The city of Al Ahmadi is in Yemen.,0,0,0.9032942104009241,0.5186210056338059,1,1,1
+train,The city of Thuan An is in Vietnam.,1,1,0.9895109085000611,0.8127660035231248,1,0,0
+train,The city of Andijon is in China.,0,0,0.30404167223315487,0.2020461563972787,0,0,0
+train,The city of Balikpapan is in Indonesia.,1,0,0.9924227593035269,0.936851661064171,1,1,1
+train,The city of Cuautitlan Izcalli is in Turkey.,0,0,0.13117322081884028,0.05340136529331701,0,0,0
+train,The city of Kunshan is in Zimbabwe.,0,0,0.5234203434388045,0.05797937710135728,0,0,1
+train,The city of Aktobe is in Kazakhstan.,1,1,0.9683812316641692,0.7869565237945144,1,0,0
+train,The city of Sharjah is in Brazil.,0,0,0.32082129379319496,0.013413228322902307,0,0,0
+train,The city of Sarajevo is in Bosnia and Herzegovina.,1,1,0.9732407155536962,0.9157446305497574,1,0,0
+train,The city of Kalyan is in India.,1,1,0.9744347864089089,0.8409826537879019,1,0,0
+train,The city of Kolwezi is in Mozambique.,0,1,0.7577943617573172,0.6580801024726258,1,0,0
+train,The city of Torreon is in Mexico.,1,1,0.9881308790873586,0.8160528113891833,1,0,0
+train,The city of Bloemfontein is in China.,0,0,0.10970577432801587,0.012002384889867023,0,0,0
+train,The city of Kalininskiy is in Germany.,0,0,0.577495379810041,0.0863355874449507,0,0,1
+train,The city of Krasnoyarsk is in Russia.,1,1,0.9766692308326143,0.9284534595572652,1,0,0
+train,The city of Setagaya is in Hungary.,0,0,0.13477592605593794,0.09937342517075229,0,0,0
+train,The city of Haiphong is in Vietnam.,1,1,0.9796676476767402,0.8304775770197795,1,0,0
+train,The city of Nakuru is in Turkey.,0,0,0.12765261401122768,0.20050521877396552,0,0,0
+train,The city of Agadir is in Kenya.,0,0,0.3923368353516337,0.14317904428823425,0,0,0
+train,The city of Ulsan is in China.,0,0,0.3040416618577296,0.018896728544559666,0,0,0
+train,The city of Johor Bahru is in Malaysia.,1,1,0.9986435982479164,0.9213981543290042,1,0,0
+train,The city of Zamboanga is in the Philippines.,1,0,0.9899864289909156,0.921040656772737,1,1,1
+train,The city of Budapest is in Hungary.,1,1,0.9993436271680056,0.8705881895652767,1,0,0
+train,The city of Minhang is in the United States.,0,0,0.6261241939151044,0.20775836792149957,0,0,1
+train,The city of Kermanshah is in Malaysia.,0,0,0.21733751842208462,0.0515824799114598,0,0,0
+train,The city of Seattle is in the United States.,1,1,0.9840936084843628,0.8706620938479819,1,0,0
+train,The city of Sorocaba is in Brazil.,1,1,0.980280873521471,0.8412353780222743,1,0,0
+train,The city of Daqing is in India.,0,0,0.23091976008600062,0.057534169362191204,0,0,0
+train,The city of Bokaro is in India.,1,1,0.9898303413043986,0.7987395967890348,1,0,0
+train,The city of Assiut is in Indonesia.,0,0,0.5506073487440736,0.16396727358113591,0,0,1
+train,The city of Ouagadougou is in Burkina Faso.,1,1,0.996175516150273,0.9149357534176781,1,0,0
+train,The city of Nha Trang is in Vietnam.,1,1,0.9925393566487524,0.9349047735895202,1,0,0
+train,The city of Ahmedabad is in India.,1,1,0.9952448000137677,0.919648838613945,1,0,0
+train,The city of Zanzibar is in Tanzania.,1,1,0.9591542822576513,0.8480241820903448,1,0,0
+train,The city of Katsina is in South Korea.,0,0,0.2281565015102755,0.7535007758130172,1,1,0
+train,The city of Selayang Baru Utara is in Malaysia.,1,1,0.9539660989406977,0.8024517222060492,1,0,0
+train,The city of Nanjing is in China.,1,1,0.9999739296907603,0.9353280397482859,1,0,0
+train,The city of Jammu is in India.,1,1,0.9998936254161873,0.9063815534846744,1,0,0
+train,The city of Beira is in Mozambique.,1,1,0.9833429603901652,0.6312996920152597,1,0,0
+train,The city of Duesseldorf is in Vietnam.,0,0,0.25982564878710895,0.017174084972058294,0,0,0
+train,The city of Maiduguri is in Nigeria.,1,1,0.9643214443426184,0.8450264806686346,1,0,0
+train,The city of Auckland is in New Zealand.,1,1,0.9884918502998792,0.9463313556540968,1,0,0
+train,The city of Muscat is in China.,0,0,0.2598256338116212,0.010859823910558428,0,0,0
+train,The city of Cuautitlan Izcalli is in Mexico.,1,1,0.9790357584990822,0.8628981315865035,1,0,0
+train,The city of Benin City is in Saudi Arabia.,0,0,0.05033063031429732,0.02671899024690357,0,0,0
+train,The city of Fes is in the Democratic Republic of the Congo.,0,0,0.9111797118679041,0.6508260816582573,1,1,1
+train,The city of Laiwu is in China.,1,1,0.9999313168165532,0.9143712672229904,1,0,0
+train,The city of Nanchang is in China.,1,1,0.9999608643457836,0.9314328511662758,1,0,0
+train,The city of Enugu is in China.,0,0,0.2909808760770415,0.012832033933038322,0,0,0
+train,The city of Changshu is in Bangladesh.,0,0,0.5273165446589846,0.28209718455742977,0,0,1
+train,The city of Situbondo is in China.,0,0,0.2120688040038757,0.23887896143409493,0,0,0
+train,The city of Ta'if is in Nigeria.,0,0,0.5312093726779977,0.19765966388667278,0,0,1
+train,The city of Ajmer is in India.,1,1,0.9838471644580693,0.9074791047131826,1,0,0
+train,The city of Chattogram is in Djibouti.,0,0,0.15203224528564954,0.03067422082997178,0,0,0
+train,The city of Cancun is in Vietnam.,0,0,0.1259227696774851,0.00884366782964443,0,0,0
+train,The city of Karachi is in Pakistan.,1,1,0.9977127725062069,0.9431813714670795,1,0,0
+train,The city of Muntinlupa is in the Philippines.,1,1,0.9626731134144372,0.8836760321660198,1,0,0
+train,The city of Jakarta is in Mongolia.,0,0,0.05184546639620739,0.01950936278067215,0,0,0
+train,The city of Cape Town is in South Africa.,1,1,0.9811668691528183,0.9365061271700706,1,0,0
+train,The city of Kuala Lumpur is in Japan.,0,0,0.01826427827530266,0.009818746618032689,0,0,0
+train,The city of Davao is in China.,0,0,0.09807932278634295,0.007390445691674754,0,0,0
+train,The city of Tashkent is in Uzbekistan.,1,1,0.9986114767182488,0.8396401885213485,1,0,0
+train,The city of Binzhou is in Côte d'Ivoire.,0,0,0.8104788995292863,0.4043169753865483,0,0,1
+train,The city of Hamadan is in Iran.,1,1,0.9995416870785149,0.8899907858286811,1,0,0
+train,The city of Thiruvananthapuram is in Mozambique.,0,0,0.30074557652187384,0.037725842237367024,0,0,0
+train,The city of Port Harcourt is in China.,0,0,0.07585817851896799,0.02760246552199332,0,0,0
+train,The city of Iztapalapa is in Malaysia.,0,0,0.07585818014552254,0.10103360708356225,0,0,0
+train,The city of Kallakurichi is in India.,1,1,0.958537725633418,0.8466932110522166,1,0,0
+train,The city of Lubumbashi is in Mexico.,0,0,0.16667540315610427,0.017289000654425266,0,0,0
+train,The city of Zhenjiang is in China.,1,1,0.9999697580421695,0.9002712870864321,1,0,0
+train,The city of Lahore is in the Democratic Republic of the Congo.,0,0,0.1259227678464249,0.07100360697600479,0,0,0
+train,The city of Jiaozuo is in Brazil.,0,0,0.6370308067420943,0.13990435070153687,0,0,1
+train,The city of Samarinda is in Indonesia.,1,0,0.9802808726112814,0.842120699349117,1,1,1
+train,The city of Bhopal is in Egypt.,0,0,0.2479874397715913,0.012318549898145459,0,0,0
+train,The city of Dhanbad is in the United States.,0,0,0.35220176842460255,0.03644777000405452,0,0,0
+train,The city of Santo Domingo Oeste is in Iran.,0,0,0.13660840454217343,0.051220126923622315,0,0,0
+train,The city of Tokyo is in Japan.,1,1,0.9989182846350456,0.9462378953037336,1,0,0
+train,The city of Arak is in Iran.,1,1,0.9585377245473307,0.655242833531915,1,0,0
+train,The city of Teni is in India.,1,0,0.9678992918802347,0.7767336828634981,1,1,1
+train,The city of Ya'an is in Russia.,0,0,0.3775406737307142,0.3567247992342832,0,0,0
+train,The city of Lusaka is in Zambia.,1,1,0.9963500129549197,0.8639255557920391,1,0,0
+train,The city of Golfe is in Togo.,0,0,0.9532750413410972,0.5629959917232508,1,1,1
+train,The city of Panshan is in China.,1,1,0.9987648320728945,0.7491994507189403,1,0,0
+train,The city of Langfang is in China.,1,1,0.9999118107725737,0.8848046289771418,1,0,0
+train,The city of Milwaukee is in Brazil.,0,0,0.21733752307296506,0.017506145221234875,0,0,0
+train,The city of Shijiazhuang is in Belarus.,0,0,0.2909808506478577,0.06311596161658806,0,0,0
+train,The city of Piura is in Peru.,1,1,0.9861513895654554,0.8082038265638012,1,0,0
+train,The city of Cuiaba is in Brazil.,1,1,0.988312742740069,0.9024069776899322,1,0,0
+train,The city of Perm is in India.,0,0,0.861538207936653,0.07471815387301907,0,0,1
+train,The city of Guayaquil is in Bangladesh.,0,0,0.1666754054225827,0.046820149028899055,0,0,0
+train,The city of Balbala is in Djibouti.,1,0,0.5774953789389513,0.2906103955987644,0,0,1
+train,The city of Hongkou is in Morocco.,0,0,0.3276682904365505,0.10763652444145266,0,0,0
+train,The city of Zhabei is in Japan.,0,0,0.26588046542809096,0.15041674030544483,0,0,0
+train,The city of Bukit Rahman Putra is in Malaysia.,1,1,0.9706877687446246,0.857039773612622,1,0,0
+train,The city of Zunyi is in China.,1,1,0.9999704585738612,0.8042601028640436,1,0,0
+train,The city of Sultanah is in China.,0,0,0.7025300528535706,0.09698191180224411,0,0,1
+train,The city of Harare is in India.,0,0,0.445529529775047,0.15401234337405711,0,0,0
+train,The city of Meerut is in Pakistan.,0,0,0.08035746973099016,0.03744115356200926,0,0,0
+train,The city of Cangzhou is in China.,1,0,0.9997108967339203,0.8906385072384109,1,1,1
+train,The city of Mukalla is in Yemen.,1,0,0.9585377257060248,0.8348012955314216,1,1,1
+train,The city of Luohe is in China.,1,1,0.9998390691817073,0.8811070308208823,1,0,0
+train,The city of Changshu is in China.,1,1,0.9998058868256832,0.9121808184238925,1,0,0
+train,The city of Xining is in India.,0,0,0.6791786957160822,0.10678452230147085,0,0,1
+train,The city of Bulawayo is in Japan.,0,0,0.10087862061947848,0.008638459083659773,0,0,0
+train,The city of Phnom Penh is in Chad.,0,0,0.09268777806802032,0.03386068366023361,0,0,0
+train,The city of Maceio is in Brazil.,1,1,0.9688561681600029,0.8836891431385273,1,0,0
+train,The city of Yichang is in the Democratic Republic of the Congo.,0,0,0.8006919979072238,0.5487728822920486,1,1,1
+train,The city of Changchun is in China.,1,1,0.99995530592843,0.9302231353142741,1,0,0
+train,The city of Shubra al Khaymah is in Indonesia.,0,1,0.8902942266897844,0.3379666511328291,0,1,0
+train,The city of Luzhou is in China.,1,1,0.999911119150955,0.8973779781791357,1,0,0
+train,The city of Leon de los Aldama is in Mexico.,1,1,0.9362850082729555,0.7799163823161558,1,0,0
+train,The city of Soweto is in Mexico.,0,0,0.4378235124102524,0.08068004841598576,0,0,0
+train,The city of Pekanbaru is in Belarus.,0,0,0.15405756399310747,0.04020333687129673,0,0,0
+train,The city of Gustavo Adolfo Madero is in Mexico.,1,1,0.9615338045532553,0.8109222567202963,1,0,0
+train,The city of Quezon City is in Pakistan.,0,0,0.022286185746004918,0.09262355769172467,0,0,0
+train,The city of Salta is in South Africa.,0,0,0.36658974912178993,0.5386944531553722,1,1,0
+train,The city of Izhevsk is in Russia.,1,0,0.985271385566644,0.8622897789217315,1,1,1
+train,The city of Yangpu is in China.,1,1,0.9998246300572502,0.6757531997239703,1,0,0
+train,The city of Mudanjiang is in India.,0,1,0.22000709577693014,0.059827100230864794,0,1,1
+train,The city of Daejeon is in South Korea.,1,1,0.9748211562533016,0.931681557453609,1,0,0
+train,The city of Edogawe is in Japan.,1,1,0.9674102544162617,0.7884623958357438,1,0,0
+train,The city of Victoria de Durango is in Mexico.,1,1,0.9579122722615243,0.7479368643787425,1,0,0
+train,The city of Moradabad is in India.,1,1,0.995244800200916,0.8926405072778897,1,0,0
+train,The city of Winnipeg is in Canada.,1,1,0.9732407162594735,0.7796853828758168,1,0,0
+train,The city of Nizhniy Novgorod is in the Democratic Republic of the Congo.,0,0,0.3665897429951728,0.05242603460535024,0,0,0
+train,The city of Shubra al Khaymah is in Egypt.,1,1,0.9763105291003537,0.5641048554888831,1,0,0
+train,The city of Maputo is in China.,0,0,0.17781087560853387,0.009907086767856609,0,0,0
+train,The city of Jaboatao dos Guararapes is in Japan.,0,0,0.132964239829896,0.029583856809388933,0,0,0
+train,The city of Adana is in Turkey.,1,1,0.9840936091479183,0.7846366067179671,1,0,0
+test,The city of Baotou is in China.,1,1,0.999820472028289,0.9395218515791552,1,0,0
+test,The city of Namangan is in Brazil.,0,0,0.6654105628800795,0.41039660307076287,0,0,1
+test,The city of Jinzhong is in China.,1,1,0.9995044640907309,0.9280089758305051,1,0,0
+test,The city of Sholapur is in China.,0,0,0.24798744404422468,0.02669661701684855,0,0,0
+test,The city of Sanya is in Malaysia.,0,0,0.8397339681056105,0.6007740254077737,1,1,1
+test,The city of Gazipur is in Bangladesh.,1,1,0.9759464460918921,0.8713321786761958,1,0,0
+test,The city of Kemerovo is in Russia.,1,0,0.9585377235326418,0.9316490897220939,1,1,1
+test,The city of Anqing is in China.,1,1,0.9999448107671614,0.9226737233807802,1,0,0
+test,The city of Shanghai is in Malaysia.,0,0,0.11757213799730654,0.01389998005643356,0,0,0
+test,The city of Coyoacan is in Mexico.,1,1,0.9907319875858004,0.8739444046919015,1,0,0
+test,The city of Suginami is in Japan.,1,1,0.9859363726590986,0.8533527512258019,1,0,0
+test,The city of Nizhniy Novgorod is in Russia.,1,1,0.9835969680511311,0.9480739104279656,1,0,0
+test,The city of Izmir is in Indonesia.,0,0,0.6757646151722385,0.37130291303779456,0,0,1
+test,The city of Chongming is in China.,1,1,0.999402330667996,0.8813650662712131,1,0,0
+test,The city of Vadodara is in Bangladesh.,0,0,0.1460872431616705,0.20468245491929413,0,0,0
+test,The city of Kolhapur is in Tanzania.,0,0,0.5273165220447212,0.134605108037774,0,0,1
+test,The city of Xiangtan is in China.,1,1,0.9996898440095665,0.9322810453927954,1,0,0
+test,The city of Harbin is in China.,1,1,0.9999875885046309,0.9413417368930383,1,0,0
+test,The city of Esenyurt is in Jordan.,0,0,0.702530056266957,0.3287823579069003,0,0,1
+test,The city of Kunming is in Mexico.,0,0,0.2068940552921293,0.03343091707448323,0,0,0
+test,The city of Pest is in Hungary.,1,0,0.988312742705793,0.8623397124111115,1,1,1
+test,The city of Xuchang is in India.,0,0,0.9481545303021555,0.4277011224674143,0,0,1
+test,The city of Abu Dhabi is in the United Arab Emirates.,1,1,0.9796676464475663,0.9209253800273376,1,0,0
+test,The city of Chenzhou is in Ukraine.,0,0,0.30074559673163337,0.06989136026995188,0,0,0
+test,The city of Tanggu is in Turkey.,0,0,0.17106117883926011,0.2253232768904641,0,0,0
+test,The city of Tlalpan is in Mexico.,1,1,0.9615338083343247,0.8005180663760847,1,0,0
+test,The city of Riga is in Brazil.,0,0,0.626124180408787,0.03709334719223023,0,0,1
+test,The city of Cotonou is in Malaysia.,0,0,0.09670578719291921,0.021465307261963357,0,0,0
+test,The city of Siping is in the Democratic Republic of the Congo.,0,0,0.8918110477598786,0.3139999953324433,0,0,1
+test,The city of Puning is in China.,1,0,0.9946981051884733,0.6830805608261747,1,1,1
+test,The city of Joao Pessoa is in Brazil.,1,1,0.9759464463773256,0.8906335143351739,1,0,0
+test,The city of Tianshui is in China.,1,1,0.9997428580083199,0.9190585371105614,1,0,0
+test,The city of Sadr City is in Eritrea.,0,0,0.8221891223523159,0.7117219039569243,1,1,1
+test,The city of Zhu Cheng City is in China.,1,0,0.9995522991272513,0.8859680172800447,1,1,1
+test,The city of Novokuznetsk is in Malaysia.,0,0,0.06656918612646308,0.10799399254409754,0,0,0
+test,The city of Shantou is in Bulgaria.,0,0,0.9433475774318466,0.4892515077128539,0,0,1
+test,The city of Xinyu is in China.,1,1,0.9997997262148756,0.9224899470334542,1,0,0
+test,The city of Suez is in Egypt.,1,1,0.9924227591882706,0.90126276346898,1,0,0
+test,The city of Kathmandu is in India.,0,0,0.5389831975135821,0.3478406661283967,0,0,1
+test,The city of Panshan is in Brazil.,0,0,0.882427861418847,0.3231916235837049,0,0,1
+test,The city of Weinan is in China.,1,1,0.9999724643060364,0.9349163658308471,1,0,0
+test,The city of Mazar-e Sharif is in Afghanistan.,1,1,0.9343951658284456,0.8859703537095026,1,0,0
+test,The city of Kota Kinabalu is in Malaysia.,1,1,0.9985896414464083,0.9136242702346606,1,0,0
+test,The city of Nashik is in Brazil.,0,0,0.8221891279877114,0.4457960496848227,0,0,1
+test,The city of Qinzhou is in the Democratic Republic of the Congo.,0,0,0.8947894635736231,0.27358527700624014,0,0,1
+test,The city of Denpasar is in Russia.,0,0,0.38121956899518006,0.05472619943013854,0,0,0
+test,The city of Pyongyang is in North Korea.,1,1,0.9736446459303574,0.910294643976454,1,0,0
+test,The city of Sangli is in China.,0,1,0.2538610058697405,0.5311127510143873,1,0,1
+test,The city of Puente Alto is in China.,0,0,0.355774894940809,0.11736505634034718,0,0,0
+test,The city of Zhaotong is in China.,1,1,0.9995727920913337,0.9128723068292719,1,0,0
+test,The city of Santo Domingo Oeste is in the Dominican Republic.,1,1,0.9425067253040452,0.8959991259864062,1,0,0
+test,The city of Niamey is in Niger.,1,1,0.996777515889234,0.8135923677347016,1,0,0
+test,The city of Cabinda is in Angola.,1,1,0.983596967587745,0.812468745710502,1,0,0
+test,The city of Jamshedpur is in India.,1,1,0.9893474880938489,0.9014806117132503,1,0,0
+test,The city of Matsuyama is in Japan.,1,1,0.977713814199406,0.9060418534185248,1,0,0
+test,The city of Himeji is in Japan.,1,0,0.9848109513337219,0.9242841008675469,1,1,1
+test,The city of Pretoria is in South Africa.,1,1,0.9799765588238154,0.8962056067428936,1,0,0
+test,The city of Karol Bagh is in Brazil.,0,0,0.5195213176672052,0.26919453291449524,0,0,1
+test,The city of Navi Mumbai is in India.,1,1,0.9946150620842722,0.919253630571608,1,0,0
+test,The city of Zhumadian is in Colombia.,0,0,0.6548947228327897,0.21103889595075095,0,0,1
+test,The city of Riga is in Latvia.,1,1,0.9843363511011228,0.8467395958193634,1,0,0
+test,The city of Rio de Janeiro is in Brazil.,1,1,0.9919380081280464,0.9451195978378405,1,0,0
+test,The city of Cebu City is in South Africa.,0,0,0.16667540718925425,0.05794331699161071,0,0,0
+test,The city of Bokaro is in Venezuela.,0,0,0.7826624864421982,0.29756711067856995,0,0,1
+test,The city of Basrah is in China.,0,0,0.21733751047267696,0.013911880409489513,0,0,0
+test,The city of Zanzibar is in India.,0,0,0.5350984187302297,0.017877742326531387,0,0,1
+test,The city of Gqeberha is in South Africa.,1,0,0.9773708001787287,0.8831895313678444,1,1,1
+test,The city of Kryvyy Rih is in Ukraine.,1,1,0.9416541608758023,0.906949921258672,1,0,0
+test,The city of Chennai is in India.,1,1,0.993307149244236,0.9474205153446794,1,0,0
+test,The city of Khulna is in Bangladesh.,1,1,0.9954615683326247,0.8781473686326939,1,0,0
+test,The city of Teresina is in South Korea.,0,0,0.9473810467540972,0.7840861196213551,1,1,1
+test,The city of Utsunomiya is in Canada.,0,0,0.40733339612208835,0.03329836834334164,0,0,0
+test,The city of Bilimora is in India.,1,1,0.9489172595747246,0.7736322040860952,1,0,0
+test,The city of Lipetsk is in Russia.,1,0,0.9848109508686194,0.8814052711903317,1,1,1
+test,The city of Qui Nhon is in Vietnam.,1,1,0.9632305345544308,0.8668107906454812,1,0,0
+test,The city of Bien Hoa is in China.,0,0,0.5428632620378684,0.15592626731045756,0,0,1
+test,The city of Zarqa is in Russia.,0,0,0.5389831922348679,0.1862499060326052,0,0,1
+test,The city of Jaipur is in India.,1,1,0.9949396680522333,0.9277622708922207,1,0,0
+test,The city of Baise is in Angola.,0,1,0.6334102464757642,0.41494360063771546,0,1,0
+test,The city of Carrefour is in China.,0,1,0.8080672014959189,0.2716837336575177,0,1,0
+test,The city of Navi Mumbai is in China.,0,0,0.1052105295940389,0.019083215857875747,0,0,0
+test,The city of Harbin is in Uganda.,0,0,0.36658975929209464,0.031548134510136126,0,0,0
+test,The city of Abeokuta is in Bangladesh.,0,0,0.675764605759917,0.44808643839414275,0,0,1
+test,The city of Ho Chi Minh City is in Nigeria.,0,0,0.07477004958893356,0.010620661797000388,0,0,0
+test,The city of Kampung Baru Subang is in China.,0,0,0.2782567927541387,0.17094651308764727,0,0,0
+test,The city of Konya is in Senegal.,0,0,0.7401743470488812,0.17391916470472593,0,0,1
+test,The city of Astana is in Kazakhstan.,1,1,0.9949396682262189,0.8856333574288942,1,0,0
+test,The city of Abu Ghurayb is in Iraq.,1,1,0.9136765221362949,0.7516658254870514,1,0,0
+test,The city of Al Ain City is in South Korea.,0,0,0.20689406575207103,0.14451835856740894,0,0,0
+test,The city of Antananarivo is in Egypt.,0,0,0.1710611796839135,0.011739797459057965,0,0,0
+test,The city of Shangqiu is in China.,1,1,0.9995891514594375,0.9187839866959387,1,0,0
+test,The city of Yaroslavl is in Niger.,0,0,0.14608724781257298,0.11950935845077464,0,0,0
+test,The city of Hezhou is in China.,1,1,0.9998190642151366,0.8542078704123045,1,0,0
+test,The city of Batam is in Vietnam.,0,0,0.414898836660432,0.24418140803573904,0,0,0
+test,The city of Jambi City is in Indonesia.,1,1,0.9766692317496176,0.8989841266213865,1,0,0
+test,The city of Teni is in Côte d'Ivoire.,0,1,0.9284088012837621,0.5923557102004888,1,0,0
+test,The city of Yaounde is in Cameroon.,1,1,0.9934102282346876,0.8861747621143647,1,0,0
+test,The city of Port-au-Prince is in South Africa.,0,0,0.10970577463069223,0.019337832257654133,0,0,0
+test,The city of Guangyuan is in China.,1,1,0.9997817579382132,0.9209297551598199,1,0,0
+test,The city of Nasiriyah is in Iraq.,1,1,0.9711290934564327,0.8403774104534629,1,0,0
+test,The city of Abobo is in Saudi Arabia.,0,0,0.4843800890012935,0.20064790989853645,0,0,0
+test,The city of Bucharest is in Romania.,1,1,0.9920620055559964,0.9246267692083425,1,0,0
+test,The city of Jhang Sadr is in Angola.,0,0,0.47657963780431406,0.32026789366515673,0,0,0
+test,The city of Maianga is in Angola.,1,1,0.8577681058532836,0.6477552434777422,1,0,0
+test,The city of Dammam is in Saudi Arabia.,1,1,0.9787126483868333,0.8653259733390599,1,0,0
+test,The city of Oslo is in Norway.,1,1,0.9911526452967135,0.9103771771523741,1,0,0
+test,The city of Semarang is in Malaysia.,0,0,0.250912787236091,0.6284552305832846,1,1,0
+test,The city of New York City is in New Zealand.,0,0,0.08151974867781317,0.015638054881080853,0,0,0
+test,The city of Xianyang is in Mexico.,0,0,0.5544704701338101,0.06070745902767135,0,0,1
+test,The city of Jamnagar is in India.,1,0,0.9890130566503725,0.931573975170526,1,1,1
+test,The city of Zibo is in China.,1,1,0.9999389114533003,0.9069147244201936,1,0,0
+test,The city of Yerevan is in Honduras.,0,0,0.4339814817191874,0.05950364205855602,0,0,0
+test,The city of Laibin is in Egypt.,0,0,0.7549149770178019,0.14149575708335152,0,0,1
+test,The city of Wanzhou is in China.,1,1,0.9998858776125098,0.8463113926611687,1,0,0
+test,The city of N'Djamena is in China.,0,0,0.2538610190603455,0.014345779516006277,0,0,0
+test,The city of Dakar is in Germany.,0,0,0.46879063687991096,0.019410565185170307,0,0,0
+test,The city of Sokoto is in Nigeria.,1,1,0.9884918504254422,0.8952150002866005,1,0,0
+test,The city of Kitwe is in Malaysia.,0,0,0.32766828625902933,0.35585728927818167,0,0,0
+test,The city of Kakamega is in Kenya.,1,1,0.9736446461557138,0.7521949143912005,1,0,0
+test,The city of Panzhihua is in Nigeria.,0,0,0.1645164514470484,0.14520982929401077,0,0,0
+test,The city of Vientiane is in Laos.,1,1,0.9441768598490351,0.9095320442800547,1,0,0
+test,The city of Changde is in China.,1,1,0.9999473379320842,0.860913490181955,1,0,0
+test,The city of Shymkent is in India.,0,0,0.48047866555299995,0.1469836121571622,0,0,0
+test,The city of Bien Hoa is in Vietnam.,1,1,0.9702399050287036,0.8928498935851523,1,0,0
+test,The city of Hiroshima is in Poland.,0,0,0.04535257740878481,0.02045428555499799,0,0,0
+test,The city of Tyumen is in Russia.,1,0,0.9875683489366637,0.9153916131498624,1,1,1
+test,The city of Pelentong is in Malaysia.,1,0,0.9559813455210713,0.7209018653460482,1,1,1
+test,The city of Lyon is in China.,0,0,0.16667540039641712,0.009602148638426634,0,0,0
+test,The city of Ziyang is in China.,1,1,0.999088948840865,0.8562171075069842,1,0,0
+test,The city of Himeji is in the United States.,0,0,0.3923368380861171,0.03998764122988021,0,0,0
+test,The city of Dortmund is in China.,0,0,0.1520322510043333,0.018612000705436966,0,0,0
+test,The city of Anshun is in Canada.,0,0,0.5312093890833173,0.16796173572988887,0,0,1
+test,The city of Baotou is in Iran.,0,0,0.15203225296091602,0.09452340181746667,0,0,0
+test,The city of Jiangmen is in China.,1,1,0.9994023306559698,0.9130023049857645,1,0,0
+test,The city of Tiruchirappalli is in China.,0,0,0.18242552716306604,0.01009568918355938,0,0,0
+test,The city of Ananindeua is in Brazil.,1,1,0.9546474192055178,0.8479147302391391,1,0,0
+test,The city of Antalya is in Kazakhstan.,0,0,0.6959583163794559,0.06941912255991951,0,0,1
+test,The city of Kanayannur is in Mexico.,0,0,0.7154239968826663,0.12089418673503047,0,0,1
+test,The city of Bannu is in Pakistan.,1,1,0.9553191273467103,0.724924597145284,1,0,0
+test,The city of Madinat an Nasr is in Egypt.,1,1,0.9473810472007488,0.3689089082227469,0,1,0
+test,The city of Abuja is in China.,0,0,0.33111972248613236,0.019188239605133477,0,0,0
+test,The city of Sarajevo is in Malaysia.,0,0,0.20946968531846422,0.021308353564198308,0,0,0
+test,The city of Sargodha is in Pakistan.,1,1,0.9489172619010307,0.6836165400709459,1,0,0
+test,The city of Hebi is in Brazil.,0,1,0.9334308094522785,0.21648111706849676,0,1,0
+test,The city of Kikolo is in Angola.,1,1,0.8596637538060733,0.6170145978762679,1,0,0
+test,The city of Shenyang is in China.,1,1,0.9999813682522971,0.9386171960484466,1,0,0
+test,The city of Ra's Bayrut is in Ghana.,0,0,0.44167303077076725,0.2669201334827121,0,0,0
+test,The city of Palembang is in Indonesia.,1,1,0.9926541736751803,0.9338029223951132,1,0,0
+test,The city of Aden is in China.,0,0,0.6584175089572329,0.047421435741370595,0,0,1
+test,The city of Guatemala City is in Mexico.,0,0,0.13660839934013938,0.05160758628981704,0,0,0
+test,The city of Cagayan de Oro is in the Philippines.,1,1,0.9995727920925165,0.9303294220003797,1,0,0
+test,The city of Dushanbe is in Tajikistan.,1,0,0.20434190369907113,0.2275974410731209,0,0,0
+test,The city of Bloemfontein is in South Africa.,1,1,0.9893474882963955,0.9365854293054683,1,0,0
+test,The city of Ludhiana is in India.,1,1,0.9910145720046735,0.9237266407014652,1,0,0
+test,The city of Calabar is in Uganda.,0,0,0.6406358450968657,0.23631973550839966,0,0,1
+test,The city of Khabarovsk is in Russia.,1,0,0.9896718470495524,0.918993937041083,1,1,1
+test,The city of Mandalay is in the United States.,0,0,0.22541661354742015,0.041244741814271485,0,0,0
+test,The city of Vladivostok is in China.,0,0,0.11279539532150211,0.018205457584577242,0,0,0
+test,The city of Peshawar is in India.,0,0,0.26284184939062366,0.6779816570603999,1,1,0
+test,The city of Moradabad is in Turkey.,0,0,0.16885695260918374,0.12752033372280905,0,0,0
+test,The city of Aihara is in India.,0,0,0.9343951642009879,0.8041781548409039,1,1,1
+test,The city of Iskandar Puteri is in Malaysia.,1,1,0.9852713851027042,0.8177428956499938,1,0,0
+test,The city of Gujranwala is in Pakistan.,1,1,0.9777138144767027,0.9138194055347074,1,0,0
+test,The city of Shantou is in China.,1,1,0.9999075788732918,0.6919684125486624,1,0,0
+test,The city of Chizhou is in the Democratic Republic of the Congo.,0,0,0.9046505412762911,0.3886458689897195,0,0,1
+test,The city of Ahvaz is in Iran.,1,1,0.9833429599845167,0.8757353824606285,1,0,0
+test,The city of Varanasi is in India.,1,1,0.9895109082588952,0.915505069776759,1,0,0
+test,The city of Kananga is in the Democratic Republic of the Congo.,1,1,0.9817357206807086,0.7353424264155579,1,0,0
+test,The city of Indianapolis is in the United States.,1,1,0.9877587240092323,0.8740457153483064,1,0,0
+test,The city of Mexico City is in Mexico.,1,1,0.9936116795703621,0.8851651999887601,1,0,0
+test,The city of Kampala is in Malaysia.,0,0,0.11596071359233365,0.2269488373793303,0,0,0
+test,The city of Macapa is in Brazil.,1,0,0.9805806542449783,0.8502351877579059,1,1,1
+test,The city of Comilla is in Bangladesh.,1,1,0.9579122718046972,0.6486279438436133,1,0,0
+test,The city of Jiaxing is in the Democratic Republic of the Congo.,0,0,0.5544704659727329,0.1834003348932328,0,0,1
+test,The city of Nampula is in Mozambique.,1,1,0.9621075758295242,0.8158469166344778,1,0,0
+test,The city of Owerri is in Japan.,0,0,0.06278920780651163,0.41064676474454426,0,0,0
+test,The city of Mogadishu is in Somalia.,1,1,0.9353465139908533,0.8666555810817762,1,0,0
+test,The city of Victoria de Durango is in Belarus.,0,0,0.29421497251527107,0.15887680448540456,0,0,0
+test,The city of UEskuedar is in China.,0,0,0.9136765231631646,0.3351914137108234,0,0,1
+test,The city of Barnaul is in Russia.,1,1,0.9697854126243237,0.874211191171821,1,0,0
+test,The city of Chunian is in Pakistan.,1,1,0.9719924797403703,0.575514174804463,1,0,0
+test,The city of Thembisa is in South Africa.,1,1,0.93439516660541,0.7524816898357501,1,0,0
+test,The city of Liaocheng is in China.,1,1,0.9999460891568865,0.9322545488848125,1,0,0
+test,The city of Yingkou is in China.,1,1,0.9998579763687264,0.8556939772459832,1,0,0
+test,The city of Changwon is in China.,0,0,0.35220178051640344,0.02972884182345081,0,0,0
+test,The city of Cancun is in Mexico.,1,1,0.9975273766670142,0.912771731660783,1,0,0
+test,The city of Aparecida de Goiania is in Brazil.,1,1,0.9748211565755445,0.899010473067597,1,0,0
+test,The city of Likasi is in China.,0,0,0.38121957532617384,0.37491950684713565,0,0,0
+test,The city of UEruemqi is in Bangladesh.,0,0,0.3886180146565471,0.2649998424023972,0,0,0
+test,The city of Yangon is in Turkey.,0,0,0.11124121900158283,0.013617402078883097,0,0,0
+test,The city of Namangan is in Uzbekistan.,1,1,0.9969721649129998,0.626249913248712,1,0,0
+test,The city of Guilin is in China.,1,1,0.9999090115987537,0.9057817554608826,1,0,0
+test,The city of Lanzhou is in Mexico.,0,0,0.14033624531673697,0.02405983338355715,0,0,0
+test,The city of Pudong is in China.,1,1,0.999981074851976,0.9101495342434045,1,0,0
+test,The city of Madinah is in Saudi Arabia.,1,1,0.992539356330954,0.8215934208116767,1,0,0
+test,The city of Dammam is in Pakistan.,0,0,0.25982564976959793,0.42967624356004724,0,0,0
+test,The city of Mosul is in North Korea.,0,0,0.06656918550086076,0.017947323719366998,0,0,0
+test,The city of Irkutsk is in Russia.,1,1,0.9859363733035313,0.9260169125029262,1,0,0
+test,The city of Fortaleza is in China.,0,0,0.12940272486855775,0.08637108262457475,0,0,0
+test,The city of Longyan is in Thailand.,0,0,0.42250462072505957,0.3645289638831375,0,0,0
+test,"The city of Mianzhu, Deyang, Sichuan is in Angola.",0,0,0.5039061651890242,0.13410460107190322,0,0,1
+test,The city of Niamey is in South Korea.,0,0,0.08389038633831693,0.4083061927801277,0,0,0
+test,The city of Soshanguve is in South Africa.,1,0,0.9572778014595976,0.7484413223447766,1,1,1
+test,The city of Dongying is in China.,1,1,0.999914523836378,0.8507350295338183,1,0,0
+test,The city of Zhengzhou is in Uzbekistan.,0,0,0.865224079332352,0.4603511950825045,0,0,1
+test,The city of Guangzhou is in China.,1,1,0.9999952890912228,0.948258695997714,1,0,0
+test,The city of Shizuishan is in China.,1,1,0.9999124970030022,0.8058447535827451,1,0,0
+test,The city of Bhopal is in India.,1,1,0.9884918503667105,0.9289766221600052,1,0,0
+test,The city of Ranchi is in India.,1,1,0.9949396680726077,0.832964572162008,1,0,0
+test,The city of Erzurum is in Turkey.,1,1,0.9845754472268087,0.9162335596140941,1,0,0
+test,The city of San Luis Potosi is in Mexico.,1,1,0.9912886156598156,0.8171710300995282,1,0,0
+test,The city of Kumamoto is in Japan.,1,1,0.9854964202889556,0.9303071966188128,1,0,0
+test,The city of Izmir is in Turkey.,1,1,0.9777138132174914,0.9243671682226131,1,0,0
+test,The city of Jieyang is in China.,1,1,0.9999465086704776,0.9326365206108378,1,0,0
+test,The city of Shymkent is in Kazakhstan.,1,1,0.9916842207669119,0.837684646743021,1,0,0
+test,The city of Kota Kuala Muda is in France.,0,0,0.12765261980696235,0.019226938235161327,0,0,0
+test,The city of Caracas is in India.,0,0,0.242205633494261,0.027551004301112455,0,0,0
+test,The city of Mulenvos is in Mexico.,0,0,0.7745833925377126,0.33367194670841016,0,0,1
+test,The city of Makhachkala is in Russia.,1,1,0.9744347875600106,0.8985827003330416,1,0,0
+test,The city of Khulna is in China.,0,0,0.2173375135368977,0.017537255822793193,0,0,0
+test,The city of Zhanjiang is in the United States.,0,0,0.1422318881541261,0.06397948246693907,0,0,0
+test,The city of Huangshi is in Nicaragua.,0,0,0.6513548597770785,0.13005878009684016,0,0,1
+test,The city of Madinat an Nasr is in Mexico.,0,0,0.40356686496864064,0.055506439001043684,0,0,0
+test,The city of Muscat is in Oman.,1,1,0.9943580916906418,0.8567268947554394,1,0,0
+test,The city of Taguig is in Japan.,0,0,0.1097057749271048,0.03615288467140385,0,0,0
+test,The city of Visakhapatnam is in India.,1,1,0.9939024380787281,0.904831234703691,1,0,0
+test,The city of Tucson is in China.,0,0,0.07263670879491271,0.010915807615650848,0,0,0
+test,The city of Khartoum is in Sudan.,1,1,0.9752018375991625,0.8805437803511292,1,0,0
+test,The city of Ecatepec de Morelos is in Lebanon.,0,0,0.11757213567119566,0.04779920474886499,0,0,0
+test,The city of Thane is in Bangladesh.,0,0,0.7549149946017033,0.5791905753407873,1,1,1
+test,The city of Anshun is in China.,1,1,0.9999257361830061,0.7114821134302817,1,0,0
+test,The city of Wanxian is in China.,1,1,0.9992562970479647,0.9111398349948503,1,0,0
+test,The city of Zunyi is in the United Arab Emirates.,0,0,0.702530045555659,0.3918663148459922,0,0,1
+test,The city of Sokoto is in Syria.,0,0,0.7217431983925742,0.08259510538850134,0,0,1
+test,The city of Nyala is in Sudan.,1,0,0.9511422180915398,0.5337431700454806,1,1,1
+test,The city of Khabarovsk is in Saudi Arabia.,0,0,0.031143833342059155,0.019719713420614616,0,0,0
+test,The city of Khartoum North is in Sudan.,1,1,0.9407897510952907,0.842983923558245,1,0,0
+test,The city of Bogor is in Indonesia.,1,1,0.9911526453482167,0.882302547164938,1,0,0
+test,The city of Rawalpindi is in Turkey.,0,0,0.04336579783018587,0.024186769909622048,0,0,0
+test,The city of Managua is in Nicaragua.,1,1,0.9984268878364536,0.8661051562297564,1,0,0
+test,The city of Dodoma is in Tanzania.,1,1,0.9845754481458809,0.8145684422047537,1,0,0
+test,The city of Arusha is in Tanzania.,1,0,0.9890130568477601,0.7011389414926925,1,1,1
+test,The city of Sanming is in Colombia.,0,0,0.8499711775421097,0.24479337489975647,0,0,1
+test,The city of Mombasa is in Brazil.,0,0,0.3702253726081445,0.024478401561184915,0,0,0
+test,The city of Xiaogan is in China.,1,1,0.9998546088499799,0.9405481061742385,1,0,0
+test,The city of Astrakhan is in Nigeria.,0,0,0.22541660574672231,0.06068557457604311,0,0,0
+test,The city of Ganzhou is in Indonesia.,0,0,0.5736784162678235,0.3594359295229397,0,0,1
+test,The city of Hachioji is in Japan.,1,1,0.9787126492936397,0.9105820167824672,1,0,0
+test,The city of Naucalpan de Juarez is in Mexico.,1,1,0.9793540684652853,0.8860036613578346,1,0,0
+test,The city of Mohammadpur is in Bangladesh.,1,1,0.9136765214756116,0.7145116774673697,1,0,0
+test,The city of Sagamihara is in Japan.,1,1,0.9579122718873729,0.8885724411830106,1,0,0
+test,The city of Kota Bharu is in China.,0,0,0.09268778123164233,0.017685753547309672,0,0,0
+test,The city of General Santos is in the Philippines.,1,1,0.9820137895839847,0.8721971874217794,1,0,0
+test,The city of Fort Worth is in France.,0,0,0.09138210140829338,0.04494420861807331,0,0,0
+test,The city of Dehradun is in Mexico.,0,0,0.1422318872606214,0.025207989142311305,0,0,0
+test,The city of Kagoshima is in Ecuador.,0,0,0.47268346217525525,0.11048193157790143,0,0,0
+test,The city of Volgograd is in Russia.,1,0,0.9964619137722953,0.9477895454576768,1,1,1
+test,The city of Ibb is in India.,0,0,0.9230391576736378,0.2881883167425752,0,0,1
+test,The city of Siliguri is in India.,1,1,0.9948603891936945,0.8022896268232149,1,0,0
+test,The city of Tlalpan is in Saudi Arabia.,0,0,0.23370634673043555,0.05885507086569804,0,0,0
+test,The city of Pune is in India.,1,1,0.9941800404590649,0.9397168108937759,1,0,0
+test,The city of Ludhiana is in China.,0,0,0.10818895531848244,0.016007516937651418,0,0,0
+test,The city of Algiers is in Algeria.,1,1,0.9869795101230503,0.9395550198476945,1,0,0
+test,The city of Chisinau is in Malaysia.,0,0,0.08509903829008399,0.08113040960703576,0,0,0
+test,The city of Latakia is in Syria.,1,1,0.9648551536954173,0.8792659644927606,1,0,0
+test,The city of Calabar is in Nigeria.,1,1,0.9902915230480619,0.6857624843853551,1,0,0
+test,The city of Koeln is in Germany.,1,1,0.9597620556269539,0.843794129521625,1,0,0
+test,The city of Tyumen is in Turkey.,0,0,0.2120688065939523,0.02767558816480151,0,0,0
+test,The city of Itabashi is in Japan.,1,0,0.9728307680928306,0.9193123118993238,1,1,1
+test,The city of Novokuznetsk is in Russia.,1,0,0.9648551521032316,0.9180662072892218,1,1,1
+test,The city of Hoji ya Henda is in Angola.,1,0,0.399811657177593,0.5427792357871143,1,1,0
+test,The city of Nanning is in China.,1,1,0.9999439417100571,0.914153972726397,1,0,0
+test,The city of Iskandar Puteri is in Gabon.,0,0,0.5813030707883357,0.24567111396523797,0,0,1
+test,The city of Copenhagen is in Denmark.,1,1,0.9907319872157341,0.9173501389481041,1,0,0
+test,The city of Narela is in India.,1,1,0.9362850060035814,0.8865465592051063,1,0,0
+test,The city of Ile-Ife is in China.,0,0,0.20181322409624783,0.029901607124808292,0,0,0
+test,The city of Penza is in Russia.,1,0,0.981453435661758,0.9228239956678999,1,1,1
+test,The city of Pokhara is in Uzbekistan.,0,0,0.39981167583552507,0.14900363896198263,0,0,0
+test,The city of Oujda is in Japan.,0,0,0.26588047891100197,0.03485665600930628,0,0,0
+test,The city of Owerri is in Nigeria.,1,0,0.9688561691822535,0.8567441894469897,1,1,1
+test,The city of Aqsu is in China.,1,1,0.9817357210150441,0.08495770455387179,0,1,0
+test,The city of Ha'il is in Saudi Arabia.,1,1,0.975201838700871,0.5239660492647845,1,0,0
+test,The city of Jajmau is in Malaysia.,0,0,0.8459424325993508,0.5702444492382338,1,1,1
+test,The city of Akure is in Jordan.,0,0,0.8596637551102773,0.3306078781968634,0,0,1
+test,The city of Reynosa is in Mexico.,1,1,0.9518632306893161,0.8401368533081899,1,0,0
+test,The city of Mbeya is in Burundi.,0,0,0.6791786936478464,0.4429878584179518,0,0,1
+test,The city of Cebu City is in the Philippines.,1,1,0.9770226292442131,0.9243630176763722,1,0,0
+test,The city of Tshikapa is in the Democratic Republic of the Congo.,1,0,0.9372107951564201,0.8228593484613078,1,1,1
+test,The city of Evaton is in South Africa.,1,1,0.8902942275122064,0.5309364921415897,1,0,0
+test,The city of Bauchi is in Nigeria.,1,1,0.9901401450090003,0.8409599989581849,1,0,0
+test,The city of Xingtai is in Kazakhstan.,0,0,0.9473810468578128,0.06114546922381921,0,0,1
+test,The city of Kolkata is in Mozambique.,0,0,0.11596072041940668,0.018455111771878526,0,0,0
+test,The city of Fes is in Morocco.,1,1,0.9989837559841053,0.8124399736329134,1,0,0
+test,The city of Putuo is in Malaysia.,0,0,0.8652240806211152,0.4591619767819652,0,0,1
+test,The city of Sangli is in India.,1,1,0.9777138131223526,0.8327546189721017,1,0,0
+test,The city of Latakia is in Burkina Faso.,0,0,0.3522017686192614,0.07340593491399944,0,0,0
+test,The city of Bagcilar is in the United States.,0,0,0.37754067417599735,0.40621179798980206,0,0,0
+test,The city of Meknes is in Cuba.,0,0,0.15610489843532777,0.024831173081614588,0,0,0
+test,The city of Matsuyama is in India.,0,0,0.24508500862172608,0.07875367136365251,0,0,0
+test,The city of Volgograd is in the Philippines.,0,0,0.027585282715664013,0.01645178668439069,0,0,0
+test,The city of Mumbai is in India.,1,1,0.9966755632945302,0.9501247410144555,1,0,0
+test,The city of Rajshahi is in Malaysia.,0,0,0.08882028890755553,0.04324631654376723,0,0,0
+test,The city of Pimpri is in China.,0,0,0.2909808654834015,0.44495279108281865,0,0,0
+test,The city of Hwaseong-si is in South Korea.,1,1,0.9441768572836697,0.9002812617972036,1,0,0
+test,The city of Xianning is in China.,1,1,0.9998499943392156,0.9272992363129237,1,0,0
+test,The city of Xiaogan is in Bangladesh.,0,0,0.8962513718209991,0.17076746896745063,0,0,1
+test,The city of Kyoto is in Ukraine.,0,0,0.26284183525936106,0.02358453171679946,0,0,0
+test,The city of Panjin is in China.,1,1,0.9995416870843792,0.8179669710952988,1,0,0
+test,The city of Huainan is in India.,0,0,0.1943678206102001,0.056533025779197166,0,0,0
+test,The city of Lanzhou is in China.,1,1,0.9999599363123229,0.9374973486022874,1,0,0
+test,The city of Buraydah is in Saudi Arabia.,1,1,0.9294404052720814,0.7330368275979502,1,0,0
+test,The city of Port Harcourt is in Nigeria.,1,1,0.9755769091824493,0.845159925594857,1,0,0
+test,The city of Qinhuangdao is in China.,1,1,0.9999910603036186,0.9256860100001703,1,0,0
+test,The city of Wenzhou is in Colombia.,0,0,0.2720245714970634,0.04797469640852727,0,0,0
+test,The city of Ajegunle is in Nigeria.,1,1,0.9518632291935278,0.8400174739790595,1,0,0
+test,The city of Kuecuekcekmece is in Turkey.,1,0,0.9241418205112039,0.45534218466798704,0,0,1
+test,The city of Warri is in Myanmar.,0,0,0.3886180053032834,0.42551946536457513,0,0,0
+test,The city of Auckland is in China.,0,0,0.05921024950418267,0.005593231175832308,0,0,0
+test,The city of Amravati is in the Democratic Republic of the Congo.,0,0,0.8558511497597053,0.34026405577264934,0,0,1
+test,The city of Carrefour is in Haiti.,1,0,0.7154239817620806,0.41400186128932787,0,0,1
+test,The city of Bujumbura is in Burundi.,1,0,0.9971104189528593,0.7482455121033611,1,1,1
+test,The city of Zhuzhou is in the United States.,0,0,0.42250461936732087,0.08404534673565996,0,0,0
+test,The city of Kota Kinabalu is in India.,0,0,0.10087862152577268,0.02610064222548486,0,0,0
+test,The city of Daqing is in China.,1,0,0.999917153437698,0.9160173655441975,1,1,1
+test,The city of Ciudad Nezahualcoyotl is in Mexico.,1,1,0.9697854123851671,0.837488668362395,1,0,0
+test,The city of Yunfu is in China.,1,0,0.9997565395494288,0.892061483608746,1,1,1
+test,The city of Soacha is in Colombia.,1,1,0.948917260904522,0.6856437648313852,1,0,0
+test,The city of Lubango is in Angola.,1,1,0.945801270312838,0.8407086754478076,1,0,0
+test,The city of Bamako is in Nepal.,0,0,0.5273165324276207,0.0411207452512087,0,0,1
+test,The city of Setagaya is in Japan.,1,1,0.9759464461000851,0.8850062457715268,1,0,0
+test,The city of Saitama is in Japan.,1,1,0.9702399059866982,0.8655195697524489,1,0,0
+test,The city of Ibadan is in Nigeria.,1,0,0.9840936090529551,0.9149000639838333,1,1,1
+test,The city of Ashgabat is in Turkmenistan.,1,1,0.9974490879185459,0.8243846217835972,1,0,0
+test,The city of Rahim Yar Khan is in China.,0,0,0.7310585709407792,0.16670640270887435,0,0,1
+test,The city of Guli is in China.,1,1,0.9926541737628661,0.5515452522234916,1,0,0
+test,The city of Minsk is in Belarus.,1,1,0.9962345861258716,0.8812060504139881,1,0,0
+test,The city of Porto Velho is in Russia.,0,0,0.4726834546898569,0.055348623094904084,0,0,0
+test,The city of Hubballi is in India.,1,1,0.9848109515432666,0.8683657725599879,1,0,0
+test,The city of Yaroslavl is in Russia.,1,0,0.9920620058843336,0.8945456409145102,1,1,1
+test,The city of Maracaibo is in Venezuela.,1,0,0.9780517460295228,0.9084680676774781,1,1,1
+test,The city of Yerevan is in Armenia.,1,1,0.9942697532246797,0.9265156028478299,1,0,0
+test,The city of Borama is in Somalia.,1,1,0.9658995723725348,0.5352287694245917,1,0,0
+test,The city of Sargodha is in Bangladesh.,0,0,0.7718434997121377,0.4629743440523213,0,0,1
+test,The city of Kaifeng is in Pakistan.,0,0,0.23934933542006248,0.09172015020808434,0,0,0
+test,The city of Nay Pyi Taw is in Kazakhstan.,0,1,0.2877678108269909,0.05369742231858535,0,1,1
+test,The city of Wanzhou is in Guinea.,0,0,0.7520125579686824,0.23266686774925227,0,0,1
+test,The city of Kalaburagi is in Turkey.,0,0,0.24798743293435913,0.11868796841455144,0,0,0
+test,The city of Kasur is in Yemen.,0,0,0.5273165175336348,0.21827951251858188,0,0,1
+test,The city of Florianopolis is in Brazil.,1,1,0.9925393561034715,0.8804715733232975,1,0,0
+test,The city of Luancheng is in India.,0,0,0.8887587842929409,0.2678636599252589,0,0,1
+test,The city of Ebute Ikorodu is in Nigeria.,1,0,0.9796676465926661,0.8872527563988788,1,1,1
+test,The city of Nansana is in Uganda.,1,0,0.9525741292838549,0.5348109665440838,1,1,1
+test,The city of Tirunelveli is in Turkmenistan.,0,0,0.17781087682967747,0.2901937189730842,0,0,0
+test,The city of Sungai Petani is in Malaysia.,1,1,0.9960237720301586,0.8175120257865792,1,0,0
+test,The city of Frankfurt am Main is in China.,0,0,0.10669059292207105,0.018557669071609165,0,0,0
+test,The city of Gujranwala is in Japan.,0,0,0.06954174025940667,0.011652829459719825,0,0,0
+test,The city of Bulawayo is in Zimbabwe.,1,1,0.929440401558531,0.7164660215061442,1,0,0
+test,The city of Santo Domingo Este is in the Dominican Republic.,1,1,0.9830850877006323,0.8129487957092122,1,0,0
+test,The city of Virar is in India.,1,1,0.985271385236003,0.8736088883524682,1,0,0
+test,The city of Wenzhou is in China.,1,1,0.9999852610190106,0.9389902042043463,1,0,0
+test,The city of Guangzhou is in the Democratic Republic of the Congo.,0,0,0.061875989479567656,0.044312865234475356,0,0,0
+test,The city of Hlaingthaya is in China.,0,0,0.6513548554560555,0.29941087194898447,0,0,1
+test,The city of Guilin is in Nigeria.,0,0,0.39981166139370566,0.15299092564382916,0,0,0
+test,The city of Camama is in Angola.,1,1,0.8376199728653404,0.41242799941054487,0,1,0
+test,The city of Cho Lon is in Vietnam.,1,1,0.9603611595336198,0.5373129593997863,1,0,0
+test,The city of Fukuoka is in Belarus.,0,0,0.31069438354978596,0.026197407924925056,0,0,0
+test,The city of Tiruchirappalli is in India.,1,1,0.983596967912174,0.8796078748028102,1,0,0
+test,The city of Mogadishu is in South Korea.,0,0,0.0637149934623865,0.022270408514991354,0,0,0
+test,The city of Sharjah is in the United Arab Emirates.,1,0,0.9728307678568315,0.9240716246940306,1,1,1
+test,The city of Zhangjiagang is in China.,1,1,0.9999766306640573,0.9335977271914722,1,0,0
+test,The city of Eskisehir is in Turkey.,1,1,0.9643214441639659,0.908822127044233,1,0,0
+test,The city of San Pedro Sula is in Côte d'Ivoire.,0,0,0.3040416720389286,0.14157731873285795,0,0,0
+test,The city of Addis Ababa is in Ethiopia.,1,1,0.9979492565065675,0.9092853212229784,1,0,0
+test,The city of Wuzhou is in Finland.,0,0,0.32423538590632955,0.09360181814021103,0,0,0
+test,The city of Wanning is in the Philippines.,0,0,0.679178700888126,0.4834832967764991,0,0,1
+test,The city of Ibb is in Yemen.,1,1,0.9805806535147231,0.5940732204930675,1,0,0
+test,The city of Zaozhuang is in China.,1,1,0.9995727920721736,0.8638020450074619,1,0,0
+test,The city of Ribeirao Preto is in Vietnam.,0,0,0.1520322391367565,0.02600308312247907,0,0,0
+test,The city of Erbil is in China.,0,0,0.2538610147107844,0.013696677572598582,0,0,0
+test,The city of Yunfu is in Indonesia.,0,0,0.7772998613991895,0.46249169461621986,0,0,1
+test,The city of Irkutsk is in Brazil.,0,0,0.4301473567888357,0.03405448452582578,0,0,0
+test,The city of Hengyang is in China.,1,1,0.9999911988992396,0.8986759819573441,1,0,0
+test,The city of Benoni is in South Africa.,1,1,0.9553191285942835,0.6577675953894415,1,0,0
+test,The city of Krasnoyarsk is in the Dominican Republic.,0,0,0.3775406704181885,0.036081720248859125,0,0,0
+test,The city of Xiamen is in China.,1,1,0.9999841873962548,0.9494680792452039,1,0,0
+test,The city of Abobo is in Côte d'Ivoire.,1,1,0.9449947168031979,0.6916237945566134,1,0,0
+test,The city of Battagram is in Indonesia.,0,0,0.27825678113913,0.6087009331295186,1,1,0
+test,The city of South Tangerang is in Brazil.,0,0,0.9136765234694526,0.28882347521633295,0,0,1
+test,The city of Esenyurt is in Turkey.,1,1,0.9481545312807758,0.7854003367005679,1,0,0
+test,The city of Dnipro is in Turkey.,0,0,0.2120688020990854,0.02070772664585581,0,0,0
+test,The city of Siping is in China.,1,1,0.9997765836500684,0.9041210617957143,1,0,0
+test,The city of Tabriz is in Iran.,1,1,0.9986749776019207,0.8815966870653411,1,0,0
+test,The city of Dhanbad is in India.,1,1,0.9957353651036011,0.904524332260256,1,0,0
+test,The city of Irbid is in India.,0,0,0.6619228553805696,0.36694180780594876,0,0,1
+test,The city of Panjin is in Syria.,0,0,0.4765796524806662,0.26484885367132033,0,0,0
+test,The city of Xuhui is in India.,0,0,0.9136765223676182,0.41316019592501924,0,0,1
+test,The city of Baoji is in China.,1,1,0.9998876467193497,0.8433521639863728,1,0,0
+test,The city of Cixi is in France.,0,0,0.3106943828880861,0.16837663408680684,0,0,0
+test,The city of Abuja is in Nigeria.,1,1,0.9711290924663708,0.903363121358553,1,0,0
+test,The city of Pimpri-Chinchwad is in India.,1,1,0.971563967055491,0.877129182155723,1,0,0
+test,The city of Yekaterinburg is in Russia.,1,1,0.9926541739855707,0.9279701009929759,1,0,0
+test,The city of Arequipa is in Peru.,1,1,0.9982453856762383,0.8723155382223986,1,0,0
+test,The city of Ansan-si is in South Korea.,1,1,0.907312218793069,0.8566018149937461,1,0,0
+test,The city of Zamboanga is in India.,0,0,0.2200070933207677,0.09116347154250076,0,0,0
+test,The city of Tucson is in the United States.,1,0,0.9848109502307528,0.8715557003440944,1,1,1
+test,The city of Sofia is in China.,0,0,0.4416730234852561,0.006932027211946176,0,0,0
+test,The city of Curitiba is in Iran.,0,0,0.07921032415348411,0.06584691502340424,0,0,0
+test,The city of Chenzhou is in China.,1,0,0.9998601779209406,0.9265341220905202,1,1,1
+test,The city of Nanded is in the Democratic Republic of the Congo.,0,0,0.8006919924779998,0.27640627328137096,0,0,1
+test,The city of Santiago de los Caballeros is in the Dominican Republic.,1,1,0.9991832619144598,0.8488549871675428,1,0,0
+test,The city of Rasapudipalem is in Cambodia.,0,1,0.626124179520557,0.3979711133822905,0,1,0
+test,The city of Akure is in Nigeria.,1,1,0.9715639671079357,0.6388054368089922,1,0,0
+test,The city of Surakarta is in Indonesia.,1,0,0.989986428969018,0.9361227857261435,1,1,1
+test,The city of Aguascalientes is in Mexico.,1,1,0.9888419685460722,0.7811405779478433,1,0,0
+test,The city of Hamhung is in North Korea.,1,1,0.9184802467660333,0.8405924375200942,1,0,0
+test,The city of Soweto is in South Africa.,1,1,0.9496693702322119,0.9242374023283702,1,0,0
+test,The city of Huainan is in China.,1,1,0.9999844325450385,0.9145283899863845,1,0,0
+test,The city of Busan is in South Korea.,1,1,0.9918120901336982,0.9322089403475595,1,0,0
+test,The city of Dandong is in China.,1,1,0.9999549554015558,0.8753890259704511,1,0,0
+test,The city of Handan is in China.,1,1,0.9998746624946252,0.7842941993782709,1,0,0
+test,The city of Budta is in the Philippines.,1,0,0.7981867783269394,0.5339575790816887,1,1,1
+test,The city of Huizhou is in China.,1,1,0.9997367616892611,0.9307932605386037,1,0,0
+test,The city of Jiangyin is in India.,0,0,0.5621764979155692,0.03411366823657381,0,0,1
+test,The city of Queens is in China.,0,0,0.17106118659286504,0.41766176219148077,0,0,0
+test,The city of General Santos is in Canada.,0,0,0.13477592374470826,0.03197032078908888,0,0,0
+test,The city of Cuttack is in India.,1,1,0.9744347868979031,0.8797704151168609,1,0,0
+test,The city of Linyi is in China.,1,1,0.9999593054227186,0.8715022306023966,1,0,0
+test,The city of Omdurman is in Indonesia.,0,0,0.15203224593147824,0.149852935714184,0,0,0
+test,The city of Mengzi is in China.,1,1,0.999986261743957,0.7438578301352674,1,0,0
+test,The city of Hohhot is in Pakistan.,0,0,0.10669059348142426,0.1682172652303321,0,0,0
+test,The city of Maiduguri is in China.,0,0,0.10087861654006389,0.010498716728552352,0,0,0
+test,The city of Kyiv is in Ukraine.,1,1,0.9790357600298895,0.829277530386049,1,0,0
+test,The city of Jos is in Nigeria.,1,1,0.979976558977384,0.5840083415477665,1,0,0
+test,The city of Kalininskiy is in Russia.,1,1,0.9755769083167176,0.9006206426885888,1,0,0
+test,The city of Suizhou is in Kyrgyzstan.,0,0,0.47268346595946065,0.4740567345882478,0,0,0
+test,The city of Zhu Cheng City is in Japan.,0,1,0.2393493389871136,0.4588007688510213,0,1,1
+test,The city of Davao is in the Philippines.,1,1,0.9932024684226275,0.9298130441365647,1,0,0
+test,The city of San Pedro Sula is in Honduras.,1,1,0.9852713856020826,0.8362441078180053,1,0,0
+test,The city of Bhilai is in India.,1,1,0.990440600662926,0.9173826349059804,1,0,0
+test,The city of Esenler is in China.,0,0,0.7185943837246614,0.22397214541184232,0,0,1
+test,The city of Kuantan is in Malaysia.,1,1,0.9981897891305638,0.8953851420168503,1,0,0
+test,The city of Kagoshima is in Japan.,1,1,0.9915543726425067,0.9113185565377969,1,0,0
+test,The city of Adana is in China.,0,0,0.44552953555911273,0.15816389249827326,0,0,0
+test,The city of Cankaya is in Turkey.,1,0,0.9643214451477669,0.6800472562746983,1,1,1
+test,The city of Oslo is in Vietnam.,0,0,0.27202455832205896,0.013425222867555762,0,0,0
+test,The city of Guayaquil is in Ecuador.,1,1,0.9932024682069611,0.7850648455923377,1,0,0
+test,The city of Duesseldorf is in Germany.,1,1,0.9566342012604189,0.9026022660943473,1,0,0
+test,The city of Rohini is in Saudi Arabia.,0,1,0.35577486694148464,0.2604782727475043,0,1,1
+test,The city of Weihai is in China.,1,1,0.9999718113367152,0.9067069024893896,1,0,0
+test,The city of Pimpri-Chinchwad is in China.,0,0,0.12940273418449344,0.2490793438389163,0,0,0
+test,The city of Pyongyang is in China.,0,0,0.21733751431752135,0.04445482110860911,0,0,0
+test,The city of Huaibei is in Japan.,0,0,0.25386100980494436,0.09010859181718105,0,0,0
+test,The city of Tianjin is in China.,1,1,0.9999830355714762,0.9527790638889385,1,0,0
+test,The city of Hebi is in China.,1,1,0.9996849612877592,0.4434265957923173,0,1,0
+test,The city of Baghdad is in Iraq.,1,1,0.9946981051320658,0.8888921154216546,1,0,0
+test,The city of Copenhagen is in Nigeria.,0,0,0.14033625331919472,0.012452626270024985,0,0,0
+test,The city of Pikine is in Senegal.,1,1,0.9770226297608391,0.8476332737069885,1,0,0
+test,The city of Putian is in China.,1,1,0.9992504685327048,0.7952456178477249,1,0,0
+test,The city of Callao is in Peru.,1,1,0.9952448000389463,0.7304067978005194,1,0,0
+test,The city of Niigata is in China.,0,0,0.14804718714722778,0.011281758652831661,0,0,0
+test,The city of Prayagraj is in China.,0,0,0.09401018412964511,0.08923284348347342,0,0,0
+test,The city of Calumbo is in Angola.,1,0,0.9518632307474093,0.5555172786035749,1,1,1
+test,The city of Douala is in Cameroon.,1,0,0.99029152318514,0.8551581770141347,1,1,1
