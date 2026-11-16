@@ -1,0 +1,4 @@
+task,items,no_reasoning_yes_rate_raw,no_reasoning_accuracy_raw,no_reasoning_accuracy_calibrated,no_reasoning_p_yes_AUROC,with_reasoning_accuracy,answers_agree,median_yes_no_mass,probe_layer,all n,all AUROC,direct_wrong n,direct_wrong AUROC,cot_wrong n,cot_wrong AUROC,cot_wrong&direct_right n,cot_wrong&direct_right AUROC,cot_wrong&direct_wrong n,cot_wrong&direct_wrong AUROC
+A1,947,0.903,0.553,0.548,"0.595 [0.56, 0.63]",0.993,0.545,0.996,30,947,"0.937 [0.92, 0.95]",428,"0.940 [0.92, 0.96]",7,"1.000 [1.00, 1.00]",5,"1.000 [1.00, 1.00]",2,n/a
+A2,955,0.984,0.493,0.535,"0.567 [0.53, 0.60]",0.998,0.535,0.995,30,955,"0.664 [0.63, 0.70]",444,"0.623 [0.56, 0.67]",2,"1.000 [1.00, 1.00]",1,n/a,1,n/a
+A3,989,0.944,0.517,0.547,"0.569 [0.53, 0.60]",1.0,0.547,0.994,12,989,"0.632 [0.60, 0.67]",448,"0.501 [0.45, 0.56]",0,n/a,0,n/a,0,n/a
