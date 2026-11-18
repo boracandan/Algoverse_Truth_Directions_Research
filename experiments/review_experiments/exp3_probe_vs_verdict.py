@@ -130,7 +130,7 @@ def plain_rows_for(statements, task, tokenizer):
     missing = [s for s in statements if s not in lookup]
     if missing:
         raise ValueError(f"{task}: {len(missing)} CoT statements have no plain match, e.g. {missing[0]!r}")
-    return tokenizer([lookup[s] for s in statements])["input_ids"]
+    return C.plain_ids([lookup[s] for s in statements], tokenizer)
 
 
 def run_probes(tasks, layers_arg, seeds, folds, cache_dir, batch_size):

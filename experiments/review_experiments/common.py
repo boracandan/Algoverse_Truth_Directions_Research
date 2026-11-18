@@ -92,14 +92,21 @@ def statement_text(row):
     return re.split(r"\n\n|<｜Assistant｜>", text, maxsplit=1)[0].strip()
 
 
+def plain_ids(texts, tokenizer):
+    """BOS + statement, no template (as Poulis et al.: TransformerLens to_tokens prepends BOS).
+    BOS is added by hand because transformers 5 ignores add_bos_token=True in DeepSeek's
+    tokenizer_config and tokenizer.json has no BOS post-processor, so tokenizer(text) adds none."""
+    return [[tokenizer.bos_token_id] + x for x in tokenizer(list(texts), add_special_tokens=False)["input_ids"]]
+
+
 def ids_for(df, tokenizer=None):
-    """Token-id lists for each row. Plain files carry no ids, so they are tokenized here
-    exactly as the Figure 3 notebook does (tokenizer default, which adds BOS)."""
+    """Token-id lists for each row. Stored ids are used as saved (they already start with BOS);
+    plain files carry no ids, so they are tokenized here as BOS + statement."""
     if "extracted_statement_ids" in df.columns:
         return [literal_eval(x) if isinstance(x, str) else list(x) for x in df["extracted_statement_ids"]]
     if tokenizer is None:
         raise ValueError("plain dataset rows need a tokenizer to produce ids")
-    return tokenizer(df["statement"].tolist())["input_ids"]
+    return plain_ids(df["statement"].tolist(), tokenizer)
 
 
 # ---------------------------------------------------------------------------------------

@@ -1,0 +1,1469 @@
+split,statement,label,cot_answer,direct_raw,direct_answer,p_yes,yes_no_mass
+train,"Exactly 2 of the following cities are in Trinidad and Tobago: Riga, Tiruchirappalli.",0,0.0,0,0,0.09534946296854496,0.9995062127709389
+train,"Exactly 2 of the following cities are in Ecuador: Suginami, Sanaa.",0,0.0,0,0,0.1259227746157873,0.9993725419044495
+train,"Exactly 2 of the following cities are in Mexico: Naucalpan de Juarez, Santiago de Queretaro.",1,1.0,0,0,0.19436782504859143,0.9997500777244568
+train,"Exactly 0 of the following cities are in Latvia: Riga, Naberezhnyye Chelny.",0,0.0,0,0,0.1919327844719429,0.9997575283050537
+train,"Exactly 0 of the following cities are in Djibouti: Tangshan, Ningbo.",1,1.0,0,1,0.4610168007043032,0.9990313053131104
+train,"Exactly 1 of the following cities are in Zimbabwe: Arifwala, Harare.",1,1.0,0,1,0.2974699566239341,0.9993890225887299
+train,"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Mbuji-Mayi, Islamabad.",0,0.0,0,0,0.10087861992307917,0.9996398612856865
+train,"Exactly 1 of the following cities are in Kazakhstan: Aktobe, Mulenvos.",1,1.0,0,1,0.3960681629183296,0.9988299906253815
+train,"Exactly 2 of the following cities are in Niger: Enugu, Saratov.",0,0.0,0,0,0.13117322274149323,0.9997252076864243
+train,"Exactly 0 of the following cities are in Sudan: Nyala, Khartoum.",0,0.0,0,1,0.27512972055930124,0.9994716644287109
+train,"Exactly 2 of the following cities are in Angola: Hoji ya Henda, Kikolo.",1,0.0,0,0,0.1520322424996041,0.9995722621679306
+train,"Exactly 0 of the following cities are in Poland: Wroclaw, Tashkent.",0,0.0,0,0,0.1943678176476947,0.9996535181999207
+train,"Exactly 1 of the following cities are in Norway: Paranaque City, Oslo.",1,1.0,0,0,0.21733751786596706,0.9995706677436829
+train,"Exactly 1 of the following cities are in Malaysia: Krakow, Malacca.",1,1.0,0,1,0.3702253777822767,0.9986534118652344
+train,"Exactly 0 of the following cities are in Djibouti: Balbala, Qiqihar.",0,1.0,0,1,0.2877678269244236,0.9992622137069702
+train,"Exactly 2 of the following cities are in the Dominican Republic: Sao Bernardo do Campo, Shah Alam.",0,0.0,0,0,0.13296424471045226,0.9996991604566574
+train,"Exactly 0 of the following cities are in Tonga: Zanzibar, Vladivostok.",1,1.0,0,1,0.3886180266718759,0.9995824992656708
+train,"Exactly 0 of the following cities are in Lesotho: Tiruchirappalli, Naberezhnyye Chelny.",1,1.0,0,0,0.10521053500958917,0.9997573867440224
+train,"Exactly 2 of the following cities are in Malaysia: Iskandar Puteri, Pelentong.",1,0.0,0,0,0.15002881900418724,0.9992706179618835
+train,"Exactly 0 of the following cities are in Denmark: Zhaoqing, Copenhagen.",0,0.0,0,1,0.37754067396000085,0.9984839260578156
+train,"Exactly 2 of the following cities are in Pakistan: Rahim Yar Khan, Bahawalpur.",1,1.0,0,0,0.12592276677724532,0.9993386417627335
+train,"Exactly 1 of the following cities are in Nauru: Langfang, Zarqa.",0,0.0,0,1,0.33458943552521725,0.9989450871944427
+train,"Exactly 2 of the following cities are in Pakistan: Dera Ismail Khan, Sukkur.",1,1.0,0,0,0.18010665682003607,0.9992793649435043
+train,"Exactly 2 of the following cities are in Angola: Golfe, Benguela.",1,1.0,0,0,0.1895210935544793,0.9992794543504715
+train,"Exactly 2 of the following cities are in Germany: Munich, Hannover.",1,1.0,0,0,0.12765261665242542,0.999236211180687
+train,"Exactly 1 of the following cities are in the United States: Albuquerque, Indianapolis.",0,0.0,0,1,0.44167300587104485,0.9990985989570618
+train,"Exactly 0 of the following cities are in Nigeria: Abuja, Ibadan.",0,0.0,0,1,0.3738758110432792,0.99943608045578
+train,"Exactly 2 of the following cities are in Chad: N'Djamena, Hebi.",0,0.0,0,0,0.2043419020649477,0.9994148015975952
+train,"Exactly 2 of the following cities are in South Africa: Evaton, Cape Town.",1,1.0,0,0,0.11436852833529783,0.9994499757885933
+train,"Exactly 1 of the following cities are in Uganda: Fortaleza, Saint Petersburg.",0,0.0,0,1,0.392336842697975,0.999274730682373
+train,"Exactly 1 of the following cities are in Tonga: Chicago, Izmir.",0,0.0,0,1,0.43014734698712875,0.9992345571517944
+train,"Exactly 1 of the following cities are in Myanmar: Tangier, Mandalay.",1,1.0,0,0,0.2309197557987143,0.9992512315511703
+train,"Exactly 0 of the following cities are in Cambodia: Aihara, Agege.",1,1.0,0,0,0.10521053268316623,0.9995269030332565
+train,"Exactly 2 of the following cities are in Bosnia and Herzegovina: Cuttack, Ibb.",0,0.0,0,0,0.1602660364033571,0.999395027756691
+train,"Exactly 0 of the following cities are in Tuvalu: Libreville, The Bronx.",1,1.0,0,0,0.21469142530484567,0.9996372312307358
+train,"Exactly 0 of the following cities are in Haiti: Thembisa, Port-au-Prince.",0,0.0,0,0,0.18952110089628857,0.9996407777070999
+train,"Exactly 2 of the following cities are in Angola: Cabinda, Calumbo.",1,1.0,0,0,0.171061179518262,0.9994763433933258
+train,"Exactly 1 of the following cities are in Syria: Latakia, Gazipur.",1,1.0,0,1,0.25982565365113647,0.9989824593067169
+train,"Exactly 1 of the following cities are in Burkina Faso: Tlalpan, Nanning.",0,0.0,0,1,0.3106943817968569,0.9982722103595734
+train,"Exactly 2 of the following cities are in Tanzania: Dodoma, Arusha.",1,1.0,0,1,0.25683200385535443,0.999348908662796
+train,"Exactly 0 of the following cities are in Venezuela: Maturin, Barquisimeto.",0,0.0,0,0,0.16667540200597974,0.9996269345283508
+train,"Exactly 2 of the following cities are in Gabon: Muntinlupa, Pingdingshan.",0,0.0,0,0,0.1581743616798439,0.9988534301519394
+train,"Exactly 2 of the following cities are in Samoa: Jiaozuo, Ribeirao Preto.",0,0.0,0,1,0.2689414449834276,0.9990694522857666
+train,"Exactly 2 of the following cities are in Vietnam: Cho Lon, Nha Trang.",1,1.0,0,1,0.25982564874303576,0.9990534782409668
+train,"Exactly 2 of the following cities are in Bosnia and Herzegovina: Sarajevo, Esenler.",0,0.0,0,0,0.17328820300846937,0.999619796872139
+train,"Exactly 1 of the following cities are in Honduras: Dongying, Tegucigalpa.",1,1.0,0,1,0.33111973380490295,0.9991373419761658
+train,"Exactly 2 of the following cities are in Saudi Arabia: Sultanah, Ta'if.",1,0.0,0,0,0.18010666742449927,0.999397948384285
+train,"Exactly 1 of the following cities are in Saudi Arabia: Ta'if, Santo Domingo Este.",1,1.0,0,1,0.3451052790973048,0.9993191063404083
+train,"Exactly 2 of the following cities are in Tanzania: Zanzibar, Arusha.",1,1.0,0,0,0.18242553047550886,0.9995622485876083
+train,"Exactly 0 of the following cities are in Uzbekistan: Almaty, Daejeon.",1,1.0,0,1,0.24220563952013272,0.9994911253452301
+train,"Exactly 2 of the following cities are in Iran: Hamadan, Osaka.",0,0.0,0,0,0.1895210928716753,0.9992111325263977
+train,"Exactly 2 of the following cities are in Brazil: Ananindeua, Uberlandia.",1,1.0,0,0,0.17781087022450504,0.9992010593414307
+train,"Exactly 2 of the following cities are in Pakistan: Rahim Yar Khan, Gujrat.",1,0.0,0,0,0.12765262243691458,0.9993379563093185
+train,"Exactly 1 of the following cities are in Poland: Wroclaw, Bucaramanga.",1,1.0,0,0,0.2146914101214362,0.9996877610683441
+train,"Exactly 1 of the following cities are in South Africa: Soshanguve, Adachi.",1,0.0,0,1,0.23934934820266585,0.9992757737636566
+train,"Exactly 1 of the following cities are in Pakistan: Rawalpindi, Peshawar.",0,0.0,0,1,0.2814056090490799,0.999294102191925
+train,"Exactly 2 of the following cities are in Egypt: Port Said, Baoji.",0,0.0,0,0,0.12765261779745815,0.998853787779808
+train,"Exactly 2 of the following cities are in Thailand: Seattle, Bangkok.",0,0.0,0,0,0.18476751352715007,0.9995299875736237
+train,"Exactly 1 of the following cities are in South Korea: Heze, Huaihua.",0,0.0,0,1,0.31405055170130436,0.9975300431251526
+train,"Exactly 0 of the following cities are in Mongolia: Ulan Bator, Diyarbakir.",0,0.0,0,1,0.3106943830865187,0.9995562136173248
+train,"Exactly 2 of the following cities are in Russia: Khabarovsk, Makhachkala.",1,1.0,0,1,0.290980870508297,0.9994730651378632
+train,"Exactly 2 of the following cities are in China: Puente Alto, Nampula.",0,0.0,0,0,0.12765262279227077,0.9966070055961609
+train,"Exactly 0 of the following cities are in Panama: Pelentong, Tolyatti.",1,1.0,0,1,0.3415824881237189,0.9994495213031769
+train,"Exactly 2 of the following cities are in the Philippines: Zamboanga, Muntinlupa.",1,1.0,0,0,0.12421301287019682,0.999556228518486
+train,"Exactly 2 of the following cities are in Germany: Leipzig, Munich.",1,1.0,0,0,0.12592276812823705,0.9994865506887436
+train,"Exactly 0 of the following cities are in Saudi Arabia: Gaziantep, Makkah.",0,0.0,0,0,0.18952109638289963,0.9995208978652954
+train,"Exactly 0 of the following cities are in Croatia: Vladivostok, Oujda.",1,1.0,0,0,0.22270014454548823,0.9995377957820892
+train,"Exactly 2 of the following cities are in Uzbekistan: Hermosillo, Ryazan'.",0,0.0,0,0,0.11757214196588164,0.9995325952768326
+train,"Exactly 0 of the following cities are in Peru: Chiclayo, Callao.",0,0.0,0,0,0.10230470623729741,0.9997069984674454
+train,"Exactly 0 of the following cities are in Oman: Zhumadian, Muscat.",0,0.0,0,1,0.2422056282739883,0.9993405640125275
+train,"Exactly 2 of the following cities are in Yemen: Ibb, Aden.",1,1.0,0,0,0.17106118001754278,0.999578520655632
+train,"Exactly 2 of the following cities are in Cambodia: Pasir Gudang, Situbondo.",0,0.0,0,0,0.09947021116522534,0.9992581084370613
+train,"Exactly 2 of the following cities are in Iraq: Al Mawsil al Jadidah, Erbil.",1,1.0,0,0,0.2043418971507716,0.9996136128902435
+train,"Exactly 1 of the following cities are in Iran: Zibo, Tabriz.",1,1.0,0,1,0.30074559432113596,0.9990729093551636
+train,"Exactly 0 of the following cities are in the Netherlands: Guigang, Uberlandia.",1,1.0,0,1,0.2782568101998721,0.9994819164276123
+train,"Exactly 2 of the following cities are in Iraq: Karbala, Nasiriyah.",1,1.0,0,0,0.10521053452288123,0.9997034296393394
+train,"Exactly 1 of the following cities are in Slovenia: Nakuru, Ningbo.",0,0.0,0,1,0.3451052886179462,0.9989739954471588
+train,"Exactly 2 of the following cities are in Iraq: Baghdad, Al Basrah al Qadimah.",1,1.0,0,0,0.20946970263868211,0.9996421933174133
+train,"Exactly 0 of the following cities are in Saint Kitts and Nevis: Selayang Baru Utara, Zhengzhou.",1,1.0,0,0,0.19436782412720438,0.9992842674255371
+train,"Exactly 0 of the following cities are in Jamaica: Kunshan, Kaifeng.",1,1.0,0,1,0.23934933628028152,0.9988892078399658
+train,"Exactly 2 of the following cities are in Turkey: Malatya, Esenyurt.",1,1.0,0,0,0.18713268949906423,0.999463364481926
+train,"Exactly 0 of the following cities are in Lebanon: Hoji ya Henda, Teni.",1,1.0,0,0,0.17106119176049187,0.9994899481534958
+train,"Exactly 0 of the following cities are in Belarus: Kumamoto, Minsk.",0,0.0,0,1,0.3276683138741442,0.9992923736572266
+train,"Exactly 2 of the following cities are in Germany: Koeln, Hannover.",1,1.0,0,0,0.10669059368153357,0.9994759634137154
+train,"Exactly 2 of the following cities are in Yemen: Pokhara, Sanaa.",0,0.0,0,0,0.19436782259689553,0.9995020031929016
+train,"Exactly 1 of the following cities are in the Gambia: Chennai, Guigang.",0,0.0,0,1,0.2877678154839988,0.9991185069084167
+train,"Exactly 1 of the following cities are in Germany: Koeln, Madinah.",1,1.0,0,0,0.21206880092961927,0.9991777986288071
+train,"Exactly 1 of the following cities are in Japan: Enugu, Kallakurichi.",0,0.0,0,1,0.34158250119456535,0.9990529417991638
+train,"Exactly 1 of the following cities are in Bahrain: Kozhikode, Bangkok.",0,0.0,0,1,0.290980845566735,0.999291867017746
+train,"Exactly 2 of the following cities are in Russia: Omsk, Vladivostok.",1,1.0,0,0,0.212068807678832,0.9995822161436081
+train,"Exactly 0 of the following cities are in Djibouti: Balbala, Abu Ghurayb.",0,0.0,0,0,0.1422318928197304,0.9997183084487915
+train,"Exactly 2 of the following cities are in Kenya: Kakamega, Nairobi.",1,1.0,0,0,0.17328820930774616,0.9989756047725677
+train,"Exactly 2 of the following cities are in Albania: Queens, Shangluo.",0,0.0,0,1,0.23934934277438977,0.9988048225641251
+train,"Exactly 1 of the following cities are in the Central African Republic: Nha Trang, Kigali.",0,0.0,0,1,0.2909808608437748,0.9993358552455902
+train,"Exactly 2 of the following cities are in Saudi Arabia: Zhengzhou, Madinah.",0,0.0,0,0,0.1688569537718394,0.9990644603967667
+train,"Exactly 0 of the following cities are in Cameroon: Weihai, Huzhou.",1,1.0,0,1,0.3415824935610982,0.9990803599357605
+train,"Exactly 0 of the following cities are in Burkina Faso: Petaling Jaya, Ouagadougou.",0,0.0,0,1,0.3775406573453053,0.9995535016059875
+train,"Exactly 2 of the following cities are in Iraq: Shymkent, Dodoma.",0,0.0,0,0,0.17781087566410572,0.9995370805263519
+train,"Exactly 0 of the following cities are in Saudi Arabia: Madinah, Jeddah.",0,0.0,0,0,0.16885695238627968,0.9995084404945374
+train,"Exactly 0 of the following cities are in Guinea: Conakry, Jamshedpur.",0,0.0,0,1,0.3174262816606721,0.9994402825832367
+train,"Exactly 0 of the following cities are in Mongolia: Ulan Bator, Gurugram.",0,0.0,0,1,0.2751297129928683,0.9995357096195221
+train,"Exactly 1 of the following cities are in Togo: Khartoum, Al Basrah al Qadimah.",0,0.0,0,1,0.3593641485096936,0.9987384676933289
+train,"Exactly 1 of the following cities are in Angola: Nakuru, Batam.",0,0.0,0,1,0.43782350729864145,0.9990577101707458
+train,"Exactly 1 of the following cities are in Syria: Ar Raqqah, Carrefour.",1,1.0,0,1,0.35936413822036306,0.9990785121917725
+train,"Exactly 1 of the following cities are in Sudan: Huludao, Khartoum.",1,1.0,0,1,0.4882833931421689,0.9984545409679413
+train,"Exactly 2 of the following cities are in Turkey: Santiago de los Caballeros, Esenler.",0,0.0,0,0,0.1311732199174768,0.9997114837169647
+train,"Exactly 0 of the following cities are in Slovakia: Zhangjiagang, Jambi City.",1,1.0,0,1,0.37022539197729004,0.9987359642982483
+train,"Exactly 0 of the following cities are in Chile: Puente Alto, Harare.",0,1.0,0,0,0.12421300488239989,0.9996892735362053
+train,"Exactly 0 of the following cities are in Suriname: Feira de Santana, Kampung Baru Subang.",1,1.0,0,0,0.16885695822404684,0.9996123611927032
+train,"Exactly 0 of the following cities are in Saint Vincent and the Grenadines: Okayama, Changde.",1,1.0,0,0,0.13660839104844372,0.9993341863155365
+train,"Exactly 0 of the following cities are in Sweden: Abuja, Stockholm.",0,0.0,0,1,0.3345894573353508,0.9996395111083984
+train,"Exactly 1 of the following cities are in Moldova: Batam, Chisinau.",1,1.0,0,1,0.388618026108385,0.9994520545005798
+train,"Exactly 0 of the following cities are in France: Marseille, Tijuana.",0,0.0,0,1,0.25386100233572617,0.9995793998241425
+train,"Exactly 2 of the following cities are in Afghanistan: Hubballi, Kalininskiy.",0,0.0,0,0,0.09009299603421898,0.9996710047125816
+train,"Exactly 0 of the following cities are in Mexico: Cancun, Gustavo Adolfo Madero.",0,0.0,0,0,0.19436782504859143,0.9997500777244568
+train,"Exactly 2 of the following cities are in the Philippines: Makati City, Zamboanga.",1,1.0,0,0,0.12765261918736617,0.9996003955602646
+train,"Exactly 0 of the following cities are in Morocco: Xianning, Liupanshui.",1,1.0,0,1,0.3345894375054755,0.9987695217132568
+train,"Exactly 0 of the following cities are in Jordan: Zarqa, Amman.",0,0.0,0,0,0.14804719012615805,0.9997550398111343
+train,"Exactly 2 of the following cities are in Angola: Cabinda, Camama.",1,0.0,0,0,0.1968262094593819,0.9995047748088837
+train,"Exactly 2 of the following cities are in Romania: Nansana, Bucharest.",0,0.0,0,0,0.17328820579882814,0.9994614720344543
+train,"Exactly 0 of the following cities are in Burundi: Bujumbura, Pasig City.",0,0.0,0,1,0.23934933531350897,0.9995033144950867
+train,"Exactly 2 of the following cities are in Belarus: Yingkou, Daqing.",0,0.0,0,0,0.14414885067488545,0.9993056803941727
+train,"Exactly 2 of the following cities are in Iraq: Karbala, Abu Ghurayb.",1,1.0,0,0,0.12252321031954648,0.9997154772281647
+train,"Exactly 2 of the following cities are in Nigeria: Sokoto, Luancheng.",0,0.0,0,0,0.2173375142983096,0.9986130744218826
+train,"Exactly 1 of the following cities are in Nicaragua: Bilimora, Seattle.",0,0.0,0,1,0.4649015740638573,0.999070018529892
+train,"Exactly 1 of the following cities are in Saudi Arabia: Dammam, Ta'if.",0,0.0,0,1,0.26588047671023873,0.9992434680461884
+train,"Exactly 0 of the following cities are in Iran: Ahvaz, Qom.",0,0.0,0,1,0.3040416747941582,0.9992176294326782
+train,"Exactly 1 of the following cities are in Guinea: Bishkek, Kuantan.",0,0.0,0,0,0.21733751120235836,0.9991818815469742
+train,"Exactly 0 of the following cities are in Romania: Daqing, Bucharest.",0,0.0,0,1,0.2877678137688896,0.9991193413734436
+train,"Exactly 0 of the following cities are in Iraq: Nasiriyah, Mudanjiang.",0,0.0,0,1,0.2814056013293416,0.998822957277298
+train,"Exactly 1 of the following cities are in Portugal: Nakuru, Guiyang.",0,0.0,0,1,0.4263215788458126,0.9989913702011108
+train,"Exactly 2 of the following cities are in Niger: Tiruchirappalli, Binzhou.",0,0.0,0,0,0.1666754114189766,0.9994029253721237
+train,"Exactly 0 of the following cities are in Qatar: Heze, Hamadan.",1,1.0,0,0,0.2146914206379374,0.9992237240076065
+train,"Exactly 0 of the following cities are in Nicaragua: Managua, Quezon City.",0,0.0,0,0,0.18476750937038583,0.9995015412569046
+train,"Exactly 1 of the following cities are in Togo: Huangshi, Lome.",1,1.0,0,1,0.40356686956831056,0.9986708164215088
+train,"Exactly 1 of the following cities are in Singapore: Kayseri, Minsk.",0,0.0,0,1,0.38861803007577617,0.9988370835781097
+train,"Exactly 0 of the following cities are in Haiti: Carrefour, Port-au-Prince.",0,0.0,0,1,0.2720245589832174,0.9996423423290253
+train,"Exactly 2 of the following cities are in Turkey: Bagcilar, Eskisehir.",1,1.0,0,0,0.12940273838251168,0.9996030926704407
+train,"Exactly 2 of the following cities are in Mexico: Tlaquepaque, Naucalpan de Juarez.",1,1.0,0,0,0.22815649337773494,0.9997824430465698
+train,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Lubumbashi, Mbuji-Mayi.",1,1.0,0,1,0.30735800786208595,0.9995533525943756
+train,"Exactly 2 of the following cities are in Latvia: Las Pinas, Can Tho.",0,0.0,0,0,0.13477591572663294,0.9995427578687668
+train,"Exactly 2 of the following cities are in Kuwait: Tashkent, Al Ahmadi.",0,0.0,0,0,0.1276526268380989,0.9996515810489655
+train,"Exactly 0 of the following cities are in Canada: Qinhuangdao, Quebec.",0,1.0,0,1,0.3629691839023105,0.9983707666397095
+train,"Exactly 2 of the following cities are in China: Yangquan, Qingdao.",1,1.0,0,1,0.30074558986741273,0.9940904378890991
+train,"Exactly 0 of the following cities are in Chile: Puente Alto, Bhavnagar.",0,0.0,0,0,0.15610490320377407,0.9996598213911057
+train,"Exactly 0 of the following cities are in Romania: Yongzhou, Khartoum North.",1,1.0,0,1,0.25386102426948287,0.9993691742420197
+train,"Exactly 1 of the following cities are in Myanmar: Isfahan, Kuecuekcekmece.",0,0.0,0,0,0.20434190904706254,0.9988750666379929
+train,"Exactly 1 of the following cities are in Lithuania: Amman, Vilnius.",1,1.0,0,1,0.3738758245250381,0.9996170699596405
+train,"Exactly 2 of the following cities are in Mozambique: Beira, Nampula.",1,1.0,0,0,0.1540575703776089,0.9996529966592789
+train,"Exactly 0 of the following cities are in Mauritania: Weinan, Nouakchott.",0,0.0,0,1,0.3242353941007495,0.9987218677997589
+train,"Exactly 2 of the following cities are in Brazil: Curitiba, Aracaju.",1,1.0,0,0,0.13477592523445195,0.9993943125009537
+train,"Exactly 2 of the following cities are in Vietnam: Nha Trang, Haiphong.",1,1.0,0,0,0.21469142319963788,0.9993249773979187
+train,"Exactly 0 of the following cities are in Mongolia: Shangqiu, Rajkot.",1,1.0,0,0,0.20946970059005954,0.9993604272603989
+train,"Exactly 0 of the following cities are in Côte d'Ivoire: Abobo, Bouake.",0,0.0,0,0,0.1460872446453696,0.9997303038835526
+train,"Exactly 1 of the following cities are in Montenegro: Kobe, Irbid.",0,0.0,0,1,0.32082129673419574,0.9989322423934937
+train,"Exactly 2 of the following cities are in Pakistan: Quetta, Arifwala.",1,0.0,0,0,0.15002882240161794,0.9995147287845612
+train,"Exactly 2 of the following cities are in Uzbekistan: Samarkand, Namangan.",1,1.0,0,0,0.19193279539883767,0.9995298385620117
+train,"Exactly 0 of the following cities are in Sao Tome and Principe: Antalya, Kanayannur.",1,1.0,0,0,0.1422318879957993,0.9997718781232834
+train,"Exactly 0 of the following cities are in Guatemala: Adana, Kampala.",1,1.0,0,0,0.21469141225555738,0.9995959252119064
+train,"Exactly 0 of the following cities are in South Korea: Budapest, Jeonju.",0,0.0,0,0,0.14608725072966017,0.9994911700487137
+train,"Exactly 0 of the following cities are in Nigeria: Omdurman, Tiruppur.",1,1.0,0,1,0.3276683088398954,0.999403715133667
+train,"Exactly 2 of the following cities are in Nigeria: Osogbo, Owerri.",1,1.0,0,1,0.24508500566613,0.9995067715644836
+train,"Exactly 2 of the following cities are in Moldova: Jamnagar, Malingao.",0,0.0,0,0,0.204341899218626,0.9994923323392868
+train,"Exactly 0 of the following cities are in Malaysia: Petaling Jaya, Culiacan.",0,0.0,0,1,0.42250461089379343,0.9988306164741516
+train,"Exactly 2 of the following cities are in Nigeria: Abuja, Abeokuta.",1,1.0,0,1,0.3242353924446586,0.9992829263210297
+train,"Exactly 1 of the following cities are in Uganda: Kampala, Mukalla.",1,1.0,0,1,0.4493926393702695,0.9991515576839447
+train,"Exactly 2 of the following cities are in Japan: Hamamatsu, Kumamoto.",1,1.0,0,0,0.1500288273198423,0.9990599006414413
+train,"Exactly 0 of the following cities are in Tanzania: Mumbai, Zanzibar.",0,0.0,0,1,0.290980854469974,0.999462366104126
+train,"Exactly 0 of the following cities are in Djibouti: Balbala, Jamshedpur.",0,0.0,0,1,0.30735801486793024,0.9995811581611633
+train,"Exactly 1 of the following cities are in Mexico: Naucalpan de Juarez, Ecatepec de Morelos.",0,0.0,0,1,0.426321587846911,0.9996047019958496
+train,"Exactly 2 of the following cities are in Mexico: Iztapalapa, Zapopan.",1,1.0,0,0,0.1311732277353735,0.9997781068086624
+train,"Exactly 2 of the following cities are in Egypt: Shubra al Khaymah, Assiut.",1,1.0,0,0,0.19682621046684978,0.9994299709796906
+train,"Exactly 0 of the following cities are in Iran: Arak, Ahvaz.",0,0.0,0,1,0.2568319922939623,0.9994596540927887
+train,"Exactly 0 of the following cities are in Iran: Arak, Kayseri.",0,0.0,0,0,0.21469141712248369,0.9994868636131287
+train,"Exactly 2 of the following cities are in Tanzania: Zanzibar, Dar es Salaam.",1,1.0,0,0,0.1403362469199597,0.9996105134487152
+train,"Exactly 0 of the following cities are in Nigeria: Ilorin, Calabar.",0,0.0,0,1,0.30074558375988153,0.9993188977241516
+train,"Exactly 0 of the following cities are in Australia: Abuja, Zhumadian.",1,1.0,0,1,0.32766829748923304,0.9993666410446167
+train,"Exactly 1 of the following cities are in Guinea-Bissau: Setagaya, Meizhou.",0,0.0,0,1,0.29421496112067475,0.9986595809459686
+train,"Exactly 1 of the following cities are in Malaysia: Selayang Baru Utara, Kampung Baru Subang.",0,0.0,0,0,0.2068940493046622,0.9989525228738785
+train,"Exactly 2 of the following cities are in Kazakhstan: Aqsu, Almaty.",0,0.0,0,1,0.33111973613371093,0.9993897080421448
+train,"Exactly 1 of the following cities are in Turkey: Izmir, Aqsu.",1,1.0,0,1,0.29098086457105043,0.9992688596248627
+train,"Exactly 0 of the following cities are in Iraq: Pekanbaru, Soshanguve.",1,1.0,0,0,0.1208532389242415,0.9995275065302849
+train,"Exactly 1 of the following cities are in Bhutan: Caracas, Huaibei.",0,0.0,0,1,0.32766829973039857,0.9978308975696564
+train,"Exactly 0 of the following cities are in El Salvador: Pyongyang, Jiaozhou.",1,1.0,0,0,0.19193279130759555,0.9985466599464417
+train,"Exactly 0 of the following cities are in China: Huludao, Lueliang.",0,0.0,0,1,0.23651623388473125,0.9941666573286057
+train,"Exactly 1 of the following cities are in Venezuela: Barquisimeto, Zhangjiagang.",1,1.0,0,1,0.41111085821274085,0.9990474283695221
+train,"Exactly 2 of the following cities are in Tanzania: Istanbul, Dodoma.",0,0.0,0,0,0.21469141426645022,0.9994440525770187
+train,"Exactly 0 of the following cities are in Chad: N'Djamena, Sanmenxia.",0,0.0,0,1,0.48438009617351246,0.9982685148715973
+train,"Exactly 1 of the following cities are in Switzerland: Abu Ghurayb, Maoming.",0,0.0,0,0,0.18952109228937247,0.9988925457000732
+train,"Exactly 2 of the following cities are in South Africa: Cape Town, Thembisa.",1,1.0,0,0,0.12592277400168086,0.999457985162735
+train,"Exactly 0 of the following cities are in Albania: Arifwala, Zhuzhou.",1,1.0,0,1,0.2720245693285924,0.9995028376579285
+train,"Exactly 2 of the following cities are in Turkmenistan: Pietermaritzburg, Irkutsk.",0,0.0,0,0,0.10230470601401731,0.9997378066182137
+train,"Exactly 0 of the following cities are in Ghana: Quetta, Jamnagar.",1,1.0,0,1,0.24220564186326235,0.9993427842855453
+train,"Exactly 0 of the following cities are in the Maldives: Fukuoka, Vijayawada.",1,1.0,0,1,0.3629692017541262,0.9993355572223663
+train,"Exactly 2 of the following cities are in Jordan: Indore, Mirpur Model Thana.",0,0.0,0,1,0.3040416740548109,0.9992067515850067
+train,"Exactly 2 of the following cities are in Mauritius: Dakar, Fes.",0,0.0,0,0,0.06371499681222322,0.9996233358979225
+train,"Exactly 1 of the following cities are in Iraq: Al Mawsil al Jadidah, Basrah.",0,0.0,0,1,0.34158251204570433,0.9993647336959839
+train,"Exactly 2 of the following cities are in South Korea: Hwaseong-si, Changwon.",1,1.0,0,0,0.12421301091461834,0.9992318600416183
+train,"Exactly 1 of the following cities are in Oman: Muscat, Nasiriyah.",1,1.0,0,0,0.19930800422138778,0.999348595738411
+train,"Exactly 0 of the following cities are in Sweden: Adana, Amman.",1,1.0,0,0,0.22541660422874404,0.9996687322854996
+train,"Exactly 2 of the following cities are in Venezuela: Caracas, Barquisimeto.",1,1.0,0,0,0.1127954023646013,0.9997819140553474
+train,"Exactly 0 of the following cities are in Saint Vincent and the Grenadines: Kumamoto, Bandar Lampung.",1,1.0,0,0,0.12421301377631207,0.9996461346745491
+train,"Exactly 2 of the following cities are in China: Rui'an, Anqing.",1,1.0,0,1,0.3486451371725722,0.9943006336688995
+train,"Exactly 1 of the following cities are in Samoa: Izmir, Seoul.",0,0.0,0,1,0.27512972173951833,0.9994395971298218
+train,"Exactly 1 of the following cities are in Turkey: Esenler, Bikaner.",1,1.0,0,0,0.22000709301126659,0.9993615001440048
+train,"Exactly 1 of the following cities are in the Gambia: Amman, Camayenne.",0,0.0,0,1,0.2658804724489949,0.9992911219596863
+train,"Exactly 1 of the following cities are in Germany: Koeln, Dortmund.",0,0.0,0,0,0.18010665608890758,0.9994063675403595
+train,"Exactly 0 of the following cities are in Iraq: Sadr City, Mohammadpur.",0,0.0,0,0,0.18242551806486018,0.99957375228405
+train,"Exactly 2 of the following cities are in China: Tianshui, Ulanqab.",1,1.0,0,1,0.488283413487649,0.997620701789856
+train,"Exactly 2 of the following cities are in Myanmar: Jilin, Nay Pyi Taw.",0,0.0,0,0,0.1460872556236858,0.99310103058815
+train,"Exactly 0 of the following cities are in Saudi Arabia: Najran, Buraydah.",0,0.0,0,0,0.14223188824947297,0.9996497184038162
+train,"Exactly 2 of the following cities are in Peru: Piura, Arequipa.",1,1.0,0,0,0.11279539967101687,0.9996655508875847
+train,"Exactly 0 of the following cities are in Norway: Jiamusi, Oslo.",0,0.0,0,1,0.2598256310471929,0.999201625585556
+train,"Exactly 0 of the following cities are in Egypt: Madinat an Nasr, Vilnius.",0,0.0,0,1,0.2782567972249743,0.9994156658649445
+train,"Exactly 1 of the following cities are in Japan: Kobe, Hamamatsu.",0,0.0,0,1,0.2845759978877689,0.9987200498580933
+train,"Exactly 2 of the following cities are in Benin: Hongkou, Petaling Jaya.",0,0.0,0,0,0.19436782656804744,0.9984571188688278
+train,"Exactly 2 of the following cities are in Thailand: Bangkok, Tanggu.",0,0.0,0,0,0.1666754028745929,0.9986747056245804
+train,"Exactly 1 of the following cities are in Tunisia: Phnom Penh, Borama.",0,0.0,0,1,0.4148988291241282,0.9992955923080444
+train,"Exactly 2 of the following cities are in Indonesia: Jakarta, Makassar.",1,1.0,0,0,0.1778108753034606,0.9992378205060959
+train,"Exactly 1 of the following cities are in Sweden: Frankfurt am Main, Stockholm.",1,1.0,0,1,0.37387581270368847,0.9994110465049744
+train,"Exactly 1 of the following cities are in Kenya: Mombasa, Dalian.",1,1.0,0,1,0.4882834140769329,0.9989090859889984
+train,"Exactly 0 of the following cities are in Iran: Isfahan, Dera Ismail Khan.",0,0.0,0,1,0.30735801105292115,0.9990279972553253
+train,"Exactly 1 of the following cities are in Portugal: Mersin, Nyala.",0,0.0,0,1,0.34158251406456697,0.9993355870246887
+train,"Exactly 0 of the following cities are in Haiti: Rui'an, Bannu.",1,1.0,0,0,0.16667540024414848,0.9992598593235016
+train,"Exactly 2 of the following cities are in Indonesia: Tasikmalaya, Samarinda.",1,1.0,0,0,0.15817434703519703,0.9993433058261871
+train,"Exactly 2 of the following cities are in Sri Lanka: Algiers, Niteroi.",0,0.0,0,0,0.08509904729422373,0.9995416849851608
+train,"Exactly 2 of the following cities are in Vietnam: Da Nang, Qui Nhon.",1,1.0,0,0,0.2227001440008759,0.9992306083440781
+train,"Exactly 0 of the following cities are in Hungary: Pest, Budapest.",0,0.0,0,0,0.1127953942524203,0.9997434765100479
+train,"Exactly 0 of the following cities are in China: Wanzhou, Zibo.",0,0.0,0,1,0.3486451392552447,0.9975301623344421
+train,"Exactly 0 of the following cities are in Turkey: Bagcilar, Yekaterinburg.",0,0.0,0,1,0.23651624134097998,0.999639481306076
+train,"Exactly 1 of the following cities are in Guatemala: Huzhou, Guatemala City.",1,1.0,1,1,0.5039061517267708,0.9986251294612885
+train,"Exactly 1 of the following cities are in South Korea: Ansan-si, Kimhae.",0,1.0,0,1,0.24220563315665378,0.9988981336355209
+train,"Exactly 2 of the following cities are in the Netherlands: Kitwe, Bilimora.",0,0.0,0,0,0.11436852721830162,0.9996048361063004
+train,"Exactly 0 of the following cities are in Ethiopia: Seattle, Shantou.",1,1.0,0,1,0.2974699322064978,0.9991944432258606
+train,"Exactly 1 of the following cities are in Lesotho: Budta, Sorocaba.",0,0.0,0,0,0.19193279698620397,0.9993689656257629
+train,"Exactly 1 of the following cities are in Bangladesh: Dhanbad, Gazipur.",1,1.0,0,1,0.37754067915358236,0.9987795352935791
+train,"Exactly 2 of the following cities are in the Bahamas: Mandalay, Likasi.",0,0.0,0,0,0.17106118032384685,0.99947389960289
+train,"Exactly 1 of the following cities are in Latvia: Linfen, Riga.",1,1.0,0,1,0.2751297147587365,0.9994244575500488
+train,"Exactly 0 of the following cities are in Eritrea: UEruemqi, Asmara.",0,0.0,0,0,0.20434190174625838,0.9989673495292664
+train,"Exactly 2 of the following cities are in Paraguay: Chelyabinsk, Changshu.",0,0.0,0,0,0.16238002985837366,0.9992706030607224
+train,"Exactly 1 of the following cities are in Venezuela: Deyang, Okara.",0,0.0,0,1,0.3451052943419425,0.9987979829311371
+train,"Exactly 2 of the following cities are in South Africa: Yichang, Taguig.",0,0.0,0,0,0.18242553133422948,0.9991905838251114
+train,"Exactly 1 of the following cities are in Djibouti: Xuchang, Balbala.",1,1.0,0,1,0.34158251126855177,0.9988036453723907
+train,"Exactly 2 of the following cities are in China: Mudanjiang, Ningbo.",1,1.0,0,1,0.4035668788590807,0.9973413944244385
+train,"Exactly 1 of the following cities are in Azerbaijan: Zhangzhou, Tokyo.",0,0.0,0,1,0.2568320031758332,0.9993686378002167
+train,"Exactly 1 of the following cities are in the Dominican Republic: Teni, Ananindeua.",0,1.0,0,0,0.20689405764690427,0.9994095414876938
+train,"Exactly 0 of the following cities are in Sierra Leone: Cuautitlan Izcalli, Guli.",1,1.0,0,0,0.16026603972958978,0.9996648281812668
+train,"Exactly 1 of the following cities are in Côte d'Ivoire: Bhayandar, Abidjan.",1,1.0,0,1,0.40356686313410123,0.9995014667510986
+train,"Exactly 2 of the following cities are in Canada: Calgary, Aracaju.",0,0.0,0,0,0.12940273265036206,0.9995121657848358
+train,"Exactly 2 of the following cities are in Togo: Tiruchirappalli, Denpasar.",0,0.0,0,0,0.14804719458527746,0.9995203912258148
+train,"Exactly 1 of the following cities are in Iceland: Mukim Pulai, Gazipur.",0,0.0,0,1,0.23370634434230922,0.9990287870168686
+train,"Exactly 1 of the following cities are in Vietnam: Khabarovsk, Liupanshui.",0,0.0,0,1,0.4493926622932953,0.9987280070781708
+train,"Exactly 1 of the following cities are in Nigeria: Kathmandu, Ya'an.",0,0.0,0,1,0.37387581210047244,0.9983368515968323
+train,"Exactly 1 of the following cities are in Malawi: Maceio, Bujumbura.",0,0.0,0,1,0.27512973685515435,0.9994896948337555
+train,"Exactly 1 of the following cities are in Canada: Cagayan de Oro, Calgary.",1,1.0,1,1,0.5428632602906796,0.9986992180347443
+train,"Exactly 2 of the following cities are in Indonesia: Ajmer, Agege.",0,0.0,0,0,0.12252321251821095,0.9995260983705521
+train,"Exactly 0 of the following cities are in Chile: Luohe, Puente Alto.",0,0.0,0,0,0.16885695809668244,0.9994071871042252
+train,"Exactly 0 of the following cities are in Paraguay: Naucalpan de Juarez, Erode.",1,1.0,0,0,0.13117322772037585,0.9998167306184769
+train,"Exactly 2 of the following cities are in Mongolia: Kallakurichi, Juiz de Fora.",0,0.0,0,0,0.12765261221807675,0.9996016174554825
+train,"Exactly 2 of the following cities are in the United States: Tucson, Fort Worth.",1,1.0,0,0,0.21733751422440098,0.9993102848529816
+train,"Exactly 1 of the following cities are in Switzerland: Ipoh, Rajkot.",0,0.0,0,0,0.196826212695686,0.999366819858551
+train,"Exactly 2 of the following cities are in Samoa: Ar Raqqah, Matola.",0,0.0,0,0,0.10970577397256823,0.9995485246181488
+train,"Exactly 0 of the following cities are in Jordan: Amman, Krakow.",0,0.0,0,1,0.23651623939467215,0.9996202737092972
+train,"Exactly 1 of the following cities are in Burkina Faso: Feira de Santana, Makati City.",0,0.0,0,1,0.3073580177821735,0.999439001083374
+train,"Exactly 2 of the following cities are in Brazil: Goiania, Sao Jose dos Campos.",1,1.0,0,0,0.2309197644661197,0.999483048915863
+train,"Exactly 2 of the following cities are in Saudi Arabia: Madinah, Buraydah.",1,0.0,0,0,0.19193279119188736,0.9993963241577148
+train,"Exactly 0 of the following cities are in Samoa: Aracaju, Johor Bahru.",1,1.0,0,1,0.23651623865631155,0.9996180087327957
+train,"Exactly 0 of the following cities are in Zimbabwe: Bulawayo, Yekaterinburg.",0,0.0,0,1,0.38491217216553525,0.9993898570537567
+train,"Exactly 0 of the following cities are in Zambia: Lusaka, Kunshan.",0,0.0,0,1,0.4921881223547986,0.9985059797763824
+train,"Exactly 2 of the following cities are in Malaysia: Kampala, Ndola.",0,0.0,0,0,0.10970577616753861,0.9993050321936607
+train,"Exactly 1 of the following cities are in Romania: Caloocan, Gustavo Adolfo Madero.",0,0.0,0,1,0.28140561155550975,0.999475508928299
+train,"Exactly 0 of the following cities are in Morocco: Tangier, Marrakesh.",0,0.0,0,0,0.2094696915770046,0.9995716065168381
+train,"Exactly 1 of the following cities are in Iceland: Ecatepec de Morelos, Maceio.",0,0.0,0,1,0.34158251418637686,0.9994993507862091
+train,"Exactly 2 of the following cities are in Norway: Oslo, Porto Alegre.",0,0.0,0,0,0.1175721379116003,0.9996306002140045
+train,"Exactly 0 of the following cities are in Brazil: Porto Alegre, Ananindeua.",0,0.0,0,0,0.14804718334869288,0.9995676726102829
+train,"Exactly 2 of the following cities are in Japan: Anshan, Dhanbad.",0,0.0,0,0,0.1259227684113304,0.9992965012788773
+train,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Likasi, Kinshasa.",1,0.0,0,1,0.2689414409391147,0.9994992017745972
+train,"Exactly 1 of the following cities are in Nigeria: Managua, Jaboatao dos Guararapes.",0,0.0,0,1,0.43014734632910095,0.9992349743843079
+train,"Exactly 0 of the following cities are in Peru: Piura, Port-au-Prince.",0,0.0,0,0,0.1871326799090672,0.9996071457862854
+train,"Exactly 2 of the following cities are in Saudi Arabia: Makkah, Ha'il.",1,1.0,0,0,0.2254166099155772,0.9991901069879532
+train,"Exactly 0 of the following cities are in Honduras: Davao, Tegucigalpa.",0,0.0,0,1,0.24798744202762563,0.9996021836996078
+train,"Exactly 0 of the following cities are in Guinea: Conakry, Guankou.",0,0.0,0,0,0.18242553293355657,0.9990719705820084
+train,"Exactly 0 of the following cities are in North Korea: Florianopolis, Arak.",1,1.0,0,0,0.15203224794994982,0.9994255006313324
+train,"Exactly 1 of the following cities are in Burkina Faso: Bobo-Dioulasso, Algiers.",1,1.0,0,1,0.25091279485212414,0.9995898306369781
+train,"Exactly 1 of the following cities are in Malaysia: Subang Jaya, Kampung Baru Subang.",0,1.0,0,0,0.2281564981389097,0.9991700649261475
+train,"Exactly 0 of the following cities are in Latvia: Al Basrah al Qadimah, Rasapudipalem.",1,1.0,0,0,0.09009299460366206,0.9997705072164536
+train,"Exactly 1 of the following cities are in Moldova: Chisinau, Selayang Baru Utara.",1,1.0,0,1,0.3960681885836603,0.9993473887443542
+train,"Exactly 2 of the following cities are in Canada: Calgary, Mississauga.",1,1.0,0,0,0.17106118226857178,0.9993841648101807
+train,"Exactly 0 of the following cities are in Thailand: Shangrao, Aparecida de Goiania.",1,1.0,0,0,0.13117322899198808,0.9996816515922546
+train,"Exactly 1 of the following cities are in Morocco: Golfe, Bayan Nur.",0,1.0,0,1,0.348645133499946,0.9990590810775757
+train,"Exactly 2 of the following cities are in Mexico: Mexico City, Torreon.",1,1.0,0,0,0.21733750826085682,0.9996812343597412
+train,"Exactly 1 of the following cities are in Burkina Faso: Ouagadougou, Leipzig.",1,1.0,0,1,0.3345894403283876,0.9994790554046631
+train,"Exactly 1 of the following cities are in Germany: Khartoum, Abu Ghurayb.",0,0.0,0,0,0.18242552773123483,0.99941286444664
+train,"Exactly 1 of the following cities are in Argentina: Kolhapur, Maianga.",0,0.0,0,1,0.24220563804282216,0.9994120746850967
+train,"Exactly 1 of the following cities are in Lebanon: Ra's Bayrut, Kayseri.",1,1.0,0,0,0.20181322552357847,0.9991296678781509
+train,"Exactly 2 of the following cities are in Iraq: Nasiriyah, Al Basrah al Qadimah.",1,1.0,0,0,0.18952109535785572,0.9995094239711761
+train,"Exactly 0 of the following cities are in Croatia: Abeokuta, Shubra al Khaymah.",1,1.0,0,1,0.24798744031219147,0.9996365010738373
+train,"Exactly 0 of the following cities are in Madagascar: Antananarivo, Gustavo Adolfo Madero.",0,0.0,0,0,0.2094696924865791,0.9996697008609772
+train,"Exactly 1 of the following cities are in Jordan: Zarqa, Kota Kinabalu.",1,1.0,0,1,0.32766829960348304,0.9992407560348511
+train,"Exactly 0 of the following cities are in Canada: Ashgabat, Calgary.",0,0.0,0,0,0.21733752444875312,0.9994038939476013
+train,"Exactly 0 of the following cities are in Syria: Aden, Okara.",1,1.0,0,1,0.2337063484774735,0.9993239790201187
+train,"Exactly 2 of the following cities are in Ghana: Kumasi, Ulyanovsk.",0,0.0,0,1,0.272024558361466,0.9992404878139496
+train,"Exactly 1 of the following cities are in Egypt: Port Said, Suez.",0,0.0,0,1,0.30074560069815387,0.9990883469581604
+train,"Exactly 0 of the following cities are in New Zealand: Zhanjiang, Hanzhong.",1,1.0,0,1,0.30735801269839946,0.9989026188850403
+train,"Exactly 1 of the following cities are in Mexico: Muzaffarabad, Malatya.",0,0.0,0,1,0.35936413421321417,0.999267190694809
+train,"Exactly 1 of the following cities are in Denmark: Khulna, Copenhagen.",1,1.0,0,1,0.3665897382013721,0.9993836581707001
+train,"Exactly 0 of the following cities are in Madagascar: Antananarivo, Milwaukee.",0,0.0,0,1,0.2450850137917118,0.9994909912347794
+train,"Exactly 2 of the following cities are in Romania: Callao, Bucharest.",0,0.0,0,0,0.1422318882482624,0.9996292889118195
+train,"Exactly 0 of the following cities are in Turkmenistan: Ashgabat, Tolyatti.",0,0.0,0,1,0.26894145350621046,0.999594122171402
+train,"Exactly 1 of the following cities are in Rwanda: Madinah, Tijuana.",0,0.0,0,1,0.3242353845183086,0.9994021654129028
+train,"Exactly 0 of the following cities are in Zimbabwe: Bareilly, Leipzig.",1,1.0,0,1,0.3775406732568677,0.9993859529495239
+train,"Exactly 1 of the following cities are in Mauritania: Odesa, Nouakchott.",1,1.0,0,1,0.29421497279511477,0.9993323385715485
+train,"Exactly 1 of the following cities are in Iran: Qom, Kemerovo.",1,1.0,0,1,0.30074558231360643,0.9991249740123749
+train,"Exactly 2 of the following cities are in Yemen: Ibb, Al Hudaydah.",1,1.0,0,0,0.20946969131683912,0.9994986206293106
+train,"Exactly 1 of the following cities are in Tanzania: Dar es Salaam, Goyang-si.",1,1.0,0,1,0.3415825006203592,0.9992408752441406
+train,"Exactly 2 of the following cities are in Japan: Kitakyushu, Niigata.",1,1.0,0,0,0.09138210174970687,0.999173991382122
+train,"Exactly 1 of the following cities are in Syria: Ar Raqqah, Zhanjiang.",1,1.0,0,0,0.22541661575268981,0.9975281357765198
+train,"Exactly 2 of the following cities are in Hungary: Pest, Santiago de Queretaro.",0,0.0,0,0,0.12940273212953135,0.9996874332427979
+train,"Exactly 2 of the following cities are in Kiribati: Bokaro, Cagayan de Oro.",0,0.0,0,0,0.1943678224936711,0.9995654821395874
+train,"Exactly 2 of the following cities are in Yemen: Taiz, Aden.",1,0.0,0,0,0.146087252268336,0.9995486885309219
+train,"Exactly 2 of the following cities are in China: Beijing, Taicang.",1,1.0,0,1,0.38491215997059575,0.9968354403972626
+train,"Exactly 2 of the following cities are in Iran: Arak, Kermanshah.",1,1.0,0,0,0.16451645296034306,0.9994185715913773
+train,"Exactly 0 of the following cities are in Moldova: Londrina, Chisinau.",0,0.0,0,1,0.2782567936871438,0.9996926486492157
+train,"Exactly 2 of the following cities are in Spain: Nansana, Isfahan.",0,0.0,0,0,0.13660839205092964,0.9995653182268143
+train,"Exactly 1 of the following cities are in Chile: Luancheng, Qinhuangdao.",0,0.0,0,1,0.3849121573748279,0.9966278672218323
+train,"Exactly 1 of the following cities are in Cameroon: Douala, Luancheng.",1,1.0,0,1,0.36296920118367915,0.9986484050750732
+train,"Exactly 1 of the following cities are in Norway: Kalininskiy, Oslo.",1,1.0,0,1,0.26588047775312623,0.999500036239624
+train,"Exactly 0 of the following cities are in Malaysia: Shah Alam, Madinat an Nasr.",0,0.0,0,0,0.18010666118542212,0.9992747902870178
+train,"Exactly 2 of the following cities are in Egypt: Shubra al Khaymah, Giza.",1,1.0,0,0,0.11757214187694119,0.9995080083608627
+train,"Exactly 2 of the following cities are in Nigeria: Maiduguri, Ile-Ife.",1,1.0,0,1,0.23934933723018634,0.9994338899850845
+train,"Exactly 2 of the following cities are in Pakistan: Karachi, Lahore.",1,1.0,0,0,0.17328820984954987,0.9992782026529312
+train,"Exactly 0 of the following cities are in the United Arab Emirates: Huizhou, Al Ain City.",0,0.0,0,0,0.21469142133832153,0.9992115050554276
+train,"Exactly 1 of the following cities are in Iraq: Abu Ghurayb, Thu GJuc.",1,1.0,0,0,0.1801066661370309,0.9993457496166229
+train,"Exactly 2 of the following cities are in the Philippines: General Santos, Las Pinas.",1,1.0,0,0,0.12085323190678597,0.9995601773262024
+train,"Exactly 1 of the following cities are in Azerbaijan: Suginami, Goiania.",0,0.0,0,1,0.3886180200243038,0.9992645680904388
+train,"Exactly 2 of the following cities are in Equatorial Guinea: Ho Chi Minh City, Mexico City.",0,0.0,0,0,0.08151974821667515,0.9996394068002701
+train,"Exactly 2 of the following cities are in Syria: Rahim Yar Khan, Panshan.",0,0.0,0,0,0.13296424072790586,0.9991177767515182
+train,"Exactly 2 of the following cities are in Sudan: Hegang, Peshawar.",0,0.0,0,1,0.26284184525921817,0.9989659488201141
+train,"Exactly 1 of the following cities are in Djibouti: Balbala, Orumiyeh.",1,1.0,0,1,0.25982565005211483,0.9994370341300964
+train,"Exactly 2 of the following cities are in Turkey: Cankaya, Istanbul.",1,1.0,0,0,0.13846178615320123,0.9995836019515991
+train,"Exactly 2 of the following cities are in Timor-Leste: Jiujiang, Borivli.",0,0.0,0,0,0.08509904329157075,0.998823806643486
+train,"Exactly 1 of the following cities are in Indonesia: Tasikmalaya, Rahim Yar Khan.",1,1.0,0,1,0.47268347620130097,0.9982157349586487
+train,"Exactly 2 of the following cities are in Timor-Leste: Xiangtan, Hefei.",0,0.0,0,0,0.16238003664640646,0.9986424148082733
+train,"Exactly 1 of the following cities are in Zimbabwe: Kitwe, Tangshan.",0,0.0,0,1,0.3923368253506757,0.9987995624542236
+train,"Exactly 1 of the following cities are in Malawi: Lilongwe, Surat.",1,1.0,0,1,0.31405055721151137,0.999226301908493
+train,"Exactly 1 of the following cities are in Vietnam: Cho Lon, Hermosillo.",1,1.0,0,1,0.25683200433781084,0.9990053176879883
+train,"Exactly 2 of the following cities are in Malaysia: Homs, Wanxian.",0,0.0,0,0,0.19193279021785786,0.9977411776781082
+train,"Exactly 2 of the following cities are in Vietnam: Thu GJuc, Hue.",1,0.0,0,0,0.1403362515038434,0.9990837126970291
+train,"Exactly 1 of the following cities are in Nepal: Xiamen, Zhumadian.",0,0.0,1,1,0.6224593262939833,0.9970192313194275
+train,"Exactly 0 of the following cities are in Saint Vincent and the Grenadines: Naberezhnyye Chelny, Huangshi.",1,1.0,0,0,0.1645164609636511,0.9992155432701111
+train,"Exactly 1 of the following cities are in Angola: Jinan, Virar.",0,0.0,0,1,0.3886180180935242,0.999196320772171
+train,"Exactly 0 of the following cities are in Zambia: Kitwe, Ndola.",0,0.0,0,0,0.20689404850962242,0.9996615946292877
+train,"Exactly 2 of the following cities are in Yemen: Taiz, Al Hudaydah.",1,1.0,0,0,0.19436781564126482,0.9994923025369644
+train,"Exactly 1 of the following cities are in Iraq: Puducherry, Al Basrah al Qadimah.",1,1.0,0,1,0.38121957462647665,0.9982675909996033
+train,"Exactly 0 of the following cities are in Angola: Golfe, Hoji ya Henda.",0,0.0,0,0,0.2068940567221322,0.9996569454669952
+train,"Exactly 0 of the following cities are in Samoa: Guli, Fes.",1,1.0,0,0,0.08035747063337367,0.9997445493936539
+train,"Exactly 0 of the following cities are in Cameroon: Yaounde, Tangshan.",0,0.0,0,1,0.3665897429771678,0.9992132484912872
+train,"Exactly 1 of the following cities are in Tanzania: Arusha, Hwaseong-si.",1,1.0,0,1,0.39606817686391244,0.9991170167922974
+train,"Exactly 1 of the following cities are in Sri Lanka: Arak, Nanjing.",0,0.0,0,1,0.2479874406167103,0.9987685233354568
+train,"Exactly 2 of the following cities are in Turkey: Cankaya, Adana.",1,1.0,0,0,0.17106117779090207,0.9994948208332062
+train,"Exactly 2 of the following cities are in Poland: Wroclaw, Ghaziabad.",0,0.0,0,0,0.12940273929740045,0.9997044205665588
+train,"Exactly 1 of the following cities are in Benin: Goyang-si, Qiqihar.",0,0.0,0,1,0.2568319968178568,0.9973869621753693
+train,"Exactly 2 of the following cities are in Japan: Yangquan, Xiamen.",0,0.0,0,0,0.16885696430921865,0.998056173324585
+train,"Exactly 2 of the following cities are in Austria: Jingmen, Bahawalpur.",0,0.0,0,0,0.18010667283222184,0.9993472844362259
+train,"Exactly 1 of the following cities are in Benin: Pingdingshan, Sargodha.",0,0.0,0,1,0.42632156732551096,0.9982141852378845
+train,"Exactly 0 of the following cities are in Chad: Chuxiong, N'Djamena.",0,0.0,0,1,0.44552955473273226,0.9993306696414948
+train,"Exactly 1 of the following cities are in Saint Kitts and Nevis: Bhilai, Busan.",0,0.0,0,1,0.3345894457620181,0.9990476667881012
+train,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Bukavu, Mbuji-Mayi.",1,1.0,0,1,0.27512971724587554,0.9995948374271393
+train,"Exactly 1 of the following cities are in New Zealand: Auckland, Johor Bahru.",1,1.0,0,1,0.28140560959701466,0.9991529285907745
+train,"Exactly 2 of the following cities are in Indonesia: Banjarmasin, Jambi City.",1,1.0,0,0,0.16026602711197888,0.9992282837629318
+train,"Exactly 1 of the following cities are in North Korea: Al Mahallah al Kubra, Pyongyang.",1,1.0,0,0,0.2254166080175965,0.9990372806787491
+train,"Exactly 0 of the following cities are in Vanuatu: Golfe, Pontianak.",1,1.0,0,0,0.17328820883067134,0.9996342957019806
+train,"Exactly 1 of the following cities are in Cuba: Santiago de Cuba, Ajmer.",1,1.0,0,0,0.19682620695630618,0.9995565712451935
+train,"Exactly 1 of the following cities are in Azerbaijan: UEruemqi, Baku.",1,1.0,0,1,0.34510527963384496,0.9989545047283173
+train,"Exactly 0 of the following cities are in Burkina Faso: Weihai, Bobo-Dioulasso.",0,0.0,0,0,0.2309197560346663,0.9995238035917282
+train,"Exactly 1 of the following cities are in Estonia: N'Djamena, Wanzhou.",0,0.0,0,1,0.45326185507564776,0.9989552795886993
+train,"Exactly 2 of the following cities are in Jordan: Hue, Irbid.",0,0.0,0,0,0.156104898497311,0.9993995428085327
+train,"Exactly 2 of the following cities are in Venezuela: Maturin, Caracas.",1,1.0,0,0,0.13296423920964087,0.999571219086647
+train,"Exactly 2 of the following cities are in Japan: Saitama, Kitakyushu.",1,1.0,0,0,0.14608724996412487,0.9993609189987183
+train,"Exactly 0 of the following cities are in Burkina Faso: Rajkot, Bobo-Dioulasso.",0,0.0,0,0,0.18713268544316872,0.9997261613607407
+train,"Exactly 1 of the following cities are in Japan: Hiroshima, Adachi.",0,1.0,0,0,0.22541661293361231,0.9988082051277161
+train,"Exactly 1 of the following cities are in Italy: Qiqihar, Kunming.",0,0.0,0,1,0.29421496228421284,0.998323380947113
+train,"Exactly 0 of the following cities are in the United States: Kolhapur, Florianopolis.",1,1.0,0,1,0.4073334197259366,0.9992451965808868
+train,"Exactly 2 of the following cities are in the United States: New South Memphis, Tucson.",1,1.0,0,1,0.2845760008543838,0.9990106523036957
+train,"Exactly 0 of the following cities are in Tajikistan: Dushanbe, Baku.",0,1.0,0,0,0.0953494599072651,0.9995782896876335
+train,"Exactly 2 of the following cities are in Kuwait: Dodoma, Yangon.",0,0.0,0,0,0.1968262094212364,0.9992606192827225
+train,"Exactly 0 of the following cities are in San Marino: Chunian, Panjin.",1,1.0,0,0,0.19682621295509178,0.999396950006485
+train,"Exactly 0 of the following cities are in Russia: Nizhniy Novgorod, Orumiyeh.",0,0.0,0,1,0.304041677879014,0.9995155036449432
+train,"Exactly 1 of the following cities are in Ukraine: Belford Roxo, Dnipro.",1,1.0,1,1,0.5273165413321641,0.9989787936210632
+train,"Exactly 0 of the following cities are in the United Kingdom: Hohhot, Cotonou.",1,1.0,0,1,0.46490156474396765,0.9991525411605835
+train,"Exactly 0 of the following cities are in Vietnam: Bien Hoa, Ananindeua.",0,0.0,0,0,0.13660840062182478,0.999502643942833
+train,"Exactly 2 of the following cities are in Niger: Jaboatao dos Guararapes, Huzhou.",0,0.0,0,0,0.06853749125823452,0.9995206668972969
+train,"Exactly 2 of the following cities are in Japan: Niigata, Matsuyama.",1,0.0,0,0,0.1311732248817097,0.9985291063785553
+train,"Exactly 1 of the following cities are in Finland: Helsinki, Mombasa.",1,1.0,0,1,0.44167302332489616,0.9990511238574982
+train,"Exactly 0 of the following cities are in Haiti: Port-au-Prince, Hangzhou.",0,0.0,1,1,0.5039061578547971,0.9980780482292175
+train,"Exactly 1 of the following cities are in Iraq: Himeji, Mosul.",1,1.0,0,1,0.265880473756385,0.9989415109157562
+train,"Exactly 2 of the following cities are in Mauritania: Sanaa, Dharavi.",0,0.0,0,0,0.07369627541844713,0.9996643885970116
+train,"Exactly 1 of the following cities are in Mongolia: Utsunomiya, Adachi.",0,0.0,0,1,0.24508501516798226,0.9993161857128143
+train,"Exactly 1 of the following cities are in Ukraine: Nyala, Kharkiv.",1,1.0,0,1,0.4726834618514984,0.9993111193180084
+train,"Exactly 1 of the following cities are in Spain: Tokyo, Kanpur.",0,0.0,0,1,0.3486451404219416,0.9994920194149017
+train,"Exactly 1 of the following cities are in Peru: Callao, Arequipa.",0,0.0,0,0,0.23091975644255644,0.9994601756334305
+train,"Exactly 1 of the following cities are in Cambodia: Phnom Penh, Hannover.",1,1.0,0,1,0.3311197404423177,0.9990595579147339
+train,"Exactly 1 of the following cities are in Vietnam: Can Tho, Najran.",1,1.0,0,1,0.47268346825671165,0.9989005923271179
+train,"Exactly 0 of the following cities are in Saudi Arabia: Ta'if, Jeddah.",0,0.0,0,0,0.1540575576022886,0.9995507448911667
+train,"Exactly 0 of the following cities are in Thailand: Katsina, Bayan Nur.",1,1.0,0,0,0.18476750796204383,0.999590665102005
+train,"Exactly 1 of the following cities are in Sao Tome and Principe: Chuxiong, Yangon.",0,0.0,0,1,0.2845760057749081,0.9984427094459534
+train,"Exactly 1 of the following cities are in Belarus: Seongnam-si, Qinhuangdao.",0,0.0,0,1,0.4687906323775621,0.9983340501785278
+train,"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Kolwezi, Aktobe.",1,1.0,0,1,0.2814056078396091,0.9993916451931
+train,"Exactly 2 of the following cities are in Guinea: Luohe, Conakry.",0,0.0,0,0,0.1561049037649874,0.9989993572235107
+train,"Exactly 2 of the following cities are in Venezuela: Ciudad Guayana, Caracas.",1,1.0,0,0,0.10669059373003772,0.9997396543622017
+train,"Exactly 0 of the following cities are in Algeria: Asmara, Algiers.",0,0.0,0,0,0.20181322596559906,0.9994975924491882
+train,"Exactly 0 of the following cities are in Kenya: Nakuru, Yangjiang.",0,0.0,0,1,0.5,0.9984785914421082
+train,"Exactly 0 of the following cities are in Mozambique: New Kingston, Matola.",0,0.0,0,0,0.1276526244048615,0.9996665418148041
+train,"Exactly 1 of the following cities are in India: Cancun, Navi Mumbai.",1,1.0,0,1,0.4416730195622041,0.9988609850406647
+train,"Exactly 0 of the following cities are in Tanzania: Arusha, Aracaju.",0,0.0,0,0,0.1710611883979695,0.9995619207620621
+train,"Exactly 0 of the following cities are in Indonesia: Pontianak, Kanayannur.",0,0.0,0,0,0.21206880771947711,0.9995140582323074
+train,"Exactly 1 of the following cities are in Tajikistan: Dushanbe, Mosul.",1,0.0,0,0,0.19930800769495538,0.9990090727806091
+train,"Exactly 0 of the following cities are in Burkina Faso: Bobo-Dioulasso, Lianyungang.",0,0.0,0,0,0.21733750805979876,0.9992439448833466
+train,"Exactly 0 of the following cities are in Syria: Kharkiv, Latakia.",0,0.0,0,0,0.2309197482151834,0.9994843453168869
+train,"Exactly 2 of the following cities are in India: Teni, Pune.",1,0.0,0,0,0.20689405413977416,0.9990348219871521
+train,"Exactly 1 of the following cities are in the United Kingdom: Mombasa, Port Harcourt.",0,0.0,0,1,0.3886180243445721,0.9988831877708435
+train,"Exactly 1 of the following cities are in Iraq: Sadr City, Al Mawsil al Jadidah.",0,0.0,0,1,0.34158251475718926,0.9991283714771271
+train,"Exactly 1 of the following cities are in Nigeria: Mazar-e Sharif, Guli.",0,0.0,0,1,0.3923368348000323,0.999026358127594
+train,"Exactly 2 of the following cities are in Pakistan: Battagram, Gujrat.",1,1.0,0,0,0.0780781638947977,0.9995996206998825
+train,"Exactly 1 of the following cities are in Moldova: Coimbatore, Chisinau.",1,1.0,1,1,0.5774953801804441,0.9994650781154633
+train,"Exactly 2 of the following cities are in Saudi Arabia: Ciudad Guayana, Ranchi.",0,0.0,0,0,0.09138210451290762,0.9995605051517487
+train,"Exactly 1 of the following cities are in India: Jalandhar, Zigong.",1,1.0,1,1,0.554470462671539,0.9985654652118683
+train,"Exactly 0 of the following cities are in Laos: Handan, Suining.",1,1.0,0,0,0.16885695347292728,0.9991961270570755
+train,"Exactly 0 of the following cities are in Brazil: Juiz de Fora, Cuiaba.",0,0.0,0,0,0.13477592338697575,0.9995057731866837
+train,"Exactly 2 of the following cities are in Benin: Cotonou, Zibo.",0,0.0,0,0,0.1688569559493547,0.9989500790834427
+train,"Exactly 2 of the following cities are in Norway: Ghaziabad, Kunshan.",0,0.0,0,0,0.12592277833925553,0.9993624538183212
+train,"Exactly 2 of the following cities are in Brazil: Sao Bernardo do Campo, Goiania.",1,1.0,0,0,0.16667539607549337,0.9994525462388992
+train,"Exactly 0 of the following cities are in Ecuador: Tlalpan, Mirpur Model Thana.",1,1.0,0,0,0.1732882018744538,0.9996210932731628
+train,"Exactly 2 of the following cities are in Mongolia: Kampung Baru Subang, Kisangani.",0,0.0,0,0,0.08151975384757022,0.9996192306280136
+train,"Exactly 1 of the following cities are in Mexico: Leon de los Aldama, Cuautitlan Izcalli.",0,0.0,0,1,0.3007455840263112,0.9996103346347809
+train,"Exactly 0 of the following cities are in the United States: Indianapolis, New South Memphis.",0,0.0,0,1,0.3415824996467046,0.9991880059242249
+train,"Exactly 0 of the following cities are in Greece: Soweto, Hanzhong.",1,1.0,0,0,0.17328820043066417,0.9994746595621109
+train,"Exactly 0 of the following cities are in Angola: Camama, Benguela.",0,1.0,0,0,0.2043419138169928,0.9995823204517365
+train,"Exactly 2 of the following cities are in Egypt: Suez, Giza.",1,1.0,0,0,0.11279539927961912,0.9994613155722618
+train,"Exactly 2 of the following cities are in Saudi Arabia: Buraydah, Sultanah.",1,0.0,0,0,0.12421300703891612,0.999477818608284
+train,"Exactly 2 of the following cities are in Yemen: Taiz, Mukalla.",1,1.0,0,0,0.16667539831602712,0.9994805157184601
+train,"Exactly 0 of the following cities are in Vanuatu: Shekhupura, Tangier.",1,1.0,0,0,0.12085323463225695,0.9996401146054268
+train,"Exactly 0 of the following cities are in Kazakhstan: Astana, Hefei.",0,0.0,0,1,0.3923368326489449,0.9989506304264069
+train,"Exactly 1 of the following cities are in San Marino: Zahedan, Rizhao.",0,0.0,0,1,0.3923368391595568,0.9985151290893555
+train,"Exactly 2 of the following cities are in India: Visakhapatnam, Bokaro.",1,1.0,0,0,0.23091975457183814,0.9991375356912613
+train,"Exactly 0 of the following cities are in Afghanistan: Teni, Kinshasa.",1,1.0,0,1,0.2942149646607608,0.9993438124656677
+train,"Exactly 0 of the following cities are in Turkey: Saratov, Esenler.",0,0.0,0,0,0.20181321544300745,0.9996874779462814
+train,"Exactly 1 of the following cities are in Afghanistan: Suginami, Mazar-e Sharif.",1,1.0,0,1,0.3593641423921039,0.9992050528526306
+train,"Exactly 2 of the following cities are in Bosnia and Herzegovina: Astana, Nouakchott.",0,0.0,0,0,0.0792103239403232,0.9996606558561325
+train,"Exactly 0 of the following cities are in Uganda: UEskuedar, Kuantan.",1,0.0,0,0,0.1847675181669482,0.9994723796844482
+train,"Exactly 2 of the following cities are in Peru: Callao, Piura.",1,1.0,0,0,0.1311732221049979,0.9996453523635864
+train,"Exactly 0 of the following cities are in Jordan: Irbid, Amman.",0,0.0,0,0,0.16885695851837473,0.9996609836816788
+train,"Exactly 2 of the following cities are in India: Dombivali, Dhanbad.",1,1.0,0,0,0.22815650171444954,0.998959094285965
+train,"Exactly 1 of the following cities are in Ethiopia: Suining, Sanaa.",0,1.0,0,1,0.3629691871268096,0.9988466501235962
+train,"Exactly 2 of the following cities are in Romania: Bucharest, Akure.",0,0.0,0,1,0.27512972812353986,0.9993444681167603
+train,"Exactly 0 of the following cities are in New Zealand: Auckland, Yibin.",0,0.0,0,1,0.36296919341730444,0.9990428686141968
+train,"Exactly 1 of the following cities are in Belarus: Sapporo, Minsk.",1,1.0,0,1,0.38491214843118576,0.9992843866348267
+train,"Exactly 2 of the following cities are in Chad: N'Djamena, Kagoshima.",0,0.0,0,0,0.1968262048575224,0.9995183497667313
+train,"Exactly 2 of the following cities are in Mauritania: Bhopal, Taicang.",0,0.0,0,0,0.13117322125455608,0.9992218613624573
+train,"Exactly 0 of the following cities are in Bhutan: Jiangyin, Denpasar.",1,1.0,0,0,0.2281565018123608,0.9965716451406479
+train,"Exactly 1 of the following cities are in Saudi Arabia: Kakamega, Sultanah.",1,1.0,0,1,0.2509127843371451,0.9992666840553284
+train,"Exactly 1 of the following cities are in Nicaragua: Managua, Samarkand.",1,1.0,0,1,0.30735801267052393,0.9992797076702118
+train,"Exactly 1 of the following cities are in Rwanda: Shangrao, Kigali.",1,1.0,1,1,0.5273165306241914,0.9988766312599182
+train,"Exactly 2 of the following cities are in Sierra Leone: Tabriz, Subang Jaya.",0,0.0,0,0,0.1500288248424966,0.9994300901889801
+train,"Exactly 2 of the following cities are in Angola: Hoji ya Henda, Mulenvos.",1,0.0,0,0,0.16667539312599902,0.9995057582855225
+train,"Exactly 1 of the following cities are in Ukraine: Kryvyy Rih, Kharkiv.",0,0.0,0,1,0.3886180293303727,0.9992989003658295
+train,"Exactly 1 of the following cities are in Myanmar: Yangon, Isfahan.",1,1.0,0,1,0.2509127979777757,0.9986885488033295
+train,"Exactly 0 of the following cities are in Angola: Benguela, Cabinda.",0,0.0,0,0,0.20946970262771708,0.999584287405014
+train,"Exactly 2 of the following cities are in South Africa: Pietermaritzburg, Sukkur.",0,0.0,0,0,0.09268777868704882,0.9995423704385757
+train,"Exactly 0 of the following cities are in Morocco: Tlalpan, Faridabad.",1,1.0,0,1,0.287767810477019,0.9995169341564178
+train,"Exactly 2 of the following cities are in Bosnia and Herzegovina: Sarajevo, Muscat.",0,0.0,0,0,0.1008786204688038,0.9996010810136795
+train,"Exactly 0 of the following cities are in Vietnam: Da Nang, Thuan An.",0,0.0,0,0,0.21206880025890787,0.9993200898170471
+train,"Exactly 2 of the following cities are in Uganda: Al Ahmadi, Chengdu.",0,0.0,0,0,0.17553807569372862,0.9993499368429184
+train,"Exactly 1 of the following cities are in Dominica: Cotonou, Cucuta.",0,0.0,0,1,0.28457601627645546,0.9993495941162109
+train,"Exactly 2 of the following cities are in Brazil: Sao Jose dos Campos, Duque de Caxias.",1,1.0,0,0,0.1208532325060964,0.9996845200657845
+train,"Exactly 0 of the following cities are in Japan: Sadr City, Al Ahmadi.",1,1.0,0,0,0.10521053766975721,0.9996141716837883
+train,"Exactly 1 of the following cities are in Colombia: Bucaramanga, Cucuta.",0,0.0,0,1,0.27825679879203347,0.9996094107627869
+train,"Exactly 2 of the following cities are in Colombia: Barranquilla, Bucaramanga.",1,1.0,0,0,0.07696083527753243,0.9998493194580078
+train,"Exactly 2 of the following cities are in Nigeria: Ajegunle, Enugu.",1,1.0,0,0,0.22815649471643362,0.9995004236698151
+train,"Exactly 1 of the following cities are in Afghanistan: Mazar-e Sharif, Niluefer.",1,1.0,0,1,0.2814056061724939,0.9991689324378967
+train,"Exactly 1 of the following cities are in Jamaica: New Kingston, Managua.",1,1.0,0,0,0.19436782727034985,0.9993144571781158
+train,"Exactly 0 of the following cities are in Moldova: Bauchi, Nha Trang.",1,1.0,0,1,0.2814056157193276,0.9996642172336578
+train,"Exactly 2 of the following cities are in Ukraine: Odesa, Kyiv.",1,1.0,0,0,0.2043418977294672,0.9994816929101944
+train,"Exactly 0 of the following cities are in Bosnia and Herzegovina: Tonghua, Sarajevo.",0,0.0,0,0,0.20434190585426035,0.9995182603597641
+train,"Exactly 2 of the following cities are in Hungary: Vijayawada, N'Djamena.",0,1.0,0,0,0.20434190291202858,0.9996452331542969
+train,"Exactly 2 of the following cities are in Bangladesh: Khulna, Rangpur.",1,1.0,0,0,0.16885695338271428,0.9992596656084061
+train,"Exactly 1 of the following cities are in Niger: Dakar, Niamey.",1,1.0,0,1,0.2509127810394972,0.9995723068714142
+train,"Exactly 2 of the following cities are in Indonesia: Cimahi, Jakarta.",1,1.0,0,0,0.1540575555022428,0.9993221014738083
+train,"Exactly 0 of the following cities are in Canada: Winnipeg, Thu GJuc.",0,0.0,0,1,0.24508501571854555,0.998887300491333
+train,"Exactly 1 of the following cities are in Azerbaijan: Handan, Zhabei.",0,0.0,0,1,0.32082132352954335,0.9991551041603088
+train,"Exactly 0 of the following cities are in Colombia: Guilin, Soacha.",0,0.0,0,0,0.2254166097686,0.9994461983442307
+train,"Exactly 2 of the following cities are in the United States: Milwaukee, Queens.",1,1.0,0,0,0.1561049030188203,0.9991899877786636
+train,"Exactly 2 of the following cities are in the Maldives: Esenyurt, Surat.",0,0.0,0,0,0.12592276422715742,0.9994403123855591
+train,"Exactly 2 of the following cities are in Bangladesh: Chattogram, Pallabi.",1,0.0,0,0,0.16238002610347593,0.9992952197790146
+train,"Exactly 2 of the following cities are in Yemen: Ibb, Sanaa.",1,1.0,0,0,0.13846179716357845,0.9995764195919037
+train,"Exactly 0 of the following cities are in Eritrea: Langfang, Ulyanovsk.",1,1.0,0,1,0.46879064052600045,0.9994171857833862
+train,"Exactly 2 of the following cities are in Togo: Bhubaneswar, Mudanjiang.",0,0.0,0,0,0.13660839866248092,0.9991868734359741
+train,"Exactly 1 of the following cities are in Lebanon: Beirut, Shekhupura.",1,1.0,0,1,0.2814055997267119,0.9991684257984161
+train,"Exactly 2 of the following cities are in Indonesia: Pontianak, Malang.",1,1.0,0,0,0.19930800311162983,0.9992436319589615
+train,"Exactly 2 of the following cities are in Botswana: Madinah, Mississauga.",0,0.0,0,0,0.08756384599329996,0.9996220022439957
+train,"Exactly 2 of the following cities are in Sao Tome and Principe: Sargodha, Hanzhong.",0,0.0,0,0,0.10087861428540876,0.9994665011763573
+train,"Exactly 0 of the following cities are in Belarus: Pekanbaru, Homyel'.",0,0.0,0,0,0.17553806283737594,0.9995316714048386
+train,"Exactly 1 of the following cities are in Saudi Arabia: Yangquan, Incheon.",0,0.0,0,1,0.28457601317493403,0.9981237947940826
+train,"Exactly 1 of the following cities are in Mozambique: Nampula, Matola.",0,0.0,0,1,0.31742627286685665,0.999432235956192
+train,"Exactly 2 of the following cities are in Lithuania: Xuchang, Paranaque City.",0,0.0,0,0,0.22815650030590345,0.9994235932826996
+train,"Exactly 0 of the following cities are in Djibouti: Wuwei, Balbala.",0,1.0,0,1,0.25683200005344475,0.9992709457874298
+train,"Exactly 2 of the following cities are in Canada: Kota Bharu, Quebec.",0,0.0,0,0,0.1520322469342289,0.9993017166852951
+train,"Exactly 1 of the following cities are in Egypt: Shubra al Khaymah, Cuttack.",1,1.0,0,1,0.32423538440811567,0.998757928609848
+train,"Exactly 0 of the following cities are in Chile: Puente Alto, Johannesburg.",0,0.0,0,0,0.1403362492151034,0.9996958673000336
+train,"Exactly 0 of the following cities are in Samoa: Kinshasa, Kallakurichi.",1,1.0,0,1,0.3486451534273626,0.999639093875885
+train,"Exactly 0 of the following cities are in Sudan: Subang Jaya, Benin City.",1,1.0,0,1,0.3522017783894653,0.9992450773715973
+train,"Exactly 0 of the following cities are in South Africa: Madinat an Nasr, Johannesburg.",0,0.0,0,0,0.10521053642756242,0.9996352866292
+train,"Exactly 1 of the following cities are in Cuba: Jaboatao dos Guararapes, Nizhniy Novgorod.",0,0.0,0,1,0.28140560157312816,0.9993062019348145
+train,"Exactly 2 of the following cities are in Mexico: Torreon, Gustavo Adolfo Madero.",1,1.0,0,0,0.15405755326824103,0.9997989684343338
+train,"Exactly 0 of the following cities are in Ghana: Taiz, Warangal.",1,1.0,0,1,0.31069438602175653,0.9992597103118896
+train,"Exactly 1 of the following cities are in Iran: Panzhihua, Kermanshah.",1,1.0,0,1,0.449392643349276,0.9973204731941223
+train,"Exactly 2 of the following cities are in Haiti: Mexicali, Port-au-Prince.",0,0.0,0,0,0.1143685277246255,0.999675840139389
+train,"Exactly 0 of the following cities are in Mexico: Sangli, Huangshi.",1,1.0,0,1,0.23934933785408655,0.9995035529136658
+train,"Exactly 2 of the following cities are in Singapore: Panshan, Hamhung.",0,0.0,0,0,0.07477004934725595,0.9989330694079399
+train,"Exactly 1 of the following cities are in Kenya: Nairobi, Zhangjiagang.",1,1.0,1,1,0.6001883412616644,0.9985942244529724
+train,"Exactly 1 of the following cities are in Sweden: Benin City, Stockholm.",1,1.0,0,0,0.2200070935701168,0.999618873000145
+train,"Exactly 0 of the following cities are in Lithuania: Ciudad Guayana, Lodz.",1,1.0,0,0,0.11757213707889451,0.9997598826885223
+train,"Exactly 2 of the following cities are in Morocco: Meknes, Agadir.",1,1.0,0,0,0.1847675216459373,0.9995203465223312
+train,"Exactly 1 of the following cities are in Bhutan: Faisalabad, San Luis Potosi.",0,0.0,0,1,0.48438008314710695,0.9991777837276459
+train,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Wuhan, Kota Kinabalu.",0,0.0,0,0,0.09009299720436022,0.9991993606090546
+train,"Exactly 1 of the following cities are in North Korea: Moradabad, Chisinau.",0,0.0,0,1,0.30735801459379125,0.9989700019359589
+train,"Exactly 1 of the following cities are in Italy: Dakar, Izhevsk.",0,0.0,0,1,0.4263216015750757,0.999402642250061
+train,"Exactly 2 of the following cities are in Burkina Faso: Bobo-Dioulasso, Shangrao.",0,0.0,0,0,0.16667539368493875,0.9994417428970337
+train,"Exactly 1 of the following cities are in the United Arab Emirates: Pimpri, Auckland.",0,0.0,0,1,0.3106943965182787,0.9990004003047943
+train,"Exactly 1 of the following cities are in Cuba: Hohhot, Sulaymaniyah.",0,0.0,0,1,0.275129724913637,0.9993232488632202
+train,"Exactly 1 of the following cities are in Germany: Qingdao, Putuo.",0,0.0,0,1,0.39981164847298806,0.998096764087677
+train,"Exactly 2 of the following cities are in Guatemala: Aparecida de Goiania, Quezon City.",0,0.0,0,0,0.12765262438555644,0.9997093826532364
+train,"Exactly 1 of the following cities are in Haiti: Muntinlupa, Carrefour.",1,1.0,0,1,0.2974699605854823,0.9992727935314178
+train,"Exactly 2 of the following cities are in China: Zhumadian, Wuwei.",1,1.0,0,1,0.40733340997835044,0.9972340762615204
+train,"Exactly 2 of the following cities are in Bangladesh: Rangpur, Rajshahi.",1,1.0,0,0,0.12421300858343878,0.99936144053936
+train,"Exactly 0 of the following cities are in South Korea: Bhilai, Yinchuan.",1,1.0,0,1,0.28776780882014247,0.9992212653160095
+train,"Exactly 1 of the following cities are in China: Suqian, Chenzhou.",0,0.0,0,1,0.4726834891267728,0.9972975850105286
+train,"Exactly 1 of the following cities are in Jamaica: Muzaffarabad, New Kingston.",1,1.0,0,1,0.35577488472786706,0.9988647699356079
+train,"Exactly 1 of the following cities are in Singapore: Santiago de Queretaro, Bhavnagar.",0,0.0,0,1,0.38491216135144807,0.9989936947822571
+train,"Exactly 0 of the following cities are in Brazil: Joao Pessoa, Macapa.",0,0.0,0,0,0.12252321202590379,0.9995777904987335
+train,"Exactly 1 of the following cities are in Colombia: Minhang, Heroica Matamoros.",0,0.0,0,1,0.4532618577744021,0.9989151656627655
+train,"Exactly 1 of the following cities are in Tunisia: Tokyo, Orumiyeh.",0,0.0,0,1,0.3415824961717728,0.999229371547699
+train,"Exactly 2 of the following cities are in Germany: Dortmund, Duesseldorf.",1,1.0,0,0,0.1561049099906437,0.9994883388280869
+train,"Exactly 0 of the following cities are in Argentina: Mar del Plata, Heroica Matamoros.",0,0.0,0,1,0.24508501804137983,0.9996601194143295
+train,"Exactly 2 of the following cities are in India: Serang, Virar.",0,0.0,0,0,0.1824255267842096,0.9993341267108917
+train,"Exactly 0 of the following cities are in Vanuatu: Battagram, Cucuta.",1,1.0,0,0,0.10521053972764814,0.99970543384552
+train,"Exactly 2 of the following cities are in Russia: Yekaterinburg, Irkutsk.",1,1.0,0,1,0.3380771305455539,0.9995094239711761
+train,"Exactly 0 of the following cities are in Uganda: Kampala, Aleppo.",0,0.0,0,1,0.3522017683566676,0.9994235634803772
+train,"Exactly 1 of the following cities are in Peru: Chiclayo, Arequipa.",0,0.0,0,1,0.2538610203534488,0.999447375535965
+train,"Exactly 1 of the following cities are in North Korea: Pyongyang, Yichang.",1,1.0,0,1,0.24508500498134433,0.9991852641105652
+train,"Exactly 0 of the following cities are in Zambia: Ndola, Rui'an.",0,0.0,0,0,0.21733750943811495,0.9982338100671768
+train,"Exactly 0 of the following cities are in Vietnam: Da Nang, Kyiv.",0,0.0,0,1,0.2422056368347699,0.9993053376674652
+train,"Exactly 1 of the following cities are in Tajikistan: Dushanbe, Osogbo.",1,0.0,0,0,0.18242553537354045,0.9991772472858429
+train,"Exactly 2 of the following cities are in Bangladesh: Chattogram, Mirpur Model Thana.",1,1.0,0,0,0.19682620315529745,0.9994577169418335
+train,"Exactly 1 of the following cities are in Romania: Bucharest, Wuhan.",1,1.0,0,1,0.3522017739739575,0.9990778863430023
+train,"Exactly 0 of the following cities are in Ecuador: Qom, Kharkiv.",1,1.0,0,1,0.23370634652343164,0.9995595812797546
+train,"Exactly 1 of the following cities are in the Czech Republic: Changwon, Sevastopol.",0,0.0,0,1,0.34864516075155083,0.9992441534996033
+train,"Exactly 0 of the following cities are in Bosnia and Herzegovina: Xiaogan, Kaduna.",1,1.0,0,0,0.2281565023425596,0.9988549202680588
+train,"Exactly 0 of the following cities are in Poland: Thembisa, Ujjain.",1,1.0,0,0,0.14033625117229478,0.9997760206460953
+train,"Exactly 1 of the following cities are in Burkina Faso: Makkah, Ouagadougou.",1,1.0,0,1,0.28457601538834754,0.9995133876800537
+train,"Exactly 1 of the following cities are in the Philippines: Quezon City, Muntinlupa.",0,0.0,0,1,0.23370634698929577,0.9994251728057861
+train,"Exactly 1 of the following cities are in Turkmenistan: Ashgabat, Jiujiang.",1,1.0,0,1,0.381219570439488,0.9986444115638733
+train,"Exactly 1 of the following cities are in Australia: Gazipur, Gold Coast.",1,1.0,0,1,0.476579649086838,0.9989170134067535
+train,"Exactly 1 of the following cities are in Liechtenstein: Kirkuk, Gwalior.",0,0.0,0,1,0.24508500448317183,0.99944968521595
+train,"Exactly 0 of the following cities are in Argentina: Al Mawsil al Jadidah, Mengzi.",1,1.0,0,1,0.2509127957381107,0.9994092881679535
+train,"Exactly 0 of the following cities are in Venezuela: Maturin, Manaus.",0,0.0,0,0,0.20689405551770718,0.9993804544210434
+train,"Exactly 0 of the following cities are in Togo: Calabar, Lome.",0,0.0,0,0,0.23091974906340018,0.9996157884597778
+train,"Exactly 0 of the following cities are in Germany: Hannover, Lusaka.",0,0.0,0,0,0.1993080044968078,0.9994179010391235
+train,"Exactly 0 of the following cities are in Ethiopia: Baku, Addis Ababa.",0,0.0,0,1,0.28140561103883627,0.9993232190608978
+train,"Exactly 1 of the following cities are in the Central African Republic: Ganzhou, Cebu City.",0,0.0,0,1,0.4571367444200263,0.9983544647693634
+train,"Exactly 2 of the following cities are in Saudi Arabia: Makkah, Dammam.",1,1.0,0,0,0.1943678160062568,0.9993188083171844
+train,"Exactly 2 of the following cities are in Palau: Osaka, Kumasi.",0,0.0,0,0,0.13477591950703158,0.9993425011634827
+train,"Exactly 1 of the following cities are in Guinea: Zhaoqing, Camayenne.",1,1.0,0,1,0.3998116606579766,0.9980663955211639
+train,"Exactly 2 of the following cities are in South Korea: Kaifeng, Ho Chi Minh City.",0,0.0,0,0,0.20434189644671263,0.9988065809011459
+train,"Exactly 0 of the following cities are in Pakistan: Minhang, Saint Petersburg.",1,1.0,0,1,0.29746993609143146,0.9991253018379211
+train,"Exactly 0 of the following cities are in Uganda: Kampala, Zhaotong.",0,0.0,0,1,0.3140505490292594,0.9987642765045166
+train,"Exactly 1 of the following cities are in Guinea: Johannesburg, Conakry.",1,1.0,0,1,0.3702253901970502,0.9994393587112427
+train,"Exactly 1 of the following cities are in Iran: Xiamen, Santiago de los Caballeros.",0,0.0,0,1,0.29746995234326024,0.9991152286529541
+train,"Exactly 2 of the following cities are in Botswana: Luancheng, Nyala.",0,1.0,0,0,0.08882028654255474,0.999012179672718
+train,"Exactly 1 of the following cities are in Samoa: Isfahan, Malang.",0,0.0,0,1,0.307358024382034,0.9991501271724701
+train,"Exactly 1 of the following cities are in Burundi: Jabalpur, Ningbo.",0,0.0,0,1,0.3738758240809073,0.9988810122013092
+train,"Exactly 1 of the following cities are in Cameroon: Yaounde, Homs.",1,1.0,0,1,0.3812195538598155,0.9993119239807129
+train,"Exactly 2 of the following cities are in Côte d'Ivoire: Bouake, Kitwe.",0,0.0,0,0,0.18242552380666754,0.9996758252382278
+train,"Exactly 0 of the following cities are in Bangladesh: Suez, Pest.",1,1.0,0,0,0.12252321474361151,0.9995514377951622
+train,"Exactly 0 of the following cities are in the Central African Republic: Daqing, Camayenne.",1,1.0,0,1,0.26894143527951503,0.9987863600254059
+train,"Exactly 2 of the following cities are in Mauritania: Yangjiang, Managua.",0,0.0,0,0,0.15002881487542769,0.9988449513912201
+train,"Exactly 0 of the following cities are in Uruguay: Meerut, Weinan.",1,1.0,0,1,0.3451052856152042,0.99921053647995
+train,"Exactly 2 of the following cities are in Portugal: Vladivostok, Bogor.",0,0.0,0,0,0.11596071391803991,0.999597817659378
+train,"Exactly 0 of the following cities are in Ecuador: Guayaquil, Dera Ismail Khan.",0,0.0,0,1,0.3073580078799861,0.9995671212673187
+train,"Exactly 0 of the following cities are in Portugal: Bandar Lampung, Lubango.",1,1.0,0,0,0.14414885963922403,0.999740406870842
+train,"Exactly 0 of the following cities are in Mauritania: Ibb, Dortmund.",1,1.0,0,0,0.16667539967526923,0.9996093362569809
+train,"Exactly 1 of the following cities are in Australia: Detroit, Gustavo Adolfo Madero.",0,0.0,1,1,0.5350984252303238,0.9989893734455109
+train,"Exactly 0 of the following cities are in Argentina: Gustavo Adolfo Madero, Dharavi.",1,1.0,0,0,0.16026603772758086,0.999723881483078
+train,"Exactly 0 of the following cities are in Suriname: Budta, Chelyabinsk.",1,1.0,0,1,0.2720245784174983,0.9995697438716888
+train,"Exactly 2 of the following cities are in Pakistan: Bahawalpur, Rawalpindi.",1,1.0,0,0,0.16667539954405136,0.9993399679660797
+train,"Exactly 1 of the following cities are in Djibouti: Buraydah, Balbala.",1,0.0,0,0,0.1993080073385427,0.9995425939559937
+train,"Exactly 1 of the following cities are in Hungary: Dalian, Pest.",1,1.0,0,1,0.3415825002764848,0.9989446699619293
+train,"Exactly 0 of the following cities are in Madagascar: Antananarivo, Karbala.",0,0.0,0,1,0.27825680457921775,0.9995662271976471
+train,"Exactly 2 of the following cities are in South Africa: Pietermaritzburg, Soweto.",1,1.0,0,0,0.0994702142838136,0.9995832294225693
+train,"Exactly 1 of the following cities are in Azerbaijan: Baku, Krakow.",1,1.0,0,1,0.32766829884394805,0.9994440376758575
+train,"Exactly 2 of the following cities are in Mexico: Tlaquepaque, Iztapalapa.",1,1.0,0,0,0.14608724341898088,0.9997583627700806
+train,"Exactly 0 of the following cities are in Niger: Culiacan, Taguig.",1,1.0,0,1,0.37022536947476103,0.9995934069156647
+train,"Exactly 2 of the following cities are in Japan: Hamamatsu, Osaka.",1,1.0,0,0,0.1276526188326586,0.9991391897201538
+train,"Exactly 1 of the following cities are in Cambodia: Osaka, Jammu.",0,0.0,0,1,0.23651623406742517,0.999118983745575
+train,"Exactly 2 of the following cities are in Saudi Arabia: Ta'if, Buraydah.",1,1.0,0,0,0.17553807121787848,0.9994842559099197
+train,"Exactly 2 of the following cities are in Iran: Karaj, Tabriz.",1,1.0,0,0,0.1688569594848209,0.9994734525680542
+train,"Exactly 1 of the following cities are in Iran: Johor Bahru, Kallakurichi.",0,0.0,0,1,0.2658804687886338,0.9992106556892395
+train,"Exactly 0 of the following cities are in Colombia: Soacha, Barranquilla.",0,0.0,0,0,0.10374862952079283,0.9997683763504028
+train,"Exactly 1 of the following cities are in Guinea-Bissau: Incheon, Novokuznetsk.",0,0.0,0,1,0.3522017779072774,0.999090313911438
+train,"Exactly 1 of the following cities are in New Zealand: Itabashi, Auckland.",1,1.0,0,1,0.37022539463096044,0.999249130487442
+train,"Exactly 0 of the following cities are in Cambodia: Al Ahmadi, Amravati.",1,1.0,0,0,0.14414885405216493,0.9996722191572189
+train,"Exactly 2 of the following cities are in Kuwait: Novokuznetsk, Al Ahmadi.",0,0.0,0,0,0.12252321570577897,0.999655231833458
+train,"Exactly 1 of the following cities are in Tuvalu: Puning, Maianga.",0,1.0,0,0,0.19682621449024873,0.9991983622312546
+train,"Exactly 2 of the following cities are in Angola: Samarinda, Camama.",0,0.0,0,0,0.19930801422995717,0.999363049864769
+train,"Exactly 2 of the following cities are in the Philippines: San Luis Potosi, Taguig.",0,0.0,0,0,0.1422318912513563,0.9996681362390518
+train,"Exactly 0 of the following cities are in the United Arab Emirates: Sharjah, Abu Dhabi.",0,0.0,0,0,0.12085322864809066,0.9997379407286644
+train,"Exactly 1 of the following cities are in Macedonia: Goyang-si, Nairobi.",0,0.0,0,0,0.18476750345780094,0.999238982796669
+train,"Exactly 2 of the following cities are in Portugal: Maiduguri, Zahedan.",0,0.0,0,0,0.12252321097509375,0.9996800199151039
+train,"Exactly 0 of the following cities are in Comoros: Puning, Binzhou.",1,1.0,0,0,0.14223188588184346,0.9972218722105026
+train,"Exactly 0 of the following cities are in Equatorial Guinea: Rui'an, Torreon.",1,1.0,0,0,0.1710611918084289,0.9993927329778671
+train,"Exactly 2 of the following cities are in Latvia: Riga, Wanxian.",0,0.0,0,0,0.20946970106677731,0.9988027065992355
+train,"Exactly 2 of the following cities are in China: Rui'an, Quezon City.",0,0.0,0,1,0.28140560165664913,0.9966481924057007
+train,"Exactly 2 of the following cities are in Myanmar: Hlaingthaya, Mandalay.",1,1.0,0,0,0.09534946040770435,0.9993316754698753
+train,"Exactly 1 of the following cities are in Kazakhstan: Changshu, Bauchi.",0,0.0,0,1,0.44167300413809435,0.9988231658935547
+train,"Exactly 2 of the following cities are in South Africa: Evaton, Gqeberha.",1,1.0,0,0,0.13846179809248,0.9995320737361908
+train,"Exactly 1 of the following cities are in Hungary: Caracas, Pest.",1,1.0,0,1,0.31405055231735696,0.9994444847106934
+train,"Exactly 1 of the following cities are in Algeria: Algiers, Nyala.",1,1.0,0,1,0.46101679408689356,0.999396562576294
+train,"Exactly 1 of the following cities are in North Korea: Nova Iguacu, Hamhung.",1,1.0,0,0,0.21733752208621257,0.9987817704677582
+train,"Exactly 1 of the following cities are in Mali: Saint Petersburg, Shangrao.",0,0.0,0,1,0.43782351083139653,0.9989892244338989
+train,"Exactly 2 of the following cities are in Vietnam: Haiphong, Da Nang.",1,1.0,0,1,0.2782567982848317,0.9992302656173706
+train,"Exactly 2 of the following cities are in Somalia: Mogadishu, Quetta.",0,0.0,0,0,0.1895210985090123,0.9993834495544434
+train,"Exactly 1 of the following cities are in Sudan: Esenler, Khartoum North.",1,1.0,0,1,0.4687906173123056,0.9991399943828583
+train,"Exactly 1 of the following cities are in Chad: Bobo-Dioulasso, N'Djamena.",1,1.0,0,1,0.5,0.9995641112327576
+train,"Exactly 0 of the following cities are in Dominica: Maianga, Cucuta.",1,1.0,0,0,0.08509904021948946,0.9997876137495041
+train,"Exactly 2 of the following cities are in Saudi Arabia: Ta'if, Makkah.",1,1.0,0,0,0.12940272975267267,0.999579668045044
+train,"Exactly 1 of the following cities are in the Dominican Republic: Denpasar, Jeonju.",0,0.0,0,1,0.26894144456308666,0.9987787902355194
+train,"Exactly 0 of the following cities are in Benin: Lianyungang, Pingdingshan.",1,1.0,0,1,0.4416730353581168,0.9978654086589813
+train,"Exactly 1 of the following cities are in Morocco: Agadir, Tangier.",0,0.0,1,1,0.5117165996370409,0.9992703795433044
+train,"Exactly 0 of the following cities are in Cyprus: Jhang Sadr, Jiangyin.",1,1.0,0,0,0.19682620497727055,0.9955069273710251
+train,"Exactly 2 of the following cities are in South Korea: Bucheon-si, Hwaseong-si.",1,1.0,0,0,0.17106118067346796,0.9992036819458008
+train,"Exactly 0 of the following cities are in Turkey: Shuangyashan, Pingliang.",1,1.0,0,1,0.3242353886597308,0.9986426532268524
+train,"Exactly 1 of the following cities are in China: Ziyang, Hermosillo.",1,1.0,0,1,0.41111087257399165,0.9981148540973663
+train,"Exactly 1 of the following cities are in Equatorial Guinea: Peshawar, Quebec.",0,0.0,0,1,0.2598256582875238,0.9993406534194946
+train,"Exactly 1 of the following cities are in Zambia: Dalian, Seongnam-si.",0,0.0,0,1,0.4186969076592754,0.99864462018013
+train,"Exactly 2 of the following cities are in Angola: Golfe, Mulenvos.",1,0.0,0,0,0.23370633540508995,0.9993869662284851
+train,"Exactly 0 of the following cities are in Thailand: Ajegunle, Zhangjiakou.",1,1.0,0,0,0.22000709262411228,0.9993740320205688
+train,"Exactly 2 of the following cities are in Japan: Hiroshima, Utsunomiya.",1,1.0,0,0,0.11124121672477542,0.9993235096335411
+train,"Exactly 1 of the following cities are in Nigeria: Naberezhnyye Chelny, Ebute Ikorodu.",1,1.0,0,1,0.36296920492276935,0.9991819262504578
+train,"Exactly 0 of the following cities are in Uganda: Tasikmalaya, Nansana.",0,1.0,0,1,0.30404169186246827,0.9993918538093567
+train,"Exactly 1 of the following cities are in Denmark: Ile-Ife, Copenhagen.",1,1.0,0,1,0.24508501984105235,0.9992148131132126
+train,"Exactly 0 of the following cities are in Morocco: Mexico City, Agadir.",0,0.0,0,1,0.26588047168120454,0.9993305802345276
+train,"Exactly 1 of the following cities are in Denmark: Izmir, Copenhagen.",1,1.0,0,1,0.47268347584581816,0.9992592632770538
+train,"Exactly 0 of the following cities are in Lebanon: Suqian, Kharkiv.",1,1.0,0,1,0.29098085920458433,0.9991397261619568
+train,"Exactly 2 of the following cities are in Nigeria: Akure, Bauchi.",1,1.0,0,1,0.27825679071856774,0.9993462860584259
+train,"Exactly 2 of the following cities are in Moldova: Jiaozhou, Nouakchott.",0,0.0,0,0,0.18242552788103003,0.9991137385368347
+train,"Exactly 0 of the following cities are in Pakistan: Kasur, Jhang Sadr.",0,0.0,0,0,0.15817434675556463,0.9995125979185104
+train,"Exactly 2 of the following cities are in Nepal: Jinan, Jiaozuo.",0,0.0,0,1,0.2393493342384645,0.9977886378765106
+train,"Exactly 1 of the following cities are in Brazil: Ananindeua, Tlalpan.",1,1.0,0,1,0.3665897383068172,0.9987910091876984
+train,"Exactly 0 of the following cities are in Mali: Bamako, Huzhou.",0,0.0,0,1,0.5,0.9988155364990234
+train,"Exactly 2 of the following cities are in Kiribati: Santiago de Cuba, Gujranwala.",0,0.0,0,0,0.0675466942531889,0.9998162537813187
+train,"Exactly 2 of the following cities are in Yemen: Sanaa, Lome.",0,0.0,0,0,0.13660840174321442,0.9995423406362534
+train,"Exactly 1 of the following cities are in Chile: Tomsk, Ulhasnagar.",0,0.0,0,1,0.47657965773600214,0.9992412328720093
+train,"Exactly 1 of the following cities are in Cuba: Heze, Kagoshima.",0,0.0,0,0,0.2173375223284078,0.9990512877702713
+train,"Exactly 2 of the following cities are in Venezuela: Maturin, Maracaibo.",1,1.0,0,0,0.1623800301694402,0.9995076358318329
+train,"Exactly 1 of the following cities are in Kyrgyzstan: Lilongwe, Bishkek.",1,1.0,0,1,0.3345894576527359,0.9991963803768158
+train,"Exactly 1 of the following cities are in Egypt: Niigata, Giza.",1,1.0,0,1,0.31069437916250986,0.9985678493976593
+train,"Exactly 2 of the following cities are in Turkey: Niluefer, Ankara.",1,1.0,0,0,0.10521053090932769,0.9995602741837502
+train,"Exactly 1 of the following cities are in China: Tonghua, Changde.",0,0.0,1,1,0.6261241715670424,0.9985800087451935
+train,"Exactly 1 of the following cities are in Nepal: Paranaque City, Kathmandu.",1,1.0,0,1,0.36296919152683094,0.999133437871933
+train,"Exactly 2 of the following cities are in Guyana: Nanning, Jeddah.",0,0.0,0,0,0.05261895472544461,0.9992081224918365
+train,"Exactly 2 of the following cities are in Germany: Dortmund, Leipzig.",1,1.0,0,0,0.15405756367418524,0.9994623959064484
+train,"Exactly 2 of the following cities are in Mexico: Hermosillo, Culiacan.",1,1.0,0,0,0.15405755355062264,0.9996837675571442
+train,"Exactly 0 of the following cities are in Nigeria: Krakow, Ilorin.",0,0.0,0,1,0.29098085229399373,0.9995153248310089
+train,"Exactly 1 of the following cities are in Turkey: Evaton, Addis Ababa.",0,0.0,0,1,0.37022538674135885,0.999270886182785
+train,"Exactly 0 of the following cities are in Peru: Dera Ismail Khan, Marseille.",1,1.0,0,0,0.22815649540738409,0.9995287656784058
+train,"Exactly 1 of the following cities are in Turkey: Abu Dhabi, Eskisehir.",1,1.0,0,1,0.44939264131856915,0.9993780255317688
+train,"Exactly 0 of the following cities are in Qatar: Suizhou, Suwon.",1,1.0,0,0,0.1710611847180076,0.9987082630395889
+train,"Exactly 1 of the following cities are in Tanzania: Mbeya, Shangqiu.",1,1.0,0,1,0.33458943260222906,0.998947411775589
+train,"Exactly 1 of the following cities are in Burundi: Bujumbura, Haiphong.",1,1.0,0,1,0.28457601356369117,0.9992574453353882
+train,"Exactly 1 of the following cities are in Sudan: Khartoum North, Nouakchott.",1,1.0,0,1,0.268941430076241,0.9992873668670654
+train,"Exactly 2 of the following cities are in Panama: Kagoshima, Osogbo.",0,0.0,0,0,0.19930801389041933,0.9993453323841095
+train,"Exactly 0 of the following cities are in New Zealand: Makassar, Auckland.",0,0.0,0,0,0.21206880488966628,0.9993394613265991
+train,"Exactly 1 of the following cities are in Brazil: Gqeberha, Ribeirao Preto.",1,1.0,0,1,0.42250461312425874,0.9991229176521301
+train,"Exactly 2 of the following cities are in the United Arab Emirates: Guli, Al Ain City.",0,0.0,0,0,0.1824255302507421,0.9994421750307083
+train,"Exactly 1 of the following cities are in Sri Lanka: Qom, Chattogram.",0,0.0,0,1,0.2814055891726902,0.9986076951026917
+train,"Exactly 2 of the following cities are in Canada: Winnipeg, Mississauga.",1,1.0,0,0,0.15405756771040874,0.9992427080869675
+train,"Exactly 1 of the following cities are in Lesotho: Jos, Yangjiang.",0,0.0,0,1,0.26588048046060886,0.9971254169940948
+train,"Exactly 1 of the following cities are in Zimbabwe: Harare, Nanded.",1,1.0,0,0,0.2094696875816363,0.9992434680461884
+train,"Exactly 2 of the following cities are in Germany: Mersin, Bursa.",0,0.0,0,0,0.0953494577326735,0.999451257288456
+train,"Exactly 2 of the following cities are in North Korea: Harbin, Hamhung.",0,0.0,0,0,0.12940272560339244,0.9993923455476761
+train,"Exactly 2 of the following cities are in Afghanistan: Lu'an, Antalya.",0,0.0,0,0,0.10818895669078456,0.999044619500637
+train,"Exactly 2 of the following cities are in Russia: Volgograd, Barnaul.",1,1.0,0,1,0.2720245612013604,0.9994064569473267
+train,"Exactly 1 of the following cities are in Japan: Aihara, Niigata.",0,0.0,0,1,0.27512972987310624,0.9988543093204498
+train,"Exactly 1 of the following cities are in Afghanistan: Mazar-e Sharif, Mar del Plata.",1,1.0,0,1,0.3106943962962382,0.9994655251502991
+train,"Exactly 2 of the following cities are in Gabon: Koeln, Guilin.",0,0.0,0,0,0.11124121615723344,0.9992769658565521
+train,"Exactly 2 of the following cities are in South Africa: Gqeberha, Benoni.",1,1.0,0,0,0.17106118201253562,0.9994599521160126
+train,"Exactly 2 of the following cities are in Iraq: Al Mawsil al Jadidah, Nasiriyah.",1,0.0,0,0,0.18476751869236502,0.9995608478784561
+train,"Exactly 2 of the following cities are in Estonia: Huangshi, Anyang-si.",0,0.0,0,1,0.2568320040821765,0.9989551901817322
+train,"Exactly 2 of the following cities are in Germany: Munich, Dortmund.",1,1.0,0,0,0.1581743530124404,0.9992434084415436
+train,"Exactly 0 of the following cities are in Russia: Samarkand, Tomsk.",0,0.0,0,1,0.2845760058162167,0.9995498657226562
+train,"Exactly 1 of the following cities are in Tonga: Banjarmasin, Thu GJuc.",0,0.0,0,0,0.22815650630501708,0.9987485110759735
+train,"Exactly 1 of the following cities are in Hungary: Puducherry, Makassar.",0,0.0,0,1,0.43014732992696864,0.9990670680999756
+train,"Exactly 1 of the following cities are in Angola: Cucuta, Benguela.",1,1.0,0,1,0.3923368332300929,0.9993240535259247
+train,"Exactly 1 of the following cities are in Guinea: Camayenne, Malingao.",1,1.0,0,1,0.2538610195515309,0.999192863702774
+train,"Exactly 2 of the following cities are in Jamaica: Hezhou, Yerevan.",0,0.0,0,0,0.11757213902366545,0.9993587955832481
+train,"Exactly 2 of the following cities are in Saudi Arabia: Buraydah, Ha'il.",1,1.0,0,0,0.16885695163474754,0.9993874579668045
+train,"Exactly 1 of the following cities are in Cambodia: Changde, Yangon.",0,0.0,0,0,0.18242552752188826,0.9986972361803055
+train,"Exactly 1 of the following cities are in Kenya: Madurai, Nakuru.",1,1.0,0,1,0.4882834092736468,0.9991363286972046
+train,"Exactly 2 of the following cities are in Liechtenstein: Foshan, Karachi.",0,0.0,0,0,0.07369627691888182,0.9994360879063606
+train,"Exactly 0 of the following cities are in Sri Lanka: Bouake, Gurugram.",1,1.0,0,1,0.2422056370029883,0.9993474185466766
+train,"Exactly 2 of the following cities are in Chile: Hamamatsu, Calgary.",0,0.0,0,0,0.13660840225450252,0.9995485544204712
+train,"Exactly 2 of the following cities are in Malaysia: Kota Kuala Muda, Pasir Gudang.",1,1.0,0,0,0.1755380637007406,0.9991077333688736
+train,"Exactly 1 of the following cities are in Saint Vincent and the Grenadines: Stockholm, Ouagadougou.",0,0.0,0,0,0.1801066656419079,0.9996549338102341
+train,"Exactly 2 of the following cities are in Angola: Hanzhong, Cabinda.",0,0.0,0,0,0.17553805923492927,0.9991631060838699
+train,"Exactly 2 of the following cities are in Kuwait: Assiut, Cheongju-si.",0,0.0,0,0,0.18952110585745013,0.9993807375431061
+train,"Exactly 1 of the following cities are in South Africa: Thembisa, Dehradun.",1,1.0,0,1,0.2689414396772604,0.9991224408149719
+train,"Exactly 2 of the following cities are in Kuwait: Zhongwei, Kryvyy Rih.",0,0.0,0,0,0.2281564975990347,0.9992611110210419
+train,"Exactly 2 of the following cities are in the Philippines: Taguig, Budta.",1,0.0,0,0,0.13477591204889364,0.9995549470186234
+train,"Exactly 0 of the following cities are in Saudi Arabia: Ta'if, Foshan.",0,0.0,0,0,0.2281564932935679,0.9991655796766281
+train,"Exactly 2 of the following cities are in San Marino: Hlaingthaya, Tlalpan.",0,0.0,0,0,0.08151974895342354,0.9996432363986969
+train,"Exactly 1 of the following cities are in Tunisia: Mexico City, Uberlandia.",0,0.0,1,1,0.6297746229144436,0.9991510510444641
+train,"Exactly 2 of the following cities are in Belarus: Perm, Guilin.",0,0.0,0,1,0.2509127806834531,0.9991400837898254
+train,"Exactly 2 of the following cities are in Mongolia: Ulan Bator, Tianshui.",0,0.0,0,0,0.23091975381029106,0.998898908495903
+train,"Exactly 2 of the following cities are in Brazil: Sorocaba, Teresina.",1,1.0,0,0,0.1384617917361678,0.9992729723453522
+train,"Exactly 2 of the following cities are in Laos: Vientiane, Homyel'.",0,0.0,0,0,0.08389038687203414,0.9994042292237282
+train,"Exactly 1 of the following cities are in Nigeria: Ajegunle, Calabar.",0,0.0,1,1,0.523420355507481,0.9991439580917358
+train,"Exactly 1 of the following cities are in the Dominican Republic: Serang, Santo Domingo Oeste.",1,1.0,0,1,0.3451052678476534,0.9993706941604614
+train,"Exactly 2 of the following cities are in Uruguay: Dongying, Makkah.",0,0.0,0,0,0.08632347991688677,0.9995348453521729
+train,"Exactly 2 of the following cities are in Armenia: E'zhou, Rajshahi.",0,0.0,0,0,0.10374862847196739,0.99945879727602
+train,"Exactly 0 of the following cities are in Finland: Nanded, Dharavi.",1,1.0,0,1,0.23370635421608216,0.9995070099830627
+train,"Exactly 0 of the following cities are in Mozambique: Matola, Tasikmalaya.",0,0.0,0,1,0.2814055998349412,0.9995567798614502
+train,"Exactly 1 of the following cities are in Jordan: Mysuru, Irbid.",1,1.0,0,1,0.42250462890514373,0.9981149733066559
+train,"Exactly 1 of the following cities are in Mauritania: Bareilly, Nouakchott.",1,1.0,0,1,0.381219570261314,0.9993302524089813
+train,"Exactly 0 of the following cities are in Belarus: Minsk, Homyel'.",0,0.0,0,0,0.18476751050133022,0.9993404000997543
+train,"Exactly 1 of the following cities are in the United States: Guigang, New South Memphis.",1,1.0,1,1,0.6477982058074244,0.9970614016056061
+train,"Exactly 1 of the following cities are in Sudan: Omdurman, Khartoum North.",0,0.0,0,1,0.3380771342712512,0.9992447793483734
+train,"Exactly 1 of the following cities are in Thailand: Suginami, Budta.",0,1.0,0,1,0.26284184776305924,0.998884528875351
+train,"Exactly 1 of the following cities are in Poland: Kunming, Wroclaw.",1,1.0,0,1,0.2782568030846697,0.9995175004005432
+train,"Exactly 1 of the following cities are in Germany: Hannover, Omdurman.",1,1.0,0,1,0.2909808534108254,0.9991222321987152
+train,"Exactly 0 of the following cities are in Thailand: Hohhot, Bangkok.",0,0.0,0,0,0.1871326920445641,0.9994246512651443
+train,"Exactly 2 of the following cities are in the Philippines: Las Pinas, Zamboanga.",1,1.0,0,0,0.11596070850023292,0.9996276125311852
+train,"Exactly 2 of the following cities are in Malaysia: Ipoh, Kota Kinabalu.",1,0.0,0,0,0.1311732165314037,0.9993581026792526
+train,"Exactly 2 of the following cities are in South Korea: Cheonan, Ulsan.",1,1.0,0,0,0.13117321893104691,0.9993408173322678
+train,"Exactly 1 of the following cities are in Chile: Puente Alto, Utsunomiya.",1,1.0,0,1,0.3242353900665454,0.9992018640041351
+train,"Exactly 2 of the following cities are in Benin: Tiruppur, Sokoto.",0,0.0,0,0,0.2094696901642347,0.999414399266243
+train,"Exactly 1 of the following cities are in Kazakhstan: Perm, Ulhasnagar.",0,0.0,1,1,0.569852648420911,0.9992802739143372
+train,"Exactly 1 of the following cities are in India: Arusha, Najafgarh.",1,1.0,0,1,0.3557748845411487,0.9990498125553131
+train,"Exactly 0 of the following cities are in Mongolia: Ulan Bator, Zapopan.",0,0.0,0,1,0.2845760083618095,0.999544620513916
+train,"Exactly 1 of the following cities are in Germany: Jos, Kanpur.",0,0.0,0,1,0.2658804787017704,0.9991828203201294
+train,"Exactly 0 of the following cities are in the Dominican Republic: Owerri, Dammam.",1,1.0,0,0,0.18010665580771548,0.9997275471687317
+train,"Exactly 1 of the following cities are in Austria: Niteroi, Hamadan.",0,0.0,0,1,0.46490158870743215,0.998702347278595
+train,"Exactly 0 of the following cities are in Syria: Latakia, Santo Domingo Oeste.",0,0.0,0,1,0.33458945013370767,0.9994238018989563
+train,"Exactly 0 of the following cities are in Yemen: Mukalla, Aden.",0,0.0,0,0,0.18010666524746477,0.9995692223310471
+train,"Exactly 0 of the following cities are in Estonia: Chiclayo, Islamabad.",1,1.0,0,0,0.22815649822770945,0.9995930194854736
+train,"Exactly 2 of the following cities are in the United States: Chicago, New York City.",1,1.0,0,0,0.21206880767034134,0.9992029219865799
+train,"Exactly 0 of the following cities are in Saint Vincent and the Grenadines: Vadodara, Hue.",1,1.0,0,0,0.13846179530851116,0.9996554255485535
+train,"Exactly 1 of the following cities are in Thailand: Bangkok, Xingtai.",1,1.0,1,1,0.5544704661810603,0.997546374797821
+train,"Exactly 0 of the following cities are in Belarus: Ar Raqqah, Minsk.",0,0.0,0,1,0.3140505633963963,0.9994553625583649
+train,"Exactly 0 of the following cities are in Denmark: Nha Trang, Tiruppur.",1,1.0,0,1,0.2422056411467503,0.9995811879634857
+train,"Exactly 2 of the following cities are in Cambodia: General Santos, Gwalior.",0,0.0,0,0,0.10230469942749265,0.9994008988142014
+train,"Exactly 2 of the following cities are in Angola: Setagaya, Nairobi.",0,0.0,0,0,0.12085323195333539,0.9994860738515854
+train,"Exactly 1 of the following cities are in Panama: Nellore, Ra's Bayrut.",0,0.0,0,1,0.24798744438054954,0.9990869164466858
+train,"Exactly 1 of the following cities are in Burundi: Almaty, Bujumbura.",1,1.0,0,1,0.3702253664771801,0.9994890093803406
+train,"Exactly 1 of the following cities are in Kazakhstan: Shymkent, Aktobe.",0,0.0,0,1,0.4493926468565634,0.9991393387317657
+train,"Exactly 0 of the following cities are in Pakistan: Ipoh, Guigang.",1,1.0,0,0,0.22541661041425065,0.9991075396537781
+train,"Exactly 2 of the following cities are in Paraguay: Muscat, Bulawayo.",0,0.0,0,0,0.08035746641200289,0.9996296316385269
+train,"Exactly 1 of the following cities are in Côte d'Ivoire: Abobo, Xingtai.",1,1.0,0,1,0.4416730297000666,0.998323380947113
+train,"Exactly 1 of the following cities are in Indonesia: Setagaya, Nizhniy Novgorod.",0,0.0,0,1,0.3415824951424392,0.9992319047451019
+train,"Exactly 2 of the following cities are in Bangladesh: Rangpur, Chattogram.",1,1.0,0,0,0.2094697038672872,0.9991586655378342
+train,"Exactly 2 of the following cities are in Saudi Arabia: Najran, Ha'il.",1,1.0,0,0,0.18242553172963455,0.9994375109672546
+train,"Exactly 1 of the following cities are in Nigeria: Nairobi, Kaduna.",1,1.0,0,1,0.48438009708724833,0.999003142118454
+train,"Exactly 1 of the following cities are in Germany: Dortmund, Ulanqab.",1,1.0,0,1,0.41489883095336794,0.9985801577568054
+train,"Exactly 0 of the following cities are in New Zealand: Carrefour, Auckland.",0,0.0,0,0,0.18010666367266562,0.999648243188858
+train,"Exactly 2 of the following cities are in Brazil: Bannu, Bengbu.",0,0.0,0,0,0.11436852519228666,0.9993208199739456
+train,"Exactly 1 of the following cities are in Venezuela: Bengaluru, Ribeirao Preto.",0,0.0,0,1,0.4726834806843393,0.999060332775116
+train,"Exactly 2 of the following cities are in South Africa: Gqeberha, Soweto.",1,1.0,0,0,0.15817435192536583,0.9994716793298721
+train,"Exactly 0 of the following cities are in Spain: Nasiriyah, Aguascalientes.",1,1.0,0,1,0.24220563485871635,0.9995875507593155
+train,"Exactly 0 of the following cities are in Burundi: Rostov-on-Don, Rui'an.",1,1.0,0,0,0.17553806753070506,0.9992716312408447
+train,"Exactly 0 of the following cities are in Azerbaijan: Prayagraj, Shizuoka.",1,1.0,0,1,0.35936414652612797,0.9994140267372131
+train,"Exactly 2 of the following cities are in Russia: Kemerovo, Ufa.",1,1.0,0,1,0.23934933016365764,0.9995549470186234
+train,"Exactly 0 of the following cities are in New Zealand: Hangzhou, Auckland.",0,0.0,0,0,0.22000709987581704,0.9991508275270462
+train,"Exactly 1 of the following cities are in Turkmenistan: Jilin, Ashgabat.",1,1.0,0,0,0.2018132179215412,0.9992587715387344
+train,"Exactly 1 of the following cities are in Mozambique: Nampula, Khabarovsk.",1,1.0,0,1,0.3923368481024935,0.9993096590042114
+train,"Exactly 1 of the following cities are in Palau: Kanayannur, Wuwei.",0,0.0,0,1,0.3140505544313033,0.9985337555408478
+train,"Exactly 2 of the following cities are in the Philippines: Las Pinas, Caloocan.",1,1.0,0,0,0.10818895281596698,0.999628022313118
+train,"Exactly 1 of the following cities are in Kazakhstan: Zhangjiakou, Ulan Bator.",0,0.0,1,1,0.5736784176312069,0.9992502927780151
+train,"Exactly 0 of the following cities are in Nigeria: Warri, Johor Bahru.",0,0.0,0,1,0.3276682969646206,0.9993104338645935
+train,"Exactly 1 of the following cities are in Burkina Faso: Bobo-Dioulasso, Pikine.",1,1.0,0,1,0.278256791800798,0.9995479583740234
+train,"Exactly 0 of the following cities are in Cameroon: Yaounde, Douala.",0,0.0,0,0,0.18713268125696012,0.9997249096632004
+train,"Exactly 2 of the following cities are in Indonesia: Jambi City, Bandar Lampung.",1,1.0,0,0,0.18010666069865572,0.9992681741714478
+train,"Exactly 2 of the following cities are in Australia: Gold Coast, Jalandhar.",0,0.0,0,0,0.1895211033947476,0.9992474019527435
+train,"Exactly 1 of the following cities are in Dominica: Qom, Evaton.",0,0.0,0,1,0.2942149675521318,0.9989898800849915
+train,"Exactly 0 of the following cities are in Uganda: Bishkek, Tokyo.",1,1.0,0,1,0.2337063522913269,0.9994748830795288
+train,"Exactly 0 of the following cities are in Germany: Munich, Koeln.",0,0.0,0,0,0.1276526204325468,0.9995058327913284
+train,"Exactly 1 of the following cities are in Sudan: Khartoum North, Fushun.",1,1.0,0,1,0.40733341683142416,0.9984303712844849
+train,"Exactly 2 of the following cities are in Samoa: Cheongju-si, Al Ahmadi.",0,0.0,0,0,0.09401018748190375,0.999551922082901
+train,"Exactly 2 of the following cities are in Canada: Mengzi, Gqeberha.",0,0.0,0,0,0.09401018939135752,0.9994040951132774
+train,"Exactly 2 of the following cities are in Estonia: Longyan, Barnaul.",0,0.0,0,0,0.10669059403615733,0.9994985163211823
+train,"Exactly 1 of the following cities are in Germany: Koeln, Ipoh.",1,1.0,0,0,0.2227001409889201,0.9989424347877502
+train,"Exactly 2 of the following cities are in India: Guwahati, Nagpur.",1,1.0,0,0,0.18242552526977038,0.9992607831954956
+train,"Exactly 0 of the following cities are in Japan: Suginami, Jilin.",0,0.0,0,0,0.22815649886965345,0.9986649453639984
+train,"Exactly 2 of the following cities are in Eritrea: Asmara, Aqsu.",0,1.0,0,0,0.15405755285521447,0.9994105249643326
+train,"Exactly 2 of the following cities are in Colombia: Soacha, Ibague.",1,1.0,0,0,0.18952110426502508,0.9996160715818405
+train,"Exactly 2 of the following cities are in Malaysia: Subang Jaya, Pasir Gudang.",1,1.0,0,0,0.22815649844229138,0.9990333020687103
+train,"Exactly 0 of the following cities are in Poland: Kashgar, Krakow.",0,0.0,0,0,0.2254165988077156,0.9996844232082367
+train,"Exactly 0 of the following cities are in Colombia: Okara, Barranquilla.",0,0.0,0,0,0.13296424260133724,0.9997122883796692
+train,"Exactly 2 of the following cities are in Cambodia: Phnom Penh, Yangon.",0,0.0,0,0,0.09807932123872126,0.9994656890630722
+train,"Exactly 2 of the following cities are in Japan: Himeji, Hiroshima.",1,1.0,0,0,0.09947020853776754,0.9992123693227768
+train,"Exactly 1 of the following cities are in Rwanda: Bucheon-si, Arusha.",0,0.0,0,1,0.2814055978491361,0.9989051520824432
+train,"Exactly 2 of the following cities are in Syria: Ar Raqqah, Bucharest.",0,0.0,0,0,0.09670578768222912,0.9993968158960342
+train,"Exactly 1 of the following cities are in Sudan: Nyala, Ziyang.",1,1.0,0,1,0.33807714936635747,0.9988939762115479
+train,"Exactly 1 of the following cities are in Switzerland: Bokaro, Aracaju.",0,0.0,0,1,0.30074558637819976,0.99930739402771
+train,"Exactly 1 of the following cities are in North Korea: Taicang, Hamhung.",1,1.0,0,0,0.1778108672092094,0.9988017529249191
+train,"Exactly 0 of the following cities are in India: Jamnagar, Ankara.",0,0.0,0,1,0.3812195667319375,0.9992265999317169
+train,"Exactly 1 of the following cities are in Kazakhstan: Aktobe, Astana.",0,0.0,0,1,0.3451052717313506,0.999108761548996
+train,"Exactly 0 of the following cities are in Saint Kitts and Nevis: Jamshedpur, Sorocaba.",1,1.0,0,0,0.14804719163834243,0.9996497482061386
+train,"Exactly 1 of the following cities are in Oman: Muscat, Kayseri.",1,1.0,0,1,0.26894144968189876,0.999366968870163
+train,"Exactly 2 of the following cities are in Bangladesh: Shaoguan, Rangpur.",0,0.0,0,0,0.22000709348397243,0.9983706027269363
+train,"Exactly 1 of the following cities are in Croatia: Zagreb, The Bronx.",1,1.0,1,1,0.5660185373587192,0.9990538060665131
+train,"Exactly 1 of the following cities are in Kuwait: Al Ahmadi, Kitakyushu.",1,1.0,0,0,0.21733750753536069,0.9994028061628342
+train,"Exactly 2 of the following cities are in Iran: Batam, Kemerovo.",0,0.0,0,0,0.14804718459147426,0.9995034486055374
+train,"Exactly 1 of the following cities are in Azerbaijan: Tangerang, Sultanah.",0,0.0,0,0,0.1993079992739825,0.9994620382785797
+train,"Exactly 0 of the following cities are in Paraguay: Kitwe, Auckland.",1,1.0,0,0,0.17781086776555236,0.9997156262397766
+train,"Exactly 0 of the following cities are in Angola: Lubango, Cuiaba.",0,0.0,0,0,0.20946968840430508,0.9996650964021683
+train,"Exactly 2 of the following cities are in Sao Tome and Principe: Dushanbe, Rio de Janeiro.",0,0.0,0,0,0.09138210643024383,0.9992242455482483
+train,"Exactly 2 of the following cities are in the Philippines: Makati City, Pasig City.",1,0.0,0,0,0.10374863121893747,0.9996138885617256
+train,"Exactly 1 of the following cities are in Iran: Tabriz, Tehran.",0,0.0,0,1,0.24508500937795258,0.9992869645357132
+train,"Exactly 0 of the following cities are in Iraq: New South Memphis, Zanzibar.",1,1.0,0,1,0.24508500851827625,0.9992883056402206
+train,"Exactly 0 of the following cities are in Mozambique: Nampula, Muscat.",0,0.0,0,0,0.13117322221319186,0.9996030926704407
+train,"Exactly 2 of the following cities are in Côte d'Ivoire: Niamey, Abobo.",0,0.0,0,0,0.16026603148494972,0.9996577203273773
+train,"Exactly 0 of the following cities are in Germany: Hannover, Ajmer.",0,0.0,0,0,0.1895210949182468,0.9995253086090088
+train,"Exactly 2 of the following cities are in Venezuela: Kikwit, Maracaibo.",0,0.0,0,0,0.16026603196444797,0.9996178299188614
+train,"Exactly 0 of the following cities are in Bosnia and Herzegovina: Izmir, Sarajevo.",0,0.0,0,0,0.1581743584194082,0.999695286154747
+train,"Exactly 0 of the following cities are in the Czech Republic: Copenhagen, Xuchang.",1,1.0,0,1,0.25386099876522844,0.9992021024227142
+train,"Exactly 2 of the following cities are in Colombia: Soacha, Bucaramanga.",1,1.0,0,0,0.16667540380210422,0.9997056871652603
+train,"Exactly 2 of the following cities are in Argentina: San Miguel de Tucuman, Salta.",1,1.0,0,0,0.10970577286343289,0.9997503757476807
+train,"Exactly 2 of the following cities are in Cambodia: Longyan, Wuzhong.",0,0.0,0,0,0.06853749521431607,0.9993210211396217
+train,"Exactly 1 of the following cities are in Canada: Winnipeg, Calgary.",0,0.0,0,1,0.3849121567018312,0.9988085031509399
+train,"Exactly 2 of the following cities are in Canada: Dharavi, Mississauga.",0,0.0,0,0,0.10521053156664906,0.9992225468158722
+train,"Exactly 1 of the following cities are in Bangladesh: Rasapudipalem, Comilla.",1,1.0,0,1,0.32082131163665634,0.998962014913559
+train,"Exactly 0 of the following cities are in Algeria: Guwahati, Nampula.",1,1.0,0,1,0.3208213035484446,0.9995393753051758
+train,"Exactly 0 of the following cities are in Mauritania: Ordos, Assiut.",1,1.0,0,1,0.26284183824878127,0.9992316365242004
+train,"Exactly 2 of the following cities are in China: Langfang, Shangrao.",1,1.0,1,1,0.5428632631373919,0.9968434274196625
+train,"Exactly 0 of the following cities are in Syria: Maracaibo, Bannu.",1,1.0,0,0,0.13477591588111107,0.9996239095926285
+train,"Exactly 1 of the following cities are in the Dominican Republic: Santo Domingo Oeste, Tianjin.",1,1.0,0,1,0.3998116553588709,0.9979750216007233
+train,"Exactly 0 of the following cities are in Romania: Bucharest, Jiangmen.",0,0.0,0,1,0.29746994708064134,0.9983898997306824
+train,"Exactly 0 of the following cities are in Malaysia: Pelentong, Ipoh.",0,0.0,0,0,0.1732882048520773,0.9991499334573746
+train,"Exactly 2 of the following cities are in Ethiopia: Mengzi, Libreville.",0,0.0,0,0,0.15817435461857896,0.999215230345726
+train,"Exactly 0 of the following cities are in Germany: Izmir, Kanpur.",1,1.0,0,1,0.28457601881873257,0.9994490742683411
+train,"Exactly 1 of the following cities are in North Korea: Pyongyang, Warri.",1,1.0,0,0,0.19682620745172988,0.9992374628782272
+train,"Exactly 0 of the following cities are in Albania: New Kingston, Callao.",1,1.0,0,0,0.19930800171243548,0.9996206015348434
+train,"Exactly 0 of the following cities are in Poland: Lueliang, Aleppo.",1,1.0,0,0,0.18476751205479247,0.9997114539146423
+train,"Exactly 2 of the following cities are in Russia: Krasnoyarsk, Tirunelveli.",0,0.0,0,1,0.2509127898944877,0.9994646608829498
+train,"Exactly 2 of the following cities are in Equatorial Guinea: Santiago de Queretaro, Xianyang.",0,0.0,0,0,0.0758581760811379,0.9993975311517715
+train,"Exactly 2 of the following cities are in Venezuela: Palembang, Longyan.",0,0.0,0,0,0.14223189880191564,0.9993261247873306
+train,"Exactly 1 of the following cities are in Côte d'Ivoire: Qui Nhon, Ra's Bayrut.",0,0.0,0,1,0.3040416742691644,0.9988011419773102
+train,"Exactly 1 of the following cities are in Hungary: Benguela, Budapest.",1,1.0,0,1,0.41111085962953425,0.9994088709354401
+train,"Exactly 2 of the following cities are in Sudan: Khartoum, Ananindeua.",0,0.0,0,0,0.1540575524258747,0.9995101541280746
+train,"Exactly 1 of the following cities are in Palau: Pelentong, Kalyan.",0,1.0,0,0,0.1801066640215734,0.9993096888065338
+train,"Exactly 0 of the following cities are in Thailand: Weinan, Sanming.",1,1.0,0,1,0.4148988236288287,0.998767077922821
+train,"Exactly 0 of the following cities are in Uruguay: Kinshasa, Caracas.",1,1.0,0,1,0.25683199915668115,0.9996789395809174
+train,"Exactly 2 of the following cities are in India: Nellore, Nowrangapur.",1,1.0,0,1,0.24220562524295042,0.9988268613815308
+train,"Exactly 0 of the following cities are in Lesotho: Pune, Jajmau.",1,1.0,0,0,0.13846179347844395,0.9996375739574432
+train,"Exactly 2 of the following cities are in Iran: Qom, Tabriz.",1,1.0,0,0,0.14414884352380758,0.9994265735149384
+train,"Exactly 1 of the following cities are in Uzbekistan: Nuremberg, Rui'an.",0,0.0,0,1,0.381219557441814,0.9985973834991455
+train,"Exactly 1 of the following cities are in Australia: Visakhapatnam, Gold Coast.",1,1.0,0,1,0.44167302194740005,0.9989550411701202
+train,"Exactly 2 of the following cities are in Tuvalu: Erode, Rajshahi.",0,0.0,0,0,0.08035746828464246,0.9996010512113571
+train,"Exactly 0 of the following cities are in Kuwait: Nansana, Al Ahmadi.",0,1.0,0,0,0.10818895033668326,0.9996611699461937
+train,"Exactly 2 of the following cities are in Sri Lanka: Xuzhou, Putian.",0,0.0,0,1,0.24220564083808854,0.9978591054677963
+train,"Exactly 1 of the following cities are in Yemen: Serang, Changwon.",0,0.0,0,0,0.2200070937664452,0.9992130994796753
+train,"Exactly 1 of the following cities are in Argentina: Recife, Nagpur.",0,0.0,0,1,0.37387580294677053,0.9993162155151367
+train,"Exactly 1 of the following cities are in Chad: Shantou, N'Djamena.",1,1.0,1,1,0.5117165976377271,0.9992616474628448
+train,"Exactly 0 of the following cities are in the Maldives: Mexico City, Hlaingthaya.",1,1.0,0,0,0.14804719262127605,0.9991401433944702
+train,"Exactly 1 of the following cities are in Myanmar: Bien Hoa, Phnom Penh.",0,0.0,0,1,0.3557748709027313,0.9989760518074036
+train,"Exactly 1 of the following cities are in Malaysia: Seattle, Budta.",0,1.0,0,1,0.4111108501327851,0.9985685646533966
+train,"Exactly 2 of the following cities are in the Philippines: Taguig, Muntinlupa.",1,1.0,0,0,0.12421300582628045,0.9996123686432838
+train,"Exactly 2 of the following cities are in Thailand: Bangkok, Calgary.",0,0.0,0,0,0.2200070905989916,0.99928118288517
+train,"Exactly 2 of the following cities are in Mexico: Tiruchirappalli, Ilorin.",0,0.0,0,0,0.16026603594951808,0.9996902346611023
+train,"Exactly 2 of the following cities are in Vanuatu: Guang'an, Vladivostok.",0,0.0,0,0,0.05500528280796197,0.9995148666203022
+train,"Exactly 1 of the following cities are in Nepal: Kathmandu, Jiangmen.",1,1.0,1,1,0.6297746205743141,0.9964722394943237
+train,"Exactly 0 of the following cities are in Sao Tome and Principe: Kitwe, Sanming.",1,1.0,0,0,0.15002881909856317,0.9995258748531342
+train,"Exactly 0 of the following cities are in Honduras: Zhu Cheng City, Makhachkala.",1,1.0,0,1,0.4186969262443693,0.9981730878353119
+train,"Exactly 1 of the following cities are in Syria: Aleppo, Indianapolis.",1,1.0,1,1,0.588889133808373,0.9991454184055328
+train,"Exactly 2 of the following cities are in China: Binzhou, Jiangyin.",1,0.0,0,1,0.3998116562086036,0.9968718886375427
+train,"Exactly 0 of the following cities are in Uzbekistan: Seattle, Andijon.",0,1.0,0,0,0.2146914111841752,0.9994280338287354
+train,"Exactly 1 of the following cities are in the United Arab Emirates: Almaty, Hongkou.",0,0.0,0,1,0.39606815680175517,0.9989406168460846
+train,"Exactly 0 of the following cities are in Guyana: Jiangmen, Ahmedabad.",1,1.0,0,0,0.15610489596153693,0.9991702735424042
+train,"Exactly 2 of the following cities are in Armenia: Durban, Luohe.",0,0.0,0,0,0.0695417445426943,0.9994249939918518
+train,"Exactly 1 of the following cities are in the Philippines: Caloocan, Cagayan de Oro.",0,0.0,0,1,0.2877678023185996,0.9992969930171967
+train,"Exactly 0 of the following cities are in Tuvalu: Ibb, Dehradun.",1,1.0,0,1,0.2782567884535931,0.9996171593666077
+train,"Exactly 1 of the following cities are in Togo: Lome, Ulanqab.",1,1.0,0,1,0.39606816179606086,0.9984249472618103
+train,"Exactly 0 of the following cities are in India: Calgary, Dehradun.",0,0.0,0,1,0.32082131932528846,0.9993532598018646
+train,"Exactly 2 of the following cities are in Vietnam: Adana, Kashgar.",0,0.0,0,0,0.2173375211902518,0.9989337772130966
+train,"Exactly 0 of the following cities are in Nicaragua: Kermanshah, Virar.",1,1.0,0,0,0.1623800301462136,0.9994670748710632
+train,"Exactly 0 of the following cities are in China: Las Pinas, Xingtai.",0,0.0,0,1,0.23651623925470028,0.9975404292345047
+train,"Exactly 1 of the following cities are in Macedonia: Phnom Penh, Karbala.",0,0.0,0,1,0.297469957255868,0.9993480443954468
+train,"Exactly 1 of the following cities are in Uganda: Shihezi, Nansana.",1,1.0,0,1,0.3849121527973461,0.9984045028686523
+train,"Exactly 2 of the following cities are in the United States: The Bronx, Fort Worth.",1,1.0,0,1,0.3040416758082704,0.9989416003227234
+train,"Exactly 2 of the following cities are in Azerbaijan: Kirkuk, Puning.",0,0.0,0,0,0.09009299969724835,0.9995659366250038
+train,"Exactly 2 of the following cities are in Kazakhstan: Astana, Shymkent.",1,1.0,0,1,0.25091277384221633,0.9994659125804901
+train,"Exactly 2 of the following cities are in Comoros: Novokuznetsk, Ciudad Guayana.",0,0.0,0,0,0.051845468240298405,0.9997651167213917
+train,"Exactly 1 of the following cities are in Nepal: Chelyabinsk, Kathmandu.",1,1.0,0,1,0.5,0.9991284012794495
+train,"Exactly 2 of the following cities are in Ukraine: Bareilly, Ufa.",0,0.0,0,0,0.20946969403291726,0.9994202852249146
+train,"Exactly 1 of the following cities are in Mexico: Aktobe, Zapopan.",1,1.0,0,1,0.4035668808877743,0.9994480311870575
+train,"Exactly 1 of the following cities are in Tuvalu: Bukavu, Hengyang.",0,0.0,0,0,0.18713267868959155,0.9994643777608871
+train,"Exactly 2 of the following cities are in Nigeria: Sokoto, Kaduna.",1,1.0,0,0,0.18713267754742818,0.9995550811290741
+train,"Exactly 1 of the following cities are in Lebanon: Luancheng, Ra's Bayrut.",1,1.0,0,1,0.28457599917359,0.9970530271530151
+train,"Exactly 1 of the following cities are in Bahrain: Nellore, Aparecida de Goiania.",0,0.0,0,1,0.38861802407302476,0.9994445443153381
+train,"Exactly 1 of the following cities are in Burkina Faso: Borama, Navi Mumbai.",0,0.0,0,1,0.3593641455672494,0.9988538324832916
+train,"Exactly 2 of the following cities are in Saudi Arabia: Ha'il, Ta'if.",1,1.0,0,0,0.20181322857060638,0.9993778169155121
+train,"Exactly 1 of the following cities are in Burkina Faso: Bobo-Dioulasso, Xiaogan.",1,1.0,0,1,0.3849121630133093,0.9986173212528229
+train,"Exactly 1 of the following cities are in Iran: Tehran, Winnipeg.",1,1.0,1,1,0.5273165277542723,0.9991647601127625
+train,"Exactly 2 of the following cities are in Mexico: Zapopan, Tlaquepaque.",1,1.0,0,0,0.15610490386996542,0.9997671097517014
+train,"Exactly 1 of the following cities are in Norway: Suining, Oslo.",1,1.0,0,0,0.2068940602856045,0.9994368255138397
+train,"Exactly 1 of the following cities are in North Korea: Voronezh, Changde.",0,0.0,0,0,0.212068809873575,0.9989864230155945
+train,"Exactly 2 of the following cities are in South Korea: Shizuishan, Dortmund.",0,0.0,0,0,0.17328820581505372,0.9992593079805374
+train,"Exactly 2 of the following cities are in Luxembourg: Sulaymaniyah, Sorocaba.",0,0.0,0,0,0.09947020926437064,0.999704547226429
+train,"Exactly 2 of the following cities are in Egypt: Port Said, Giza.",1,1.0,0,0,0.07159120156065803,0.99947689473629
+train,"Exactly 1 of the following cities are in the Dominican Republic: Santo Domingo Oeste, Yangquan.",1,1.0,0,1,0.38121956617444125,0.9986391067504883
+train,"Exactly 0 of the following cities are in Vietnam: Da Nang, Camama.",0,0.0,0,0,0.18010665461626812,0.9992804527282715
+train,"Exactly 0 of the following cities are in China: Cimahi, Hamhung.",1,1.0,0,0,0.21469142122472404,0.9971943199634552
+train,"Exactly 2 of the following cities are in Indonesia: Batam, Semarang.",1,1.0,0,0,0.15610490010044997,0.9993496090173721
+train,"Exactly 1 of the following cities are in Niger: Niamey, Samarinda.",1,1.0,0,1,0.3557748868381896,0.9993533790111542
+train,"Exactly 2 of the following cities are in Japan: Kagoshima, Fort Worth.",0,0.0,0,0,0.1500288245274494,0.9992342293262482
+train,"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Lubumbashi, Jiaozuo.",1,1.0,0,1,0.44552953309501814,0.9984411895275116
+train,"Exactly 2 of the following cities are in Mexico: Santiago de Queretaro, Zapopan.",1,1.0,0,0,0.12940272843538742,0.9998219609260559
+train,"Exactly 1 of the following cities are in Pakistan: Puxi, Vinh.",0,1.0,0,0,0.2068940552674067,0.9990744292736053
+train,"Exactly 0 of the following cities are in Bangladesh: Mirpur Model Thana, Florianopolis.",0,0.0,0,1,0.2598256486665431,0.9994940459728241
+train,"Exactly 0 of the following cities are in Kiribati: Hoji ya Henda, Uberlandia.",1,0.0,0,0,0.10970577313021738,0.9997647032141685
+train,"Exactly 2 of the following cities are in Saudi Arabia: Hwaseong-si, Dombivali.",0,0.0,0,0,0.15610490384974018,0.9991957098245621
+train,"Exactly 0 of the following cities are in Eritrea: Huzhou, Asmara.",0,0.0,0,0,0.19930800784083846,0.9983546584844589
+train,"Exactly 1 of the following cities are in Slovenia: Loni, Volgograd.",0,0.0,0,1,0.3242354011666446,0.9993537664413452
+train,"Exactly 1 of the following cities are in Ethiopia: Addis Ababa, Shizuoka.",1,1.0,1,1,0.569852644609441,0.9986294806003571
+train,"Exactly 0 of the following cities are in Chad: N'Djamena, Lubumbashi.",0,0.0,0,1,0.334589443853887,0.999650239944458
+train,"Exactly 1 of the following cities are in Chad: Camayenne, N'Djamena.",1,1.0,0,1,0.48047866373646503,0.9995262026786804
+train,"Exactly 2 of the following cities are in Myanmar: Hlaingthaya, Shizuoka.",0,0.0,0,0,0.1208532336536701,0.9989950805902481
+train,"Exactly 1 of the following cities are in Ghana: Accra, Fort Worth.",1,1.0,1,1,0.5774953754079143,0.9988525211811066
+train,"Exactly 1 of the following cities are in Mongolia: Harare, Ulan Bator.",1,1.0,0,1,0.2751297247039138,0.999612033367157
+train,"Exactly 2 of the following cities are in Nigeria: Katsina, Enugu.",1,1.0,0,1,0.2509127781063021,0.9994857311248779
+train,"Exactly 0 of the following cities are in Ghana: Accra, Kumasi.",0,0.0,0,1,0.2720245584761272,0.999371737241745
+train,"Exactly 0 of the following cities are in Timor-Leste: Winnipeg, Andijon.",1,1.0,0,0,0.20181322598027798,0.9993529468774796
+train,"Exactly 0 of the following cities are in Bhutan: Astana, Addis Ababa.",1,1.0,0,0,0.1540575595780856,0.9995847791433334
+train,"Exactly 1 of the following cities are in Burundi: Bujumbura, Mazar-e Sharif.",1,1.0,0,1,0.37387580335545195,0.9993828535079956
+train,"Exactly 0 of the following cities are in Bulgaria: Dandong, Porto Alegre.",1,1.0,0,1,0.3665897373544119,0.9994243085384369
+train,"Exactly 2 of the following cities are in Venezuela: Barquisimeto, Ciudad Guayana.",1,1.0,0,0,0.09947021020816746,0.9997808635234833
+train,"Exactly 0 of the following cities are in Benin: Dandong, Jakarta.",1,1.0,0,0,0.1242130063552408,0.9992473721504211
+train,"Exactly 2 of the following cities are in Egypt: Assiut, Port Said.",1,1.0,0,0,0.16667540377951842,0.9991397708654404
+train,"Exactly 0 of the following cities are in Romania: Bucharest, Santo Domingo Este.",0,0.0,0,1,0.3311197350956496,0.999640554189682
+train,"Exactly 1 of the following cities are in Indonesia: Incheon, Barquisimeto.",0,0.0,0,1,0.3557748633447523,0.9991463720798492
+train,"Exactly 1 of the following cities are in Romania: Bekasi, Bucharest.",1,1.0,0,1,0.4455295388920098,0.9994947910308838
+train,"Exactly 0 of the following cities are in Egypt: Madinat an Nasr, Assiut.",0,0.0,0,0,0.13846179902474653,0.9994751363992691
+train,"Exactly 0 of the following cities are in Italy: Kryvyy Rih, Xiangtan.",1,1.0,0,0,0.22270015215771158,0.9994387328624725
+train,"Exactly 1 of the following cities are in Burkina Faso: Ouagadougou, Cangzhou.",1,1.0,0,1,0.362969178880537,0.998964250087738
+train,"Exactly 0 of the following cities are in Poland: Mombasa, Cangzhou.",1,1.0,0,1,0.26588047296177597,0.9991906881332397
+train,"Exactly 1 of the following cities are in Argentina: Qingdao, Khartoum.",0,0.0,1,1,0.5888891282081451,0.9990038275718689
+train,"Exactly 1 of the following cities are in South Korea: Daegu, Laiwu.",1,1.0,0,1,0.33111974719097353,0.9985779225826263
+train,"Exactly 2 of the following cities are in China: Zhangjiakou, Kaifeng.",1,1.0,1,1,0.5078118490672884,0.998664140701294
+train,"Exactly 1 of the following cities are in the Netherlands: Qingpu, Okara.",0,0.0,0,1,0.4882833988910252,0.9981129169464111
+train,"Exactly 0 of the following cities are in Ecuador: Guayaquil, Kananga.",0,0.0,0,1,0.2782568020999942,0.9996578097343445
+train,"Exactly 1 of the following cities are in Spain: Antananarivo, Santiago de los Caballeros.",0,0.0,0,1,0.45326185218921167,0.9995820224285126
+train,"Exactly 0 of the following cities are in Bosnia and Herzegovina: Zamboanga, Karol Bagh.",1,1.0,0,0,0.16667540383335996,0.9997021108865738
+train,"Exactly 1 of the following cities are in Mozambique: Meizhou, Al Ahmadi.",0,0.0,0,1,0.24220563524881136,0.9990460872650146
+train,"Exactly 0 of the following cities are in Iceland: Suginami, Borama.",1,1.0,0,0,0.12765262129034885,0.9996747374534607
+train,"Exactly 1 of the following cities are in Zambia: Hangzhou, Kitwe.",1,1.0,0,1,0.4532618470840639,0.9987379908561707
+train,"Exactly 2 of the following cities are in New Zealand: Las Pinas, Ulyanovsk.",0,0.0,0,0,0.10970576817870988,0.9996103793382645
+train,"Exactly 1 of the following cities are in Cape Verde: Pune, Nouakchott.",0,0.0,0,1,0.3849121699009744,0.9994438290596008
+train,"Exactly 0 of the following cities are in Argentina: Najran, Bukit Rahman Putra.",1,1.0,0,0,0.16667540190597555,0.9996383786201477
+train,"Exactly 1 of the following cities are in Chad: N'Djamena, Naucalpan de Juarez.",1,1.0,0,1,0.4111108672844413,0.9995492696762085
+train,"Exactly 2 of the following cities are in Mozambique: Matola, Guangyuan.",0,0.0,0,0,0.10970577524999833,0.9993373677134514
+train,"Exactly 1 of the following cities are in Iran: Zahedan, Tehran.",0,0.0,0,0,0.20689405882571227,0.9994698911905289
+train,"Exactly 2 of the following cities are in Nigeria: Kaduna, Abeokuta.",1,1.0,0,1,0.2751297361137622,0.9992599487304688
+train,"Exactly 1 of the following cities are in Jamaica: New Kingston, Haiphong.",1,1.0,0,1,0.25386101529369565,0.9989238083362579
+train,"Exactly 1 of the following cities are in Kuwait: Latakia, Al Ahmadi.",1,0.0,0,1,0.2689414337213936,0.999438613653183
+train,"Exactly 2 of the following cities are in Vietnam: Thu GJuc, Ho Chi Minh City.",1,0.0,0,0,0.23091975661265302,0.9988803118467331
+train,"Exactly 1 of the following cities are in Pakistan: Nanchong, Quetta.",1,1.0,0,1,0.31405056775712437,0.9987786412239075
+train,"Exactly 2 of the following cities are in Palau: Malacca, Puning.",0,0.0,0,0,0.08389038746398281,0.9985371381044388
+train,"Exactly 2 of the following cities are in Chad: N'Djamena, Qom.",0,0.0,0,1,0.24220563516210225,0.9993782490491867
+train,"Exactly 0 of the following cities are in Malawi: Lilongwe, Ahvaz.",0,0.0,0,1,0.2337063476129484,0.999306321144104
+train,"Exactly 2 of the following cities are in Sudan: Khartoum North, Brasilia.",0,0.0,0,0,0.1500288182109326,0.9994791001081467
+train,"Exactly 0 of the following cities are in Honduras: San Pedro Sula, Tegucigalpa.",0,0.0,0,0,0.2043418996629292,0.9997640401124954
+train,"Exactly 0 of the following cities are in the United States: Meerut, Saint Petersburg.",1,1.0,0,1,0.3665897314237836,0.9992052316665649
+train,"Exactly 0 of the following cities are in Ireland: Gold Coast, Dakar.",1,1.0,0,1,0.3345894452482527,0.9993327856063843
+train,"Exactly 1 of the following cities are in China: Prayagraj, Vladivostok.",0,0.0,1,1,0.626124162935631,0.9988395273685455
+train,"Exactly 1 of the following cities are in Ghana: Hezhou, Kumasi.",1,1.0,0,1,0.47268347012702955,0.9984855353832245
+train,"Exactly 1 of the following cities are in Jamaica: New Kingston, Weinan.",1,1.0,0,1,0.37387581349164256,0.9973439574241638
+train,"Exactly 1 of the following cities are in Kuwait: Sapporo, Al Ahmadi.",1,1.0,0,1,0.24220563075859536,0.9994283467531204
+train,"Exactly 2 of the following cities are in South Africa: Cuiaba, Gqeberha.",0,0.0,0,0,0.10230470493530905,0.9995782524347305
+train,"Exactly 1 of the following cities are in Myanmar: Dortmund, Yangon.",1,1.0,0,1,0.37754067337011427,0.9990735948085785
+train,"Exactly 1 of the following cities are in Haiti: Hubballi, Carrefour.",1,1.0,0,1,0.4455295305797235,0.9993346035480499
+train,"Exactly 2 of the following cities are in Tanzania: Dodoma, Dar es Salaam.",1,1.0,0,0,0.21469141695456362,0.9993692189455032
+train,"Exactly 2 of the following cities are in Japan: Nagoya, Tokyo.",1,1.0,0,0,0.06560483574648239,0.9992609024047852
+train,"Exactly 1 of the following cities are in North Korea: Santo Domingo Oeste, Amritsar.",0,0.0,0,0,0.16451646197641293,0.9993523061275482
+train,"Exactly 2 of the following cities are in Syria: Homs, Aleppo.",1,1.0,0,0,0.13117321938115423,0.9994279444217682
+train,"Exactly 0 of the following cities are in Tonga: Teni, Islamabad.",1,1.0,0,0,0.1666753977443169,0.9995459616184235
+train,"Exactly 0 of the following cities are in Oman: Kota Kuala Muda, Perm.",1,1.0,0,0,0.09947021075558839,0.9995681345462799
+train,"Exactly 2 of the following cities are in the Central African Republic: Navi Mumbai, Wuzhong.",0,0.0,0,0,0.1460872465939766,0.9988215565681458
+train,"Exactly 0 of the following cities are in Kenya: Nairobi, Nakuru.",0,0.0,0,1,0.38861802631679004,0.999348908662796
+train,"Exactly 1 of the following cities are in Panama: Jamshedpur, Najran.",0,0.0,0,1,0.35220177931309193,0.9992724061012268
+train,"Exactly 0 of the following cities are in Finland: Shangyu, Helsinki.",0,0.0,0,1,0.4111108665389284,0.9992102980613708
+train,"Exactly 0 of the following cities are in Slovakia: Bandar Lampung, Omsk.",1,1.0,0,0,0.22541660254247237,0.9996200203895569
+train,"Exactly 1 of the following cities are in Gabon: Libreville, Bilimora.",1,1.0,0,1,0.4339814671840473,0.9989931583404541
+test,"Exactly 2 of the following cities are in the United States: Guilin, Detroit.",0,0.0,0,1,0.2538610121848867,0.9987625181674957
+test,"Exactly 2 of the following cities are in Azerbaijan: Budta, Erzurum.",0,0.0,0,0,0.17553806573068484,0.9996156096458435
+test,"Exactly 2 of the following cities are in Pakistan: Chunian, Arifwala.",1,1.0,0,0,0.13660839922621232,0.9995221793651581
+test,"Exactly 0 of the following cities are in Niger: Niamey, Calgary.",0,0.0,0,1,0.324235385886311,0.9994809329509735
+test,"Exactly 1 of the following cities are in Romania: Bucharest, Nowrangapur.",1,1.0,0,1,0.422504635694942,0.9991603195667267
+test,"Exactly 1 of the following cities are in Lesotho: Quito, Pyongyang.",0,0.0,0,0,0.2094696905749368,0.9991676211357117
+test,"Exactly 0 of the following cities are in Gabon: Ulanqab, Cankaya.",1,1.0,0,0,0.17328820221834348,0.9994350075721741
+test,"Exactly 0 of the following cities are in Gabon: Cebu City, Mianzhu, Deyang, Sichuan.",1,1.0,0,1,0.3557748780674651,0.9990279674530029
+test,"Exactly 1 of the following cities are in New Zealand: Auckland, Kaduna.",1,1.0,0,1,0.43782350755845856,0.9991432726383209
+test,"Exactly 1 of the following cities are in Iraq: Guarulhos, Nasiriyah.",1,1.0,0,1,0.341582503800271,0.9991104304790497
+test,"Exactly 0 of the following cities are in Sudan: Khartoum, Khartoum North.",0,0.0,0,1,0.2942149699657545,0.9995415210723877
+test,"Exactly 1 of the following cities are in Zimbabwe: Santo Domingo Este, Tomsk.",0,0.0,0,1,0.34510528284744674,0.9993019104003906
+test,"Exactly 0 of the following cities are in Fiji: Ciudad Guayana, Kisangani.",1,1.0,0,1,0.31069438529165394,0.9996616244316101
+test,"Exactly 1 of the following cities are in Mexico: Naucalpan de Juarez, Gustavo Adolfo Madero.",0,0.0,0,1,0.28140560472152293,0.9996211528778076
+test,"Exactly 1 of the following cities are in Finland: Tianjin, Helsinki.",1,1.0,0,1,0.4804786652140767,0.9993537664413452
+test,"Exactly 1 of the following cities are in Cameroon: Bhiwandi, Douala.",1,1.0,0,1,0.3665897429871955,0.9993554353713989
+test,"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Kikwit, Lubumbashi.",0,0.0,0,1,0.3345894397305251,0.9994162619113922
+test,"Exactly 2 of the following cities are in Iraq: Nasiriyah, Abu Ghurayb.",1,1.0,0,0,0.1294027329497719,0.9996229410171509
+test,"Exactly 1 of the following cities are in Uzbekistan: Andijon, Samarkand.",0,1.0,0,1,0.26894143058881903,0.9994792938232422
+test,"Exactly 0 of the following cities are in Djibouti: Balbala, Guiyang.",0,1.0,0,1,0.3380771290121956,0.9991034865379333
+test,"Exactly 0 of the following cities are in Jordan: Zarqa, Port-au-Prince.",0,0.0,0,1,0.24220563200463482,0.9995972216129303
+test,"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Kikwit, Ulhasnagar.",0,0.0,0,0,0.22541660114576162,0.9995375275611877
+test,"Exactly 0 of the following cities are in Jamaica: New Kingston, Hanzhong.",0,0.0,0,0,0.19193279156305146,0.998837798833847
+test,"Exactly 0 of the following cities are in Jamaica: Nakuru, New Kingston.",0,0.0,0,0,0.19682620365880035,0.9994203150272369
+test,"Exactly 2 of the following cities are in Macedonia: Mukalla, Ganzhou.",0,0.0,0,0,0.1968262170325841,0.9981775134801865
+test,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Mbuji-Mayi, Kinshasa.",1,1.0,0,1,0.27512972950810505,0.9994544088840485
+test,"Exactly 2 of the following cities are in Russia: Novokuznetsk, Ryazan'.",1,1.0,0,0,0.2281564934786382,0.999381497502327
+test,"Exactly 1 of the following cities are in Eritrea: Tegucigalpa, Lusaka.",0,0.0,0,1,0.3007456003745862,0.9995364546775818
+test,"Exactly 2 of the following cities are in Albania: Semarang, Utsunomiya.",0,0.0,0,1,0.28457600752046536,0.9992671012878418
+test,"Exactly 2 of the following cities are in Kazakhstan: Astana, Almaty.",1,1.0,0,1,0.32766830436181227,0.9993643462657928
+test,"Exactly 2 of the following cities are in Sudan: Owerri, Pimpri-Chinchwad.",0,0.0,0,0,0.08756384147665329,0.9997073113918304
+test,"Exactly 2 of the following cities are in India: Baotou, Pekanbaru.",0,0.0,0,1,0.24508501577400965,0.9987569451332092
+test,"Exactly 0 of the following cities are in Morocco: Pontianak, Astrakhan.",1,1.0,0,1,0.34158250185338224,0.9994502663612366
+test,"Exactly 1 of the following cities are in Sweden: Maiduguri, Auckland.",0,0.0,0,1,0.30735800668214375,0.9994401037693024
+test,"Exactly 0 of the following cities are in Kenya: Manaus, Surat.",1,1.0,0,1,0.2974699551753251,0.9993507564067841
+test,"Exactly 1 of the following cities are in Yemen: Lodz, Mukalla.",1,1.0,0,1,0.3923368240621781,0.9992450773715973
+test,"Exactly 0 of the following cities are in Montenegro: Wanzhou, Siliguri.",1,1.0,0,0,0.21733751690830574,0.999528780579567
+test,"Exactly 2 of the following cities are in Zambia: Kitwe, Lusaka.",1,1.0,0,0,0.1561048966956748,0.9996053576469421
+test,"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Shangluo, Tlaquepaque.",1,1.0,0,0,0.2200071016189296,0.9992413073778152
+test,"Exactly 1 of the following cities are in Bosnia and Herzegovina: Anqing, Sarajevo.",1,1.0,0,1,0.2782568037718919,0.9989215731620789
+test,"Exactly 2 of the following cities are in Nicaragua: Managua, Nha Trang.",0,0.0,0,0,0.1778108697716386,0.9993348121643066
+test,"Exactly 0 of the following cities are in the Philippines: Chisinau, Caloocan.",0,0.0,0,0,0.16885695803246847,0.9995897710323334
+test,"Exactly 1 of the following cities are in Myanmar: Hlaingthaya, Nay Pyi Taw.",0,0.0,0,1,0.2782567976870891,0.9981289207935333
+test,"Exactly 1 of the following cities are in Vietnam: Binh Thanh, Can Tho.",0,0.0,0,1,0.3812195713998629,0.9986514449119568
+test,"Exactly 2 of the following cities are in Syria: Latakia, Homs.",1,1.0,0,0,0.12252320815124836,0.9994701892137527
+test,"Exactly 1 of the following cities are in Chile: Puente Alto, Ndola.",1,1.0,0,1,0.3073580194278193,0.999313622713089
+test,"Exactly 2 of the following cities are in Honduras: Ibague, Tegucigalpa.",0,0.0,0,0,0.144148856058278,0.9996739625930786
+test,"Exactly 2 of the following cities are in Venezuela: Almaty, Ciudad Guayana.",0,0.0,0,0,0.1540575580954398,0.9996514320373535
+test,"Exactly 1 of the following cities are in Guatemala: Guatemala City, Soweto.",1,1.0,0,1,0.4532618545642571,0.9993094801902771
+test,"Exactly 0 of the following cities are in Uganda: Kampala, Nansana.",0,0.0,0,1,0.2974699438909692,0.9994440674781799
+test,"Exactly 0 of the following cities are in Bangladesh: Kuecuekcekmece, Karbala.",1,1.0,0,0,0.15203224291001016,0.9995225667953491
+test,"Exactly 2 of the following cities are in Mexico: Victoria de Durango, Tijuana.",1,1.0,0,0,0.11279539869878817,0.9997211769223213
+test,"Exactly 2 of the following cities are in Iran: Onitsha, Balbala.",0,0.0,0,0,0.13846179349030496,0.9995910823345184
+test,"Exactly 0 of the following cities are in Paraguay: Faridabad, Juiz de Fora.",1,1.0,0,1,0.29746994054442266,0.9996500611305237
+test,"Exactly 2 of the following cities are in Egypt: Al Mahallah al Kubra, Shubra al Khaymah.",1,1.0,0,1,0.2479874330650388,0.9993256330490112
+test,"Exactly 2 of the following cities are in Jordan: Zarqa, Ganzhou.",0,0.0,0,1,0.2751297327718835,0.9988147616386414
+test,"Exactly 0 of the following cities are in Cambodia: Phnom Penh, Matola.",0,0.0,0,0,0.15817436243746802,0.9995799511671066
+test,"Exactly 2 of the following cities are in Chile: Kitwe, Kayseri.",0,0.0,0,0,0.17781087129270196,0.9995390325784683
+test,"Exactly 0 of the following cities are in Mauritania: Vinh, Qionghai.",1,1.0,0,1,0.38861801832380016,0.9974551200866699
+test,"Exactly 2 of the following cities are in Gabon: Nha Trang, Al Hudaydah.",0,0.0,0,0,0.12765261708306067,0.999434769153595
+test,"Exactly 1 of the following cities are in Nepal: Pallabi, Pokhara.",1,1.0,0,1,0.480478663122362,0.9989422261714935
+test,"Exactly 1 of the following cities are in Iraq: Mosul, Sulaymaniyah.",0,0.0,0,0,0.18952109977457482,0.9995883405208588
+test,"Exactly 2 of the following cities are in Pakistan: Islamabad, Okara.",1,0.0,0,0,0.19682620879519067,0.9990989118814468
+test,"Exactly 0 of the following cities are in Indonesia: Batam, Surakarta.",0,0.0,0,0,0.2254166070010719,0.9993947148323059
+test,"Exactly 2 of the following cities are in Kazakhstan: Almaty, Aktobe.",1,1.0,0,1,0.3380771447808347,0.9993388950824738
+test,"Exactly 1 of the following cities are in Azerbaijan: Lilongwe, Baku.",1,1.0,0,1,0.33458944208366526,0.9993036687374115
+test,"Exactly 2 of the following cities are in Guatemala: Hangzhou, Rajkot.",0,0.0,0,0,0.11757213864526488,0.9992543011903763
+test,"Exactly 2 of the following cities are in Eritrea: Wanxian, Shah Alam.",0,0.0,0,0,0.20434190689223788,0.9988179057836533
+test,"Exactly 2 of the following cities are in China: Heze, Minhang.",1,1.0,0,1,0.24798744017292337,0.9967210739850998
+test,"Exactly 1 of the following cities are in Morocco: Meknes, Marrakesh.",0,0.0,0,1,0.2814056114927949,0.9993262887001038
+test,"Exactly 1 of the following cities are in Syria: Homs, Ar Raqqah.",0,0.0,0,0,0.22270013152789317,0.999038428068161
+test,"Exactly 1 of the following cities are in Eritrea: Pudong, Asmara.",1,1.0,0,1,0.33458944121609957,0.9987665712833405
+test,"Exactly 2 of the following cities are in Slovenia: Bukavu, Huizhou.",0,0.0,0,0,0.09138210378416467,0.9994073957204819
+test,"Exactly 2 of the following cities are in Japan: Kyoto, Suginami.",1,0.0,0,0,0.17553806392081464,0.9989688545465469
+test,"Exactly 2 of the following cities are in Germany: Hannover, Dortmund.",1,1.0,0,0,0.14223189893872493,0.9994557201862335
+test,"Exactly 1 of the following cities are in Burkina Faso: Borivli, Ouagadougou.",1,1.0,0,1,0.3415825117774801,0.9994707405567169
+test,"Exactly 2 of the following cities are in Morocco: Warangal, Lviv.",0,0.0,0,0,0.2120688065565222,0.9994746446609497
+test,"Exactly 2 of the following cities are in Ukraine: Sanaa, Kharkiv.",0,0.0,0,0,0.18242553282581742,0.9995962977409363
+test,"Exactly 0 of the following cities are in India: Jammu, Amritsar.",0,0.0,0,1,0.31405056001710474,0.999129593372345
+test,"Exactly 2 of the following cities are in Bulgaria: Changde, Sofia.",0,0.0,0,1,0.2942149711183364,0.9983048141002655
+test,"Exactly 2 of the following cities are in Costa Rica: Nagpur, Osogbo.",0,0.0,0,0,0.19193279522206555,0.9993657916784286
+test,"Exactly 0 of the following cities are in Antigua and Barbuda: Kallakurichi, Al Hudaydah.",1,1.0,0,0,0.1871326857375806,0.9996483623981476
+test,"Exactly 2 of the following cities are in Myanmar: Nay Pyi Taw, Mandalay.",1,1.0,0,0,0.11124121544025227,0.998824343085289
+test,"Exactly 1 of the following cities are in Japan: Shizuoka, Huludao.",1,1.0,0,1,0.3849121503761957,0.9985516965389252
+test,"Exactly 1 of the following cities are in Mexico: Gustavo Adolfo Madero, Heroica Matamoros.",0,1.0,0,1,0.3007455798651183,0.9994480311870575
+test,"Exactly 1 of the following cities are in Myanmar: Suizhou, Zhangjiagang.",0,0.0,0,1,0.31405054451118897,0.9978181719779968
+test,"Exactly 1 of the following cities are in Eritrea: Bengaluru, Bouake.",0,0.0,0,1,0.3886180226592233,0.9991459250450134
+test,"Exactly 0 of the following cities are in Djibouti: Gold Coast, Bucaramanga.",1,1.0,0,1,0.29098086226898556,0.9995878040790558
+test,"Exactly 0 of the following cities are in Botswana: Khartoum North, Kuala Lumpur.",1,1.0,0,0,0.21469141499942843,0.9995340704917908
+test,"Exactly 2 of the following cities are in Venezuela: Ciudad Guayana, Maturin.",1,1.0,0,0,0.09947021702972485,0.999723419547081
+test,"Exactly 1 of the following cities are in the United States: Ar Raqqah, New York City.",1,1.0,0,1,0.3451052810656354,0.9983535408973694
+test,"Exactly 2 of the following cities are in China: Qionghai, Wanxian.",1,0.0,0,1,0.2689414361956028,0.9949665069580078
+test,"Exactly 0 of the following cities are in Swaziland: Vilnius, Yangjiang.",1,1.0,0,1,0.29746995355879086,0.998473733663559
+test,"Exactly 0 of the following cities are in Syria: Jakarta, Aleppo.",0,0.0,0,1,0.27202457530313723,0.9993956685066223
+test,"Exactly 2 of the following cities are in Kiribati: Cancun, Nanning.",0,0.0,0,0,0.0900930007838561,0.9994925707578659
+test,"Exactly 1 of the following cities are in Tajikistan: Qinhuangdao, Dushanbe.",1,0.0,0,1,0.28140559014636285,0.9981405436992645
+test,"Exactly 2 of the following cities are in Monaco: Khartoum North, Bursa.",0,0.0,0,0,0.050330631950236744,0.9997246488928795
+test,"Exactly 2 of the following cities are in the Philippines: Pasig City, Budta.",1,0.0,0,0,0.10970577698477359,0.9995271041989326
+test,"Exactly 2 of the following cities are in Bulgaria: N'Djamena, Karol Bagh.",0,0.0,0,0,0.1895211011656283,0.9995987117290497
+test,"Exactly 0 of the following cities are in Somalia: Nasiriyah, Borama.",0,0.0,0,1,0.23651623499103214,0.9994467198848724
+test,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Sevastopol, Kunming.",0,0.0,0,0,0.11279540082084266,0.9991301074624062
+test,"Exactly 2 of the following cities are in India: Loni, Navi Mumbai.",1,1.0,0,1,0.2337063586039812,0.9991730153560638
+test,"Exactly 0 of the following cities are in El Salvador: Khartoum North, Shenyang.",1,1.0,0,1,0.29098085971994525,0.9992382526397705
+test,"Exactly 1 of the following cities are in Turkey: Ulyanovsk, Nakuru.",0,0.0,0,1,0.42250463164879243,0.9993575513362885
+test,"Exactly 1 of the following cities are in Yemen: Aden, Indianapolis.",1,1.0,1,1,0.5156199242183611,0.9993433058261871
+test,"Exactly 2 of the following cities are in Guinea-Bissau: Rajkot, Coyoacan.",0,0.0,0,0,0.12252321219216387,0.999667726457119
+test,"Exactly 1 of the following cities are in Poland: Lodz, Krakow.",0,0.0,0,0,0.19436782381428763,0.999631330370903
+test,"Exactly 1 of the following cities are in Rwanda: Latakia, Kigali.",1,1.0,0,1,0.4921881220568093,0.999358594417572
+test,"Exactly 2 of the following cities are in Poland: Kuecuekcekmece, Maputo.",0,0.0,0,0,0.10087862000798112,0.9996948838233948
+test,"Exactly 1 of the following cities are in Morocco: Fes, Agadir.",0,0.0,0,1,0.46101678912442573,0.9993387162685394
+test,"Exactly 0 of the following cities are in Kazakhstan: Maturin, Duesseldorf.",1,1.0,0,1,0.2814056085749467,0.9989619851112366
+test,"Exactly 1 of the following cities are in Niger: Niamey, Karbala.",1,1.0,0,1,0.3007455817935667,0.9994694292545319
+test,"Exactly 1 of the following cities are in Norway: Piura, Oslo.",1,1.0,0,1,0.3702253954777302,0.9994833767414093
+test,"Exactly 0 of the following cities are in Ukraine: Kyiv, Sevastopol.",0,0.0,0,1,0.36658974306068487,0.9995113611221313
+test,"Exactly 0 of the following cities are in Egypt: Assiut, Al Mahallah al Kubra.",0,0.0,0,0,0.20434189472273193,0.9995867162942886
+test,"Exactly 2 of the following cities are in Benin: Wuzhou, Johor Bahru.",0,0.0,0,0,0.11596071504564776,0.9989134073257446
+test,"Exactly 2 of the following cities are in Zimbabwe: Santo Domingo Oeste, Cankaya.",0,0.0,0,0,0.08509904349091195,0.9996932819485664
+test,"Exactly 2 of the following cities are in Jamaica: Sadr City, New Kingston.",0,0.0,0,0,0.13477592107153483,0.9995665997266769
+test,"Exactly 1 of the following cities are in New Zealand: Quezon City, Auckland.",1,1.0,0,1,0.26894144087722377,0.9993088245391846
+test,"Exactly 2 of the following cities are in Turkmenistan: Mexicali, Benoni.",0,0.0,0,0,0.0656048374227885,0.9994074925780296
+test,"Exactly 1 of the following cities are in Comoros: Rui'an, Luancheng.",0,0.0,0,1,0.287767803683513,0.99673792719841
+test,"Exactly 2 of the following cities are in Bangladesh: Rangpur, Mirpur Model Thana.",1,1.0,0,0,0.16885696489789648,0.999443769454956
+test,"Exactly 1 of the following cities are in Estonia: Pyongyang, Phnom Penh.",0,0.0,0,1,0.3557748819608954,0.9993031322956085
+test,"Exactly 1 of the following cities are in Singapore: Tonghua, Port-au-Prince.",0,0.0,0,1,0.47657967006519514,0.9983745515346527
+test,"Exactly 0 of the following cities are in the Dominican Republic: Santiago de los Caballeros, Santo Domingo Oeste.",0,0.0,0,0,0.16885694982334792,0.999757930636406
+test,"Exactly 2 of the following cities are in the Central African Republic: Bien Hoa, Katsina.",0,0.0,0,0,0.13296424326609899,0.9995337575674057
+test,"Exactly 0 of the following cities are in France: Toulouse, Gwalior.",0,0.0,0,1,0.27825678758444744,0.9995947778224945
+test,"Exactly 2 of the following cities are in China: Laiwu, Qiqihar.",1,1.0,0,1,0.3242353818609421,0.997063010931015
+test,"Exactly 0 of the following cities are in Cameroon: Samarkand, Jiangyin.",1,1.0,0,1,0.3557748918472396,0.9986209869384766
+test,"Exactly 1 of the following cities are in Tanzania: Mbeya, Yaounde.",1,1.0,0,1,0.33458945015140223,0.9994554221630096
+test,"Exactly 2 of the following cities are in Pakistan: Vijayawada, Minhang.",0,0.0,0,0,0.11124121367801845,0.999346911907196
+test,"Exactly 2 of the following cities are in Pakistan: Battagram, Jhang Sadr.",1,1.0,0,0,0.13296424315392422,0.9994876980781555
+test,"Exactly 2 of the following cities are in Pakistan: Bahawalpur, Chunian.",1,1.0,0,0,0.18713268722917847,0.9993177354335785
+test,"Exactly 1 of the following cities are in Brazil: Joao Pessoa, Manaus.",0,0.0,0,1,0.24508501189192516,0.9993564486503601
+test,"Exactly 0 of the following cities are in Canada: Quebec, Calgary.",0,0.0,0,1,0.3106943986861696,0.9993822574615479
+test,"Exactly 0 of the following cities are in Cape Verde: Benguela, Kobe.",1,1.0,0,0,0.14033624924178426,0.9995725899934769
+test,"Exactly 1 of the following cities are in the Philippines: Malingao, General Santos.",0,1.0,0,1,0.26894144362977557,0.9990132749080658
+test,"Exactly 2 of the following cities are in Mauritius: Hezhou, Mosul.",0,0.0,0,0,0.09009299945187829,0.9989581033587456
+test,"Exactly 2 of the following cities are in South Korea: Incheon, Daejeon.",1,1.0,0,1,0.24508500228857077,0.9990012943744659
+test,"Exactly 0 of the following cities are in Rwanda: Qinzhou, Kigali.",0,0.0,0,1,0.4493926366632799,0.9984895884990692
+test,"Exactly 1 of the following cities are in Malta: Al Basrah al Qadimah, Xingtai.",0,0.0,0,1,0.41111086391568014,0.9979836642742157
+test,"Exactly 2 of the following cities are in Mali: Hamadan, Liupanshui.",0,0.0,0,0,0.16026603263345968,0.9990619122982025
+test,"Exactly 1 of the following cities are in Sweden: Stockholm, Kozhikode.",1,1.0,1,1,0.6039318350074403,0.999305009841919
+test,"Exactly 2 of the following cities are in Russia: Vladivostok, Izhevsk.",1,0.0,0,1,0.33458942371737616,0.9995239078998566
+test,"Exactly 2 of the following cities are in Pakistan: Lahore, Peshawar.",1,1.0,0,0,0.17106117955332126,0.9994034320116043
+test,"Exactly 2 of the following cities are in Poland: Krakow, Wroclaw.",1,1.0,0,0,0.09807932149124639,0.9997726604342461
+test,"Exactly 2 of the following cities are in Brazil: Recife, Niteroi.",1,1.0,0,0,0.15817435419358794,0.9994523525238037
+test,"Exactly 2 of the following cities are in France: Lyon, Banjarmasin.",0,0.0,0,0,0.11279539937902805,0.9996539279818535
+test,"Exactly 1 of the following cities are in Thailand: Haiphong, Bangkok.",1,1.0,0,1,0.2751297389357553,0.9994392096996307
+test,"Exactly 2 of the following cities are in the United States: Tucson, Oklahoma City.",1,1.0,0,0,0.21206881034534894,0.9993745684623718
+test,"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Kinshasa, Bandar Lampung.",1,1.0,0,1,0.38861801742611546,0.9991082847118378
+test,"Exactly 2 of the following cities are in South Korea: Incheon, Hwaseong-si.",1,1.0,0,0,0.22815649873802768,0.9990904480218887
+test,"Exactly 2 of the following cities are in India: Pune, Loni.",1,0.0,0,0,0.17553806982738435,0.9992722123861313
+test,"Exactly 1 of the following cities are in Kenya: Mombasa, Cabinda.",1,1.0,0,1,0.2751297176764415,0.9992698729038239
+test,"Exactly 1 of the following cities are in Singapore: Mohammadpur, Matsuyama.",0,0.0,0,1,0.294214973485687,0.9983165562152863
+test,"Exactly 2 of the following cities are in Iceland: Ulhasnagar, Pasig City.",0,0.0,0,0,0.16667539780679524,0.9995388090610504
+test,"Exactly 1 of the following cities are in Kuwait: Yangon, Baoji.",0,0.0,0,1,0.2909808611783285,0.9985233545303345
+test,"Exactly 0 of the following cities are in Namibia: Mandalay, Bobo-Dioulasso.",1,1.0,0,1,0.2751297329983061,0.9994619786739349
+test,"Exactly 2 of the following cities are in Palau: Almaty, Akure.",0,0.0,0,0,0.14414884923314145,0.9993265718221664
+test,"Exactly 0 of the following cities are in the Philippines: Daegu, Qingdao.",1,1.0,0,0,0.2227001554525225,0.9989607036113739
+test,"Exactly 0 of the following cities are in Estonia: Caloocan, Duesseldorf.",1,1.0,0,1,0.3007455898491914,0.9995025992393494
+test,"Exactly 1 of the following cities are in Azerbaijan: Baku, Malingao.",1,1.0,0,1,0.3073580211890792,0.9992777407169342
+test,"Exactly 2 of the following cities are in Canada: Quebec, Huangshi.",0,0.0,0,1,0.32423539342729224,0.998433530330658
+test,"Exactly 2 of the following cities are in the United States: Seattle, New York City.",1,1.0,0,0,0.19682621036791584,0.9991444796323776
+test,"Exactly 2 of the following cities are in Ukraine: Kharkiv, Odesa.",1,1.0,0,1,0.23934933221784083,0.999419778585434
+test,"Exactly 2 of the following cities are in Côte d'Ivoire: Abobo, Abidjan.",1,1.0,0,0,0.15817435823933368,0.9997183680534363
+test,"Exactly 2 of the following cities are in Serbia: Chizhou, Novosibirsk.",0,0.0,0,0,0.22815649926812806,0.9991327673196793
+test,"Exactly 1 of the following cities are in Saudi Arabia: Kolkata, Makkah.",1,1.0,0,1,0.28457600062794886,0.9993134140968323
+test,"Exactly 0 of the following cities are in Spain: Ahvaz, UEruemqi.",1,1.0,0,0,0.19436781745277099,0.9993592798709869
+test,"Exactly 1 of the following cities are in Egypt: Suizhou, Al Fayyum.",1,1.0,0,1,0.43014733860076526,0.9986401200294495
+test,"Exactly 1 of the following cities are in the Central African Republic: Jos, Pasir Gudang.",0,0.0,0,1,0.2942149703127575,0.9989975690841675
+test,"Exactly 0 of the following cities are in the Philippines: Las Pinas, Paranaque City.",0,0.0,0,0,0.11436852370029806,0.9996730089187622
+test,"Exactly 2 of the following cities are in the United States: Milwaukee, Fort Worth.",1,1.0,0,0,0.19193279612779177,0.9992107450962067
+test,"Exactly 2 of the following cities are in Liberia: Dhanbad, Incheon.",0,0.0,0,0,0.11124121642802023,0.999376691877842
+test,"Exactly 2 of the following cities are in Ireland: Chennai, Lyon.",0,0.0,0,0,0.1824255281109648,0.9994969964027405
+test,"Exactly 2 of the following cities are in Mexico: Hermosillo, Ciudad Nezahualcoyotl.",1,1.0,0,0,0.15002882726873168,0.9997853487730026
+test,"Exactly 2 of the following cities are in Colombia: Ranchi, Cucuta.",0,0.0,0,0,0.06853749374679663,0.9997131526470184
+test,"Exactly 0 of the following cities are in Panama: Sofia, Mandalay.",1,1.0,0,1,0.2751297261007537,0.9994174838066101
+test,"Exactly 2 of the following cities are in Zimbabwe: Santo Domingo Este, Rizhao.",0,0.0,0,0,0.09138210483127505,0.999382272362709
+test,"Exactly 0 of the following cities are in Bulgaria: Sofia, Zhoushan.",0,0.0,0,1,0.37022538762720963,0.9952419698238373
+test,"Exactly 2 of the following cities are in Bosnia and Herzegovina: Nanning, Toulouse.",0,0.0,0,0,0.10970577925874143,0.9992978051304817
+test,"Exactly 1 of the following cities are in Kyrgyzstan: Bishkek, Jos.",1,1.0,0,1,0.27512972134370933,0.9994081854820251
+test,"Exactly 0 of the following cities are in Burkina Faso: Izmir, Jinan.",1,1.0,0,0,0.20434189329729063,0.9995431154966354
+test,"Exactly 1 of the following cities are in Mozambique: Pingdingshan, Matola.",1,1.0,0,1,0.4493926460746152,0.9982768893241882
+test,"Exactly 2 of the following cities are in Russia: Naberezhnyye Chelny, Rostov-on-Don.",1,1.0,0,0,0.20181321820049214,0.9994295537471771
+test,"Exactly 1 of the following cities are in the Gambia: Bengbu, Al Mawsil al Jadidah.",0,1.0,0,1,0.38491215687144764,0.9991632699966431
+test,"Exactly 1 of the following cities are in Mauritania: Nouakchott, Heze.",1,1.0,0,0,0.18952109086816954,0.9993360787630081
+test,"Exactly 1 of the following cities are in Afghanistan: Mazar-e Sharif, Calgary.",1,1.0,0,1,0.49609384903287096,0.9991937279701233
+test,"Exactly 1 of the following cities are in Mongolia: Sungai Petani, Daegu.",0,0.0,0,1,0.31069439600041304,0.9991723895072937
+test,"Exactly 1 of the following cities are in Mauritius: Copenhagen, Hiroshima.",0,0.0,0,1,0.23651623673111577,0.9990092217922211
+test,"Exactly 1 of the following cities are in Indonesia: Jambi City, Jakarta.",0,0.0,0,0,0.18952109799769967,0.9993049055337906
+test,"Exactly 1 of the following cities are in Ukraine: Kyiv, Zhaotong.",1,1.0,1,1,0.6406358679980658,0.9985925555229187
+test,"Exactly 1 of the following cities are in Burundi: Bujumbura, Chengdu.",1,1.0,0,1,0.3812195641398596,0.9985723495483398
+test,"Exactly 2 of the following cities are in Russia: Bannu, Cagayan de Oro.",0,0.0,0,1,0.24220563863377445,0.9994436949491501
+test,"Exactly 1 of the following cities are in Burundi: Gujranwala, Pelentong.",0,0.0,0,1,0.2689414409590971,0.9991585612297058
+test,"Exactly 1 of the following cities are in Syria: Homs, Basrah.",1,1.0,0,0,0.2120687991010746,0.9991601705551147
+test,"Exactly 2 of the following cities are in Turkey: Esenyurt, Kuecuekcekmece.",1,1.0,0,0,0.12940272583728205,0.999573364853859
+test,"Exactly 1 of the following cities are in Somalia: Dandong, Borama.",1,1.0,0,1,0.31069438544913064,0.9991025924682617
+test,"Exactly 2 of the following cities are in El Salvador: Baise, Sulaymaniyah.",0,0.0,0,0,0.13660840190856172,0.9996329843997955
+test,"Exactly 1 of the following cities are in China: Yichang, Zhoushan.",0,1.0,1,1,0.515619908443566,0.9986250102519989
+test,"Exactly 2 of the following cities are in the Dominican Republic: Santiago de los Caballeros, Santo Domingo Este.",1,1.0,0,1,0.2751297255205381,0.9996229708194733
+test,"Exactly 2 of the following cities are in Cambodia: Lahore, Phnom Penh.",0,0.0,0,0,0.12252321386316631,0.999542810022831
+test,"Exactly 2 of the following cities are in Hungary: Qingdao, Contagem.",0,0.0,0,0,0.12940272474288275,0.999258428812027
+test,"Exactly 0 of the following cities are in Mali: Bamako, Aguascalientes.",0,0.0,0,1,0.35577488709942007,0.999560534954071
+test,"Exactly 2 of the following cities are in Peru: Piura, Chiclayo.",1,1.0,0,0,0.13846178705245993,0.9996564537286758
+test,"Exactly 0 of the following cities are in Turkey: Eskisehir, Mysuru.",0,0.0,0,0,0.19930800677115051,0.999541774392128
+test,"Exactly 2 of the following cities are in Jamaica: Kitakyushu, New Kingston.",0,0.0,0,0,0.10087861778361668,0.9995354488492012
+test,"Exactly 2 of the following cities are in Cyprus: Orenburg, Rio de Janeiro.",0,0.0,0,0,0.1081889606900295,0.9996601790189743
+test,"Exactly 1 of the following cities are in Sweden: Nowrangapur, Detroit.",0,0.0,0,1,0.3557748756070495,0.9990572929382324
+test,"Exactly 0 of the following cities are in Niger: Nampula, Niamey.",0,0.0,0,1,0.2782567899679821,0.9996070861816406
+test,"Exactly 1 of the following cities are in Sudan: Khartoum North, Daejeon.",1,0.0,0,1,0.44552953860681915,0.9987290799617767
+test,"Exactly 0 of the following cities are in Laos: Vientiane, Port Harcourt.",0,0.0,0,1,0.36296920121594906,0.9993509948253632
+test,"Exactly 2 of the following cities are in the Philippines: Las Pinas, Quezon City.",1,1.0,0,0,0.09670578647340022,0.9996321201324463
+test,"Exactly 2 of the following cities are in Swaziland: Giza, Ibadan.",0,0.0,0,0,0.10970577688782665,0.9994186460971832
+test,"Exactly 2 of the following cities are in Germany: Frankfurt am Main, Hannover.",1,1.0,0,0,0.14223189097692177,0.9994293749332428
+test,"Exactly 1 of the following cities are in the United Arab Emirates: Sharjah, Lome.",1,1.0,0,1,0.37022536831221997,0.9992428421974182
+test,"Exactly 1 of the following cities are in Togo: Antalya, Pyongyang.",0,0.0,0,1,0.33111974085288803,0.9994187653064728
+test,"Exactly 0 of the following cities are in Ethiopia: Katsina, Addis Ababa.",0,0.0,0,1,0.3345894440886763,0.9992704391479492
+test,"Exactly 1 of the following cities are in Mozambique: Al Ahmadi, Tokyo.",0,0.0,0,0,0.13117322798223582,0.999616339802742
+test,"Exactly 1 of the following cities are in Fiji: Johor Bahru, Kathmandu.",0,0.0,0,1,0.38491216645245185,0.9990228712558746
+test,"Exactly 0 of the following cities are in Tanzania: Hachioji, Arusha.",0,0.0,0,0,0.2227001439729582,0.9993519186973572
+test,"Exactly 0 of the following cities are in Guyana: Katsina, Dammam.",1,1.0,0,0,0.12940272664924524,0.9996243715286255
+test,"Exactly 2 of the following cities are in Argentina: Salta, Mar del Plata.",1,1.0,0,0,0.15203225231184317,0.999689519405365
+test,"Exactly 1 of the following cities are in Ukraine: Kirkuk, Odesa.",1,1.0,0,1,0.3593641447311428,0.9993774592876434
+test,"Exactly 2 of the following cities are in Romania: Curitiba, Abu Dhabi.",0,0.0,0,0,0.13296424510730617,0.9996006488800049
+test,"Exactly 1 of the following cities are in Mozambique: Beira, Bengbu.",1,1.0,0,0,0.20946968982059955,0.999536544084549
+test,"Exactly 2 of the following cities are in Bangladesh: Chattogram, Gazipur.",1,1.0,0,0,0.1919328037252356,0.9992722719907761
+test,"Exactly 0 of the following cities are in Guinea: Voronezh, Luohu District.",1,1.0,0,0,0.21469141904990202,0.9973413348197937
+test,"Exactly 1 of the following cities are in Germany: Tehran, Koeln.",1,1.0,0,1,0.47268346517947196,0.9989664852619171
+test,"Exactly 1 of the following cities are in Saudi Arabia: Beijing, Dortmund.",0,0.0,0,1,0.3522017796155809,0.9990523159503937
+test,"Exactly 0 of the following cities are in Tanzania: Odesa, Da Nang.",1,1.0,0,1,0.2942149733731723,0.9994705021381378
+test,"Exactly 0 of the following cities are in Uganda: Kampala, Rohini.",0,0.0,0,0,0.22270014891817955,0.9994766861200333
+test,"Exactly 2 of the following cities are in Denmark: Dortmund, Stockholm.",0,0.0,0,0,0.11920292143998544,0.9996321499347687
+test,"Exactly 1 of the following cities are in Jordan: Amman, Ghaziabad.",1,1.0,0,1,0.4301473604621377,0.9992746412754059
+test,"Exactly 1 of the following cities are in New Zealand: Auckland, Denpasar.",1,1.0,0,1,0.36296918263321126,0.9990713894367218
+test,"Exactly 2 of the following cities are in the Philippines: Malingao, Caloocan.",1,0.0,0,0,0.08882028434887874,0.9994942843914032
+test,"Exactly 2 of the following cities are in the Philippines: Paranaque City, General Santos.",1,1.0,0,0,0.1311732199075225,0.9996167421340942
+test,"Exactly 1 of the following cities are in Kazakhstan: Aktobe, Songjiang.",1,1.0,1,1,0.5964331175114875,0.9979269206523895
+test,"Exactly 0 of the following cities are in Indonesia: Mexicali, Pallabi.",1,1.0,0,0,0.1311732311780173,0.999092623591423
+test,"Exactly 2 of the following cities are in Ukraine: Dnipro, Kyiv.",1,1.0,0,1,0.26284184730926796,0.9993893206119537
+test,"Exactly 1 of the following cities are in Vietnam: Nha Trang, Can Tho.",0,0.0,0,1,0.32766829847943624,0.9989915490150452
+test,"Exactly 0 of the following cities are in New Zealand: Zhangzhou, Coimbatore.",1,1.0,0,1,0.36296919501268493,0.9993538856506348
+test,"Exactly 2 of the following cities are in Vietnam: Ho Chi Minh City, Cho Lon.",1,1.0,0,1,0.24508500885281564,0.9989776164293289
+test,"Exactly 1 of the following cities are in Gabon: Libreville, Gwalior.",1,1.0,0,1,0.3775406750507683,0.9991477131843567
+test,"Exactly 0 of the following cities are in Guinea-Bissau: Zahedan, Kota Bharu.",1,1.0,0,1,0.23651623424452317,0.9995936453342438
+test,"Exactly 1 of the following cities are in Nepal: Itabashi, Kathmandu.",1,1.0,0,1,0.5,0.9989469647407532
+test,"Exactly 1 of the following cities are in Gabon: Libreville, N'Djamena.",1,1.0,0,1,0.3174262936378422,0.9993610978126526
+test,"Exactly 2 of the following cities are in Brazil: Joao Pessoa, Cheongju-si.",0,0.0,0,0,0.19193279201916413,0.9991141855716705
+test,"Exactly 1 of the following cities are in Pakistan: Huainan, Guarulhos.",0,0.0,0,1,0.38861800378244565,0.9988195896148682
+test,"Exactly 2 of the following cities are in Ukraine: Kryvyy Rih, Dnipro.",1,1.0,0,1,0.29421496244063233,0.9993666112422943
+test,"Exactly 1 of the following cities are in China: Rawalpindi, Lodz.",0,0.0,0,1,0.38861800451421663,0.9983761012554169
+test,"Exactly 0 of the following cities are in Iraq: Kalaburagi, Kuecuekcekmece.",1,1.0,0,0,0.16885695755883876,0.9996081292629242
+test,"Exactly 2 of the following cities are in Ukraine: Dnipro, Odesa.",1,1.0,0,1,0.26284185745399186,0.9993618428707123
+test,"Exactly 1 of the following cities are in Madagascar: Pune, Qionghai.",0,0.0,0,1,0.4493926347173557,0.998329371213913
+test,"Exactly 1 of the following cities are in Thailand: Kayseri, Bangkok.",1,1.0,0,1,0.33458943486226583,0.9993568658828735
+test,"Exactly 2 of the following cities are in Indonesia: Situbondo, Jakarta.",1,1.0,0,0,0.19930800965995135,0.99933922290802
+test,"Exactly 0 of the following cities are in Chad: Ebute Ikorodu, Kathmandu.",1,1.0,0,1,0.38491214720312594,0.9993348717689514
+test,"Exactly 1 of the following cities are in Portugal: Karachi, Mirpur Model Thana.",0,0.0,0,1,0.23934933473530054,0.9993860870599747
+test,"Exactly 1 of the following cities are in the United States: Calabar, Shangqiu.",0,0.0,0,1,0.46879061520014964,0.9965778887271881
+test,"Exactly 2 of the following cities are in Sudan: Khartoum North, Nyala.",1,0.0,0,0,0.18713268077395337,0.999459907412529
+test,"Exactly 0 of the following cities are in the United States: Kathmandu, Chicago.",0,0.0,0,0,0.2018132189618189,0.9993699640035629
+test,"Exactly 1 of the following cities are in Chad: Dortmund, Pest.",0,0.0,0,1,0.3629691980656827,0.9992894232273102
+test,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Nowrangapur, Lubumbashi.",0,0.0,0,0,0.16451645988084795,0.9995800256729126
+test,"Exactly 2 of the following cities are in Saudi Arabia: Shangluo, Buraydah.",0,0.0,0,0,0.20946968463525045,0.9985073506832123
+test,"Exactly 0 of the following cities are in Ecuador: Zhabei, Guayaquil.",0,0.0,0,1,0.24798742763741416,0.9994062334299088
+test,"Exactly 2 of the following cities are in the United States: Detroit, Seattle.",1,1.0,0,1,0.2365162331705493,0.999064490199089
+test,"Exactly 2 of the following cities are in the United States: New South Memphis, Detroit.",1,1.0,0,1,0.2365162410679858,0.9989346712827682
+test,"Exactly 2 of the following cities are in Saint Vincent and the Grenadines: Abeokuta, Al Mawsil al Jadidah.",0,0.0,0,0,0.09947021369063941,0.9996383637189865
+test,"Exactly 0 of the following cities are in Mauritania: Nouakchott, Daqing.",0,0.0,0,1,0.27825680598953156,0.99889275431633
+test,"Exactly 1 of the following cities are in Nigeria: Owerri, Xinyang.",1,1.0,1,1,0.5039061646934265,0.9989384412765503
+test,"Exactly 2 of the following cities are in Venezuela: Jeonju, Xinyu.",0,0.0,0,0,0.09670578788556397,0.9994138404726982
+test,"Exactly 2 of the following cities are in Indonesia: Bekasi, Serang.",1,1.0,0,0,0.11279539969102641,0.9994807317852974
+test,"Exactly 0 of the following cities are in Samoa: Oslo, Jabalpur.",1,1.0,0,0,0.217337512214773,0.999610185623169
+test,"Exactly 2 of the following cities are in Russia: Mohammadpur, Cuiaba.",0,0.0,0,0,0.13846178618200555,0.9994673728942871
+test,"Exactly 0 of the following cities are in Saint Kitts and Nevis: Liupanshui, Esenler.",1,1.0,0,0,0.18713269514372388,0.9993544816970825
+test,"Exactly 2 of the following cities are in Nigeria: Maiduguri, Abeokuta.",1,0.0,0,1,0.2658804825336967,0.9994302988052368
+test,"Exactly 2 of the following cities are in Austria: Recife, Al Ahmadi.",0,0.0,0,0,0.07921032262253278,0.9997484311461449
+test,"Exactly 0 of the following cities are in Jordan: Mombasa, Zarqa.",0,0.0,0,0,0.212068803746212,0.9986283779144287
+test,"Exactly 1 of the following cities are in Palau: Seongnam-si, Abu Dhabi.",0,0.0,0,1,0.29746993332277566,0.9990853369235992
+test,"Exactly 2 of the following cities are in South Africa: Soshanguve, Gqeberha.",1,1.0,0,0,0.1561049013869836,0.9995606541633606
+test,"Exactly 0 of the following cities are in the United States: Fortaleza, New South Memphis.",0,0.0,0,1,0.32423538303900623,0.9986791610717773
+test,"Exactly 2 of the following cities are in Nigeria: Ebute Ikorodu, Port Harcourt.",1,0.0,0,0,0.1993080139288245,0.9993970692157745
+test,"Exactly 2 of the following cities are in Jamaica: Asansol, New Kingston.",0,0.0,0,0,0.1540575646225224,0.9993874281644821
+test,"Exactly 2 of the following cities are in Mexico: Hermosillo, Heroica Matamoros.",1,1.0,0,0,0.2120688052029999,0.9996900856494904
+test,"Exactly 2 of the following cities are in Bangladesh: Mohammadpur, Ashgabat.",0,0.0,0,0,0.13296424408795937,0.9993879497051239
+test,"Exactly 2 of the following cities are in Venezuela: Zhongwei, Chelyabinsk.",0,0.0,0,0,0.15203224557595107,0.9993881732225418
+test,"Exactly 0 of the following cities are in Germany: Hannover, Taguig.",0,0.0,0,0,0.20181322047085976,0.9993954300880432
+test,"Exactly 0 of the following cities are in Ecuador: Bukavu, Guayaquil.",0,0.0,0,0,0.17328820770116254,0.9997413605451584
+test,"Exactly 1 of the following cities are in Togo: Camama, Johor Bahru.",0,0.0,0,1,0.3007455968865156,0.9989815354347229
+test,"Exactly 0 of the following cities are in Pakistan: Chunian, Okara.",0,0.0,0,0,0.22815649517778241,0.9992891401052475
+test,"Exactly 1 of the following cities are in Uruguay: Pelentong, Mulenvos.",0,0.0,0,1,0.2509127837861961,0.9993570744991302
+test,"Exactly 0 of the following cities are in Yemen: Al Hudaydah, Sanaa.",0,0.0,0,1,0.2450850141838523,0.999498650431633
+test,"Exactly 0 of the following cities are in Liechtenstein: Puxi, Zahedan.",1,1.0,0,1,0.281405597469978,0.9992667138576508
+test,"Exactly 1 of the following cities are in Oman: Heze, Muscat.",1,1.0,0,0,0.21469142260248755,0.9992503672838211
+test,"Exactly 2 of the following cities are in Colombia: Antalya, Yangquan.",0,0.0,0,0,0.136608397066873,0.9993760287761688
+test,"Exactly 1 of the following cities are in Madagascar: Kakamega, Chiclayo.",0,0.0,0,1,0.3702253790288983,0.9992786347866058
+test,"Exactly 1 of the following cities are in Peru: Fushun, Callao.",1,1.0,0,1,0.23934933900750843,0.9989685118198395
+test,"Exactly 2 of the following cities are in Tonga: Ziyang, Abeokuta.",0,0.0,0,0,0.12421301593426733,0.9993340894579887
+test,"Exactly 0 of the following cities are in Finland: Helsinki, Rajkot.",0,0.0,0,0,0.16238003364993256,0.9996950030326843
+test,"Exactly 2 of the following cities are in Iran: Orumiyeh, Karaj.",1,1.0,0,0,0.14804719105995356,0.9993980228900909
+test,"Exactly 0 of the following cities are in Germany: Nuremberg, Auckland.",0,0.0,0,0,0.1871326828747318,0.9992729276418686
+test,"Exactly 2 of the following cities are in El Salvador: Jaipur, Bahawalpur.",0,0.0,0,0,0.1480471869247871,0.9996030777692795
+test,"Exactly 1 of the following cities are in Honduras: Giza, San Pedro Sula.",1,1.0,0,1,0.46101678363316356,0.9991436302661896
+test,"Exactly 1 of the following cities are in Guinea: Conakry, Pontianak.",1,1.0,0,1,0.41111084497924555,0.999139815568924
+test,"Exactly 2 of the following cities are in Angola: Camama, Maianga.",1,0.0,0,0,0.19193279154995635,0.9995470941066742
+test,"Exactly 2 of the following cities are in New Zealand: Chuxiong, Auckland.",0,0.0,0,0,0.14223188665341086,0.9991500973701477
+test,"Exactly 1 of the following cities are in Pakistan: Winnipeg, Arifwala.",1,1.0,0,1,0.3998116536872476,0.99916872382164
+test,"Exactly 2 of the following cities are in Eritrea: Khulna, Caracas.",0,0.0,0,0,0.18952109884718982,0.9995814263820648
+test,"Exactly 2 of the following cities are in Indonesia: Jambi City, Cimahi.",1,1.0,0,0,0.16667540545127174,0.999232828617096
+test,"Exactly 1 of the following cities are in Nepal: Zhengzhou, Kathmandu.",1,1.0,1,1,0.592666592514168,0.9983341097831726
+test,"Exactly 2 of the following cities are in Nigeria: Mulenvos, Jinzhong.",0,0.0,0,0,0.15002882030744127,0.9991220235824585
+test,"Exactly 0 of the following cities are in Poland: Wroclaw, Lodz.",0,0.0,0,0,0.09009299574055435,0.999795138835907
+test,"Exactly 2 of the following cities are in the Central African Republic: Nanded, Zanzibar.",0,0.0,0,0,0.22270014266431226,0.9992437958717346
+test,"Exactly 0 of the following cities are in Togo: Algiers, Changde.",1,1.0,0,1,0.26588046521386693,0.9995472729206085
+test,"Exactly 2 of the following cities are in Turkey: Malatya, Cankaya.",1,1.0,0,0,0.12765261358032132,0.9995695054531097
+test,"Exactly 0 of the following cities are in Nicaragua: San Miguel de Tucuman, Ulanqab.",1,1.0,0,0,0.15002882178914437,0.9994584172964096
+test,"Exactly 2 of the following cities are in Cuba: Niluefer, Santiago de Cuba.",0,0.0,0,0,0.1037486257862156,0.9996131509542465
+test,"Exactly 0 of the following cities are in Slovenia: Fortaleza, Changde.",1,1.0,0,1,0.24798744709935527,0.9989994168281555
+test,"Exactly 1 of the following cities are in New Zealand: Liaocheng, Auckland.",1,1.0,0,1,0.40356687269350755,0.9987250864505768
+test,"Exactly 0 of the following cities are in Senegal: Dakar, Pikine.",0,0.0,0,0,0.2146914078977716,0.999664381146431
+test,"Exactly 1 of the following cities are in Austria: Thane, Shizuishan.",0,0.0,0,1,0.35220179332814344,0.999021053314209
+test,"Exactly 1 of the following cities are in Germany: Munich, Fukuoka.",1,1.0,0,1,0.3960681554425075,0.9985127747058868
+test,"Exactly 1 of the following cities are in Nauru: Heze, Situbondo.",0,0.0,0,1,0.3007455765782554,0.998429149389267
+test,"Exactly 0 of the following cities are in the United Arab Emirates: Al Fayyum, Al Ain City.",0,0.0,0,0,0.10970577063943762,0.9996592551469803
+test,"Exactly 2 of the following cities are in Bangladesh: Chattogram, Khulna.",1,1.0,0,1,0.23370634984853733,0.99923375248909
+test,"Exactly 1 of the following cities are in Sweden: Anqing, Stockholm.",1,1.0,0,1,0.39606816652853005,0.99904465675354
+test,"Exactly 1 of the following cities are in Pakistan: Muzaffarabad, Sargodha.",0,0.0,0,1,0.24798743235656748,0.9993641525506973
+test,"Exactly 1 of the following cities are in Angola: Bukit Rahman Putra, Kikolo.",1,1.0,0,1,0.33458945068987345,0.9993126392364502
+test,"Exactly 2 of the following cities are in South Korea: Incheon, Ulsan.",1,1.0,0,1,0.25091277406485696,0.9992289543151855
+test,"Exactly 1 of the following cities are in Uganda: Nansana, Guli.",1,1.0,0,1,0.33807713935955874,0.9990552365779877
+test,"Exactly 1 of the following cities are in Ecuador: Bangkok, Quito.",1,1.0,0,1,0.317426281869293,0.9993491172790527
+test,"Exactly 1 of the following cities are in Togo: Kallakurichi, Lome.",1,1.0,0,1,0.5,0.9991076588630676
+test,"Exactly 2 of the following cities are in Iraq: Taguig, Al Basrah al Qadimah.",0,0.0,0,0,0.1500288218453384,0.99961157143116
+test,"Exactly 1 of the following cities are in the United States: Tucson, Indianapolis.",0,0.0,0,1,0.4035668596607058,0.9990211725234985
+test,"Exactly 1 of the following cities are in Saudi Arabia: Himeji, Shekhupura.",0,0.0,0,1,0.26284186904459766,0.9990609884262085
+test,"Exactly 2 of the following cities are in Colombia: Nowrangapur, Barranquilla.",0,0.0,0,0,0.1688569472249458,0.9995584189891815
+test,"Exactly 1 of the following cities are in Ireland: Dongying, Owerri.",0,0.0,0,1,0.3775406729281961,0.999177873134613
+test,"Exactly 2 of the following cities are in Malawi: Huainan, Lilongwe.",0,0.0,0,0,0.17328819866723025,0.9990042150020599
+test,"Exactly 1 of the following cities are in Benin: Douala, Caloocan.",0,0.0,0,1,0.2689414341545075,0.9993371069431305
+test,"Exactly 1 of the following cities are in Djibouti: Bishkek, Albuquerque.",0,0.0,0,1,0.4148988451057118,0.9994549453258514
+test,"Exactly 1 of the following cities are in Poland: Jieyang, Wroclaw.",1,1.0,0,1,0.2751297339840197,0.999477356672287
+test,"Exactly 1 of the following cities are in Egypt: Saitama, Kisangani.",0,0.0,1,1,0.5736783964766111,0.9987979531288147
+test,"Exactly 0 of the following cities are in Egypt: Shubra al Khaymah, Madinat an Nasr.",0,0.0,0,0,0.13117322790090769,0.9996480345726013
+test,"Exactly 2 of the following cities are in Brazil: Ananindeua, Ribeirao Preto.",1,1.0,0,0,0.19436782086844057,0.9993768185377121
+test,"Exactly 1 of the following cities are in Japan: Dongying, Taiz.",0,0.0,0,0,0.07921032383140224,0.99930689483881
+test,"Exactly 1 of the following cities are in Myanmar: Hlaingthaya, Matsuyama.",1,1.0,0,1,0.2509127854584042,0.9980247616767883
+test,"Exactly 0 of the following cities are in Mali: Quetta, Pallabi.",1,1.0,0,0,0.21206880819442778,0.999592050909996
+test,"Exactly 2 of the following cities are in China: Gazipur, Aguascalientes.",0,0.0,0,1,0.320821313517926,0.9984778463840485
+test,"Exactly 0 of the following cities are in Bulgaria: Sofia, Faridabad.",0,0.0,0,1,0.3998116447247415,0.9992477595806122
+test,"Exactly 2 of the following cities are in Russia: Tomsk, Ufa.",1,1.0,0,1,0.25091279623945184,0.9994495511054993
+test,"Exactly 0 of the following cities are in Indonesia: Tangerang, Denpasar.",0,0.0,0,0,0.1192029208923788,0.9994848966598511
+test,"Exactly 2 of the following cities are in Mexico: Torreon, Zapopan.",1,0.0,0,0,0.1895210982827263,0.9997554272413254
+test,"Exactly 1 of the following cities are in Chad: Dnipro, N'Djamena.",1,1.0,1,1,0.52731653011699,0.9994696080684662
+test,"Exactly 2 of the following cities are in Ghana: Al Ahmadi, Tanggu.",0,0.0,0,0,0.22000708811500383,0.9992950111627579
+test,"Exactly 1 of the following cities are in Tajikistan: Kampung Baru Subang, Indore.",0,0.0,0,1,0.25386101111789333,0.9989422559738159
+test,"Exactly 0 of the following cities are in Kuwait: Al Ahmadi, Cheonan.",0,1.0,0,0,0.13660840162698534,0.9996452033519745
+test,"Exactly 2 of the following cities are in Namibia: Kunming, Zhaotong.",0,0.0,0,0,0.12765261571086897,0.9986909627914429
+test,"Exactly 0 of the following cities are in Burkina Faso: Bobo-Dioulasso, Ouagadougou.",0,0.0,0,0,0.22270014230084376,0.9997122436761856
+test,"Exactly 2 of the following cities are in Burundi: Sargodha, Zagreb.",0,0.0,0,0,0.09534946052462587,0.9997001811861992
+test,"Exactly 1 of the following cities are in Poland: Weifang, Krakow.",1,1.0,1,1,0.5428632729305519,0.9992791414260864
+test,"Exactly 1 of the following cities are in Rwanda: Xining, Madurai.",0,0.0,0,1,0.45713672483936424,0.9986380338668823
+test,"Exactly 1 of the following cities are in Lebanon: Ra's Bayrut, Bahawalpur.",1,1.0,0,1,0.2509127748316093,0.9988444745540619
+test,"Exactly 1 of the following cities are in Romania: Bucharest, Shenyang.",1,1.0,0,1,0.45326185787578765,0.9989110231399536
+test,"Exactly 0 of the following cities are in Iran: Arak, Zhangye.",0,0.0,0,0,0.2146914137175825,0.9989548027515411
+test,"Exactly 2 of the following cities are in Pakistan: Bahawalpur, Jhang Sadr.",1,1.0,0,0,0.1540575662705833,0.999423012137413
+test,"Exactly 2 of the following cities are in Turkey: Diyarbakir, Istanbul.",1,1.0,0,0,0.13846179163310224,0.9996797740459442
+test,"Exactly 0 of the following cities are in Switzerland: Zahedan, Baise.",1,1.0,0,0,0.19193279423350576,0.9996597319841385
+test,"Exactly 0 of the following cities are in Azerbaijan: Acapulco de Juarez, Makassar.",1,1.0,0,0,0.22541660876049874,0.9996310323476791
+test,"Exactly 2 of the following cities are in Morocco: Agadir, Oujda.",1,1.0,0,0,0.1666753995502955,0.999623641371727
+test,"Exactly 0 of the following cities are in Niger: Sofia, Bandar Lampung.",1,1.0,0,1,0.2877678076485201,0.9989543855190277
+test,"Exactly 0 of the following cities are in Burkina Faso: Arequipa, Ouagadougou.",0,0.0,0,1,0.23370634723187886,0.9996069520711899
+test,"Exactly 0 of the following cities are in Kenya: Abu Dhabi, Cimahi.",1,1.0,0,1,0.28776780467034824,0.9995093941688538
+test,"Exactly 0 of the following cities are in Germany: Leipzig, Frankfurt am Main.",0,0.0,0,0,0.15817435430156274,0.9995865970849991
+test,"Exactly 2 of the following cities are in Croatia: Navi Mumbai, Nagpur.",0,0.0,0,0,0.18713268852189405,0.9995494484901428
+test,"Exactly 2 of the following cities are in Germany: Koeln, Nuremberg.",1,0.0,0,0,0.10818895740623871,0.999489076435566
+test,"Exactly 2 of the following cities are in Malta: Hubballi, Karol Bagh.",0,0.0,0,0,0.17328821227980987,0.9995433837175369
+test,"Exactly 1 of the following cities are in Russia: Fortaleza, Chelyabinsk.",1,1.0,1,1,0.5428632677025099,0.9990199208259583
+test,"Exactly 1 of the following cities are in Angola: Dalian, Tashkent.",0,0.0,0,1,0.49218813835164077,0.9990154206752777
+test,"Exactly 0 of the following cities are in Malaysia: Iskandar Puteri, Karachi.",0,0.0,0,0,0.19930800037533578,0.9990329593420029
+test,"Exactly 0 of the following cities are in Uzbekistan: Tashkent, Samarkand.",0,0.0,0,0,0.14223188720601002,0.9996548593044281
+test,"Exactly 0 of the following cities are in Syria: Aleppo, Baoji.",0,0.0,0,0,0.19193278935974775,0.9986454248428345
+test,"Exactly 2 of the following cities are in Russia: Naberezhnyye Chelny, Penza.",1,1.0,0,0,0.20434189742657435,0.9996382594108582
+test,"Exactly 2 of the following cities are in Gabon: Libreville, Teni.",0,0.0,0,0,0.0826973387515002,0.999502144753933
+test,"Exactly 0 of the following cities are in Antigua and Barbuda: Soweto, Bijie.",1,1.0,0,0,0.16885696133262637,0.999491885304451
+test,"Exactly 0 of the following cities are in Samoa: Guilin, Yangquan.",1,1.0,0,1,0.28457600571184466,0.9989475905895233
+test,"Exactly 1 of the following cities are in Guatemala: Jajmau, Guatemala City.",1,1.0,0,1,0.3486451430818442,0.9993543028831482
+test,"Exactly 1 of the following cities are in Rwanda: Dongying, Pretoria.",0,0.0,0,1,0.31742627120340183,0.9991610944271088
+test,"Exactly 2 of the following cities are in the United States: Oklahoma City, The Bronx.",1,1.0,0,0,0.22815649598017407,0.9991587102413177
+test,"Exactly 1 of the following cities are in Tanzania: Dodoma, Zanzibar.",0,0.0,0,1,0.3960681677297991,0.999229907989502
+test,"Exactly 0 of the following cities are in Trinidad and Tobago: Albuquerque, Libreville.",1,1.0,0,0,0.10818895687196184,0.9997223317623138
+test,"Exactly 2 of the following cities are in Tanzania: Mbeya, Arusha.",1,1.0,0,0,0.1366083946196625,0.9995548278093338
+test,"Exactly 0 of the following cities are in Monaco: Tokyo, Giza.",1,1.0,0,1,0.25091278149929186,0.9995065033435822
+test,"Exactly 0 of the following cities are in Djibouti: Kanayannur, Balbala.",0,0.0,0,0,0.2120688077006644,0.999720498919487
+test,"Exactly 0 of the following cities are in El Salvador: Tijuana, Sukkur.",1,1.0,0,0,0.20946968390495782,0.999720960855484
+test,"Exactly 1 of the following cities are in Belarus: Setagaya, Minsk.",1,1.0,0,1,0.33111973823588353,0.9993457794189453
+test,"Exactly 1 of the following cities are in Liberia: Krasnodar, Enugu.",0,0.0,0,1,0.29746993565920643,0.999398410320282
+test,"Exactly 1 of the following cities are in Botswana: Cuiaba, Maputo.",0,0.0,0,1,0.26894144380254037,0.9992595016956329
+test,"Exactly 1 of the following cities are in Mexico: Ciudad Juarez, Pokhara.",1,1.0,0,1,0.38121955842333394,0.9995657503604889
+test,"Exactly 2 of the following cities are in Namibia: Anshun, Yinchuan.",0,0.0,0,0,0.14804719147292517,0.9988663792610168
+test,"Exactly 2 of the following cities are in China: Daxing'anling, Puxi.",1,1.0,0,1,0.32423538892570497,0.9970244765281677
+test,"Exactly 2 of the following cities are in Moldova: Chisinau, Baotou.",0,0.0,0,0,0.20181322530984336,0.9993598908185959
+test,"Exactly 2 of the following cities are in Ukraine: Lviv, Odesa.",1,1.0,0,0,0.2337063394904507,0.9994292855262756
+test,"Exactly 0 of the following cities are in Norway: Oslo, Cotonou.",0,0.0,0,0,0.22541660753322307,0.9995687007904053
+test,"Exactly 0 of the following cities are in Sudan: Nyala, Owerri.",0,1.0,0,1,0.35577486409468995,0.9993694424629211
+test,"Exactly 1 of the following cities are in Belarus: Lodz, New South Memphis.",0,0.0,0,1,0.4111108688023404,0.9989778101444244
+test,"Exactly 0 of the following cities are in Ghana: Kumasi, Tianshui.",0,0.0,0,1,0.42250461616319557,0.998755693435669
+test,"Exactly 0 of the following cities are in Montenegro: Irbid, Wroclaw.",1,1.0,0,1,0.2628418551561673,0.9996126592159271
+test,"Exactly 2 of the following cities are in Mexico: Santiago de Queretaro, Iztapalapa.",1,1.0,0,0,0.1143685247133045,0.9998150169849396
+test,"Exactly 2 of the following cities are in Tanzania: Zhumadian, Suqian.",0,0.0,0,0,0.1919327901609785,0.9987194091081619
+test,"Exactly 2 of the following cities are in Iran: Tabriz, Kermanshah.",1,1.0,0,0,0.15817434522823964,0.9994170814752579
+test,"Exactly 1 of the following cities are in Bangladesh: Mohammadpur, Pallabi.",0,0.0,0,1,0.3486451526520953,0.9989566206932068
+test,"Exactly 2 of the following cities are in China: Huaihua, Cangzhou.",1,1.0,0,1,0.2909808635714449,0.9971235692501068
+test,"Exactly 1 of the following cities are in Lebanon: Sagamihara, Ra's Bayrut.",1,1.0,0,1,0.25386101861168564,0.9985003471374512
+test,"Exactly 0 of the following cities are in Burkina Faso: Budapest, Ouagadougou.",0,0.0,0,1,0.2658804700151928,0.9997125864028931
+test,"Exactly 0 of the following cities are in Rwanda: Kigali, Zhanjiang.",0,0.0,0,1,0.4765796442555165,0.9990898668766022
+test,"Exactly 0 of the following cities are in Zimbabwe: Coyoacan, Bulawayo.",0,0.0,0,1,0.29421497327450147,0.999471515417099
+test,"Exactly 1 of the following cities are in Panama: Huzhou, Akure.",0,0.0,0,1,0.3140505428288447,0.9980282783508301
+test,"Exactly 1 of the following cities are in Uganda: Sukkur, Zibo.",0,0.0,0,1,0.36296919394426186,0.9989583790302277
+test,"Exactly 2 of the following cities are in Uzbekistan: Namangan, Tashkent.",1,1.0,0,0,0.16885695087808905,0.9995068609714508
+test,"Exactly 1 of the following cities are in Jamaica: New Kingston, Davao.",1,1.0,0,1,0.24508500524600352,0.9989253431558609
+test,"Exactly 0 of the following cities are in Lebanon: Ra's Bayrut, Anyang-si.",0,0.0,0,0,0.146087247974928,0.9991572350263596
+test,"Exactly 2 of the following cities are in Vietnam: Da Nang, Cho Lon.",1,1.0,0,0,0.1919327925823155,0.9990285485982895
+test,"Exactly 1 of the following cities are in Antigua and Barbuda: Al Ain City, Calumbo.",0,0.0,0,1,0.2538610195515309,0.999192863702774
+test,"Exactly 1 of the following cities are in Haiti: Cheonan, Carrefour.",1,1.0,0,1,0.4455295496559857,0.9992285370826721
+test,"Exactly 1 of the following cities are in Canada: Winnipeg, Quebec.",0,1.0,0,1,0.3276682988681497,0.99891796708107
+test,"Exactly 2 of the following cities are in Nigeria: Benin City, Port Harcourt.",1,1.0,0,0,0.16238002728259074,0.9992879629135132
+test,"Exactly 2 of the following cities are in Nigeria: Agege, Port Harcourt.",1,0.0,0,0,0.21206879885480867,0.9993794709444046
+test,"Exactly 1 of the following cities are in India: Pune, Gqeberha.",1,1.0,0,1,0.484380078963248,0.9990840256214142
+test,"Exactly 2 of the following cities are in Djibouti: Balbala, Nansana.",0,0.0,0,0,0.09009299721665182,0.9995645582675934
+test,"Exactly 1 of the following cities are in Norway: Oslo, Voronezh.",1,1.0,0,1,0.3451052731255657,0.9992554783821106
+test,"Exactly 2 of the following cities are in Mauritania: Nouakchott, Cuiaba.",0,0.0,0,0,0.0953494617338742,0.9996510967612267
+test,"Exactly 1 of the following cities are in Angola: Benguela, Maianga.",0,0.0,0,1,0.3276683070622504,0.9992876648902893
+test,"Exactly 0 of the following cities are in Seychelles: Ha'il, Jeonju.",1,1.0,0,0,0.1871326930222629,0.9994349181652069
+test,"Exactly 0 of the following cities are in Timor-Leste: Tijuana, Bangkok.",1,1.0,0,0,0.11920292229489284,0.999680332839489
+test,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Tshikapa, Mbuji-Mayi.",1,1.0,0,1,0.2782567916050419,0.9994999766349792
+test,"Exactly 2 of the following cities are in Tanzania: Mbeya, Dar es Salaam.",1,1.0,0,0,0.150028822935937,0.9995478987693787
+test,"Exactly 2 of the following cities are in Cambodia: Madinat an Nasr, Izmir.",0,0.0,0,0,0.056652422895994224,0.9995266832411289
+test,"Exactly 0 of the following cities are in Mauritania: Nouakchott, Dalian.",0,0.0,0,1,0.24220562969572493,0.9993264079093933
+test,"Exactly 0 of the following cities are in Saudi Arabia: Sanming, Carrefour.",1,1.0,0,1,0.23934932872747267,0.9992211312055588
+test,"Exactly 1 of the following cities are in Spain: Benin City, Bhubaneswar.",0,0.0,0,1,0.28457600949782375,0.9995792806148529
+test,"Exactly 2 of the following cities are in Angola: Golfe, Maianga.",1,0.0,0,0,0.18476750074953108,0.9994994103908539
+test,"Exactly 0 of the following cities are in Saudi Arabia: Sultanah, Dammam.",0,0.0,0,0,0.1294027369655896,0.9995238780975342
+test,"Exactly 0 of the following cities are in Russia: Tomsk, Krasnoyarsk.",0,0.0,0,0,0.222700143105937,0.9995546638965607
+test,"Exactly 0 of the following cities are in Belize: Fukuoka, Ibb.",1,1.0,0,1,0.25091279938517824,0.9991277754306793
+test,"Exactly 0 of the following cities are in Poland: Hamadan, Barranquilla.",1,1.0,0,0,0.18476751629339017,0.9997453838586807
+test,"Exactly 2 of the following cities are in Syria: Aleppo, Ar Raqqah.",1,1.0,0,0,0.12765261517552814,0.9994797259569168
+test,"Exactly 2 of the following cities are in New Zealand: Arifwala, Mengzi.",0,0.0,0,0,0.09947021242780515,0.9995108172297478
+test,"Exactly 0 of the following cities are in Venezuela: Maracaibo, Ciudad Guayana.",0,0.0,0,0,0.16238002428915005,0.9997194707393646
+test,"Exactly 2 of the following cities are in Brazil: Sao Bernardo do Campo, Santo Domingo Oeste.",0,0.0,0,1,0.25091277854177274,0.9994852542877197
+test,"Exactly 1 of the following cities are in Paraguay: Hachioji, Dalian.",0,0.0,0,1,0.2974699551317478,0.9990244507789612
+test,"Exactly 2 of the following cities are in Eritrea: Asmara, Matsuyama.",0,0.0,0,0,0.1540575612986827,0.9991862624883652
+test,"Exactly 0 of the following cities are in Yemen: Sanaa, Taiz.",0,0.0,0,0,0.19930800826700062,0.9995439350605011
+test,"Exactly 2 of the following cities are in Morocco: Marrakesh, Oujda.",1,1.0,0,0,0.2018132260094102,0.9995501637458801
+test,"Exactly 1 of the following cities are in Spain: Mombasa, Guangyuan.",0,0.0,0,1,0.41489883932211674,0.9988012313842773
+test,"Exactly 1 of the following cities are in Montenegro: Mbuji-Mayi, Yichang.",0,0.0,0,1,0.41489881469913814,0.9985920488834381
+test,"Exactly 0 of the following cities are in Cambodia: Longyan, Bekasi.",1,1.0,0,0,0.11124121278809963,0.9994555562734604
+test,"Exactly 1 of the following cities are in Poland: Shizuishan, Jaboatao dos Guararapes.",0,0.0,0,1,0.23370634906112098,0.9991786032915115
+test,"Exactly 0 of the following cities are in Suriname: Soshanguve, Santo Domingo Este.",1,1.0,0,1,0.31742629120270566,0.9996232390403748
+test,"Exactly 1 of the following cities are in India: Asansol, Dhanbad.",0,0.0,1,1,0.5389832009140022,0.9983558356761932
+test,"Exactly 0 of the following cities are in El Salvador: Nay Pyi Taw, Izmir.",1,1.0,0,1,0.2450850040740135,0.9993510693311691
+test,"Exactly 0 of the following cities are in Tunisia: Zhongwei, Multan.",1,1.0,0,1,0.36296919551730555,0.9991312921047211
+test,"Exactly 2 of the following cities are in Turkey: Istanbul, Bursa.",1,1.0,0,0,0.20181321235868996,0.999557688832283
+test,"Exactly 1 of the following cities are in Vanuatu: Basrah, Mohammadpur.",0,0.0,0,0,0.19930800549782604,0.999195396900177
+test,"Exactly 0 of the following cities are in North Korea: Visakhapatnam, Hamhung.",0,0.0,0,0,0.20434190729307564,0.9994437992572784
+test,"Exactly 2 of the following cities are in Mozambique: Matola, Maputo.",1,1.0,0,0,0.1242130116871847,0.999628096818924
+test,"Exactly 2 of the following cities are in Ukraine: Sevastopol, Kharkiv.",1,1.0,0,1,0.3208213092025211,0.9994207322597504
+test,"Exactly 0 of the following cities are in New Zealand: South Tangerang, Asmara.",1,1.0,0,0,0.17328820635312014,0.999456137418747
