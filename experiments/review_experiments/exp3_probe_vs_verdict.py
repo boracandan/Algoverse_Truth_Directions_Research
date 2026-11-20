@@ -215,16 +215,26 @@ def run_probes(tasks, layers_arg, seeds, folds, cache_dir, batch_size):
 def summarize(task):
     """Per probe: choose the layer on ALL items (best AUROC vs the true label), then report
     the model-wrong AUROC at that layer. Choosing the layer on the model-wrong items
-    themselves (e.g. the layer furthest from 0.5) would overstate the result."""
+    themselves (e.g. the layer furthest from 0.5) would overstate the result.
+    Exception: the plain probe applied to CoT activations reuses the layer selected on bare
+    statements, so it is the same probe as the bare-statement one."""
     df = pd.read_csv(C.RESULTS_CSV)
     df = df[(df["experiment"] == "exp3_probe_vs_verdict") & (df["train_task"] == task) & (df["eval_target"] == "label")]
     if df.empty:
         return
     print(f"\n{task}: AUROC vs TRUE label on items the model got wrong "
           f"(>0.5 = follows truth, <0.5 = follows the model's answer); layer chosen on all items")
+    sel = {}
     for (tr, te), g in df.groupby(["train_condition", "test_condition"]):
-        g = g.groupby(["subset", "layer"])[["auroc", "ci_low", "ci_high", "n_test"]].mean()
-        layer = g.loc["all", "auroc"].idxmax()
+        sel[(tr, te)] = g.groupby(["subset", "layer"])[["auroc", "ci_low", "ci_high", "n_test"]].mean()
+    bare_layer = sel[(f"{PLAIN}[label]", PLAIN)].loc["all", "auroc"].idxmax()
+    for (tr, te), g in sel.items():
+        # The plain probe on CoT reuses the bare-statement layer: choosing it on CoT
+        # activations would favour verdict-like layers (truth and verdict agree on ~90% there).
+        if (tr, te) == (f"{PLAIN}[label]", COT):
+            layer = bare_layer
+        else:
+            layer = g.loc["all", "auroc"].idxmax()
         a, w = g.loc[("all", layer)], g.loc[("model_wrong", layer)]
         print(f"  {tr:>30} -> {te:<20} layer {layer:>2}: all items {a.auroc:.3f} | "
               f"model wrong {w.auroc:.3f} [{w.ci_low:.3f}, {w.ci_high:.3f}] n={int(w.n_test)}")
